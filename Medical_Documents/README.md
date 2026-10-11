@@ -29,7 +29,7 @@ The unclear prescription has no assigned year or patient. The ultrasound film da
 | 2022-03-10 | [Bills and Receipts: Pharmacy Receipt INR 1584 Dispur](2022/Bills_and_Receipts/2022-03-10_Pharmacy_Receipt_INR_1584_Dispur.jpeg) | Dispur Polyclinic pharmacy |
 | 2022-03-10 | [Bills and Receipts: Pharmacy Receipt INR 300 Dispur](2022/Bills_and_Receipts/2022-03-10_Pharmacy_Receipt_INR_300_Dispur.jpeg) | Dispur Polyclinic pharmacy |
 | 2023-09-02 | [Prescriptions: Gastroenterology Prescription Gastrolife](2023/Prescriptions/2023-09-02_Gastroenterology_Prescription_Gastrolife.jpeg) | The Gastrolife / Dr B. J. Baruah |
-| 2024-08-20 | [Prescriptions: Fever Consultation Rangachakua CHC](2024/Prescriptions/2024-08-20_Fever_Consultation_Rangachakua_CHC.jpeg) | Rangachakua Community Health Centre |
+| 2024-08-20 | [Prescriptions: Fever Consultation Rangachakua PHC](2024/Prescriptions/2024-08-20_Fever_Consultation_Rangachakua_PHC.jpeg) | Rangachakua Primary Health Centre |
 | 2025-03-10 | [Ultrasound: Abdominal Ultrasound Film LGBRIMH](2025/Ultrasound/2025-03-10_Abdominal_Ultrasound_Film_LGBRIMH.jpeg) | LGB Regional Institute of Mental Health |
 | 2025-03-10 | [Ultrasound: Abdominal Ultrasound Report LGBRIMH](2025/Ultrasound/2025-03-10_Abdominal_Ultrasound_Report_LGBRIMH.jpeg) | LGB Regional Institute of Mental Health |
 | 2025-03-10 | [Referrals and Registration: OPD Registration USG Referral LGBRIMH](2025/Referrals_and_Registration/2025-03-10_OPD_Registration_USG_Referral_LGBRIMH.jpeg) | LGB Regional Institute of Mental Health |
