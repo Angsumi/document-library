@@ -2,12 +2,13 @@
 
 31 photographed pages, organized by year and type. Original JPEG bytes are preserved; searchable PDFs are upright derivatives. Dates come from document content, not WhatsApp upload timestamps. This index describes documents and does not reinterpret clinical findings. Handwritten medicine names and doses require checking against the image.
 
-The unclear prescription has no assigned year or patient. The ultrasound film date is linked to its matching report and explicitly marked as inferred. Multi-visit pages retain all known dates in the notes.
+The previously undated prescription is dated 17 January 2003, confirmed by the owner; its patient identity remains unverified. The ultrasound film date is linked to its matching report and explicitly marked as inferred. Multi-visit pages retain all known dates in the notes.
 
 [Complete three-page laboratory report](2022/Laboratory/2022-03-09_Health_City_Lab_Report_Complete_3_Pages__searchable.pdf)
 
 | Date | Document | Provider |
 | --- | --- | --- |
+| 2003-01-17 | [Prescriptions: Handwritten Prescription Patient Unclear](2003/Prescriptions/2003-01-17_Handwritten_Prescription_Patient_Unclear.jpeg) | Provider not identifiable |
 | 2021-11-23 | [Prescriptions: Consultation Prescription Dr Atul Saikia](2021/Prescriptions/2021-11-23_Consultation_Prescription_Dr_Atul_Saikia.jpeg) | Dr Atul Ch. Saikia / Shivam Medicos |
 | 2021-11-23 | [Referrals and Registration: Perianal Ultrasound Request Baptist Hospital](2021/Referrals_and_Registration/2021-11-23_Perianal_Ultrasound_Request_Baptist_Hospital.jpeg) | Baptist Christian Hospital, Tezpur |
 | 2021-12-06 | [Endoscopy: Sigmoidoscopy Report Times Hospital](2021/Endoscopy/2021-12-06_Sigmoidoscopy_Report_Times_Hospital.jpeg) | Times Hospital |
@@ -38,4 +39,3 @@ The unclear prescription has no assigned year or patient. The ultrasound film da
 | 2025-03-31 | [Imaging Reports: Lumbosacral XRay Report Assomee](2025/Imaging_Reports/2025-03-31_Lumbosacral_XRay_Report_Assomee.jpeg) | Assomee Digital X-Ray Clinic |
 | 2025-11-05 | [Prescriptions: Dental Prescription Saikia Dental Hub](2025/Prescriptions/2025-11-05_Dental_Prescription_Saikia_Dental_Hub.jpeg) | Saikia Dental Hub / Dr Priyanka Saikia |
 | 2025-11-08 | [Prescriptions: Dermatology Prescription PKD Skin Clinic](2025/Prescriptions/2025-11-08_Dermatology_Prescription_PKD_Skin_Clinic.jpeg) | PKD Skin Clinic / Dr Birendra Kr. Nath |
-| Uncertain (17 Jan, year unclear) | [Prescriptions: UnknownYear 01-17 Handwritten Prescription Patient Unclear](Date_Unclear/Prescriptions/UnknownYear_01-17_Handwritten_Prescription_Patient_Unclear.jpeg) | Provider not identifiable |

@@ -14,4 +14,4 @@ This repository and website are public, including identity, banking and family d
 
 [Medical download page](medical.html) · [Dated index](Medical_Documents/INDEX.csv) · [Document guide](Medical_Documents/README.md)
 
-31 medical photographs are organized by year and document type in `Medical_Documents/`, with date-first filenames, searchable PDFs and copyable transcripts. One patient/year remains uncertain. The associated ultrasound-film date is explicitly flagged as inferred. The three Health City laboratory pages also have a combined report. The page offers year and date-range filters and chronological sorting.
+31 medical photographs are organized by year and document type in `Medical_Documents/`, with date-first filenames, searchable PDFs and copyable transcripts. The prescription dated 17 January 2003 has an unverified patient identity. The associated ultrasound-film date is explicitly flagged as inferred. The three Health City laboratory pages also have a combined report. The page offers year and date-range filters and chronological sorting.

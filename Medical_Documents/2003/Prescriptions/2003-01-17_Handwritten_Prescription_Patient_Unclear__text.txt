@@ -1,9 +1,9 @@
-Archive indexing notes (visually reviewed):
-Document date: Uncertain
+Archive indexing notes (visually reviewed; date confirmed by owner):
+Document date: 2003-01-17
 Type: Prescriptions
 Provider: Provider not identifiable
-Description: Handwritten prescription. Patient name and two-digit year are unclear; age appears 45 years. Do not assume this belongs to Angsuman Das.
-Date basis: Date appears 17/1/05, but year and patient identity are uncertain; not assigned to 2005 or 2025.
+Description: Handwritten prescription dated 17 January 2003. Patient name is unclear; age appears 45 years. Do not assume this belongs to Angsuman Das.
+Date basis: Date confirmed by the owner as 17/01/2003 (17 January 2003). Patient identity remains unverified.
 
 Machine OCR (verify against image):
 vg

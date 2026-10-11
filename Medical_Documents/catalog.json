@@ -1,5 +1,38 @@
 [
   {
+    "sha256": "b032d6500b245e889cd3a160fd1fb22ac703944ce3d7cdf82708833a96bcb251",
+    "input": null,
+    "sources": [
+      "Medical_Documents/WhatsApp Image 2026-10-11 at 12.45.17 PM (2).jpeg"
+    ],
+    "suffix": ".jpeg",
+    "size": 95838,
+    "id": "b032d6500b",
+    "title": "2003-01-17 · Handwritten Prescription Patient Unclear",
+    "category": "Medical_Documents/Prescriptions",
+    "original": "Medical_Documents/2003/Prescriptions/2003-01-17_Handwritten_Prescription_Patient_Unclear.jpeg",
+    "searchable": "Medical_Documents/2003/Prescriptions/2003-01-17_Handwritten_Prescription_Patient_Unclear__searchable.pdf",
+    "text_file": "Medical_Documents/2003/Prescriptions/2003-01-17_Handwritten_Prescription_Patient_Unclear__text.txt",
+    "status": "OCR searchable PDF; handwritten review needed",
+    "pages": 1,
+    "ocr_pages": 1,
+    "confidence": 38.2,
+    "review": [
+      "Handwritten medical text: OCR may be incomplete or inaccurate. Verify medicine names and doses against the image.",
+      "Patient identity remains unverified."
+    ],
+    "text": "Archive indexing notes (visually reviewed; date confirmed by owner):\nDocument date: 2003-01-17\nType: Prescriptions\nProvider: Provider not identifiable\nDescription: Handwritten prescription dated 17 January 2003. Patient name is unclear; age appears 45 years. Do not assume this belongs to Angsuman Das.\nDate basis: Date confirmed by the owner as 17/01/2003 (17 January 2003). Patient identity remains unverified.\n\nMachine OCR (verify against image):\nvg\n\n~\n\noF\n\nae\n\ne\n\nSe ad\n\n-\n\n4S\n\nne\n\none\n\nrH) f,\n\nDate\n\nPatient's Name\n\n4\n\nAge\n\nYA\n\nSex\n\nRite ie\n\n~\n\n~~\n\na,\n\nal\n\nree |\n\nai\n\n4\n\nSK\n\nI po\n\n~\n\na\n\nat oe\n\n6\n\n—t¥ ct £\n\n4\n\n\\\n\nXx\n\n7 =\n\n“”%\n\n—\n\ny=\n\n>)\n\nLe x Or\n\ncc\n\n—\n\nA\n\nAB\n\nps\n\nti\n\n#2\n\nS\n\nSan\n\n“4\n\n1\n\nole\n\n(o\n\nC2¢\n\n”—VPX\n\nxe & </\n\n£_\n\nSoci\n\n~\n\nas\n\n“>\n\nc\n\n‘Py\n\nBe\n\n<\n\nZ\n\nmW f\n\n1\n\nAz\n\n“yr me\n\nk5 Ne\n\n>\n\nAj\n\nOo\n\n&\n\nf aA\n\na 1h\n\nRLY Le Y\n\nKEP <f\n\noe\n\nae\n\nate\n\n‘te\n\n=\n\n—\n\nie\n\n9\n\ni\n\na\n\nce\n\noe\n\n1\n",
+    "signed_source": false,
+    "document_date": "2003-01-17",
+    "date_notes": "Date confirmed by the owner as 17/01/2003 (17 January 2003). Patient identity remains unverified.",
+    "document_type": "Prescriptions",
+    "provider": "Provider not identifiable",
+    "description": "Handwritten prescription dated 17 January 2003. Patient name is unclear; age appears 45 years. Do not assume this belongs to Angsuman Das.",
+    "patient": "Unverified",
+    "source_number": 13,
+    "date_end": ""
+  },
+  {
     "sha256": "cc8ee6864a81e5b92b95008af611b0ddb65daedac688366674cf5e68b7823153",
     "input": null,
     "sources": [
@@ -940,39 +973,6 @@
     "description": "Dermatology prescription, stamped 8 November 2025.",
     "patient": "Angsuman Das",
     "source_number": 29,
-    "date_end": ""
-  },
-  {
-    "sha256": "b032d6500b245e889cd3a160fd1fb22ac703944ce3d7cdf82708833a96bcb251",
-    "input": null,
-    "sources": [
-      "Medical_Documents/WhatsApp Image 2026-10-11 at 12.45.17 PM (2).jpeg"
-    ],
-    "suffix": ".jpeg",
-    "size": 95838,
-    "id": "b032d6500b",
-    "title": "Date uncertain · UnknownYear 01-17 Handwritten Prescription Patient Unclear",
-    "category": "Medical_Documents/Prescriptions",
-    "original": "Medical_Documents/Date_Unclear/Prescriptions/UnknownYear_01-17_Handwritten_Prescription_Patient_Unclear.jpeg",
-    "searchable": "Medical_Documents/Date_Unclear/Prescriptions/UnknownYear_01-17_Handwritten_Prescription_Patient_Unclear__searchable.pdf",
-    "text_file": "Medical_Documents/Date_Unclear/Prescriptions/UnknownYear_01-17_Handwritten_Prescription_Patient_Unclear__text.txt",
-    "status": "OCR searchable PDF; handwritten review needed",
-    "pages": 1,
-    "ocr_pages": 1,
-    "confidence": 38.2,
-    "review": [
-      "Handwritten medical text: OCR may be incomplete or inaccurate. Verify medicine names and doses against the image.",
-      "Date appears 17/1/05, but year and patient identity are uncertain; not assigned to 2005 or 2025."
-    ],
-    "text": "Archive indexing notes (visually reviewed):\nDocument date: Uncertain\nType: Prescriptions\nProvider: Provider not identifiable\nDescription: Handwritten prescription. Patient name and two-digit year are unclear; age appears 45 years. Do not assume this belongs to Angsuman Das.\nDate basis: Date appears 17/1/05, but year and patient identity are uncertain; not assigned to 2005 or 2025.\n\nMachine OCR (verify against image):\nvg\n\n~\n\noF\n\nae\n\ne\n\nSe ad\n\n-\n\n4S\n\nne\n\none\n\nrH) f,\n\nDate\n\nPatient's Name\n\n4\n\nAge\n\nYA\n\nSex\n\nRite ie\n\n~\n\n~~\n\na,\n\nal\n\nree |\n\nai\n\n4\n\nSK\n\nI po\n\n~\n\na\n\nat oe\n\n6\n\n—t¥ ct £\n\n4\n\n\\\n\nXx\n\n7 =\n\n“”%\n\n—\n\ny=\n\n>)\n\nLe x Or\n\ncc\n\n—\n\nA\n\nAB\n\nps\n\nti\n\n#2\n\nS\n\nSan\n\n“4\n\n1\n\nole\n\n(o\n\nC2¢\n\n”—VPX\n\nxe & </\n\n£_\n\nSoci\n\n~\n\nas\n\n“>\n\nc\n\n‘Py\n\nBe\n\n<\n\nZ\n\nmW f\n\n1\n\nAz\n\n“yr me\n\nk5 Ne\n\n>\n\nAj\n\nOo\n\n&\n\nf aA\n\na 1h\n\nRLY Le Y\n\nKEP <f\n\noe\n\nae\n\nate\n\n‘te\n\n=\n\n—\n\nie\n\n9\n\ni\n\na\n\nce\n\noe\n\n1\n",
-    "signed_source": false,
-    "document_date": "",
-    "date_notes": "Date appears 17/1/05, but year and patient identity are uncertain; not assigned to 2005 or 2025.",
-    "document_type": "Prescriptions",
-    "provider": "Provider not identifiable",
-    "description": "Handwritten prescription. Patient name and two-digit year are unclear; age appears 45 years. Do not assume this belongs to Angsuman Das.",
-    "patient": "Unverified",
-    "source_number": 13,
     "date_end": ""
   }
 ]
