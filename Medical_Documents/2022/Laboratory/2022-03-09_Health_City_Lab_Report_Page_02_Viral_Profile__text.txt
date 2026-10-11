@@ -1,0 +1,74 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-09
+Type: Laboratory
+Provider: Health City Hospital
+Description: Laboratory report page 2 of 3: viral profile / serology; laboratory number 186257. Date uses sample collection.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+nape Arm AARC
+AcrasueTano tasmck PEN: 2010-0008 ACCRETION MA
+
+ag NABL-wcassa
+
+‘Health Ces BL x
+
+(DERABTMENT.OF LABORATORY MEDICINE) ram
+cdeae “OF LABORATORY SERVICE:
+Lab No 186257 OP/IP No | Age/Sex
+UHID 94275 OP-228710 25 Years 1 Months 20 Days Male
+Patient Name MR ANGSUMAN DAS Date & Time of Collection ]09/03/2022 18:31:56
+Doctor Dr N/A Date & Time of Receiving 09/03/2022 16:31:56
+Ward/Bed Date & Time of Reporting }09/03/2022 20:05:42
+INVESTIGATIONS RESULT UNIT BIOLOGICAL REFERENCE INTERVAL |
+SEROLOGY
+
+VIRAL PROFILE , Serum
+
+HIVI& II 0,09 - Negative Reactive >= 1.0
+
+(Method Chemiluminescence) Negative < 0,90
+
+Borderline >= 0,9 to < 1.0
+Anti - HEPATITIS C VIRUS 0.02 - Negative Reactive >= 1.0
+
+(Method:Chemiluminescence) Negative < 0.90
+
+Borderline >= 0,9 to < 1.0
+HEPATITIS B SURFACE ANTIGEN 0.20 - Negative Reactive >= 1,0
+(Method:Chemiluminescence) Negative < 0.90
+
+Borderline >= 0.9 to < 1.0
+
+ANTI HIV 1 & 2
+* Ifa specimen Is reactive (result >1.00 s/c) the Probability that HIV antibodies are Present Is high, especially in subjects at high risk for HIV
+Infection. In most settings, It is appropriate to investigate reactive results by additional, more specific tests. Clinical correlation is Indicated
+
+with appropriate counselling, medical intervention and possibly additional testing to decide whether a diagnosis of HIV infection is accurate,
+Interpretation of results from specimens found to be reactive and negative by additional, more specific tests is unclear, Further Clarification
+may be obtained by testing another specimen obtained three to six months later,
+A negative test result does not exclude the Possibility of exposure to of infection with HIV, Levels of HIV antibodies may be undetectable in
+the early stages of infection.
+ANTI HCV
+
+* The results from this or any other diagnostic test should be used and interpreted only In the context of the overall clinical picture,
+When Anti-HCV is detected, patient is presumed to be infected with HCV,
+A negative test result does not exclude the possibility of exposure to or Infection with HCV. HCV antibodies may beundetectable in some
+Stages of the infection and in some clinical conditions,
+Results from immunosuppressed individuals should be interpreted with caution,
+
+----Continued on to next Page----
+
+OR. MELODY BARUAH DR. JYOTISH BARMAN DR. GAZI NASEEM AHMED OR. DEEP JYOTI KALITA
+MBBS, MOXNEIGRIHMS) (18704-AMC) MBBS, OCP(GMC) 16319-AMC) DCPMD(Pathology)(13272-AMC) MBBS, MO(GMC\21484-AMC)
+C Micr gi Cc I! Pathologist Cc 1 Patholog Cc Path
+
+———____ Page 2 of 3
+
+Prepared By; MOLAY BORUAH
+
+(A Unit of North-East Health City Pvt. Ltd.)
+022] Assam | India
+ONH 37} Koinadhara | Khanapara | Guwahati | 78)
+® +91 36! 7105000 © +91 75759 65000 @ customer@healthcityhospital.com ® www healthcityhespital.com
+

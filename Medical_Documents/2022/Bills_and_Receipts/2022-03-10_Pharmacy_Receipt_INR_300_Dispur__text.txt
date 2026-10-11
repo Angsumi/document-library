@@ -1,0 +1,44 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-10
+Type: Bills and Receipts
+Provider: Dispur Polyclinic pharmacy
+Description: Cash receipt R.1177 for INR 300.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+dH PHARMACY
+IN- 18AAFCD0254KIZ0 Receipt
+
+neshguri Chariali, Dispur, Guwahati, Pin:781006 10-03-2022 04,59 PM
+Contact No.:7670007615
+
+902122/12153258
+
+Receipt No R.1178
+Registration No IPD.21-22-1143
+
+Category Paying
+
+Amount 300.00 (Rs. Three Hundred only)
+
+Purpose
+
+Mode : Cash
+
+rimpidevi rimpidevi
+
+[Prepared By] [Printed By 10-03-202204.59PM Jj [Customer Signature]
+
+!! Thanking you.. !!
+
+cs
+;
+ys
+
+KY as .
+
+Powered By MEDNET For DPNH PHARMACY
+
+Page 1 of 1
+www.mednetlabs.com
+

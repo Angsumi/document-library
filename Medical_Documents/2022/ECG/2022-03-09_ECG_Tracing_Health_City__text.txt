@@ -1,0 +1,37 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-09
+Type: ECG
+Provider: Health City Hospital
+Description: ECG waveform printout dated 9 March 2022. Automated interpretation is marked unconfirmed.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+09-Mar-22 §.49:44 PM
+
+> -normal P axis, V-rate §o- 39
+atrial enlargement : bss <e Dike laia byetets P >0.24mV limb leaq
+1 ral early repol pattern -+++~.ST elevation, age<ss
+
+- OTHERWISE NORMAL ZCG -
+
+Unconfirmed Diagnosis
+
+aVR vi v4
+ts = = oo Sipe 7 te
+I
+/
+avi v2 | Fas v5
+=: See ee REE SESS SEES TEE = oft fF estes ett —_ >] je) See = Ee eee =
+a eeatice i
+
+i eB 4153076, OSS Soba teat a
+:
+:
+q ai | ri -
+: PS? ae as
+f
+t
+{ i
+j F.60~ 9:15=100 nz 100B CL Po
+: -
+

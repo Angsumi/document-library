@@ -1,0 +1,47 @@
+Archive indexing notes (visually reviewed):
+Document date: 2025-03-31
+Type: Imaging Reports
+Provider: Assomee Digital X-Ray Clinic
+Description: Written lumbosacral AP/lateral X-ray report; patient ID PAT016616.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+(-#tL types 0f A - Ray doxe tere)
+Rangapara Road, Balipara, Sonitpur (Assam)
+Ph. 9435083713, 8004540812
+
+& Patient Name ANSHUMAN DAS & RegNo PATOI6616
+@ Refer By PAIN AWAY CENTER QJ Age/Gender 27 YRS/male
+A Department X-Ray © Date 31/03/25
+LUMBOSACRAL X-RAY AP/LAT VIEW Report 4
+
+“ FINDINGS:
+
+Alignment of lumbosacral spine is normal
+
+Vertebral bodies are normal in shape & density.
+
+ao
+
+Posterior arch elements appear normal
+
+Intervertebral disc spaces are maintained
+
+Prevertebral soft tissues are normal
+
+Negative for fracture.
+
+Negative for dislocation
+
+IMPRESSION:
+
+%, No significant abnormality detected.
+
+ISSUED BY:
+
+Disclaimer: This report has been made based on the received images and associated patient information given. Images
+and therefore impressions may vary since the imaging machines have their limitations. Hence any disrepancy or error, if any.
+is to be immediately brought to our knowledge. All the resports are required to be clinically co-related.
+
+THIS DANDIOCDAM IC NOT rope ning cea pinnae |
+

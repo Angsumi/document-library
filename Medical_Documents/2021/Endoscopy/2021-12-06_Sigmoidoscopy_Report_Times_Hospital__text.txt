@@ -1,0 +1,50 @@
+Archive indexing notes (visually reviewed):
+Document date: 2021-12-06
+Type: Endoscopy
+Provider: Times Hospital
+Description: Sigmoidoscopy report with endoscopic images. The report records rectal ulcers and a questioned diagnosis; preserve the original wording.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+TIMES HOSPITAL
+MISSION CHARIALI, DEURIGAON,
+
+TEZPUR-784001, ASSAM
+PHONE : 03712-236236, 237237
+
+EMAIL : times_hosp@gmail.con
+Patient Name: Mr. ANGSUMAN DAS
+
+Ref By: DRATUL.CHSAIKI
+Registration No: 9319 Age/Sex: 23 Yrs/M Date:
+| Diagnosis: PAIN ANUS
+
+06-12-20
+
+12:07:00 PM
+Procedure: SIGMOIDOSCOPY
+
+Sigmoid
+
+ANAL CANAL : NORMAL
+
+RECTUM MULTIPLE ULCER
+
+SIGMOID COLON : NORMAL
+BIOPSY
+
+IMPRESSION MULTIPLE ULCER AT RECTUM
+
+? ULCERATIVE COLITIS
+
+pyaertl
+
+Dr. Bhabani Bhuyan, MD ,
+Senior Consultant
+
+Dept . of Medicine & Gastroenterology
+
+(
+
+of Endo Clinic By. www.endociinic coun
+

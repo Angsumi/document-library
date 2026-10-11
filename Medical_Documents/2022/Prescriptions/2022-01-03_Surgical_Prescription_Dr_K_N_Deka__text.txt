@@ -1,0 +1,11 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-01-03
+Type: Prescriptions
+Provider: Dr K. N. Deka / Skylark Hospital
+Description: Handwritten surgical prescription with several dated entries. Primary date reads 3 January 2022; an additional date is unclear.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+Dr. K. N. Deka
+
+CHAMBER)

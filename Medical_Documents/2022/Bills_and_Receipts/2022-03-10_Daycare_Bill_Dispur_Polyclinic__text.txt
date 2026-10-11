@@ -1,0 +1,60 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-10
+Type: Bills and Receipts
+Provider: Dispur Polyclinic
+Description: Daycare/minor operating theatre bill with payment details.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+DISPUR POLYCLINI
+
+Bill
+N MAN DAS [MRI 13)
+M
+A ‘ 114 . GENERA
+’ f Rate Category: Genera
+3 ) M ha e: Stable
+ate [ Code } Service Name (Noles)
+F H
+1 MINOR OT CHAR
+Payment And Refund
+r Receipt / Refund Notes
+1 2 Receipt - (R.5102) Payment Cash on 10-03-20:
+Pharmacy Payrr
+| Amou 500,00 - Five Hundred
+Net Ar it §00.C Five Hundred
+sid Ar i 500.00 - Five Hundred
+Balance 0.00 Zerc
+1884.0) » Thousand Eight Hundred Eighty For
+
+1884.00
+
+Pharmacy Balance 0.00 -Zero
+marks
+rimpidewl
+
+10-03 2 5.00 PM
+
+Prepared By
+
+& HOSPITALS PV1
+
+LTD
+
+ntact t , ,
+tar ‘ f MA
+Date; 10-03-2 43 PM
+ate y ay
+Rate ty Amount Diac Net Amt
+Total Re. 5 0.
+r { 500.00 56
+Total Rs. 1884
+1864.00 ) 1884
+
+2384.00
+
+2384.00 0.00
+
+One Thousand Eight Hundred Eighty Four
+
+(All figures are in Rupees (INR) only)

@@ -1,0 +1,34 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-09
+Type: Bills and Receipts
+Provider: Health City Hospital
+Description: Cash memo for diagnostic/laboratory tests; bill number 239776.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+HEALTH CITY HOSPITAL
+ft = oe (A Unit Of North East Health City Pvt. Ltd)
+a N. h, 37, Koinadhora, khanapara, Guwahati- 781022 (Assam)
+
+Email Id :- nehealthcity@gmailcom | Website :- healthcityhospitalLcom
+
+CASH MEMO Print Date 09/03/2022 6:21:48PM
+UHID No 94275 Age :25Y1M20D Male Bill No. : 239776
+Patient Na ir Angsuman Das Bill Date : 09/03/2022 24:4
+
+Consultar Dr. N/A Department ; External Referral
+
+Patient Ty
+Sr. NiDescri Price Qty Disc % Net Amount
+| ECG 350.00 1 0.00 7
+2 g 400.00 1 0.00
+13 RAR OOD SUGAR (RBS)(Dextrose 50.00 1 0.00
+a f f 260.00 1 0.00
+273.00 1 0,00
+\ D) 2,220.00 1 0.00 2,2
+Bill Amount
+Paid Amount
+Card Pay 00 Card No 4835 Bank State Bank of India
+
+2 Thousand Five Hundred Fifty-Three Only
+

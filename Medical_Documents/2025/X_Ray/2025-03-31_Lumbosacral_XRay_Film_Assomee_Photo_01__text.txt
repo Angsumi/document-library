@@ -1,0 +1,97 @@
+Archive indexing notes (visually reviewed):
+Document date: 2025-03-31
+Type: X Ray
+Provider: Assomee Digital X-Ray Clinic
+Description: Photograph 1 of lumbar spine AP and lateral X-ray film; patient ID PAT016616.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+WMAN DAS
+
+x:Male
+
+»Date:3 1/
+
+id
+
+Date 31/09/2025
+
+27Y
+
+ime:12:10:38
+
+‘ANSHUMAN
+
+Se
+
+ime 14
+
+14:38 PM
+
+Se
+
+>.
+
+Exp. Index:1
+
+x:Male
+
+Exp. index 1640
+
+>
+
+ATO 1coia
+
+PATON 6616
+
+iy
+
+3 .
+
+\
+
+\
+
+ne
+
+aan,
+
+t.
+
+——
+
+“fi
+
+et
+
+-
+
+-_
+
+a
+
+=
+
+—
+
+~-
+
+—
+
+ee
+
+Ref
+
+AIN AWAY "CENTER
+
+SPINE LUMBAR
+
+C, RANGAP.
+
+ROAD, BALIPARA
+
+LATERAL
+
+ASSOMEE XK-RAYeGLINIC
+
+’

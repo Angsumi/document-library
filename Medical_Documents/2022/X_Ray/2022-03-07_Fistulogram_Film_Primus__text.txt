@@ -1,0 +1,11 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-07
+Type: X Ray
+Provider: Primus Imaging
+Description: Fistulogram X-ray film; date and study ID XR-220307-143 are printed on the film.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+—
+
+iam

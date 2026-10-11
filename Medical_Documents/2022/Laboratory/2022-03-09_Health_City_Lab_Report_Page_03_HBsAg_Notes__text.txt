@@ -1,0 +1,76 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-09
+Type: Laboratory
+Provider: Health City Hospital
+Description: Laboratory report page 3 of 3: HBsAg explanatory notes; laboratory number 186257. Date uses sample collection.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+bo.
+‘Health CitY noserrai
+
+Atom manawa PYM 2010-0008 rAURTADO MAD
+
+NABL-mcss34
+
+. | 3ORATORY MEDICINE _ ee
+— (DEPARTMENT, OF, LABORATO RY SERVICES ) con
+Lab No Age/Sex
+UHID OP-228710 25 Years 1 Months 20 Days Male
+Patient Name
+
+MR ANGSUMAN DAS | Date & Time of Collection | 09/03/2022 18:31:56
+ee
+Doctor Dr N/A | Date & Time of Receiving [09/03/2022 18:31:56 ;
+| Ward/Bed
+
+| Date & Time of Reporting [09/03/2022 20:05:42
+HBsAG
+
+* The results from this or any other diagnostic kit should be used and Inter
+
+Heterophilic, e.g. human anti- mouse, antibodies in the serum or plasma of certain Individuals are known to cause interference with
+immunoassays.
+
+preted only in the context of the overall clinical picture
+
+© Individuals recently vaccinated for hepatitis B may give a transient positive result for HBsAg because of its presence in the vaccine,
+
+----End of report----
+Disclaimer
+
+1. The department af Laboratory Medicine of Health Oty Hospital conflerms that all tests have Deen assayed with highest quality standards with clinical safety and technical integrity
+
+2. The test result may very from tab to lab or from time to time for the same parameters for the same patient
+
+3. The resufts of laboratory test are Gepencent on the qualty of the sample as well as the assay technology
+
+4. This report is not subject to use for any medice-legal purpose.
+5. Its presumed tat the test sample belongs to the patient named or identified in the test requisition form.
+
+6. For any uncontrolled Cecumstances the result may be delsyed.Jondly contact department of Laboratory Medicine for any transcription erroc,
+
+DR. MELODY BARUAH
+
+DR. JYOTISH BARMAN
+MBBS, MD(NEIGRIHMS) (18704-AMC)
+
+DR. GAZI NASEEM AHMED
+MBBS, DCP(GMC)(16319-AMC)
+
+OR. DEEP JYOTI KALITA
+
+DCPMO(Pathology)(13272-AMC) MBBS, MD(GMC)(21484-AMC)
+c, Microbiolog c Pathologi G Path Ce Pathol.
+Prepared By: MOLAY BORUAH
+
+$$
+
+EF OFF
+
+(A Unit of North-East Health City Pvt. Ltd.)
+781022 Assam | india
+9 NH. 37 pi<oinadhara | Khanapara | Guwahati |
+$@ +91 361 7105000 © +91 75759 65000 @& customer@healthcityhospital.com @ www healthcityhospitaleom
++
+

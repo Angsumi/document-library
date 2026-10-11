@@ -1,0 +1,79 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-09
+Type: ECG
+Provider: Health City Hospital
+Description: Signed ECG report with handwritten interpretation; paired with the ECG tracing from the same date.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+| Jeo
+| Health City
+
+HOSPITAL———
+(A Unit of North-East Health City Pvt. Ltd.)
+
+‘Ay
+
+NABL-mcs4s4
+
+Coa foot arrrerer
+
+Patient Name Nok Age/ Sex : 1S | M
+Date 4 \3 13
+Ref by Dr. ' Qh
+(ECG REPORT |
+Atrial rate QRS :
+Ventricular rate A: | cs QT - atc :
+
+Rhythm
+
+P - Wave
+
+P. R. Interval
+
+IMPRESSION > LVH
+NSR
+
+(Dr. Mayank Agarwal)
+MD(Medicine), DM (Cardiology),
+Consultant Interventional Cardiologist
+
+Pe
+4
+A
+
+ah
+Fz
+
+(Dr. (Mrs.) Madhuparna Sharma)
+MBBS, PGDCC (Cardio)
+Associate Consultant
+
+(Dr. Pranjal Kr. Gogoi)
+MBBS, PGDCC (Cardio)
+Associate Consultant
+
+ST - Segment i
+T - Waves ]
+
+Axis
+
+(Dr. Sasanka Baruah)
+
+MD(Med.), DNB(Cardio), FESC,FSCAI(USA),FACC
+Fellow of European Society of Cardiology
+Fellow of American College of Cardiology
+Senior Interventional Cardiologist
+Director- Dept. Of Cardiology
+
+(Dr. Ankur Bikash Borah)
+MBBS, PGDCC (Cardio)
+Associate Consultant
+
+(Dr. Deepak Dey)
+MBBS, PGDCC (Cardio)
+Associate Consultant
+
+9 NH. 37} KKoinadhara | hanapara | Guwahati | 781022] Assam | India
+® +9136! 7105000 © +9175759 65000 @ customer@healthcityhospital.com @ www.healthcityhospital.com
+

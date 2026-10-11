@@ -1,0 +1,85 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-09
+Type: Laboratory
+Provider: Health City Hospital
+Description: Laboratory report page 1 of 3: creatinine, random glucose, blood counts, haemoglobin, ESR and platelets; laboratory number 186257.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+fy;
+
+1OSPITAIL
+
+ATORY MEDICINE } a fe urs
+re
+
+Lab No
+
+1862 OP/IP No | Age/Sex i
+UHID 94275
+
+| 25 Years 1M
+
+hs 20 D
+Patient Name
+
+Ee
+| Date & Time of Collection
+Doctor | Date & Time of Receiving
+Ward/Bed : Date & Time of Reporting
+INVESTIGATIONS RESULT UNIT BIOLOGICAL REFERENCE INTERVAL
+BIOCHEMISTRY
+NE , Seru
+
+CREATININE, s
+
+>
+
+0.9 mg/dl 0.66 - 1.25
+GLUCOSE RANDOM , Random Plasma
+
+‘ 102 mg/dl. 70 - 139
+AEMATOLOGY
+BLOOD RE , Whole Blood
+) 7000 /Cumm.
+
+4000 - 10000
+
+66 ] 40 - 80
+24 % 20 - 45
+4 % 02-10
+6 % 01 - 06
+15,3 gm% 13 - 16.5
+05 mm 0- 20mm
+ergren method)
+PLATELET COUNT »Whole Blood
+PLATELET COUNT 160 Thousand/cumm 150 - 439
+(Method:Couilter Principle & Microscopy)
+
+~---End of report----
+
+L
+
+DR. MELODY BARUAH DR. JYOTISH BARMAN OR. GAZI NASEEM AHMED
+5 MDK NEIGRIHMS) (18704-AMC) MBBS, DCP(GMC 16319. AMC)
+Consultant Microbiologist
+
+Consultant Pathologist
+Prepared By; MOLAY BORUAH
+
+OR. DEEP JYOTI KALITA
+MBBS,MD(GMC)\(2 1484-AMC)
+Consultant Pathologist
+
+DCP.MD(Pathology)( 132 72-AMC)
+Consultant Pathologist
+
+——_—_____________ Page 1 of 3
+
+(A Unit of North-East Health City Pvt Ltd.)
+a i | | Assam | India
+9 NH. 37 <oinadhara | Khanapara | Guwahati | 7810227 Assam | In
+
+@ +91 36) 7105000 © +91 75759 65000°@ customer@heaithcityhospital.com
+
+www healthcityhospital.com

@@ -1,0 +1,52 @@
+Archive indexing notes (visually reviewed):
+Document date: 2022-03-07
+Type: Imaging Reports
+Provider: Primus Imaging
+Description: Written X-ray fistulogram report; study ID XR-220307-143.
+Date basis: Date visually verified on document; DD/MM dates interpreted in Indian day-month order.
+
+Machine OCR (verify against image):
+(PYIMUS
+
+(A unit of Primus Imaging Pvt. Ltd.)
+
+Name: ANGSUMAN DAS Age:
+Patient ID: XR-220307-143 Sex:
+Study Date: 77-Mar-2022 Modality:
+Refd By: Dr. R. Sarma, MBBS, MS (Surg)
+
+23 YRS
+
+DX
+
+X-RAY: FISTULOGRAM DONE UNDER IITV SCREENING
+
+There is a sinus tract in the gluteal region with its cutaneous opening
+
+in the right perianal region. The tract extends upwards and measures
+
+5
+
+approximately 2.7 cm in length. No communication of the tract
+
+the anorectum is noted. Please correlate clinically
+
+—
+
+trllmnag Ove
+
+R ms 5024 aes
+Dr. Rajib Buarah, DMRD Dr. Pratul Kr. Sarma, MD Dr. Phalguni Das, MD
+Dr. Pramod Agarwala, MD Dr. Manoj Hazarika, MD
+
+t with
+
+Dr. Nirod Medhi, MD
+
+Dr. Dipu Bhuyan, MD
+
+Facilities Available: » 48 Channel 3 Tesla & 1.5 Tesla (Noise less) MR! © 126 Slice Multi-Detecor Dual Energy CT with Angiography © Digital X-ray.
+Mammography, 40 USG & Colar Doppler study ¢ Cone Beam CT (CBCT) including OPG ¢ Pathology (NASL) & Microbiology Lab © EEG, EMG,
+
+NCV, VEP, BAER, SSEP, RNS © Cardiaccheck-up, ECG, Echo TMT © BMD, PFT
+
