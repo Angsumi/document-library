@@ -1,0 +1,37 @@
+--- Page 1 ---
+     8 Courses
+                       Mar 22, 2021
+
+                                                                                                                    Jeﬀ Leek, PhD, and             Angsuman Das
+                                                                                                            Kasper Daniel Hansen,
+                          has successfully completed the online, non-credit Specialization           PhD, Department of
+                                                                                                                                            Biostatistics, Johns
+                                                                                                              Hopkins Bloomberg
+Introduction to Genomic
+                                                                                                                  School of Public HealthTechnologies      Genomic Data Science
+Genomic Data Science with        This specialization covers the concepts and tools to understand,Galaxy
+                               analyze, and interpret data from next generation sequencing
+Python for Genomic Data
+Science                       experiments. It teaches the most common tools used in genomic data
+                             science including how to use the command line, Python, R,
+Algorithms for DNA
+Sequencing                    Bioconductor, and Galaxy. The sequence is a stand alone introduction
+                              to genomic data science or a perfect compliment to a primary degreeCommand Line Tools for
+Genomic Data Science           or postdoc in biology, molecular biology, or genetics.
+
+Bioconductor for Genomic
+Data Science
+
+Statistics for Genomic Data
+Science
+
+Genomic Data Science
+Capstone
+
+
+
+
+
+                                              The online specialization named in this certiﬁcate may draw on material from courses taught on-campus, but the included
+                                                  courses are not equivalent to on-campus courses. Participation in this online specialization does not constitute enrollment        Verify this certiﬁcate at:                                                            at this university. This certiﬁcate does not confer a University grade, course credit or degree, and it does not verify the
+                                                          identity of the learner.                                                                    coursera.org/verify/specialization/MSYQG9KRVU3Q

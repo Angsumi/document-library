@@ -1,0 +1,689 @@
+--- Page 1 ---
+                                                                                1
+
+
+
+
+Contents
+environment and niche ........................................................................................................................ 2
+
+ population ecology ............................................................................................................................. 6
+
+ species interaction ........................................................................................................................... 10
+
+ community ecology .......................................................................................................................... 11
+
+ ecological succession ...................................................................................................................... 12
+
+The intermediate disturbance hypothesis ..................................................................................... 14
+
+  Production ................................................................................................................................... 14
+
+  Ecological Pyramid ..................................................................................................................... 15
+
+Ecosystem ecology ........................................................................................................................... 16
+
+  Biodiversity .................................................................................................................................. 16
+
+  biogeography ................................................................................................................................ 17
+
+    Biogeographic region of the word .......................................................................................... 17
+
+    Biogeographic region of India ..................................................................................................... 17
+
+conservation biology ......................................................................................................................... 18
+
+  Conservation regions of India: ................................................................................................... 18
+
+  Red data book: ............................................................................................................................ 19
+
+--- Page 2 ---
+                                                                                2
+       ECOLOGY
+
+
+environment and niche
+
+    There are  different environmental factors  that
+regulates the ecosystem of a specific area, those
+factors can be divided into biotic and abiotic factors.
+
+
+Biotic factors                                  Abiotic factors
+
+    1.  Producers                                  1.  Light
+    2. Consumers                                 2.  Temperature
+    3. Decomposer                                3.  Water
+                                                     4.  Soil or edaphic factor
+                                                     5.  Altitude
+                                                     6. Wind etc.
+
+
+
+
+                  Rule               Polar Region          Tropical Region
+
+             Bergmen’s rule             Size (↑)                 Size (↓)
+
+                 Allen’s Rule         Appendages (↓)        Apendages (↑)
+
+               Glogger’s rue          Pigmentation (↓)         Pigmentation(↑)
+
+            Richard Hess’s rule        Heart Size(↑)            Heart size(↓)
+
+              Rensh’s rule         Bird wing pointed(↑)      Bird wing pointed(↓)
+
+                                       Fish vertebrae and       Fish vertebrae and
+               Jorden’s rule
+                                            scales(↑)                scales(↓)
+
+
+
+
+   ●  Gordu's Rule: body changes according to temperature
+   ●  Rule of cope: body size increased during the course of evolution
+   ●  Leibig's Rule/ law of minimum: plant growth will be affected due to the limitation of nutrient
+       present in the soil that is why soil nutrition is a limiting factor for plants.
+   ●  Blackmainn's law of limiting factor: any factors that effect or limit the photosynthesis rate is
+      a limiting factor for plants such as CO2, H2O, Chloroplast, Chlorophyll, Sunlight
+
+--- Page 3 ---
+                                                                                3
+
+ADAPTATION
+      Types of adaptation
+        ●  Morphological adaptation
+        ●  physiological adaptation
+        ●  behaviour adaptation
+      Types of adaptation (on the basis of condition)
+        ●   Xeric adaptation: adaptation for limitation of water availability.
+        ●  Saline adaptation: adaptation to the hypersalinity.
+        ●  Oligotrophic adaptation: where nutrition is limited or mostly been use the app
+             organisms show oligotrophic adaptation, like in rainforest and man grooves.
+
+Categories produced by ecological effect
+   ●  Ecophene/Ecades: when same species separated to different geographical location they are
+      phenotype changes without effective does eno type, those are known as Ecophene/Ecades
+   ●  Ecotype/ Ecological Race/Ecological soecies: genetically irreversible changed population due
+        to living in different ecosystem or geographical location, those are known as ecotype
+   ●  Coenospecies: When populations of two different Ecospecies sometimes overlap but do not
+      produce viable offspring they are known as Coenospecies.
+            a. ECOTONE: The transition zone between two ecosystem where biodiversity is different
+             from both of the ecosystem
+            b. Edge Effect: in Ecotones species is greater than both the nearby ecosystem this is
+           known and edge Effect and ecotone also contain unique types of biodiversity.
+Smallest hierarchy in ecology = Organism
+Smallest living unit in ecology = Organism/Individual
+Smallest functional/Basic unit in ecology = Ecosystem
+Smallest unit in ecology= Ecosystem
+Smallest functional unit in evolution = Population
+
+Organism<Population<Species< Community<Ecosystem<Landscapes<Biomes<Biosphere
+
+Autecology = Study of individuals or populations of a single species with respect to its environment.
+Synecology = Study of species with respect to their environment.
+Ecological equivalence = when 2 different species have similar ecological role.
+
+Guild = when two or more spaces exploit same or similar type of food resources.
+Ecotone = transition zone between two ecosystem
+Habitat = physical space occupied by a specific species or organism
+Range = extended habitat
+Territory = physical space occupied and being protected by a specific species or organism or
+individual
+Cohort = Group of individuals having same age group
+
+Range of tolerance
+
+Factor                    Narrow Tolerance          Wide Tolerance
+
+    1.  Temperature               1.  Stenothermal               1.  Eurythermal
+    2.  Water                      2.  Stenohydric                2.  Euryhydric
+    3.  Salinity                     3.  Stenohaline                3.  Euryhaline
+    4. Food                       4.  Stenophagic                4.  Euryphagic
+    5.  Habitat                     5.  Stenoecious                5.  Euryecious
+
+--- Page 4 ---
+                                                                                4
+
+
+
+
+
+Niche concept:
+There are three niche concepts
+
+
+          Scientist                  Concepts                Name
+
+           Grinnel's                   Micro-habitat 1904                     Spatial
+
+                                    Functional role in the
+        Odum                                                           Tropical
+                                  ecosystem 1971
+
+                                                                  multidimensional hyper-
+         Hutchinson            Environmental gradient 1957
+                                                                volume
+
+
+
+Fundamental Niche: the original micro habitat or hyper dimensional space of an organism before
+having competition is known as fundamental niche.(FN)
+
+Realised Niche: the micro-habitat or hyper dimensional space left for the organism after being
+involved in competition or facilitation.(RN)
+
+
+
+Competition                    Tolerance/Coexistence     Facilitation
+
+FN>RN                  FN=RN             FN<RN
+
+--- Page 5 ---
+Niche Overlapping
+
+Coextensive Overlaping
+
+Inclusive Overlaping
+
+Reciprocal Overlaping
+
+Reciprocal Overlaping
+
+
+
+--- Page 6 ---
+                                                                                6
+ population ecology
+
+
+Attributes                  r-Selected Species         K-Selected Species
+
+Body Size                  Small                      Large
+
+Birth rate                   High                   Low
+
+Death rate                 High                   Low
+
+Parental Care              Absent                      Intense
+
+Density                    Very High
+
+Breeding                Once in a               Many times(Iteroparity)
+                                lifetime(Semalparity)
+
+Pattern of dispersion
+
+Age pyramid                   Straight Pyramid              Inverted
+
+Survivorship curves         Type 3                   Type 2
+
+Life table
+
+Models of growth             Exponential                    Logistic
+
+Hatutat strategy              Generalist                     Specialist
+
+Competition ability         Low                       High
+
+Generation time           Low                       High
+
+
+   ●  Birth rate
+      Denoted as 'b'
+   ●  Death rate
+      Denoted as 'd'
+
+   ●  Growth rate
+     A population can increase by Birth rate(b) and Immigration rate(I)
+     A population can decrease by death rate (d) and emigration rate(E)
+       That is why,
+            Growth rate(r) = (b+I) - (d+E)
+
+
+
+   ●  Pattern of Dispersion
+
+
+
+             Variance/Mean =  .  1       <1      >1     .
+
+--- Page 7 ---
+                                                                                7
+
+
+   ●  Age pyramid
+
+
+
+
+
+   ●  Survivorship curves
+
+
+
+
+
+   ●  Density
+Different techniques to calculate density of a population
+     Head counting method
+       Line intersect method
+        Belt transact method
+         Pitfall trap
+     Sweep net
+       Suction tunnel method
+      Capture mark recapture method:
+         N = nM/R
+               N= density
+                 n= captured in the first time
+              M= recaptured in the second time
+               R= marked in the captured
+
+--- Page 8 ---
+                                                                                8
+
+Speci             Quadrant             Freq  Dens  Abun  Relat  Relat  Relat
+es                                    uenc    ity    danc   ive     ive     ive
+                                         y           e      frequ  densi  abun
+      1     2     3     4     5                                                          ency   ty     danc
+                                                                   e
+
+A     50    20    12       -      15     4/5    97/5   97/4
+
+B     20    30       -      35    20     4/5    105/5  105/4
+
+C     8     10       -         -      13     3/5    31/5   31/3
+
+D     16       -      20    15       -       3/5    51/5   51/3
+
+
+
+
+
+   ●   Life table
+
+--- Page 9 ---
+Models of growth
+
+an > oN)
+
+ভাৱ
+
+Fer capita ayrousth vaxe (1)
+
+n't" charge, even IF pop.
+
+gets very large.
+
+এ. জর
+
+Population
+size,
+WN)
+
+Time
+
+Exponential Growth
+
+|
+
+Pe: গীত ০০০৮ rare
+০1% senailer ০ Pop. ৬)
+approaches Whe max: size.
+
+to roel) ৪
+
+Time
+
+
+--- Page 10 ---
+                                                                               10
+
+   The rate of exponential growth of a bacterial culture is expressed as generation time, also the
+doubling time of the bacterial population.
+   Generation time: The average interval between the birth of an individual and the birth of its
+offspring.
+   ●     Generation Time ∝ 1/ Growth rate
+   ●     Generation Time ∝ Body Size
+   ●         Growth rate ∝ 1/ Body Size
+
+
+    There are different factors that influence the growth and stability of a population those factors
+can be divided into two types density dependent and density independent factors. Density dependent
+factors can be again divided into positively depend and factors and negatively dependent factors.
+Positively dependent factors increase with the increasing density of a population for example deatht
+rate,  competition, disease and  predation. Negatively independent  factors decrease  with the
+increasing density of a population for example birth rate, survival rate and space.
+
+ species interaction
+
+Type of interection     Species1                 Species 2
+
+Mutualism                       +                        +
+
+Competition                                      -                                           -
+
+Neutralism                        0                         0
+
+Predation                       +                                          -
+
+Commensalism                   +                         0
+
+Ammensalism                                    -                         0
+
+
+
+ Symbiosis is defined as a relationship or interaction between two different organisms
+ that share similar habitat that must be physically near to each other. Symbiosis include
+Commensalism, mutualism and Parasitism
+
+--- Page 11 ---
+                                                                               11
+ community ecology
+
+
+Quantitative characters                       Quantitative characters
+
+Species diversity                        ●  Frequency
+Structure of community                    ●  Density
+Life form present in community              ●  Abundance
+Community services
+                                     ●  Relative Frequency
+                                     ●  Relative Density
+                                     ●  Relative Abundance
+
+                                     ●  Important Value Index (IVI)
+
+
+   ●  Dominant species: the species that is found in most abundant in a community or ecosystem.
+   ●  Keystone species: the species that is low in abundance or sometimes rare but have very large
+        effect on the ecosystem.
+   ●  Indicator species: the species that shows the overall health of the community as lichens, coral
+
+
+
+
+
+       reefs and amphibia.
+   ●  Flagship species: the easily recognisable species in a community that represent the specific
+      community for people. (Brand ambassador)
+   ●  Umbrella species: the highly abundant or effective spaces which conservation will lead to
+        overall conservation of the community.(proxy)
+
+--- Page 12 ---
+                                                                               12
+
+Features                 Poor Community          Rich Community
+
+Production                  low                       High
+
+Stability                    low                        High
+
+Efficiency                   low                        High
+
+Species awareness          low                        High
+
+Relative abundance         High                   Low
+
+Example                    Pioneer species             Climax species
+
+
+
+
+
+                                       Phenerophyte: Above soild 2-40 neter
+                                    Chaemophyte: Buds are close to soild <2
+                                        Hemicryptophyte: Buds in soil in unfavorable
+                                               condition
+                                         Cryptographyte: Buds remain inside soil
+                                       Therophye: Seasonal Flower
+
+
+
+
+Vertical study: Study of canopy ground an other stages in between
+Horizontal study: study of community in different altitude from Ocean ground, water surface to the
+mountain top.
+
+ ecological succession
+
+--- Page 13 ---
+                                                                               13
+
+
+
+
+
+ *Intermediate stage Is also known as Seral stage
+
+
+
+Type of succession     Bare ground type
+
+   ●  Hydrosere        Water
+   ●  Psemosere       Sand dune
+   ●  Lithosere        Rock
+   ●  Xerosere          Dessert
+   ●  Halosere          Saline water
+
+Steps in Succession
+
+   ●  Nudation: Making the land barren.
+   ●  Invasion: coming of new or pineer community
+        ●       Dispersal: Spread
+        ●      Ecesis:    Trial to establish
+        ●      Aggregation Integration of different species.
+   ●  Competition and co-action: Positive or Negative effects on the next or previous community
+   ●   Reaction: Environmental change
+   ●   Stabilisation: climax community
+
+--- Page 14 ---
+                                                                               14
+
+Three models of succession
+
+
+
+
+
+The intermediate disturbance hypothesis
+
+
+
+
+
+Production
+
+GPP means gross primary production
+NPP means net primary production
+R means respirational use
+
+NPP = GPP - R
+R = GPP - NPP
+
+--- Page 15 ---
+                                                                               15
+Ecological Pyramid
+
+Pyramid of number
+
+
+
+
+
+Pyramid of biomas
+
+
+
+
+
+Pyramid of energy
+  Always upright
+
+--- Page 16 ---
+                                                                               16
+Ecosystem ecology
+
+Biodiversity
+
+   ●  Genetic Diversity
+   ●  Species Diversity
+    a.  Species Richness:
+    b.  Species Evenness
+
+
+
+   ●  Ecosystem
+       Diversity
+    a.  Alpha diversity: local
+        diversity within a
+      community.
+    b.  Beta diversity:
+        diversity between
+      two community. Usually measured in the term of change in number of spaces between two
+      community.
+
+
+
+
+
+    c. Gama Diversity: it is the regional diversity represented by the basis richness among the
+      communities present in a landscape
+    d.  Delta Diversity: Biome Diversity
+    e.  Epsilon Diversity: Biosphere Diversity
+
+--- Page 17 ---
+biogeography
+
+Near Island
+Immigratio
+N
+Far Island
+Immigratio
+Extinction
+Immigration
+
+‘Small Island
+Extinction
+
+Large Island
+Extinction
+
+Biogeographic region of the word
+
+Species Richness >
+
+Classic
+
+@ ®
+o\
+
+©
+
+Mainland-Island
+
+৮ ০
+
+০
+
+Patchy Population
+
+2
+
+Non-equilibrium
+
+5
+
+গু @
+>
+
+oO
+
+oO
+
+
+
+--- Page 18 ---
+                                                                               18
+conservation biology
+
+Eutrophication: if nutrition level of water bodies increased in an unprecedented manner this
+phenomenon is known as eutrophication.
+
+Bio accumulation: accumulation of chemical of anytime in an animal individual throughout life history
+is known as bio accumulation.
+
+Biomagnification/ Bio-amplification: accumulation of chemical of anytime from one trophic level to
+another and gradually increasing the concentration of it towards the higher traffic level is known as
+biomagnification or bio amplification.
+
+Conservation regions of India:
+
+
+National Parks: Protected areas that allow limited human activities but prioritize the preservation of
+flora, fauna, and their ecosystems.
+
+Wildlife Sanctuaries: Protected areas that provide a safe habitat for wildlife and plants and prohibit
+any form of
+commercial
+exploitation of natural
+resources.
+
+Biosphere
+Reserves: Protected
+areas that balance
+conservation and
+sustainable use of
+resources, serving as
+a model for
+sustainable development.
+
+Conservation Reserves and Community Reserves: Protected areas that provide a habitat for
+wildlife, but also allow traditional and sustainable use of resources by local communities.
+
+Ramsar Sites: Wetlands of international importance designated under the Ramsar Convention for
+the conservation and wise use of wetlands.
+
+Sacred groves are small forested areas surrounding temples, shrines, or other religious monuments.
+They are considered sacred and are protected by local communities and religious beliefs, resulting in
+the preservation of flora, fauna, and their ecosystems.
+
+--- Page 19 ---
+                                                                               19
+Red data book:
+
+    1.  Extinct (EX): A species is considered
+        Extinct when there is no reasonable
+       doubt that the last individual has died.
+    2.  Critically Endangered (CR): A species is
+       considered Critically Endangered when it
+      meets any of the following criteria:
+          An estimated population size
+           reduction of 80% over the last 10
+          years or three generations, whichever
+              is longer.
+          A population size of less than 50
+            individuals.
+          A continuing decline of at least 20%
+            within the next five years or two
+           generations, whichever is longer.
+          Extremely small or restricted populations.
+    3. Endangered (EN): A species is considered Endangered when it meets any of the following
+         criteria:
+          An estimated population size reduction of 50% over the last 10 years or three generations,
+          whichever is longer.
+          A population size of less than 250 individuals.
+          A continuing decline of at least 20% within the next 10 years or three generations,
+          whichever is longer.
+          Small or fragmented populations.
+    4.  Vulnerable (VU): A species is considered Vulnerable when it meets any of the following
+         criteria:
+          An estimated population size reduction of 30% over the last 10 years or three generations,
+          whichever is longer.
+          A population size of less than 10,000 individuals.
+          A continuing decline of at least 10% within the next 10 years or three generations,
+          whichever is longer.
+    5. Near Threatened (NT): A species is considered Near Threatened when it is close to meeting
+       the criteria for Vulnerable and requiring close monitoring.
+    6.  Least Concern (LC): A species is considered Least Concern when it has a widespread and
+      abundant population, and it is not facing significant threats.

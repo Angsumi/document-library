@@ -1,0 +1,396 @@
+--- Page 1 ---
+               Journal of Advanced Zoology
+                                                      ISSN: 0253-7214
+                                     Volume 42 Issue 1 Year 2021 Page 171-178
+
+
+
+
+__________________________________________________________________________________________________________________
+
+   Green Heritage Of Assam: A Comprehensive Metaanalysis Of Traditional
+                           Medicinal Practices
+
+                             Angsuman Das1*
+
+                                           1*Rajiv Gandhi University
+
+                             *Corresponding Author: Angsuman Das
+                                          *Rajiv Gandhi University
+
+                                                           Abstract
+                             This comprehensive meta-analysis explores the extensive range of
+                                  traditional medicinal practices in Assam, India. It uncovers the profound
+                               ethnobotanical knowledge that is ingrained within the indigenous tribes
+                               of Dimasa, Barman, Sonowal, and Bodo. Through  a  meticulous
+                             examination of a dataset comprising 750 entries from 12 tribes and
+                           encompassing 354 distinct botanical species, this study sheds light on the
+                               diverse and specific plant-based remedies that have been passed down
+                             through generations. By utilizing advanced statistical and computational
+                             methodologies, such as  cluster analysis and Chi-Square  tests, our
+                               research uncovers significant associations between plant usage and the
+                               physiological  systems  they  treat.  This  underscores  the  extensive
+                             medicinal knowledge held by the Bodo tribe. The results highlight the
+                                  possibility of combining this conventional knowledge with contemporary
+                            medical  care,  promoting  the  protection  of  cultural  heritage  and
+                                  biodiversity.  This  investigation  not  only  adds  to  the  worldwide
+                           comprehension of ethnomedicine but also underscores the pressing
+                             requirement for recording, sustainable collection methods, and scientific
+                              confirmation of traditional treatments. By adopting a comprehensive
+                            approach  that  connects  traditional  understanding  and  scientific
+                                 investigation,  this research  establishes  fresh prospects  for medical
+    CC License            advancement, sustainability, and the safeguarding of intangible cultural
+     CC-BY-NC-SA 4.0       heritage.
+
+Introduction:
+
+The deep interconnectedness between indigenous communities and their natural surroundings in Assam, a state
+renowned for its abundant biodiversity and cultural legacy in Northeast India, highlights the fundamental nature
+of traditional medicinal practices. These practices, which are firmly embedded in the indigenous tribes'
+ethnomedicinal knowledge, such as the Dimasa, Barman, Sonowal, and Bodo - all members of the Kachari
+clan - exemplify a symbiotic relationship with the region's diverse plant life that has lasted for thousands of
+years. The dependence on these plants for healthcare is not solely a matter of tradition, but rather a complex
+interplay of cultural beliefs, ecological comprehension, and practical health applications. This intricate system
+of knowledge, built upon the therapeutic properties of plants, is an indispensable element of the cultural identity
+and survival strategies of the tribal communities.
+
+
+
+Available online at: https://jazindia.com                                                      171
+
+--- Page 2 ---
+                                                                                 Journal of Advanced Zoology
+
+The ethnobotanical knowledge found in Assam signifies a wealth of customary rituals that have been passed
+down verbally throughout  tribal societies across different eras. This serves to underscore the cultural
+importance of this knowledge, accentuating  its contribution to the preservation of biodiversity and the
+promotion of a harmonious rapport with the natural world (Maass, 1999). The utilization of healing flora,
+encompassed within these customs, grants us a glimpse into the  tribes' profound reverence for and
+comprehension of their ecological surroundings.
+
+The scientific community at a global level has displayed an ever-growing desire to document and analyze
+traditional medicinal practices, thus acknowledging their potential in contributing to modern healthcare and
+the discovery of pharmaceuticals. As stated by (Vontzalidou et al., n.d.), the investigation of ethnobotanical
+knowledge not only assists in the preservation of cultural heritage, but also in the identification of new
+pharmacological agents. This convergence of traditional wisdom and scientific research holds the potential for
+groundbreaking therapeutic solutions, particularly in areas where conventional medicine may have limitations
+or seeks supplementary treatments.
+
+Despite its significance, the systematic investigation and documentation of the ethnomedicinal practices in
+Assam continue to lack cohesion and have not been fully explored. There have been limited allencompassing
+analyses conducted to consolidate this fragmented knowledge into a unified framework that can be utilized for
+further scientific exploration and conservation endeavors (Buragohain, 2011)(Barbhuiya et al., 2022). The
+objective of the current study is to bridge this gap by conducting a comprehensive meta-analysis, employing
+advanced computational tools and statistical methodologies to delineate the ethnomedicinal landscape of
+Assam's indigenous tribes.
+
+Objectives and Structure of the Study
+
+Our study commences a methodological voyage, commencing with the compilation of ethnobotanical data
+across a range of tribal communities in Assam. Through meticulous data preprocessing, exploratory analysis,
+and cluster analysis, our objective is to unveil patterns, similarities, and distinctions in the utilization of
+medicinal plants. The comparative analysis aims to delve deeper into the specificities of the tribes and establish
+statistically significant connections that define the practices of traditional medicine in the region. This
+structured investigation not only advances our comprehension of Assam's ecological legacy but also establishes
+the framework for integrating traditional medicinal knowledge with contemporary healthcare practices.
+
+By undertaking a mapping exercise of the ethnomedicinal practices of Assam, this research makes a significant
+contribution to the wider discourse surrounding the conservation of biocultural diversity and the sustainable
+utilization of medicinal plants. It emphasizes the pressing necessity for the implementation of policies that
+facilitate the documentation, preservation, and incorporation of traditional knowledge into modern healthcare
+systems. Furthermore, the discoveries shed light on potential avenues for pharmacological investigation, with
+particular emphasis on the exploration of rare and underutilized plants that may possess distinctive therapeutic
+properties.
+
+This establishes the foundation for an in-depth investigation into the customary therapeutic methods in Assam,
+creating an opportunity for a thorough examination that connects the divide between historical knowledge and
+contemporary scientific examination. By means of this research, our objective is not solely to safeguard a
+crucial element of Assam's cultural legacy, but also to delve into its prospective contributions to worldwide
+well-being and medical practices.
+
+Methodology:
+Data Collection and Preprocessing
+The investigation initiated with the compilation of ethnobotanical information concentrated on the native
+communities of Assam, specifically Dimasa, Barman, Sonowal, and Bodo, and many other. This information,
+meticulously obtained from diverse ethnobotanical assessments and scholarly references, was amalgamated
+into an all-inclusive data collection, accessible via a designated GitHub repository and an interactive Google
+Colab notebook.
+
+
+
+Available online at: https://jazindia.com                                                      172
+
+--- Page 3 ---
+                                                                                 Journal of Advanced Zoology
+
+The first step in preprocessing was to load and clean data using Python's Pandas library. Efforts were made to
+identify and correct missing values, outliers, and inconsistencies, resulting in a robust dataset for future
+analysis. Additionally, Numpy was used for numerical data operations, which improved the efficiency of the
+preprocessing stage.
+
+Exploratory Data Analysis
+A thorough exploratory analysis was performed to gain insight into the dataset's underlying structure and
+characteristics. To gain a preliminary understanding of plant usage patterns, statistical computations were
+performed with Scipy and Numpy. Matplotlib and Seaborn libraries were used for visual exploration, providing
+a graphical representation of the data to aid in the identification of trends, patterns, and anomalies.
+
+Cluster Analysis
+A cluster analysis was used to investigate the similarities in medicinal plant usage across tribes. The process
+started with feature selection, which focused on attributes relevant to plant usage patterns. Given the high
+dimensionality of ethnobotanical data, dimensionality reduction was accomplished using Principal Component
+Analysis (PCA) with Scikit-learn, which simplified the dataset while retaining essential information.
+
+The clustering algorithms used were K-Means, Hierarchical Clustering, and DBSCAN, all from Scikitlearn.
+These methods made it easier to group tribes based on similar medicinal plant usage. The Silhouette Score and
+the Elbow Method were used to assess the clustering's effectiveness and appropriateness, ensuring optimal
+cluster formation and interpretation.
+
+Comparative Analysis and Statistical Testing
+Following cluster analysis, a comparative study was carried out. This phase involved running statistical tests
+using the Scipy library to compare and contrast plant usage patterns across the identified clusters. The goal was
+to identify significant differences or similarities in these tribes' medicinal practices, which would contribute to
+a better understanding of cultural and historical connections.
+
+Reporting and Visualization
+The study's findings were presented in detailed reports and advanced visualizations. Matplotlib, Seaborn, and
+Plotly were used to create informative and engaging graphical representations of the results, which highlighted
+key aspects of Assam's traditional medicinal practices.
+
+Code Availability and Replicability
+In accordance with open science principles, the entire analysis, including data preprocessing, exploratory
+analysis, cluster formation, and comparative studies, is open to review and replication. The Jupyter Notebook,
+which  is hosted on GitHub and accessible through a Google Colab  link, provides a transparent and
+comprehensive overview of the methodologies and analytical processes used in this study.
+
+Results:
+
+This comprehensive meta-analysis of traditional medicinal practices in Assam includes a dataset of 750 entries
+from 12 major tribes. The data, compiled from 18 research papers, is organized into columns such as Botanical
+Name, Family Name, Common Name, Parts Used, Disease, System Used, Method of Use, and Tribe.
+
+Diversity of Medicinal Plants:
+A total of 354 distinct botanical species were identified. Houttuynia Cordata was the most quently mentioned
+species, appearing 12 times, followed by Azadirachta indica, Mimosa Pudica, and Andrographis Paniculata.
+Fabaceae had the most occurrences among the 91 distinct plant families, followed by Lamiaceae,
+Asteraceae, and Rutaceae. Figure 1
+
+
+
+
+
+Available online at: https://jazindia.com                                                      173
+
+--- Page 4 ---
+                                                                                 Journal of Advanced Zoology
+
+
+
+
+
+Figure 1: Top 10 Species and Families of plants
+
+Plant Parts Utilized:
+Analysis revealed 28 different types of plant parts used, with leaves accounting for nearly half of all cases.
+Fruits and roots were also widely used. Figure 2
+
+
+
+
+
+Figure 2: Frequency of plant parts and tribes
+Available online at: https://jazindia.com                                                      174
+
+--- Page 5 ---
+                                                                                 Journal of Advanced Zoology
+
+Targeted Diseases and Systems:
+The dataset covered a wide range of diseases, totaling 430 unique entries. Common ailments included
+dysentery, jaundice, and diabetes/blood sugar. For standardization, diseases were categorized into 22 unique
+physiological systems, with the digestive system, circulatory system, and integumentary system being the most
+frequently addressed.Figure 2 Figure 3
+
+
+
+
+
+Figure 3: Frequency of disease and Physiological system acted upon
+
+Notable Correlation
+A significant connection was discovered between plant families and the physiological systems they influence.
+For example, Fabaceae and Lamiaceae exerted a wide range of influence across several systems. Fabiaceae
+and Lamiaceae have  specific  correlations with the  digestive,  circulatory, integumentary, and nervous
+systems.Figure 4
+
+
+
+
+
+Figure 4: Heat map showing best Correlations between Family and Physiological system acted upon
+
+Statistical Significance of Tribal Associations:
+Chi-squared tests revealed a significant relationship between tribes and both the systems affected and the plant
+parts used. The ChiSquare Statistic for 'Tribe' and 'System Acted Upon' was 606.75 (p-value: 1.59e-35), while
+for 'Tribe' and 'Parts Used' it was 438.91 (p-value: 1.55e-07). These findings point to specific tribal preferences
+or tendencies in the use of various plant parts and systems.
+
+
+Available online at: https://jazindia.com                                                      175
+
+--- Page 6 ---
+                                                                                 Journal of Advanced Zoology
+
+Important Plant Usage:
+Among Fabiaceae plants species Cajanus Cajan is helpful in Circulatory system, Mimosa Pudica helpful in
+Digestive system, Cassia Alata helpful in integumentary system, and Mimosa Pudica also helpful in Nervous
+system. Figure 5
+
+Among Lamiaceae plants species Clerodendrum Galndulosum is helpful in Circulatory system, Mentha
+arvensis is helpful in Digestive system, Leucas aspera helpful in integumentary system, and Leucas aspera also
+helpful in Respiratory system.Figure 5
+
+
+
+
+
+ Figure 5: Diving deep into Fabaceae and Lamiaceae Family
+
+Among the rarely used plants, those that treat integumentary and digestive problems were discovered. Plants
+such as Leucas Plukentii and Polygonum Bracteatum were only mentioned once, indicating that they are not
+commonly used in traditional medicine.
+
+This analysis focuses on the Assamese tribes' extensive and diverse knowledge of traditional medicinal
+practices, highlighting the potential for further exploration and integration into modern healthcare.
+
+Discussion:
+
+Our meta-analysis of traditional medicinal practices in Assam sheds light on the region's rich "Green Heritage."
+Our research has revealed the numerous applications of medicinal plants, emphasizing the intricate knowledge
+held by various tribes in Assam.
+
+
+
+Available online at: https://jazindia.com                                                      176
+
+--- Page 7 ---
+                                                                                 Journal of Advanced Zoology
+
+ Ethnobotanical Knowledge and Tribal Practices:
+The diverse use of plants, particularly in the Bodo tribe, represents a rich repository of ethnomedicinal
+knowledge. (BORO et al., 2023). This diversity reflects not only Assam's rich biodiversity, but also a deep
+understanding and cultural integration of these practices among tribes (Doley, 2014). The variation in plant use
+among tribes, particularly the prevalence of plants from the Fabaceae and Lamiaceae families, highlights the
+ecological and cultural contexts that shape these practices (Khan et al., 2023).
+
+Importance of Plant Parts and Systems Acted Upon:
+The emphasis on specific plant parts, such as leaves and roots, fits into global ethnomedicinal trends, which
+favor easily accessible and pharmacologically rich plant parts. (Salmerón-Manzano et al., 2020). Traditional
+remedies' emphasis on the digestive and circulatory systems reflects the prevalence of related ailments and the
+reliance on natural remedies to manage them. (Ekor, 2014).
+
+The significant correlations revealed by Chi-Square tests between tribes and the systems acted upon (Chi-
+Square Statistic: 606.75, p-value: 1.59e-35) and between tribes and plant parts used (Chi-Square Statistic:
+438.91, p-value: 1.55e-07) suggest a deep-rooted, tribe-specific medicinal knowledge (Rahmatullah et al.,
+2012). These correlations indicate that medicinal plant use in Assam is not arbitrary but deeply entrenched in
+tribal traditions and knowledge systems.
+
+Rare Plant Usage and Its Implications:
+The identification of rarely used plants, such as Leucas Plukentii and Polygonum Bracteatum, for treating
+specific ailments points to the existence of specialized knowledge that may be at risk of being lost. These plants
+could potentially hold untapped pharmacological properties and underscore the urgency of documenting and
+preserving traditional knowledge (Chouhan & Singh, 2011) (Kalita et al., 2014).
+
+This study not only broadens our understanding of Assam's traditional medicinal practices, but also emphasizes
+the importance  of  preserving  this  intangible  cultural  heritage. Future  research should focus on  the
+pharmacological validation of these  practices, which could lead to new therapeutic discoveries. The
+combination of traditional knowledge and modern healthcare can provide sustainable and culturally appropriate
+health solutions (Payyappallimana, 2010).
+
+Conclusion:
+
+Our comprehensive meta-analysis of Assam's traditional medicinal practices revealed the profound depth and
+breadth of ethnomedicinal knowledge held by its indigenous tribes. The study used robust data collection,
+preprocessing, and analytical methodologies to identify 354 unique botanical species across 750 entries,
+demonstrating the rich diversity of medicinal plants used by Assam's tribes. Notably, the Bodo tribe has
+emerged as a significant repository of medicinal knowledge, with distinct plant preferences that highlight the
+cultural diversity and ecological wisdom of Assam's indigenous populations.
+The findings show a strong link between specific plant families and the physiological systems they are used to
+treat, highlighting indigenous tribes' complex understanding of the natural pharmacopeia at their disposal. The
+statistical significance of tribal associations with plant parts used and systems applied validates these
+communities' deep, specialized knowledge of natural remedies. Such insights are invaluable, not only in
+preserving Assam's cultural heritage, but also in identifying potential pathways for integrating traditional
+wisdom with modern healthcare systems.
+
+Recommendations
+
+Based on the findings of  this study, we make several recommendations  to policymakers, healthcare
+practitioners, and the scientific community:
+
+1. Documentation and Preservation: It is critical to continue documenting the rich ethnomedicinal knowledge
+   of Assam's indigenous tribes. Efforts should be made to preserve this knowledge in digital formats and
+   through community-based initiatives that involve tribal elders and healers, ensuring that it is passed down
+   to future generations.
+
+
+Available online at: https://jazindia.com                                                      177
+
+--- Page 8 ---
+                                                                                 Journal of Advanced Zoology
+
+2. Pharmacological Validation: The scientific community has a significant opportunity to work with tribal
+   healers to validate the therapeutic claims of traditional remedies. Such collaborations can result in the
+   discovery of novel compounds and the development of new drugs, thereby bridging the gap between
+   traditional and modern medicine.
+3. Sustainable Harvesting Practices: As people become more interested in traditional remedies, the dangers of
+   overharvesting medicinal plants rise. We recommend implementing sustainable harvesting guidelines, as
+   well as medicinal plant cultivation, to prevent biodiversity loss and ensure the continued availability of
+   these resources.
+4. Integration into Healthcare Systems: Policymakers should think about integrating validated traditional
+   remedies into the larger healthcare system. This could include creating integrative medicine programs that
+   provide patients with complementary therapies in addition to conventional treatments.
+5. Cultural and Ecological Conservation: Conservation efforts should not only target medicinal plants, but also
+   the cultural practices and ecosystems that sustain them. Protecting Assam's forests and natural habitats is
+    critical for the survival of both biodiversity and traditional knowledge.
+
+Finally, Assam's traditional medicinal practices provide insight into the region's cultural and biological
+diversity. By embracing and integrating this knowledge, we can not only preserve an invaluable part of Assam's
+heritage, but also improve global healthcare by providing sustainable, culturally appropriate health solutions.
+The path forward necessitates a collaborative, multidisciplinary approach that values both indigenous tribes'
+wisdom and the scientific rigor of modern medicine.
+
+References:
+
+1. Barbhuiya, P. A., Laskar, A. M., Mazumdar, H., Dutta, P. P., Pathak, M. P., Dey, B. K., & Sen, S. (2022).
+   Ethnomedicinal Practices and Traditional Medicinal Plants of Barak Valley, Assam: a systematic review.
+   Journal of Pharmacopuncture, 25(3), 149–185. https://doi.org/10.3831/KPI.2022.25.3.
+2. BORO, M., DAS, B., BORO, K. K., NATH, M., BURAGOHAIN, P., ROY, S., SARMA, P. J., KALITA,
+    S., & NATH, N. (2023). Quantitative ethnobotany of medicinal plants used by the Bodo Community of
+   Baksa District, BTR, Assam, India. Biodiversitas Journal of Biological Diversity, 24(6).
+3. Buragohain, J. (2011). Ethnomedicinal plants used by the ethnic communities of Tinsukia district of Assam,
+   India. Recent Research in Science and Technology, 3(9).
+4. Chouhan, H. S., & Singh, S. K. (2011). A review of plants of genus Leucas. Journal of Pharmacognosy and
+   Phytotherapy, 3(3), 13–26.
+5. Doley, P. (2014). Changing cultural practices among the rural and urban Mising tribe of Assam, India.
+   Journal of Humanities and Social Science, 19(11), 26–31.
+6. Ekor, M. (2014). The growing use of herbal medicines: issues relating to adverse reactions and challenges
+   in monitoring safety. Frontiers in Pharmacology, 4, 177. https://doi.org/10.3389/fphar.2013.00177
+7. Kalita, D., Saikia, J., Mukherjee, A. K., & Doley, R. (2014). An ethnomedicinal survey of traditionally used
+   medicinal plants for the treatment of snakebite in Morigaon district of Assam, India. International Journal
+   of Medicinal and Aromatic Plants, 4(2), 97–106.
+8. Khan, K., Jan, G., Irfan, M., Jan, F. G., Hamayun, M., Ullah, F., & Bussmann, R. W. (2023). Ethnoveterinary
+   use of medicinal plants among the tribal populations of District Malakand, Khyber Pakhtunkhwa, Pakistan.
+   Ethnobotany Research and Applications, 25, 1–24.
+9. Maass,  P. (1999). The cultural context of biodiversity conservation. Valuation and Conservation of
+   Biodiversity: Interdisciplinary Perspectives on the Convention on Biological Diversity 1ed. Springer,
+   Berlim, 315–342.
+10. Payyappallimana, U. (2010). Role of traditional medicine in primary health care: an overview of
+   perspectives and challenging. 横浜国際社会科学研究= Yokohama Journal of Social Sciences, 14(6), 57–
+   77.
+11. Rahmatullah, M., Hossan, S., Khatun, A., Seraj, S., & Jahan, R. (2012). Medicinal plants used by various
+   tribes of Bangladesh for treatment of malaria. Malaria Research and Treatment, 2012.
+12. Salmerón-Manzano, E., Garrido-Cardenas, J. A., & Manzano-Agugliaro, F. (2020). Worldwide Research
+   Trends on Medicinal Plants. International Journal of Environmental Research and Public Health, 17(10).
+   https://doi.org/10.3390/ijerph17103376
+13. Vontzalidou, A., Tsioutsiou, E.  E., Dina,  E., Cheilari, A., & Aligiannis, N.  (n.d.). Exploitation of
+   ethnopharmacological data towards the discovery of novel wound healing agents.
+
+Available online at: https://jazindia.com                                                      178

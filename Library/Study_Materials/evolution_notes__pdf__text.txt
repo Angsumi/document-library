@@ -1,0 +1,496 @@
+--- Page 1 ---
+Emergence of evolutionary thought
+
+        1. Greek Theories
+      Theory of Special Creation: This is the idea that species were created by a supernatural being and
+       are immutable, not evolving over time.
+
+      Autobiogenesis: Autobiogenesis is the idea that  life arises spontaneously from non-living matter
+       without any involvement of previous life.
+
+      Biogenesis: Biogenesis is the scientific theory that life originates only from other living things. It is
+      opposed to the theory of autogenesis.
+
+      Transpermiesis: Transpermiesis is the transfer of genetic material between organisms, including the
+        transfer of genetic material between different species. This can lead to the evolution of new species
+       over time.
+
+        ●  Redi's Experiment: Francesco Redi conducted an experiment in 1668 to test the theory of
+             spontaneous generation, which held that life could arise spontaneously from non-living matter.
+          He set up jars containing meat, one with a lid and one open, and observed that maggots only
+            appeared in the open jar, not in the sealed jar. This showed that maggots did not arise
+             spontaneously from the meat but from flies that had laid eggs on it.
+        ●  Spallanzani's Experiment: Lazzaro Spallanzani conducted an experiment in the late 1700s
+                to further test the theory of spontaneous generation. He boiled broth in flasks, some of which
+            were sealed and some left open, and showed that no microorganisms grew in the sealed
+                flasks, while they did grow in the open flasks. This demonstrated that microorganisms only
+            grew if they were introduced from the outside, and not spontaneously generated.
+       ● Pasteur's Experiment: Louis Pasteur conducted a series of experiments in the 1860s to
+               definitively prove the theory of biogenesis, that life originates only from other living things. He
+          showed that microorganisms only grow in sterilized broth if air is allowed in, but not if the broth
+                is sealed and kept  free  of  contamination. This showed  that microorganisms could not
+            spontaneously generate, but only grow if they were introduced from the outside.
+
+    2.  Pre Darwin Theories:
+        ●  Theory of uniformitarianism (j Hunton): All animals generated as it is now.
+        ●  Theory of inheritance o acquired character
+    3.  Theory Since Darwin
+        ●  Theory of natural selection (Darwin)
+        ●  Theory of Mutation (Hugo de vries)
+        ●  Modern Theory of evolution (T Dobzhansky, Fisher) – aka Synthetic theory
+
+
+
+
+                                             Tells about survival o the fittest
+                                                                 but silent about arrival o the
+                                                                                        fittest
+Natural Selection                         Exception is Artificial selection
+   Overproduction                                 o  Domestic dog
+                                                    o  Cultivated crop   Struggle for existence
+                                                    o  Ornamental Pigeon   Natural Selection
+                                          Sexual Selection
+                                                    o  Peacock
+ki                                                    o  Singing bird
+                                                    o  Dimorphism
+
+--- Page 2 ---
+   Origin of species
+   Reproductive isolation
+   Origin of species
+   Example:
+             Industrial melanism
+             Antibiotic plate
+            DDT resistant mosquito
+           MDR Bacteria
+
+                                            Evolution
+
+
+
+                         Macroevolution                Microevolution
+
+
+
+                            Change gene freqyency           Morhological Change
+
+
+
+                           Change in Allele frequency        Reproductiive isolation
+
+Positive selection: when mutation increase fitness
+Negative selection: when mutation decrease fitness or sometimes lethal
+Neutral selection: when mutation in have no effect on the organism
+
+
+
+
+
+Evidences of evolution
+
+
+Paleontological Evidence
+
+       Fossils
+      Sedimentary rock (Connecting link)
+
+   Father of palaeontology: George Cuvier
+
+
+
+
+
+ki
+
+--- Page 3 ---
+Altered Unaffected
+
+Petrified
+
+Molded
+
+ee
+
+Eohippus Mesohippus Merychippus Pliohippus Modern horse
+
+Piliohippus
+|
+
+Mammals
+Prototheria Metatheria 1 Eutheria—;
+Birds &
+Reptiles Monotremes Marsupials Mouse Human
+
+ki
+
+
+--- Page 4 ---
+Comparative anatomy and morphology Evidence
+
+    1. Organism
+        ●  Circulatory Evolution
+        ●  Sensory system
+        ●  Digestive system
+        ●  Respiratory system
+    2. Homologous organ (Divergent Evolution)
+    3.  Analogous character (Convergent Evolution)
+    4.  Vestigial Teeth – Wisdom teeth, Canion in human, Vermiorm Appendix, Hairs on the body
+    5.  Atavism
+        ●  Reversal o ancestral trait
+              o  Moving ear pinnae
+              o  Hypertrichosis (Excessive hair growth)
+
+
+Comparative embryology Evidence
+
+    1.  Similarity gametogenesis and fertilization
+    2. Resemblance in young vertebrate embryo (Von Bear) {Embrodevelopment become increasingly
+       diverse}
+    3. Ontogeny (Life History) repeats Phylogeny (Evolutionary History) (Hackel)
+    4.  Theory of embryonic structure (Larva      Adult )
+        ●  Retrogressive metamorphosis (Reduction of advanced character during development)
+
+
+
+Bio-geographical Evidence
+
+    1.  Large combination of continents
+            a.  Pangia
+            b.  Lauresia | Gondwana
+    2. Mammal Evolution and continental drift
+            a. Convergence of placental (Theria) and marsupial(Metatheria) mammal
+
+Biochemical and molecular Evidence
+
+   Molecules                 Process
+   1. DNA                   Replication
+   2. RNA                   Transcription
+   3. Amino Acid            Translation
+   4. Triplet Codon                  ””
+   5. ATP                   Glycolysis
+   6. Enzymes
+
+
+
+
+
+ki
+
+--- Page 5 ---
+Gene and allele frequency
+
+Genotype   Number of individual     Gene frequency             Allele frequency
+
+  AA             40            P2     0.4
+                                              A=        = 1
+  Aa             20           2pq   0.2
+  aa             40           q2     0.4
+                             A =        = 1
+  Total           100
+
+
+The mechanism of evolution
+
+                                   Mechanism of
+                                             evolution
+
+
+    Natural                             Non random                   Genetic drift                               Gene flow        Mutation   Selection                                    mating
+
+
+                                       Interbreeding      Assortative               Forward (p - q       Stabilising        Bottle neck                                      (Genotype)      (phenotype)                   / A -a)
+
+
+                                                                    positive             Backward (q -      Directional       Founder                                                                    (similar)               p / a -A)
+
+
+                                                             Negative
+      Disruptive                                              (opposite/
+                                                     Dimorphism)
+
+
+      Balancing
+
+
+    Natural Selection
+Herdy Weinberg equation
+p2 + 2pq + q2 = 1 (it works only in equilibrium/Non-evolving population)
+(p + q)2 = 1
+Natural selection may biased toward any of the 3 genotype, on the basis of which natural
+selection can be divided into 4 types
+
+
+
+ki
+
+--- Page 6 ---
+       AA       Aa        aa                        AA       Aa        aa
+
+         Stabilizing Selection                                Disruptive Selection
+
+
+
+
+
+                  AA       Aa        aa      AA       Aa        aa
+
+                                  Directional Selection
+
+
+
+
+
+                           AA          Aa           aa
+
+                               Balancing Selection
+
+
+ki
+
+--- Page 7 ---
+   Non random Mating
+
+Interbreed mating or genotypic mating
+Assortative mating or henotypic mating
+
+Inbreeding coefficient (F) = 1 – C
+
+               = 1 -
+
+
+             = 1 -
+
+
+F= 0 means Complete heterogeneous F = 1 absolute homogenous
+▲q = µp – rq
+▲p = rq -- µp
+
+          q =
+
+
+    Mutation
+
+
+
+
+
+                                Homologous
+
+
+
+
+                          Paralogous          Orthologous
+                      (Same species           (Different
+                             protein)           species protein)
+
+    4.
+    5.
+
+
+
+
+ki
+
+--- Page 8 ---
+Gene creation
+
+       Mutation
+       Duplication
+       Retrotransposone
+      Unequal crossing over
+      Exon shuffling
+      Whole genome duplication
+
+
+
+     Macroevolution
+
+Species Concept
+    1.  Morphological species concept
+    2.  Genetic species concept
+    3.  Phylogenetic species concept
+    4.  Recognition species concept
+    5.  Biological species concept
+
+Sibling species: Morpholgically similar species but cannot interbreed
+
+
+                    Anagenesis
+                    (A ˃ B ˃ C)                                Speciation           Stasis
+                     (A ˃ B)      of
+                    Cladogenesis
+                    (A ˃ B&C)                      Pattern
+
+
+
+
+
+             Punctuated Equilibrium                                   Phyletic gradualism
+
+
+
+
+
+ki
+
+--- Page 9 ---
+  Statis         >>>>>>>>>>>   Stasis
+
+
+
+
+
+                            Rooted               Resolved
+
+
+                                          Evolution
+                                                tree
+
+
+                           Unrooted             Unresolved
+
+
+
+
+
+      Number of species            No of Unrooted trees             No of rooted trees
+3                                          1                             3
+4                                          3                             15
+5                                         15                            105
+6                                         105                           945
+
+
+
+
+
+ ki
+
+--- Page 10 ---
+Brain behaviour and evolution
+
+                          #Causation o Behaviour#
+
+ Proximate causation (Mechanism)     Ultimate causation (Mechanism)
+  Genes                                              Relative fitness
+  Receptors                             Cost < Benefit
+  Signalling
+  Organ/Muscle
+  Response
+
+
+
+
+
+                  What cause the bahviour to be                                      How the development of that                              formed?                                                       behaviour happened?
+                           (Mechanism/                                                   (Learned Vs. Innate)                        Anatomy/Physiology)
+
+
+                                       4 Questions
+                                               Nicolas
+                                         Tinbergen
+
+
+                   Why the behaviour is
+                            performed?         How the behaviour evoloved?
+                           Cost Vs Benefit
+
+
+                                                Kinesis: random movement toward
+   1)   Innate Behaviour                                                      Taxis: Directional movement toward
+         a. No Need of practice                          Reflexes: Involuntary response
+         b. Best performance is in 1st attempt         Egg retrieval
+          c. Stereotype                        Egg throwing by cuckoo
+                                                      Defensive response: Fight/Flight         d. Genetics involved
+
+
+
+                                                                           Habituation   2)  Learned behaviour
+                                                                          Associated learning
+         a. Need practice, trial and error                                                            o  Clssical conditioning
+         b. No stereotype                                    o  Operant Conditioning
+                                                            o  Observational learning
+                                                                                         Imitation
+                                                                           Exploratory learning
+
+
+
+ki
+
+--- Page 11 ---
+                                                                           Imprinting
+   3)  Mixed Behaviour                                                                           Cognitive Learning
+         a. Innate + Learned
+         b. Imprinting: Learning to imitate or follow during critical time period
+          c. Spatial learning: Learning to follow space
+         d. Cognitive learning: Complex thought and processing involved
+
+      EXPERIMENTAL STUDY TO UNDERSTAND ANIMAL BEHAVIOUR
+
+Deprivation experiment
+Isolation of young Rabbit just after breeding and grow them on liquid nutrition, after it grows someday it was
+given a rabbit and it cut and eat it easily without any learning This was a proof of innate behaviour
+Hybridization
+Gene knockout method
+                            Learned s Innate
+   Habituation
+      Learn to ignore a stimulus
+   Associated learning
+      Also known as conditioning
+      o Classical conditioning
+             Association between two different event or stimulus
+      o Operant Conditioning / Trial and error
+             Association between a behaviour/Output with a stimulus
+      o Observational learning
+              Imitation
+                  Learn to do just by observation no involvement of complex cognition, like
+                   baby’s facial expression
+   Exploratory learning
+       Like a chimpanzee use of available tools for a problem solving
+
+
+
+
+
+ki
+
+--- Page 12 ---
+                              Cost Vs. Benefit
+
+
+
+
+
+                                                                                   Cost
+
+
+                                                                                                Benefit
+
+
+
+
+
+               Optimum Territory or foraging
+
+
+
+Monogamous             Polygyny                 Polyandry
+Reproductive cost equal   Reproductive more in      Reproductive more in
+                        female                 male
+Parental care equal        Parental care more by     Parental care more by
+                        female                 male
+Equal selection power      Selection power with       Selection power is with
+and selection pressure     female                 male
+                           Selection pressure on      Selection pressure on
+                       male                    female
+No sexual Dimorphism     Sexual dimorphism    Sexual dimorphism
+
+
+Handicap Rule
+Reproductive success > Survival Chance
+Runaway Hypothesis
+Reproductive success = Survival Chance ()
+
+
+
+
+ki

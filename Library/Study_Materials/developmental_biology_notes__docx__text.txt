@@ -1,0 +1,231 @@
+Developmental Biology
+Steps of Development: 1. Growth, 2. Commitment, 3. Differentiation, 4. Morphogenesis
+Stages of Animal Development: 1. Zygote, 2. Blastomere(2), 3. Morula, 4. Blastula, 5. Gastrula 
+Stages of Plant Development:    1. Zygote, 2. Basal+Apical Cell, 3. Octant stage, 4.Globular stage, 
+                                                         5. Heart stage, 6. Torpedo stage(Seed)
+Character
+Animal
+Plant
+Cell Div
+Rapid
+Slow
+Cell Size
+Decrease
+Increase
+N/C
+Increase
+Decrease
+Gene Expression
+NO
+Yes
+Growth
+Isometric
+Allometric
+
+Determined
+Undetermined
+
+
+Animal Vs Plant Development:
+
+
+
+
+
+Direct Observation
+Tunicates Sea Squirt(Limited organism)
+Vital Dye
+Limited time period
+Florescent Dye
+Eg. Florescent conjugated dextran(””)
+Cryptic Embryo
+Chick + Quail
+Transgenic DNA Chimera
+Green Florescent protein by vector virus
+ Fate Mapping Techniques: 
+
+
+
+Properties
+Autonomous
+Conditional
+Syncytial 
+Signal Location
+Cytosol
+External
+Syncytium
+Signal Form
+mRNA
+Protein + Juxtacrine
+Tr.Factor(Prot.)
+Potency of cell
+F = P
+F < P
+
+Development Pattern
+Mosaic
+Regulative
+Auto + Cond
+Specification
+8 Cell stage
+Mid Blastula
+Syncytial Stage
+Determination
+8 Cell stage
+Mid Gastrula
+Cellular Stage
+Loss Cmpnstion
+No
+Yes
+----
+ Commitment:  
+
+
+
+
+
+Difference between Spermatogenesis and Oogenesis:
+Spermatogenesis
+Oogenesis
+4 Sperm
+1 Egg
+Motile
+Non Motile
+Small size
+Large
+
+Equal Karyokinesis
+Equal Karyokinesis
+
+Equal Cytokinesis
+Unequal Cytokinesis
+NO Arrest Present
+2 Arrest of Meiosis
+
+1st Arrest
+G2-M Check Point, Prophase-1, (Diplotene)
+Due to Low LH
+
+2nd Arrest
+Mtaphase-2
+Mos Inhibit APC
+
+Experiment
+Robert Briggs and Thomas kings Experiment: 
+Embryonic Stem Cell (ES cell)   +   Enucleated Egg cell = Normal Tadpole
+             Inference: All cell are genetically equivalent 
+Ian Willmut Experiment:
+Udder Cell
+(Sheep A)
++
+Enucleated Egg
+(Sheep B)
++
+Womb
+(Sheep C)
+=
+Dolly
+
+Dolly
+99.9% like Sheep A
+
+0.01% like Sheep B
+
+0%  like Sheep C
+
+Driesch’s Pressure plate experiment:
+Loss compensation even though the position were changed
+Nuclear determinant from Vegetal pole re segregated to animal pole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stem Cell Morphogenesis
+Types of stem Cell
+Oct 3/4
+Nanog Expression
+Maintain Pluriotency of the cell
+Sox 2
+
+
+C- Myc
+Euchromatin DNA Formation
+Klf 4
+Inhibit Apoptosis
+ Totipotent
+Pluripotent     
+Multipotent 
+Unipotent
+                                                                                          Table: Genes for Induced Pluripotent Cell
+187642553340BChBaaaaKldmckm;cmBABChBaaaaKldmckm;cmBAMorphogens:
+B
+
+
+
+
+
+C
+
+
+
+h
+B
+
+
+
+
+
+aaaa
+
+
+Kldmckm;cmB
+A
+B
+
+
+
+
+
+C
+
+
+
+h
+B
+
+
+
+
+
+aaaa
+
+
+Kldmckm;cmB
+A
+
+A
+Activin Secreting Beads
+B
+Goosecoid gene
+C
+Xbra gene
+D
+Undifferentiated cell 
+
+
+
+
+

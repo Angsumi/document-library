@@ -1,0 +1,532 @@
+--- Page 1 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+   Aquatic Remedies: An Ethnopharmacological
+  Study of Fish-Based Medicines in Assam's Tribal
+                       Villages
+
+                 Angsuman Das1   Rajiv Chetry2
+                                               1,2Rajiv Gandhi University
+
+
+       Ethnopharmacological relevance: This study illuminates the ethnopharmacological significance of fish-
+       based remedies in Assam's tribal medicine, spotlighting the use of local fish for treating various ailments.
+       By documenting these traditional practices,  it emphasizes the critical link between biodiversity and
+        indigenous knowledge, urging conservation. The research offers a foundation for discovering new
+        therapeutic agents, underscoring its importance in bridging traditional wisdom and modern pharmacology.
+
+
+      Aim of the study: The aim of this study is to document and analyze the traditional use of fish in tribal
+       medicine across Assam, identifying specific species utilized and their application in treating health
+        conditions. Through gathering this indigenous knowledge, the research seeks to contribute to the
+       ethnopharmacological field, highlighting the potential of these practices in modern medicine. Additionally,
+            it aims to underline the importance of conserving both the aquatic biodiversity and the cultural heritage of
+       Assam's tribal communities, advocating for a balanced approach to preserving traditional wisdom alongside
+        ecological sustainability.
+
+
+        Materials and methods: The study employed a qualitative research approach, focusing on Assam's tribal
+       communities. Data were collected from the Bodo, Karbi, and Mishing tribes through semi-structured
+        interviews, participant observations, and focus group discussions, targeting traditional healers, elders, and
+        fishermen. Purposive sampling ensured a broad representation of medicinal practices. The areas chosen—
+        Chariduar, Patgaon, and Pothailangso—were selected for their rich biodiversity and deep-rooted traditional
+       medicine practices. Data analysis involved thematic categorization to identify recurring themes around fish
+        species, their medicinal uses, and preparation techniques, aiming to consolidate indigenous knowledge on
+        ichthyotherapy.
+
+
+         Results: The study identified numerous fish species across the Bodo, Karbi, and Mishing tribes, utilized for
+       a variety of health conditions like anemia, asthma, and weakness. Key species include Heteropneustes
+          fossilis and Clarias magur, known for their wide medicinal applications. Preparation methods varied from
+       consumption of cooked fish to application of raw parts. The findings underscore a rich tradition of
+        ichthyotherapy, with specific fish playing crucial roles in tribal healthcare. The data reveal a deep reliance
+      on indigenous ichthyofauna, highlighting the significance of these practices in the cultural and medicinal
+        landscape of Assam's tribal communities.
+
+
+        Conclusions: The study underscores the rich ethnopharmacological heritage of Assam's tribal communities,
+        revealing a diverse array of fish-based remedies integral to their traditional medicine. It highlights the critical
+         role of specific fish species in addressing a wide range of health issues, emphasizing the importance of
+        preserving this indigenous knowledge alongside the aquatic biodiversity  it depends on. The findings
+       advocate for further research into the bioactive compounds of these fish species, potentially contributing
+        to new pharmacological discoveries. Additionally, the study calls for a balanced approach to conserving both
+       the natural and cultural heritage, ensuring the sustainability of these traditional practices for future
+        generations.
+
+
+
+  Keywords: Ethnopharmacology, traditional medicine, ichthyotherapy, Assam, tribal villages, fish-based medicine.
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org     643
+
+--- Page 2 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  Introduction
+  Traditional medicine, encompassing the knowledge, skills, and practices indigenous to different cultures, has been
+  utilized for health maintenance and the treatment of physical and mental conditions for centuries (Sophia et al., 2023).
+ Among the myriad forms of traditional medicine, the use of aquatic organisms, particularly fish, in ethnomedicine, or
+  ichthyotherapy, stands out as a unique and less explored domain (Grassberger & Sherman, 2013). This practice, rooted
+  in the profound understanding of local biodiversity and ecological systems, underscores the symbiotic relationship
+  between human communities and their natural environments (Sophia et al., 2023).
+
+
+  Assam, a state in northeastern India, is renowned for its rich biodiversity and the vibrant cultural heritage of its tribal
+  communities. These tribes have developed a deep connection with their surroundings, relying on the flora and fauna for
+  sustenance, shelter, and medicine (Chakraborty, n.d.). Despite the growing body of research on ethnopharmacology in
+  India, the medicinal use of fish by Assam's tribal villages remains under-documented, leaving a significant gap in the
+  global compendium of traditional medicine (Teronpi et al., 2012).
+
+
+  The present study aims to bridge this gap by documenting the Species of fish used as medicine, the ailments they are
+  purported to treat, and the methods of preparation and administration of these aquatic remedies. Through this
+  investigation, we seek to contribute to the broader understanding of ethnopharmacological practices, highlight the
+  ethnomedical significance of biodiversity, and underscore the importance of preserving traditional knowledge in the face
+  of rapid modernization and environmental change.
+
+
+  This research not only enriches the ethnopharmacological literature but also opens avenues for the discovery of novel
+  therapeutic agents, fostering a dialogue between traditional and modern medical practices. Moreover, by bringing to
+  light the traditional uses of fish for medicinal purposes, this study advocates for the conservation of aquatic ecosystems,
+  which are vital for the sustainability of these traditional practices.
+
+  Literature Review
+  The intersection of ethnopharmacology and traditional medicine offers a rich domain for exploring indigenous
+  knowledge systems and their applications in healthcare. Ethnopharmacology, as a discipline, investigates the bioactive
+  compounds present in natural resources traditionally used by ethnic groups, aiming to understand their medicinal
+  properties and potential applications in modern medicine (Vontzalidou et al., n.d.). Within this framework, aquatic
+  organisms, particularly  fish, have been identified as valuable but underexplored sources of therapeutic agents
+  (Grassberger & Sherman, 2013).
+
+
+  Globally, traditional medicine practices employing fish span various cultures and geographical regions, indicating a
+  widespread recognition of their medicinal value. In Southeast Asia and parts of Africa, specific fish Species are utilized
+  for their wound-healing properties, nutritional supplements during illness recovery, and treatments for a range of
+  ailments including asthma, arthritis, and skin diseases (Garigliany et al., 2012). These practices underscore the diverse
+  ethnomedical applications of fish, driven by local ecological knowledge and cultural traditions.
+
+
+  In India, the use of fish in traditional medicine is documented across several states, reflecting the country's vast
+  biodiversity and cultural diversity. Studies by (A. Das et al., 2021) in the northeastern region highlight the significance of
+  riverine ecosystems to tribal communities, not only for sustenance but also for medicinal purposes. However, Assam,
+  despite its rich biodiversity and significant tribal population, has seen limited documentation of its traditional medicinal
+  practices, particularly those involving fish (Nasreen & Borah, 2023) (Teronpi et al., 2012)(BASUMATARY et al., 2023).
+
+
+  The medicinal practices of Assam's tribal communities are deeply intertwined with their environment, with a reliance
+  on natural resources for healthcare being a hallmark of their ethnomedicine(BORO et al., 2023). The state's diverse
+  aquatic ecosystems provide a plethora of Species used in traditional remedies, yet the knowledge of these practices
+  remains largely within the communities, at risk of being lost amidst rapid socio-environmental changes(Chetia et al.,
+  n.d.)(Verma et al., 2014).
+
+
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org     644
+
+--- Page 3 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  This gap in documentation and understanding of Assam's traditional ichthyotherapy practices presents a critical area for
+  research. By exploring the ethnomedicinal use of fish in Assam's tribal villages, this study aims to contribute to the
+  conservation of indigenous knowledge, while offering insights into the potential for sustainable healthcare practices
+  rooted in traditional wisdom. Moreover, it addresses the call by (M. Das et al., 2022) for interdisciplinary approaches to
+  understanding the role of biodiversity in sustaining health and wellbeing in indigenous communities.
+
+
+  In summary, while the global context provides a backdrop of the diverse uses of fish in traditional medicine, the specific
+  practices of Assam's tribal communities remain underexplored. This study seeks to fill this gap, contributing to the
+  broader ethnopharmacological discourse and supporting the conservation of both biological and cultural diversity.
+
+ Methodology
+  The present study adopted a qualitative research approach to investigate the utilization of fish in ethnomedicine among
+  tribal communities in Assam. The research was carried out in three distinct locations: the Chariduar area of Sonitpur
+  district (inhabited by the Bodo tribal people), Patgaon village in Sonitpur district (home to the Mishing tribe), and
+  Pothailangso village in Biswanath district (where the Karbi tribal people reside). The selection of these areas was based
+  on their abundant biodiversity, substantial tribal population, and long-standing reliance on traditional medicinal
+  practices.
+
+
+  Study Area and Population
+  The study area focused on three tribal communities in Assam, namely the Bodo, Mishing, and Karbi peoples. Each
+  community possesses a unique cultural heritage and traditional knowledge system, which includes specific methods of
+  employing fish for medicinal purposes. The diverse geographical and ecological characteristics of the selected areas
+  contribute to a comprehensive understanding of the ethnomedicinal practices prevalent in the region.
+
+
+  Data Collection
+  Primary data were gathered by employing a synthesis of ethnographic techniques, encompassing semi-structured
+  interviews, participant observation, and focus group deliberations. The individuals involved in this study comprised
+  traditional healers, elder members of the community endowed with profound insight into traditional medicine, and
+  native fishermen who possess extensive familiarity with the therapeutic applications of fish.
+
+
+  Semi-Structured Interviews: These interviews were conducted with traditional healers and knowledgeable elders in
+  order to acquire comprehensive data regarding the various kinds of fish utilized, the ailments that are treated, as well as
+  the methods of preparation and administration of fish-derived remedies.
+
+
+  Participant Observation: This research method involved actively participating in community activities and closely
+  observing the processes of collecting, preparing, and utilizing fish in traditional medicine practices.
+
+
+  Focus Group Discussions: These discussions were facilitated among groups of community members with the purpose of
+  validating and enhancing the information gathered through interviews and observations.
+
+
+  Sample Selection
+  To ensure a broad representation of knowledge on fish-based medicinal practices, participants were chosen using
+  purposive sampling. The selection criteria included age (with a preference for elders possessing extensive knowledge of
+  traditional practices), role in the community (such as traditional healers or fishermen), and willingness to share
+  information.
+
+
+  Data Analysis
+  Data obtained from interviews, observations, and focus group discussions were meticulously transcribed and subjected
+  to a comprehensive thematic analysis. This process entailed the meticulous categorization of the data into distinct groups
+  that were centered around recurring themes pertaining to  fish Species, medicinal applications, techniques of
+  preparation, and cultural relevance. The primary objective of this analysis was to discern patterns and establish
+  correlations amongst the ethnomedicinal wisdom encompassing the three indigenous communities under study.
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org     645
+
+--- Page 4 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  Results
+
+
+  This ethnopharmacological survey documented a variety of fish Species used as medicinal remedies by three tribal
+  communities in Assam: the Kachari, Karbi, and Mishing tribes. The fish Species were identified, along with their
+  respective family and class, diseases they are used to treat, mode of preparation, and the tribe utilizing them for
+  medicinal purposes. The survey yielded a significant inventory of ichthyotherapeutic practices as detailed below:
+
+
+
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org     646
+
+--- Page 5 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  Species: Amblypharyngodon mola (Family: Cyprinidae)       Way to use: Flesh is cooked and consumed.
+   - Disease: Asthma (Tribe: Karbi)                                           - Disease: When pricked by a thorn (Tribe: Karbi)
+  Way to use: Cooked fish is prescribed for consumption.      Way to use: Bile of the fish is applied to remove the
+                                                                thorn.
+  Species: Amphipnous cuchia (Family: Synbranchidae)               - Disease: Dysentery (Tribe: Karbi)
+   - Disease: Anemia (Tribe: Bodo)                       Way to use: The fish is mixed with salt, wrapped in a
+  Way to use: Blood is consumed orally.                    banana leaf, boiled, and taken.
+   - Disease: Piles (Tribe: Bodo)
+  Way to use: Flesh is cooked with Lasia spinosa tuber and        Species: Channa marulius (Family: Channidae)
+  consumed.                                                                      - Disease: Cold and fever, Blood purification, Increase in
+   - Disease: Asthma, jaundice, weakness (Tribe: Mishing)        hemoglobin (Tribe: Bodo)
+  Way to use: Raw blood is consumed.                   Way to use: Meat and head are used.
+
+
+  Species: Anabas testudineus (Family: Anabantidae)             Species: Channa punctata (Family: Channidae)
+   - Disease: Cold and fever, Jaundice, General weakness          - Disease: Body weakness, Mild cold and fever, Blood
+  (Tribe: Bodo)                                                       purification, Renal stones (Tribe: Bodo)
+  Way to use: Meat is consumed.                      Way to use: Head and whole fish are used.
+                                                                                       - Disease: Corn or clavus (Tribe: Mishing)
+  Species: Anguilla bengalensis (Family: Anguillidae)          Way to use: Eyes mixed with salt are applied to the
+   - Disease: Piles (Tribe: Bodo)                                   affected area.
+  Way to use: The head is utilized.
+   - Disease: Rheumatoid arthritis (Tribe: Karbi)                   Species: Channa punctatus (Family: Channidae)
+  Way to use: Fat is applied and massaged to relieve pain.          - Disease: Diarrhea (Tribe: Mishing)
+                                              Way to use: Boiled fish is consumed.
+  Species: Anguilla sp (Family: Anguillidae)                               - Disease: Swelling of the testicle (Tribe: Mishing)
+   - Disease: Weakness (Tribe: Mishing)                    Way to use: Heads are tapped on the affected testicle.
+  Way to use: Eel blood mixed with turmeric is taken
+  orally when hot and dry.                                      Species: Channa striata (Family: Channidae)
+                                                                                       - Disease: Wound healing, Blood purification, Cold and
+  Species: Badis badis (Family: Badidae)                          fever (Tribe: Bodo)
+   - Disease: Postpartum respiratory issues (Puwati) (Tribe:      Way to use: Meat, head, and caudal fin are used.
+  Bodo)
+  Way to use: Flesh and head are used.                         Species: Chitala chitala (Family: Notopteridae)
+                                                                                       - Disease: Dandruff in babies (Tribe: Bodo)
+  Species: Botia dario (Family: Cobitidae)                  Way to use: Scales are utilized.
+   - Disease: Mild cold, Fever, Anemia (Tribe: Bodo)
+  Way to use: Flesh and head are used.                         Species: Clarias batrachus (Family: Clariidae)
+
+
+  Species: Chaca chaca (Family: Chacidae)                       Disease: Small pox (Tribe: Karbi)
+   - Disease: Asthma (Tribe: Karbi)                      Way to use: Cooked fish is eaten to cure small pox.
+  Way to use: Dry fish is ground and prescribed to be        Disease: Weakness after delivery (Tribe: Karbi)
+  drunk with water.                                Way to use: Boiled fish is taken regularly.
+                                                                Species: Clarias magur (Family: Clariidae)
+  Species: Channa gachua (Family: Channidae)
+   - Disease: Lactation issues, Bone health, Joint pain,        Disease: Anemia (Tribe: Bodo)
+  Arthritis, Delayed onset of walking in children (Tribe:     Way to use: Meat is consumed.
+  Bodo)                                                        Disease: Asthma (Tribe: Karbi)
+  Way to use: Whole fish meat, head, and live fish are     Way to use: The animal is cooked and consumed.
+  used.                                                        Disease: Small pox (Tribe: Kachari)
+   - Disease: Gall bladder stone (Tribe: Bodo)               Way to use: Fish is cooked.
+
+
+
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org     647
+
+--- Page 6 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  Disease: Weakness after delivery (Tribe: Kachari)               Disease: Sting by the fish itself (Tribe: Karbi)
+ Way to use: Fish is boiled.                          Way to use: Brain is consumed raw as an analgesic when
+  Disease: Weakness (Tribe: Kachari)                           stung by the fish.
+ Way to use: Fish is prepared as soup with Piper nigrum        Disease: Weakness after delivery (Tribe: Karbi)
+  and Spinacia oleracea.                             Way to use: Boiled fish is taken to regain strength.
+  Disease: Chicken pox, Measles (Tribe: Kachari)                  Species: Labeo gonius (Family: Cyprinidae)
+ Way to use: Fried fishes with processed bamboo shoot
+  (Kharisha) are consumed.                                     Disease: Allergies (Tribe: Bodo)
+  Disease: Malaria (Tribe: Kachari)                      Way to use: Meat and head are used.
+ Way to use: Fresh  fishes are cooked with a  local        Disease: Allergy (Tribe: Mishing)
+  vegetable leaf, called jwglaori.                       Way to use: Whole body is used by cooking with herb.
+  Disease: Body ache (Tribe: Kachari)                            Species: Labeo pangusia (Family: Cyprinidae)
+ Way to use: Cooked with spices like black pepper.
+  Disease: Chicken pox (Tribe: Kachari)                          Disease: Weakness after delivery (Tribe: Mishing)
+ Way to use: Magur is cooked with fermented bamboo     Way to use: Boiled fish  is taken regularly to regain
+  shoot following a specific recipe (hukoni).                       strength.
+  Species: Danio aequipinnatus (Family: Cyprinidae)             Disease: Stomach ache (Tribe: Mishing)
+                                             Way to use: Bile is taken orally to relieve stomach pain.
+  Disease: Constant spitting (Tribe: Karbi)                        Species: Labeo rohita (Family: Cyprinidae)
+ Way to use: The boiled fish is consumed regularly.
+  Species: Danio rerio (Family: Cyprinidae)                       Disease: Cardiovascular health, Brain development, Pain
+                                                                             relief (Tribe: Bodo)
+  Disease: Anemia (Tribe: Bodo)                       Way to use: Head, flesh, viscera, and bile are used.
+ Way to use: The whole fish is consumed.                       Species: Leiodon cutcutia (Family: Synbranchidae)
+  Species: Glossogobius giuris (Family: Gobiidae)
+                                                               Disease: Skin wounds, Gastric or stomach issues, Night
+  Disease: Night bed-wetting in children (Tribe: Bodo)           bed-wetting (Tribe: Bodo)
+ Way to use: Flesh and head are used.                  Way to use: Whole body is used.
+  Species: Glossogobius gutum (Family: Gobiidae)                Species: Lepidocephalichthys gun
+
+
+  Disease: Disease of passing urine while asleep (Tribe:     AD
+  Mishing)                                                         Start from the Lepidocephalichthys guntea
+ Way to use: Flesh is cooked and eaten.                     ChatGPT
+  Species: Heteropneustes fossilis (Family: Clariidae)            Continuing from where we left off:
+
+
+  Disease: Anaemia (Tribe: Kachari)                              Species: Lepidocephalichthys guntea (Family: Cobitidae)
+ Way to use: Boiled fish is prepared as a tonic.
+  Disease: Wound healing (Tribe: Kachari)                       Disease: Tongue and mouth ulcers (Tribe: Bodo)
+ Way to use: The fish is cooked with black pepper.          Way to use: The whole fish is consumed.
+  Disease: Physical weakness (Tribe: Kachari)                     Species: Macrognathus aral (Family: Mastacembelidae)
+ Way  to  use:  Fresh  fishes  are  cooked  with  local
+  vegetables.                                                   Disease: Cold, Fever (Tribe: Bodo)
+  Disease: Sting by the fish (Tribe: Kachari)                Way to use: Meat and the whole fish are consumed.
+ Way to use: Brain of the fish is removed.                       Species:     Macrognathus     pancalus      (Family:
+  Disease: Use of Clarius magur in Assamese medicine       Mastacembelidae)
+  (Tribe: Kachari)
+ Way to use: Not specified.                                    Disease: Ingrowing nail, Cellulitis (Tribe: Bodo)
+  Disease:  Digestive  issues, Immune system  support,     Way to use: The head is used.
+  General strength (Tribe: Bodo)                                 Species: Monopterus cuchia (Family: Synbranchidae)
+ Way to use: Meat is consumed.
+
+
+
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org     648
+
+--- Page 7 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  Disease: Asthma (Tribe: Karbi)                                 Disease: Eye health, Brain development (Tribe: Bodo)
+ Way to use: Taken in combination with other treatments.     Way to use: Whole fish including flesh and head are
+  Disease: Anemia, Skin scars (Tribe: Bodo)                     used.
+ Way to use: Meat and blood are used.                         Species: Trichogaster fasciata (Family: Osphronemidae)
+  Disease: Stomach ache (Tribe: Bodo)
+ Way to use: The head is used.                                 Disease: Cold and fever, Jaundice (Tribe: Bodo)
+  Disease: Anemia (Tribe: Karbi)                       Way to use: Flesh, head, meat, and the whole fish are
+ Way to use: Raw blood is taken orally.                        used.
+  Disease: Kala-azar (Tribe: Karbi)                                Species: Trichogaster lalius (Family: Osphronemidae)
+ Way to use: Raw fish or fresh blood of the fish  is
+  consumed.                                                   Disease: General illness, Typhoid (Tribe: Bodo)
+  Disease: Entry of leech into the anus (Tribe: Karbi)          Way to use: The whole fish is consumed.
+ Way to use: Fresh raw blood is consumed to remove        Species: Wallago attu (Family: Siluridae)
+  leeches from the rectum/anus.
+  Species: Mystus carcio (Family: Bagridae)                      Disease: Dry skin, Skin scars (Tribe: Bodo)
+                                             Way to use: Skin, muscles, bladder, and the whole fish
+  Disease: General weakness post-illness (Tribe: Bodo)           are used.
+ Way to use: Meat is consumed.                               Disease: Liver tonic (Tribe: Karbi)
+  Species: Mystus sp (Family: Bagridae)                  Way to use: Boiled head of the fish is taken regularly to
+                                                        improve liver function.
+  Disease: Small pox (Tribe: Karbi)                               Species: Wallago auto (Family: Siluridae)
+ Way to use: Cooked fish is eaten.
+  Species: Mystus tengara (Family: Bagridae)                    Disease: Asthma (Tribe: Karbi)
+                                             Way to use: It is advised to include in the diet for asthma
+  Disease: General weakness post-illness (Tribe: Bodo)               relief.
+ Way to use: Meat is consumed.                               Disease: Asthma trouble (Tribe: Mishing)
+  Species: Nandus nandus (Family: Nandidae)              Way to use: Airbladder is utilized in the diet for asthma
+                                                                                  relief.
+  Disease: Mild colds and fevers, Eyesight improvement,        Species: Xenentodon cancila (Family: Belonidae)
+  Strength recovery (Tribe: Bodo)
+ Way to use: Flesh and head are used.                          Disease: Bruises, Hematoma (Tribe: Bodo)
+  Species: Puntius sarana (Family: Cyprinidae)              Way to use: Head, snout, and the whole fish are used.
+
+
+  Disease: Eye health (Tribe: Bodo)
+ Way to use: Meat is consumed.
+  Species: Puntius sophore (Family: Cyprinidae)
+
+
+  Disease: Pain from H. fossilis sting (Tribe: Bodo)
+ Way to use: Whole fish along with the alimentary canal
+  and bile are used.
+  Species: Puntius sp (Family: Cyprinidae)
+
+
+  Disease: Eye problem (Tribe: Bodo)
+ Way to use: Fish is cooked and consumed.
+  Disease: Weakness  after  delivery,  Night  blindness,
+ Memory (Tribe: Karbi)
+ Way to use: Boiled fish is taken to regain health. Cooked
+  head is consumed regularly for memory enhancement.
+  Species: Rasbora sp (Family: Cyprinidae)
+
+
+
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org     649
+
+--- Page 8 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  Analysis:
+  The   analysis   of   the                                                                             collected   data
+  revealed    a    notable                                                                              reliance     on
+  certain  fish  species  for                                                                              medicinal
+  purposes  among   the                                                                                                    tribal
+  communities  of  Assam.                                                              The     stinging
+  catfish,  Heteropneustes                                                                                                fossilis, was the
+  most  frequently   cited,                                                                     with       eight
+  mentions across various                                                                           ailments.    This
+  species, renowned for its                                                                                        ability to survive
+  in           low-oxygen                                                                      environments, is
+  revered for its wide array                                                                           of     medicinal
+  applications, ranging from                                                              anemia       to
+ wound    healing.     Its                                                                           repeated
+                                   Figure 1: Most used fished for medicine in the survey
+  occurrence  suggests  a                                                                        deep-seated
+  trust   in    its   healing                                                                                 properties
+ among the tribes, particularly the Kachari (Figure 1).
+
+
+  The magur catfish, often referred to in the dataset as Clarius magur, which is likely a variant of Clarias magur, appears
+  seven times. This species is well-known for its nutritional value and is commonly utilized in aquaculture. Its prominence
+  in the dataset underscores its dual importance as a dietary staple and a medicinal resource, indicating its integral role in
+  the tribal communities' health practices.
+
+
+  The cuchia, Monopterus cuchia, an eel-like fish, is mentioned six times and is particularly notable for its use in treating
+  anemia and conditions related to childbirth. This might be attributed to its high content of iron and other micronutrients,
+  which are crucial for recovery and strength post-delivery.
+
+
+  The dwarf snakehead, Channa gachua, appears four times, signifying its importance in treating ailments like swelling and
+  dysentery. Its therapeutic use might be associated with its perceived potency and the active compounds found within its
+  tissues.
+
+
+  Lastly, the unspecified species of the genus Puntius (Puntius sp.) is mentioned four times and is used for a spectrum of
+  conditions, including eye health and as a blood purifier. The recurrent mention of Puntius spp. reflects the tribes' broad-
+  spectrum use of barbs for their perceived medicinal properties.
+
+
+  The recurring reference to these species underscores their medicinal significance and the reliance on indigenous
+  ichthyofauna for healthcare among the tribal communities of Assam. This highlights the intricate link between the cultural
+  heritage of these tribes and the biodiversity they have historically accessed for their health and wellbeing.
+
+
+ Conslusion
+
+
+  The ethnopharmacological survey conducted in the tribal villages of Assam has culminated in a substantial inventory of
+  fish species used as medicinal remedies. Key findings reveal a rich tradition of ichthyotherapy among the Bodo, Karbi, and
+  Mishing tribes, with species such as Heteropneustes fossilis, Clarias magur, Monopterus cuchia, Channa gachua, and
+  various species of the genus Puntius playing a significant role in the traditional healthcare practices of these communities.
+  The study underscores the vast, yet largely undocumented, repository of traditional knowledge concerning the medicinal
+  use of fish and highlights the critical role of ethnopharmacology in understanding and preserving these practices.
+
+
+  Our findings reinforce the importance of ethnopharmacological studies in contributing to the body of traditional
+  medicine, potentially providing insights for modern therapeutic approaches. The documentation of specific fish species
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org    650
+
+--- Page 9 ---
+© 2019 JETIR May 2019, Volume 6, Issue 5                                        www.jetir.org (ISSN-2349-5162)
+
+
+  and their applications in treating a wide array of ailments not only preserves traditional knowledge but also serves as a
+  foundation for future pharmacological research.
+
+
+  Further research is recommended to isolate and characterize the bioactive compounds in these fish species, which may
+  contribute to the discovery of new drugs and therapeutic treatments. Additionally,  it  is imperative to continue
+  documenting traditional knowledge systems, which are at risk of erosion due to rapid cultural and environmental changes.
+
+
+  Preservation of this traditional knowledge is not without its challenges. The increasing exploitation of aquatic resources
+  and environmental degradation poses a threat to the survival of these fish species and, consequently, the medicinal
+  practices that depend on them. Conservation efforts must be integrated with cultural preservation, ensuring sustainable
+  practices that allow for the continuation of traditional medicine while maintaining ecological balance.
+
+
+  In conclusion, this study not only provides a valuable ethnopharmacological record but also calls for a thoughtful reflection
+  on the sustainable use of natural resources. It emphasizes the need for a synergetic approach that encompasses health
+  benefits, conservation, and the safeguarding of traditional wisdom, ensuring that these ancient practices continue to
+  benefit future generations.
+
+
+ Reference
+
+
+ BASUMATARY, G., NARZARY, B., & KHANGEMBAM, B. K. (2023). Diversity and traditional ethnozoological uses of
+       ichthyofauna by the Bodo Tribes of Kokrajhar, Assam, Northeast India. Nusantara Bioscience, 15(1).
+  BORO, M., DAS, B., BORO, K. K., NATH, M., BURAGOHAIN, P., ROY, S., SARMA, P. J., KALITA, S., & NATH, N. (2023).
+       Quantitative ethnobotany of medicinal plants used by the Bodo Community of Baksa District, BTR, Assam, India.
+        Biodiversitas Journal of Biological Diversity, 24(6).
+  Chakraborty, D. (n.d.). Animal Imagery in Advertising: Issues of Conservation with Special Reference to the State Animal
+       of Assam. Chief Advisor, 13.
+  Chetia, A., Village, M. P. C., & District-Dhemaji, A. (n.d.). Traditional Zootherapeutic uses in the Treatment of Asthma by
+       the Ethnic Groups of Assam, India.
+  Das, A., Gujre, N., Devi, R. J., & Mitra, S. (2021). A review on traditional ecological knowledge and Its role in natural
+       resources management: north east India, a cultural paradise. Environmental Management, 1–22.
+  Das, M., Das, A., Seikh, S., & Pandey, R. (2022). Nexus between indigenous ecological knowledge and ecosystem services:
+      a socio-ecological analysis for sustainable ecosystem management. Environmental Science and Pollution Research,
+       29(41), 61561–61578.
+  Garigliany, M.-M., Hoffmann, B., Dive, M., Sartelet, A., Bayrou, C., Cassart, D., Beer, M., & Desmecht, D. (2012). Zoonotic
+       Disease Pathogens in Fish Used for Pedicure. Emerg Infect Dis, 18, 469–472.
+  Grassberger, M., & Sherman, R. A. (2013). Ichthyotherapy. In Biotherapy-History, Principles and Practice: A Practical Guide
+       to the Diagnosis and Treatment of Disease using Living Organisms (pp. 147–176). Springer.
+  Nasreen, S., & Borah, G. A. (2023). A Review on the Use of Heteropneustes fossilis and Clarias magur in Assamese
+        Traditional Medicine. Asian Journal of Biological and Life Sciences, 12(1), 19.
+  Sophia, D., Gopalakrishnan, V. K., Ram Kumar, C., & Vijayalakshmi, B. (2023). An Insight into Traditional and Integrative
+       Medicine. In Translating Healthcare Through Intelligent Computational Methods (pp. 37–48). Springer.
+  Teronpi, V., Singh, H. T., Tamuli, A. K., & Teron, R. (2012). Ethnozoology of the Karbis of Assam, India: Use of ichthyofauna
+        in traditional health-care practices. Ancient Science of Life, 32(2), 99.
+  Verma, A. K., Prasad, S. B., Rongpi, T., & Arjun, J. (2014). Traditional healing with animals (zootherapy) by the major ethnic
+      group of Karbi Anglong district of Assam, India. International Journal of Pharmacy and Pharmaceutical Sciences,
+        6(8), 593–600.
+  Vontzalidou, A., Tsioutsiou, E. E., Dina, E., Cheilari, A., & Aligiannis, N. (n.d.). Exploitation of ethnopharmacological data
+      towards the discovery of novel wound healing agents.
+
+
+
+
+
+   JETIR1905Y90   Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org    651

@@ -1,0 +1,134 @@
+
+I. Introduction
+II. Methods
+   A. Data Collection
+   The primary goal of the data collection process was to meticulously collect and organize alpha diversity indexes of both human and animal gut microbiomes from various ecological settings and evolutionary stages.  This effort was critical for generating a robust dataset to allow for a comparative analysis of gut microbiome transformations as a result of urbanization and domestication transitions.
+Quantitative Data Collection:
+    - Literature Review: A thorough review of existing literature was conducted in order to identify relevant research papers presenting data on gut microbe alpha diversity in humans and animals.  Eleven research papers were carefully chosen for their relevance, methodological rigor, and clarity of the presented alpha diversity indexes.
+    - Data Extraction: The alpha diversity indices reported in the selected papers were extracted manually and meticulously recorded in a structured Excel spreadsheet. The extracted data included information about the alpha diversity indexes, the species and populations studied, and the ecological or evolutionary context in which the data was collected (for example, urban, domestic, wild, and so on).
+    - Data Organization: To facilitate subsequent analyses, the Excel spreadsheet was organized with separate sheets for human and animal data, as well as additional subdivisions based on ecological or evolutionary contexts.  This well-organized dataset was used as the foundation for the quantitative analysis in this review.
+Qualitative Data Collection: 
+    - Literature Review: In addition to the papers chosen for quantitative data extraction, a large number of other research papers were reviewed to gather qualitative information about changes in gut microbiome compositions. The relevance of these papers to the themes of urbanization, domestication, and gut microbiome transformations was determined.
+    - Data Extraction: From the selected papers, information about the microbial groups that increased or decreased, as well as other notable inferences about the implications of these changes, were extracted.  Details on the functional roles of specific microbial groups, their relationships with host health, and the potential drivers of observed microbiome transformations were included.
+    - Data Synthesis: The extracted qualitative data was synthesized in order to develop a comprehensive understanding of gut microbiome transformations and their implications. This synthesis aided the comparative and interpretative analyses conducted in this review, adding to the discussion of the parallel histories of human and animal gut microbiome evolutions during urbanization and domestication transitions. 
+
+
+   B. Quantitative Analysis
+   Exploratory Data Analysis (EDA):
+The datasets were subjected to extensive exploratory data analysis with Python's and Seaborn's libraries. To visually represent the distribution of Shannon values across different environments and transitions, bar plots were used.  The EDA's primary goal was to not only understand the underlying patterns in the data but also to validate the effectiveness of the preprocessing steps and detect any potential outliers.
+
+ Statistical Analysis:
+Paired t-tests were used to determine the significance of observed changes in Shannon values, which were facilitated by the'stats' module from Python's'scipy' package. This test was chosen because of its ability to compare two related samples, making it appropriate for our datasets in which Shannon values from one environment were compared to Shannon values from another for the same group of animals or areas. The p-values obtained from these t-tests were then used to infer the statistical significance of the observed changes.
+
+ Correlation Analysis:
+To understand the relationships between initial gut microbiome diversity and the magnitude of change, a detailed correlation analysis was performed.  Pearson's correlation coefficient, calculated in Python with the 'numpy' library, assessed the strength and direction of the linear relationship between variables. This analysis revealed how the initial Shannon index in one environment could influence the magnitude of change when transitioning to another.
+
+ Visualization:
+Visual aids were critical in interpreting and communicating the findings. Several plots, including bar plots with individual trend lines and box plots, were created in Python using the'matplotlib' and'seaborn' libraries.  These visualizations helped to clarify data patterns and highlighted key transitions in gut microbiome diversity.
+
+
+III. Results
+   A. Human Gut Microbiome Evolution
+       1. Hunter-Gatherer Stage
+- Bacterial Composition: The gut microbiome of hunter-gatherer populations such as the Yanomami and BaAka is distinguished by a greater abundance of bacteria such as Prevotellaceae and Treponema.
+  
+- Dietary Influence: These bacteria are associated with a diet high in fibers and complex carbohydrates, which reflects hunter-gatherer consumption of wild plants, tubers, and the occasional meat. 
+  
+- Antibiotic Resistance: Despite never having been exposed to commercial antibiotics, the Yanomami, who have had little contact with the outside world, have a gut microbiome with the highest levels of antibiotic resistance genes.
+
+       2. Agricultural Stage
+- Bacterial Composition: As populations transitioned to agricultural lifestyles, the abundance of traditional microbiome features such as Prevotella and Treponema decreased noticeably. Instead, taxa belonging to the Firmicutes, such as Ruminococcaceae, Mogibacteriaceae, Faecalibacterium, and Leuconostoc, increased.
+  
+- Dietary Influence: The shift in bacterial composition reflects agricultural-induced dietary changes. Domesticated plants and animals resulted in a diet that, while still high in fiber, differed from the diverse diet of hunter-gatherers.
+  
+- Bacterial Adaptation: The high abundance of Succinivibrionaceae and Prevotellaceae in agricultural populations suggests bacterial adaptation to domesticated plant consumption.
+
+       3. Urban Stage
+- Bacterial Composition: The most significant changes in the gut microbiome were caused by urbanization. Bacteroidaceae increased significantly, which was linked to high fat consumption and the ability to degrade the mucus barrier in the gut. Bacteroidaceae and Rikenellaceae became more common, most likely as a result of their tolerance to bile, which has been linked to increased consumption of animal products.
+  
+- Dietary Influence: Modern urban diets, which are high in processed foods, fat, and dairy products, have influenced the composition of the gut microbiome.  The increased presence of Bifidobacterium in urban populations could be attributed to dairy product consumption.
+  
+- Environmental Interaction: Urban populations are less exposed to natural habitats than their forefathers, which can have an impact on the gut microbiome. Microbial diversity is lower in urban populations than in hunter-gatherer and agricultural populations, implying the extinction of some traditional microbes.
+       4. Quantitative results
+We discovered intriguing trends when we examined the Shannon index across three distinct societal groups: hunter-gatherers, agricultural, and urban. Hunter-gatherer communities had higher biodiversity indices, which increased as they transitioned to agricultural societies.  However, this uptrend was not sustained when agricultural communities evolved into urban settings, revealing a decline in the Shannon index. The bar plot visually encapsulated these patterns, highlighting the ebb and flow of biodiversity indices across societal transitions. This graphical representation highlighted the complex relationship that exists between societal structures and ecological diversity.
+In particular, we investigated the relationship between initial values and the magnitude of change in the context of the Shannon index.  
+
+Hunter-Gathering to Agricultural Transition:
+
+An initial examination of the data revealed a discernible positive trend across all areas between "hunter-gatherer" values and their subsequent transition to "agricultural" values (Figure 1). With a coefficient of r = 0.844, a strong positive correlation was discovered. This suggests that areas with higher Shannon indices for hunter-gatherers experienced a greater increase when agriculture was introduced.
+
+Agricultural to Urban Transition:
+
+On the contrary, there was an inverse relationship between the transition from "agricultural" to "urban" (Figure 2). Areas with higher Shannon indices in the agricultural phase, in particular, tended to have a smaller magnitude of change when transitioning to urban settings. This relationship's correlation coefficient was (r = -0.859), indicating a strong negative trend.
+
+This disparity in trend between the two transitions highlights the complex interplay of factors influencing biodiversity and ecological structures as societies evolve and adapt.
+
+   B. Animal Gut Microbiome Evolution
+       1. Wild Stage
+The initial wild stage of the gut microbiome, as observed in animals, represents a state of remarkable diversity and balance. This ecosystem, formed over millennia of co-evolution with nature, exemplifies a symbiotic relationship in which the host and its microbial inhabitants benefit from one another. The Shannon values, which indicate microbiome diversity, are significantly higher in this wild setting, indicating a diverse range of microbial species.  This diversity not only highlights the host's adaptability to a variety of natural diets and environments, but it also highlights the gut ecosystem's resilience to potential pathogens and external disruptions.
+
+       2. Domestication
+Our research into the impact of domestication on gut microbiome diversity discovered significant differences in Shannon values between wild and domestic environments for the animals studied. The Shannon index was significantly higher in wild settings, averaging around 0.78, than in domestic settings, which had an average Shannon value of around 0.50. A paired t-test yielded a p-value of 0.0414, indicating that the decrease in gut microbial diversity caused by domestication was statistically significant.
+
+A correlation analysis was performed to further elucidate the relationship between the initial microbial diversity in wild settings and the magnitude of its change upon domestication. The findings revealed a positive correlation of approximately 0.784, indicating that animals with a higher initial Shannon index in wild settings experienced a greater loss of diversity upon domestication. This suggests that domestication has a greater impact on the gut microbiome as microbial diversity increases.
+
+Our bar plots with individual trend lines for each species emphasized these variations in the visual representation of this trend. Each trend line highlighted the shift in gut microbiome diversity as animals moved from wild to domestic environments, bolstering our numerical findings.
+
+Compositional Chnage
+   There are clear differences in the gut microbiome compositions of domesticated and wild animals. Axelsson et al. (2013), for example, found significant differences between domesticated dogs and wolves.
+
+2. Changes at the Phylum Level:
+   -   Firmicutes have been found in greater abundance in domesticated animals. Middelbos et al.    (2010) linked this to improved complex carbohydrate digestion in domesticated diets.
+   - Bacteroidetes: Decreases in domesticated animals fed grain-based diets have been reported.
+   - Actinobacteria: Fluctuations are variable, as evidenced by various domestication studies.
+   - Proteobacteria: Ley et al. (2008) discovered an increase in some domesticated animals, which corresponded to high protein diets.
+
+3. Modifications at the Class and Order Levels:
+   -  Clostridia: Clostridia abundance has increased in domesticated animals, assisting in the fermentation of complex carbohydrates.
+   - Bacteroidia: Depending on the diet, changes can be variable.
+   - Erysipelotrichi: Some increases in domesticated animals have been observed in specific studies.
+
+
+
+       3. Urbanization
+Our research into the effects of urbanization on gut microbiome diversity revealed significant differences between animals in wild, rural, and urban environments.  Shannon values, which indicate microbiome diversity, were consistently higher in wild or rural settings, averaging around 0.67. In comparison, urban environments had a lower average Shannon value of around 0.42. This decrease in gut microbial diversity with urbanization was not only visible but also statistically significant, as evidenced by a p-value of 0.0077 in our paired t-test.
+
+A correlation analysis was performed to investigate the relationship between initial microbial diversity in wild or rural settings and its change as animals transitioned to urban environments. The analysis produced a positive correlation of about 0.692.  This implies that animals with a higher initial Shannon index in wild or rural environments experienced a greater decline in diversity when they moved to cities.
+
+Graphical representations, specifically bar plots with individual trend lines for each species, confirmed these findings visually. Each trend line clearly demonstrated the decrease in gut microbiome diversity as animals moved from wild or rural settings to urbanized environments, confirming our numerical findings. 
+Compositional Chnage
+
+Certainly  Certain bacterial phyla and orders are frequently mentioned in scientific literature when discussing shifts in the gut microbiome due to urbanization in animals. Here are some specifics:
+1. Firmicutes:
+    This phylum's relative abundance varies frequently in the gut microbiomes of urbanized animals. Many mammalian studies have linked urban environments or diets associated with urbanization (e.g., high-fat, high-sugar diets) to an increase in Firmicutes relative to Bacteroidetes abundance.  Some studies have linked this firmicutes-to-bacteroidetes ratio shift to obesity. When there is a shift to processed foods, the order of Clostridiales within Firmicutes may increase, particularly groups associated with carbohydrate fermentation.
+2. Bacteroidetes:
+    This phylum may decline in urbanized areas, particularly when compared to the increase in Firmicutes. This phylum's order Bacteroidales is important in the digestion of complex carbohydrates. Their decline could be linked to a decrease in natural plant fiber intake in urbanized diets.
+3. Actinobacteria:
+   Some studies have found an increase in the abundance of Actinobacteria in urbanized animals, particularly those exposed to antibiotics, because some members of this phylum are antibiotic-resistant. Within this phylum, the genus Bifidobacterium (order Bifidobacteriales) is notable. Some probiotic species may fluctuate in response to dietary changes.
+4. Proteobacteria:   
+Several opportunistic pathogens are found in this phylum.  Proteobacteria abundance can sometimes be increased by urban environments and stressors, indicating a potential dysbiosis. The order Enterobacteriales within this phylum contains several potential pathogens, such as Escherichia and Salmonella, which may be found in greater quantities in contaminated urban food sources.
+
+5. Verrucomicrobia:
+   Some studies have found changes in the abundance of this phylum as a result of dietary changes, though the direction of change can vary depending on the context.  The genus Akkermansia (order Verrucomicrobiales) is frequently mentioned because of its potential benefits to gut health.
+
+
+
+
+   C. Comparative Analysis
+       1. Comparison of gut microbe alpha diversity transitions between humans and animals
+       2. Discussion on the shared and divergent factors influencing gut microbiome changes across species
+
+IV. Discussion
+   A. Examination of the implications of these transformations on health and disease susceptibility
+   B. Discussion on the potential implications of gut microbiome transformations for human and animal health
+   C. Recommendations for preserving gut microbiome diversity amidst urbanization and domestication
+
+V. Implications
+   A. Suggestion for further research in understanding the gut microbiome evolution
+   B. Implications for interventions aimed at promoting gut health in modern urbanized settings
+
+VI. Conclusion
+   A. Recapitulation of key findings and their significance in understanding human and animal parallel histories from a gut microbiome perspective
+
+VII. References
+

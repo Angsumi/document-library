@@ -1,0 +1,61 @@
+--- Page 1 ---
+ANGSUMAN DAS
+Rangachakua, Jamugurihat
+Sonitpur, Assam, 784182
+Mail id: angsudas62@gmail.com ,phn no: 7896505109
+
+OBJECTIVE
+A challenging entry-level position that get me into deeper research experience in bioinformatics where I can learn more and
+impact positively by utilizing my IT skills and knowledge of applications for Genomics and Epigenetics.
+
+EDUCATION
+M. Sc. (Zoology)                (68.29%, 2020)                                  Rajiv Gandhi university
+B. Sc. (Zoology)                 (72.00%, 2018)                     Darrang College, Gauhati university
+H.S.                            (82.80%, 2015)                       THB College, Sonitpur
+H.S.L.C.                        (74.87%, 2013)                     Rangachakua HS School, Sonitpur
+
+IT SKILLS                            DATA ANALYSIS
+    ●Operating System: Windows 7/10 & Linux       ●Data Science: Pandas, Pyplot, SKlearn
+●Languages: Python, R, HTML                   ●Data Analysis
+●Office Suit: MS office, Google Workspace        ●NGS Data Processing
+●Basic Graphic Design, Poster presentation
+●Database: NCBI, PDB, Uniprot
+
+IT EXPERIENCE & PROJECTS
+RASA Life Sciences
+  Trainee Bioinformtician                                                                     (march2021-Now)
+Springfest IIT Kharagpur, virtual
+  Internship Program                                                                                 (1month, 2020)
+●   10-day Bioinformatics Training and
+●  1-month internship Program with academic research exposure
+Rajiv Gandhi University, Itangar
+ MSc Project                                                                                  (9month, 2019-2020)
+Project: Lepidopteran Silk Worm. 3 membered Team.
+●  Reviewed the literature related to All Wild and domestic silk worms
+●  With Special emphasis on the North-east Indian Silk worms mined the literature
+●   Searched  for  related  wild  species  of Muga (The  golden  silk worm)  that  is endemic  to Assam  state  with an
+    anthropo-zoological perspective
+●   Role: Involvement in majority of the phases of literature mining and Ground zero survey throughout the state of Assam.
+Experience included 2 months of field visit and survey.
+
+Darrang College, Tezpur
+  BSc Project                                                                                        (6month, 2018)
+Project: Physico-Chemical property analysis of River Water and deter Biodiversity Index
+●   Collected water samples of River bohimora from its source, course and mouth which flows through the Sonitpur District of
+    Assam.
+●   Rigorous zoological survey and their habitat assessment throughout the River bohimora and the its mouth where it meets
+    Bhoroli a tributary of Brahmaputra.
+●  The research contains references from high-end research literature in Geoinformatics and water assessment study
+Outcome: Rapid loss of biodiversity toward its source are seen and river water livability in contamination can be observed which
+is due to illegal stone quarry.
+
+ACHIEVEMENTS & ACTIVITIES OR EXTRA CIRRICULAR
+●   Volunteered through United Nations virtual volunteer as graphics designer for African Association of Entrepreneurship
+    (2020)
+●  Conducted regular tuitions in Biology and Physics, and add 4-5 lower caste (Adivasi) student for free (2019-present)
+
+PERSONAL DETAILS
+Nationality                       : Indian
+Date of birth                    : July 17th, 1997
+Linguistic proficiency       : English, Assamese, Nepali, Bangla, Hindi
+Interests                           : Politicl Science, Human history and Coding

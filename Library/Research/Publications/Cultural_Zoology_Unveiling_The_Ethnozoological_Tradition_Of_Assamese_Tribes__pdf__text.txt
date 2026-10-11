@@ -1,0 +1,318 @@
+--- Page 1 ---
+               Journal of Advanced Zoology
+                                                      ISSN: 0253-7214
+                                     Volume 42 Issue 2 Year 2021 Page 243-249
+
+
+
+
+____________________________________________________________________________________________________________________________
+
+ Cultural Zoology: Unveiling The Ethnozoological Tradition Of Assamese Tribes
+
+                             Angsuman Das1*
+
+                                          1*Rajiv Gandhi University
+
+                             *Corresponding Author: Angsuman Das
+                                      *Rajiv Gandhi University
+
+                                                          Abstract
+
+                        This comprehensive review delves into the rich ethnozoological traditions of
+                      Assamese tribes in the biodiversity-rich state of Assam, which is an important
+                            part of the Eastern Himalayan hotspot. This study, which focuses on the complex
+                            relationships between indigenous communities and wildlife, delves into the
+                              cultural, ecological, and medicinal practices that highlight the symbiotic bond
+                       between humans and animals. The study chronicles ethnozoological knowledge
+                        through a thorough examination of scholarly databases, with a focus on the use
+                          of various species in traditional medicine to treat a wide range of ailments. This
+                           analysis demonstrates a deep understanding of the natural world, emphasizing
+                           the importance of traditional ecological knowledge (TEK) in biodiversity
+                          conservation and  cultural  heritage  preservation. The  findings  argue  for
+                          incorporating TEK into modern conservation strategies, providing insights into
+                           the preservation of both tangible and intangible aspects of biodiversity. This
+                         study  emphasizes  the  critical  role  of  ethnozoology  in  environmental
+                          conservation and healthcare, and it advocates for an interdisciplinary approach
+  CC License            that  combines  traditional wisdom  with modern  scientific  research  and
+   CC-BY-NC-SA 4.0    conservation  efforts.  It paves the way for future research into less well-
+                      documented species and practices, highlighting the importance of documenting,
+                          studying, and respecting these traditions in order to develop long-term healthcare
+                           solutions and conservation strategies.
+                   Key Words: Ethnozoological traditions, Assamese tribes, Traditional ecological
+                      knowledge (TEK), Biodiversity conservation, Indigenous healthcare
+
+I. Introduction
+
+A. Background Information
+The state of Assam in the northeastern part of the country is well-known for its abundant biodiversity and
+vibrant cultural heritage. It represents a unique intersection of human and wildlife coexistence. This specific
+area, which is a part of the Eastern Himalayan biodiversity hotspot, is inhabited by a diverse range of plants
+and animals. These species play a crucial role in the daily lives and cultural traditions of the indigenous
+communities residing in Assam (Das, 2011). The field of ethnozoology, which focuses on the study of the
+dynamic connections between humans and animals, provides valuable insights into how societies perceive,
+utilize, and conserve wildlife (Alves & Souto, 2015). In Assam, the bonds between humans and animals are
+deeply ingrained in the customs and livelihoods of the local tribes, making  it an ideal environment for
+conducting ethnozoological research.
+
+
+Available online at: https://jazindia.com                                                      243
+
+--- Page 2 ---
+                                                                                 Journal of Advanced Zoology
+
+B. Rationale for the Study
+Documenting ethnozoological knowledge is of utmost importance due to multiple factors. Firstly, it contributes
+significantly to the conservation of indigenous cultural identities by providing a unique perspective on the
+intricate connections that exist between tribes and their natural surroundings (Rangel-Landa et al., 2022).
+Secondly, it plays a pivotal role in the preservation of biodiversity by offering fundamental data for the
+implementation of sustainable management practices that align with traditional ecological knowledge(TEK)
+(Adam et al., 2022). Despite its significance, the exploration of ethnozoological traditions among Assamese
+tribes remains limited, thus posing a risk of valuable knowledge erosion as traditional ways of life are
+increasingly affected by modernization (Stehr, 2001).
+
+C. Objectives and Scope of the Review
+ This review endeavors to systematically investigate the ethnozoological practices prevalent among the diverse
+tribes residing in Assam. It aims to shed light on the cultural significance of these practices and elucidate their
+implications for conservation efforts. By amalgamating existing research, the study strives to (1) chronicle the
+diverse range of ethnozoological knowledge present within Assamese tribes, (2) scrutinize the cultural and
+ecological roles played by animals in tribal communities, and (3) identify opportunities for incorporating
+Traditional Ecological Knowledge (TEK) into contemporary conservation strategies.
+
+D. Methodology Overview
+The approach utilized for this examination entails an exhaustive exploration of scholarly databases, including
+Web of Science, Scopus, and Google Scholar, employing keywords pertaining to ethnozoology, Assam, and
+tribal communities. Specific criteria were established to encompass scientific articles and books. The extraction
+of data centered on categorizing the various ethnozoological practices, species involved, and the cultural
+backdrop of these interactions. The analysis was structured utilizing thematic  synthesis, enabling the
+identification of patterns and deficiencies within the current body of knowledge.
+
+II. Theoretical Framework
+A. Definitions and Key Concepts
+Ethnozoology investigates the diverse methods by which human societies comprehend, employ, and establish
+connections with animals. This field of study delves into the cultural, spiritual, and pragmatic facets of human-
+animal interactions, offering valuable perspectives on conservation, animal welfare, and the sustainable
+utilization of biodiversity. The knowledge derived from ethnozoology, encompassing traditional practices such
+as silk production and insect consumption, accentuates the fundamental role animals play in ecological
+equilibrium and cultural legacy(Alves & Souto, 2015).
+Assam's cultural zoology is profoundly shaped by the abundant biodiversity  it possesses, as well as the
+customary habits of its indigenous communities. The production of Muga silk, a form of sericulture, is a time-
+honored custom exclusive to Assam, which epitomizes the intricate bond between the state and silk moths. In
+addition, entomophagy, the practice of consuming insects, serves as another demonstration of the region's
+sustainable utilization of its biological resources. These practices extend beyond being solely economic
+pursuits, instead possessing cultural significance and contributing to the social and religious fabric of Assam
+(Tikader et al., 2013) (Chakraborty, n.d.).
+
+B. Review of Related Literature
+Ethnozoological investigations in Assam have traditionally directed their attention towards the sericulture and
+entomophagy customs prevalent in the region. Archival materials dating back to the Ahom dynasty (1228–
+1826) have chronicled the cultivation of Muga silk, which is an inseparable facet of Assamese culture. This
+esteemed silk is cherished not only for its economic worth, but also for its cultural and ceremonial significance
+(Tikader et al., 2013) (Chakravorty et al., 2010). The act of entomophagy, particularly the consumption of
+specific insects as delectable treats or dietary supplements, is an embodiment of the indigenous understanding
+of the local fauna and its nutritional value (Sarmah et al., 2022).
+Recent studies conducted in Assam have shed  light on the ecological and economic significance of
+conventional ethnozoological customs. The examination of Muga silk production has placed a particular
+emphasis on its role in the sustenance of rural livelihoods and the preservation of biodiversity, given that the
+Muga silkworm (Antheraea assamensis) is inherently suited to the distinct ecological conditions of the region
+(Tikader et  al., 2013)(Goswami & Bhattacharya, 2013). Furthermore, contemporary investigations into
+entomophagy in Assam have revealed an intricate tradition of insect consumption, thus highlighting the
+Available online at: https://jazindia.com                                                      244
+
+--- Page 3 ---
+                                                                                 Journal of Advanced Zoology
+
+potential for sustainable protein sources and the conservation of age-old dietary practices (Rahman et al.,
+2018)(Narzari & Sarmah, 2015)(Sarmah et al., 2022). These practices are increasingly being acknowledged
+for their valuable contributions to food security, the conservation of biodiversity, and the perpetuation of
+cultural identity.
+
+III. Analysis and Result
+
+Ethnozoological Practices in Assamese Tribal Medicine
+Our comprehensive investigation into the ethnozoological customs of Assamese tribes reveals a compelling
+tapestry of cultural zoology intricately interwoven into their healthcare practices. Encompassing eight
+scholarly publications, our study illuminates the intricate utilization of a wide range of species, comprising
+125 distinct types across 66 families and 11 classes, meticulously employed in the treatment of an estimated
+154 different ailments. This extensive variety reflects a sophisticated compendium of traditional knowledge,
+where each animal and its designated anatomical components are carefully chosen to address specific health
+conditions spanning from anemia and paralysis to hemorrhoids and jaundice.
+The dataset, comprising a total of 187 records, comprehensively encompasses the indigenous knowledge of
+numerous tribes, such as the Bodo, Karbi, and Deori, among others, thus exemplifying a profound intertribal
+ethnomedical pluralism. Our meticulous categorization and correlation of ethnozoological resources with their
+corresponding therapeutic applications shed light on the intricate ethnomedical systems prevalent within these
+tribes. The findings of our analysis, which are presented in this document, provide a glimpse into the
+longstanding symbiotic relationship between the Assamese tribes and the natural world, as well as their
+dependence on its abundant resources for the purpose of healing and overall well-being (Error! Reference
+source not found.
+
+
+
+
+
+Figure 1: Top ailments treated by ethnozoological medicines in assam
+
+
+
+
+
+Available online at: https://jazindia.com                                                      245
+
+--- Page 4 ---
+                                                                                 Journal of Advanced Zoology
+
+
+
+
+
+Figure 2: Family and classes of animal used in asthma
+
+Utilization of Species for Asthma
+Treatment of asthma by ethnomedicine have been studied well by (Chetia et al., n.d.) which s incorporated in
+this review, that is why the main data set shows bias towards it. If we look deep into the asthma data (Error!
+Reference source not found.) we can see certain pattern where insecta are used extensively to treat asthma
+mostly(Chetia et al., n.d.), asthma is also mentioned in another tqo paper (Paul, 2018)(Verma et al., 2014).
+
+Utilization of Species for Anemia
+The data indicates a all of them use of aquatic species from the Actinopterygii (fish) class mostly the
+Synbranchidae(Gogoi & Bora, 2020)(Teronpi et al., 2012)(BASUMATARY et al., 2023) and Cyprinidae
+(BASUMATARY et  al., 2023)(Nasreen & Borah, 2023)families for the treatment of anemia. Notably,
+Heteropneustes fossilis (Clariidae) is prepared as a tonic by boiling(Nasreen & Borah, 2023), while Danio
+rerio (Cyprinidae) is consumed whole(BASUMATARY et al., 2023). These preparations suggest a cultural
+inclination towards utilizing freshwater fish, a staple in the Assamese diet, as a medicinal resource (Figure 3).
+
+
+
+
+
+Available online at: https://jazindia.com                                                      246
+
+--- Page 5 ---
+                                                                                 Journal of Advanced Zoology
+
+
+
+
+
+Figure 3: Looking deep into the family and class of animal used in treatment of 4 major ailments: Anemia,
+Jaundice, Paralysis and Piles
+
+Ethnozoological Remedies for Paralysis
+For paralysis, species from the Canidae and Phasianidae families, specifically Canis aureus and Pavo cristatus,
+are documented(BASUMATARY et al., 2023). The modes of preparation involve cooking the flesh of these
+animals, with the implication being the transfer of strength and vitality from the consumed species to the
+patient(Verma et al., 2014)(Paul, 2018). (Figure 3)
+Treatment of Piles with Diverse Fauna
+Our findings show that for piles, the tribes employ species from both aquatic and terrestrial environments.
+Anguilla bengalensis (Anguillidae) and several species from the Megascolecidae family are  utilized.
+Interestingly, the mode of preparation for Metaphire houletti involves keeping the organism in salty water,
+signifying  a  unique  method  of  extraction  of  medicinal  properties(Paul,  2018)(Gogoi &  Bora,
+2020)(BASUMATARY et al., 2023) (Figure 3).
+
+Addressing Paralysis with Avian and Mammalian Species
+The treatment of paralysis showcases a reliance on avian species from the Columbidae family and the
+Phasianidae family's mammalian species. The ethnozoological practice here involves the cooking of flesh,
+indicating a belief in the curative properties of heat-treated animal protein(Gogoi & Bora, 2020)(Verma et al.,
+2014).
+
+
+
+Available online at: https://jazindia.com                                                      247
+
+--- Page 6 ---
+                                                                                 Journal of Advanced Zoology
+
+IV. Conclusions and Recommendations
+
+A. Summary of Key Findings
+Our thorough analysis emphasizes the critical role of ethnozoological practices in preserving the rich tapestry
+of cultural and biological diversity among Assamese tribes. The meticulous use of a wide range of species for
+healthcare exemplifies a deeply ingrained knowledge system that not only promotes biodiversity but also
+protects cultural heritage. This symbiotic relationship between people and their surroundings highlights the
+importance of ethnozoology in preserving both tangible and intangible aspects of biodiversity. Documenting
+and analyzing these practices provides us with invaluable insights into sustainable living and environmental
+conservation.
+Our findings on the ethnomedical practices of Assamese tribes highlight the importance of traditional
+knowledge in the diagnosis, treatment, and prevention of various ailments. This ethnozoological knowledge,
+passed down through generations, demonstrates a deep understanding of the natural world and its therapeutic
+potentials. The reliance on diverse faunal resources reflects an empirical knowledge base that is both
+scientifically and culturally significant. These practices not only benefit community health and well-being, but
+also lay the groundwork for new directions in natural product research and drug discovery.
+
+B. Future Research Directions
+Despite the breadth of our research, there are several gaps that require further investigation. Ethnozoological
+practices have been documented in varying degrees, with some species and treatments receiving more
+attention. Future research should aim to fill these gaps by investigating less well-documented species and their
+applications, scientifically validating the efficacy of these traditional remedies, and documenting the oral
+histories and methodologies underlying these practices. Furthermore, there is a need to investigate the impact
+of modernization and environmental changes on the survival of these ethnozoological practices.
+The breadth and  extent of ethnozoological knowledge  necessitate an  interdisciplinary approach  that
+incorporates methodologies from anthropology, biology, ecology, pharmacology, and conservation science.
+Such an approach can help us better understand the complex relationships between humans and animals, the
+bioactive  properties  of  faunal  resources, and  the  conservation  implications  of  traditional  practices.
+Collaborative research projects involving local communities, scientists, and policymakers can help reconcile
+traditional knowledge with modern conservation strategies, ensuring the conservation of biodiversity and
+cultural heritage for generations to come.
+Finally, the ethnozoological practices of Assamese tribes provide a unique perspective through which we can
+understand the interdependence of cultural and biological diversity. By documenting, studying, and respecting
+these traditions, we can pave the way for long-term healthcare solutions and conservation efforts that honor
+both historical wisdom and future needs.
+
+V. References
+
+1.  Adam, A. A., Othman, N., & Halim, A. A. (2022). Indigenous Knowledge Documentation: Perspectives
+     of Dusun and Bajau Communities in Kota Belud, Sabah, Malaysia. International Journal of Academic
+    Research in Business and Social Sciences, 12(10), 162–175.
+2.   Alves, R. R. N., & Souto, W. M. S. (2015). Ethnozoology: a brief introduction. Ethnobiology and
+    Conservation, 4.
+3.  BASUMATARY, G., NARZARY, B., & KHANGEMBAM, B. K. (2023). Diversity and traditional
+     ethnozoological uses of ichthyofauna by the Bodo Tribes of Kokrajhar, Assam, Northeast India.
+    Nusantara Bioscience, 15(1).
+4.   Chakraborty, D. (n.d.). Animal Imagery in Advertising: Issues of Conservation with Special Reference to
+     the State Animal of Assam. Chief Advisor, 13.
+5.   Chakravorty, R., Dutta, P., & Ghose, J. (2010). Sericulture and traditional craft of silk weaving in Assam.
+6.   Chetia, A., Village, M. P. C., & District-Dhemaji, A. (n.d.). Traditional Zootherapeutic uses in the
+    Treatment of Asthma by the Ethnic Groups of Assam, India.
+7.   Das, A. P. (2011). Conservation efforts for East Himalayan Biodiversity and need for the establishment
+     of corridors. C. Ghosh & AP Das, Recent Studies in Biodiversity and Traditional Knowledge in India.
+    Sarat Book House, Kolkata, 329–346.
+8.   Gogoi, C., & Bora, M. (2020). Zoo-therapeutic practices among the deori tribes of Dhemaji district,
+    Assam, India. International Journal of Fauna and Biological Studies, 7(4), 196–198.
+
+Available online at: https://jazindia.com                                                      248
+
+--- Page 7 ---
+                                                                                 Journal of Advanced Zoology
+
+9.  Goswami, C., & Bhattacharya, M. (2013). Contribution of sericulture to women’s income in Assam-a
+    case study in Goalpara district of Assam, India. International Journal of Scientific and Research
+     Publications, 3(3), 1–6.
+10.  Narzari, S., & Sarmah, J. (2015). A study on the prevalence of entomophagy among the Bodos of Assam.
+    Journal of Entomology and Zoological Studies, 3(2), 315–320.
+11.  Nasreen, S., & Borah, G. A. (2023). A Review on the Use of Heteropneustes fossilis and Clarias magur
+     in Assamese Traditional Medicine. Asian Journal of Biological and Life Sciences, 12(1), 19.
+12.  Paul, S. (2018). Ethnozoological knowledge among mising tribes of dhemaji, Assam. International
+    Journal of Engineering, Science and Mathematics, 7(3), 53–65.
+13. Rahman, A., Bordoloi, S., & Mazid, S. (2018). Entomophagy practiced among the Tiwa community of
+    Morigaon district, Assam. Journal of Entomology and Zoology Studies, 6(1), 484–486.
+14.  Rangel-Landa, S., Saucedo-Gudino, M. E., Guzmán-Gomez, E. L., Salazar-Ramirez, M. F., Blanco-
+     García, A., Caldera-Cano, D., Carbajal-Navarro, A. L., Caro Gómez, R., Ponce-Rangel, A., & Texta-
+    Hernández, J. I. (2022). Traditional ecological knowledge and biodiversity conservation in the Tierra
+     Caliente Region of Michoacán. Ethnobotany of the Mountain Regions of Mexico, 1–34.
+15. Sarmah, M., Bhattacharyya, B., Bhagawati, S., & Sarmah, K. (2022). Nutritional Composition of Some
+   Commonly Available Aquatic Edible Insects of Assam, India. Insects, 13(11), 976.
+16.  Stehr, N. (2001). The fragility of modern societies: Knowledge and risk in the information age. Sage.
+17.  Teronpi, V., Singh, H. T., Tamuli, A. K., & Teron, R. (2012). Ethnozoology of the Karbis of Assam,
+     India: Use of ichthyofauna in traditional health-care practices. Ancient Science of Life, 32(2), 99.
+18.  Tikader,  A.,  Vijayan,  K., &  Saratchandra,  B.  (2013). Muga  silkworm, Antheraea  assamensis
+     (Lepidoptera: Saturniidae)-an overview of distribution, biology and breeding. European Journal of
+    Entomology, 110(2).
+19. Verma, A. K., Prasad, S. B., Rongpi, T., & Arjun, J. (2014). Traditional healing with animals (zootherapy)
+    by the major ethnic group of Karbi Anglong district of Assam, India. International Journal of Pharmacy
+    and Pharmaceutical Sciences, 6(8), 593–600.
+
+
+
+
+
+Available online at: https://jazindia.com                                                      249

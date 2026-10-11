@@ -1,0 +1,1280 @@
+--- Page 1 ---
+       Master Data Science and Machine Learning, from the
+         critical foundations of statistics and probability to working
+       hands-on with Machine Learning models using Python and
+        R, two of the world's most popular programming languages.
+
+
+
+January 9, 2021
+   30 Weeks
+  Batch - 13
+
+--- Page 2 ---
+                 ATC Innovation Center
+                                              2972 Webb Bridge Rd, Alpharetta, GA 30009
+                                         www.bbds.ma | | register@bbds.ma | | 315-975-1661
+
+
+Hundreds of online courses exist today. What many of them lack, however, is a commitment to helping you translate
+your knowledge into something tangible - the ability to excel and grow as an AI/ML professional.
+
+To tackle this, the BBDS 30 Week Training Program in Data Science & Machine Learning has been designed to give
+you the academic rigor, learning support, and peer interaction of a full-time course with the flexibility of an online
+program.
+
+The program uniquely combines a comprehensive curriculum, covering the most widely-used tools and techniques in
+the industry, with a hands-on learning approach. A structured learning journey keeps you on track throughout as you
+achieve your weekly learning milestones with your mentor and benefit from their rich professional experience.
+
+Following a “learn by doing” pedagogy, the program offers you the opportunity to apply your skills and knowledge in
+real-time every week through interactive mentor-led practice sessions, quizzes, assignments, and hands-on projects. As
+you do so, you come to truly appreciate the nuances of data and build your portfolio in the process.
+
+On a whole, the program empowers you with the skills, body of work, and job market insights you need to find the right
+career opportunities or lead AI and ML in your current organization. All this comes with the credibility, global
+advantage, and academic leadership of Big Bang Data Science Solutions.
+
+
+
+
+
+       Mo Medwani                  Ed Bujak
+   Data Scientist, Director – Training Programs           Data Scientist, Python Instructor
+
+                                                                      •  26 years of IT experience and 6 years of Data
+ •  Ph.D. Candidate (Artificial Intelligence)
+                                                  Science experience
+ •  4 Master Degrees: MS in Machine Learning |
+                                                                      •  20 years of education experience: Computer
+  MS in Data Science | MS in IT | MBA
+                                                     Science, Mathematics, Engineering
+ •  20+ years of IT experience (Service Delivery
+                                                                      •  2 masters degrees (MS Electrical Engineering
+   Management)
+                             & Science, MS Education)
+ •  8+ Years of experience in Data Science &
+                                                                      •  Public speaker on everything programming,
+    related technologies
+                                               Data Science, Machine Learning
+
+--- Page 3 ---
+                              •  You will learn about Python & R and survey tools available in them for acquiring,
+                              cleaning, visualizing & analyzing data.
+                              •  You will learn how to extract data from files (CSV, HTML, JSON, XML) and databases
+                            (Mysql), the rudiments of data cleaning, and examine data analysis, machine learning
+What you will     and data visualization packages available in Python & R.
+                              •  You will learn models and methods used in machine learning and deep learning, and
+    learn            apply them to real-world situations ranging from identifying trending news topics to
+                             building recommendation engines, ranking sports teams, and plotting the path of movie
+                           zombies.
+                              •  You will learn Machine Learning types, Natural Language Processing (NLP) and
+                          network analysis available in Python | R | RapidMiner | SAS for Enterprise Miner…
+                              •   Certified Analytics Professional Training (CAP)
+
+
+                              •   Build your expertise in the most widely-used AI & ML tools and technologies.
+                              •   Acquire the ability to independently solve business problems using AI & ML.
+Key Learning   •  Master the skills needed to build machine learning and deep learning models.
+                              •  Develop know-how of the applications of AI in areas such as Computer Vision & NLP.  Outcomes
+                              •   Understand the possibilities and implications of AI in different industries.
+                              •   Build a substantial body of work and an industry-ready portfolio in AI & ML.
+
+
+                               If you miss a session, you can choose either or both of the two options:
+ What if you          o  View the recorded session of the class available in your LMS account.
+                         o  Schedule a 1:1 session to recap what you missed. miss a class?
+
+                              •  Saturday        : 9:00 AM EST to 12:00 PM EST
+                              •  Monday          : 8:00 PM EST to 11:00 PM EST
+                              •  Wednesday     : 8:00 PM EST to 11:00 PM EST
+   Time &         •  Thursday        : 8:00 PM EST to 11:00 PM EST                              •  Friday           : 8:00 PM EST to 11:00 PM EST
+  Schedule
+                              •   Office Hours: Every day from 10:00 AM EST to 2:00 PM EST
+
+--- Page 4 ---
+   Interactive Learning        Comprehensive       Employment Assistance         24/7 Support
+                             Curriculum
+✓Online – Live        ✓Designed to build     ✓Resume preparation     ✓Personalized 1:1 career
+   streaming                   industry-valued skills        thru CVCompiler           coaching
+✓Collaborative yet      ✓Machine Learning,     ✓Interview Preparation   ✓Mentoring Sessions and
+    personalized learning in     Computer Vision,      ✓Employment                Office Hours with
+   groups of 10-15             Natural Language           Assistance                    Instructors
+                                Processing, Neural                         ✓Repeat unlimited time
+                            Networks                                                        at no additional cost
+
+
+
+
+     Grades/Quizzes           Weekly Labs          Team Projects         Final Capstone Project
+
+   Graded program: 3  ✓3 Lab assignments per  ✓16+ Industry Relevant ✓1 Final Personalized
+   Quizzes per week (True     week: 1 Python, 1 R, &    TEAM Projects:            capstone project
+       | False & Multiple         1 Tableau assignment        Prediction-Clustering-
+   Choices)                                                    Classification – TS
+
+--- Page 5 ---
+       Program Syllabus
+  Week 1            Program Orientation – DataCamp Assignments
+Learning Objectives: The program begins with a lecture on “Why Learning Data Science is an Absolute Must!” where
+you will be introduced to Data Science process, Data Science portfolio, analytics types, day to day activities,
+quantitative & statistical techniques required & the career path to start the journey.
+
+Also, you will have access to recorded video lectures on DataCamp to complete Data Science prerequisites courses
+(Python introductory, R introductory, SQL, Statistics, probability and Math) .
+
+   Session 1           Program Orientation – DataCamp Assignments
+
+                       •  Program Orientation (Agenda – Curriculum – DataCamp – Assignments - Projects)
+                       •  BBDS Website | Canvas | Slack walk through
+
+   Session 2           Why you should become a Data Scientist?
+                       •  Data Explosion
+                       •  Why Data Science? | What is Data Science?   | Type of Analytics
+                       •  Data Science Portfolio | Data Science Process | Career in Data Science
+
+   Session 3         Program Data Science Projects – Collaborative teams
+
+                       •   Introduction to Data Science Project
+                       •   Projects Discussion (Milestone Projects Assignment)
+                       •   Projects List | Project Templates | Project Team
+
+   Session 4                   Program Tools & Installation
+
+                       •  Tableau: Installation
+                       •  Power BI Installation
+                       •  RapidMiner: Installation
+                       •  R | RStudio: Installation
+
+   Session 5                   Program Tools & Installation
+
+                       •  MySQL: Installation
+                       •  BigML: Account Creation
+                       •  SAS For Enterprise Miner: Account Creation & Installation
+                       •  Azure Installation
+
+  Week 2               Business Analytics & Business Understanding
+
+Learning Objectives: The basic work-flow is now in place. You will dive into the first stage of the Cross-Industry
+Standard Process for Data Mining (CRISP-DM) process which is to understand what the customer wants to
+accomplish from a business perspective. Customers often have competing objectives and constraints that must be
+properly identified and balanced.
+
+Your goal is to uncover important factors that could influence the outcome of the analytical projects. Neglecting this
+step can mean that a great deal of effort is put into producing the right answers to the wrong questions.
+
+--- Page 6 ---
+Session 1           What is Data Science, Deep Learning, Machine Learning?
+
+                    •  Data Science | Machine Learning | Deep Learning overview
+                    •   Certified Analytics Professional (CAP)
+                    •   Learning Path
+
+Session 2                     Decisions Management & Problem Framing
+
+                    •   Quantifying Business Problem
+                    •   Converting Business Problems into Analytics Solutions
+                    •   Defining the objectives, assumptions, contains, analytical approaches
+                    •   Designing the Analytics Base Table & Implementing Features
+                    •   Identifying Y variable & Measures of Success
+                    •   Stakeholders & Analytical team
+
+Session 3                  Introduction to Data Science Process - CRISP-DM
+
+                    •   Solutions Methodologies (Macro vs. Micro)
+                       o   Scientific Research Method
+                       o  Operations Research Method | Water Fall Method | CRISP-DM
+                       o  Exploration & Discovery
+                       o  Solutions are Dependent on Data | Solutions are Independent on Data
+                    •  CRISP-DM Process
+                       o  Business Understanding   | Data Understanding   | Data Preparation   | Modeling   |
+                                    Evaluation | Deployment
+
+Session 4            Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+
+                    •  Tableau:
+                       o   Introduction to Tableau | Your First Bar chart
+                       o  Connecting Tableau to a Data File - CSV File
+                       o  Navigating Tableau | Creating Calculated Fields
+                       o  Adding Colors
+                       o   Adding Labels and Formatting | Exporting Worksheets
+                    •  Power BI
+                       o  Getting Started with Power BI
+                       o  Basic Concepts of Business Intelligence
+                       o  Connecting to Different Data Sources
+
+Session 5                       Crash Course in Python Programming
+
+                    •   Jupyter Notebook & Notebook Azure
+                    •   Introduction to Python
+                       o   Introduction to a basic construct in Python
+                       o  Understanding indentation like tabs and spaces
+                       o  Overview of Python
+                       o  The Companies using Python
+                       o   Different Applications where Python is used
+                       o  Discuss Python Scripts on UNIX | Windows
+                       o  Values, Types, Variables
+                       o  Operands and Expressions
+
+--- Page 7 ---
+  Week 3                     Data Science Foundations
+
+Learning Objectives:  In this module, you'll learn about the day-to-day experiences of Data Scientists. You’ll be
+introduced to some of the programming languages commonly used, including Python and R. You’ll work with the
+tools that professional Data Scientists work with, like Jupyter Notebooks, RStudio IDE, and others. You will learn
+about what each tool is used for, what languages they can execute, and their features and limitations.
+
+You will also learn basis statistics which is undoubtedly an essential element to become a Data Scientist. It is how the
+analysis is made towards better decisions and gaining deep insights into the data. Without statistics and mathematics,
+a Data Scientist is just guessing predictions and not formulating them.
+
+   Session 1                               Basic R Programming
+                       •  R & RStudio
+                       •   Fundamentals Working Directory | Assigning Objects | Comments
+                       •  Data Structures (Vectors, Factors, Lists, Data frames, Matrix, Matrices)
+
+   Session 2                        Advanced R Programming
+                       •  Data Structures (Vectors, Factors, Lists, Data frames, Matrix, Matrices)
+                       •   Functions & Packages
+
+   Session 3                            Basic Python Programming
+                       •  Python data types (basic and Boolean), conditional statements, functions, assignment operations
+                          o  Python built-in data types
+                          o  Basic operators in Python
+                          o  Loop and control statements like break, if, for, continue, else, range () and more
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+                       •  RapidMiner:
+                          o   Installation | RapidMiner Basics | Studio - GUI Intro | Visualizing Data in RapidMiner
+                                                                                      | Marketplace – Extensions
+                       •  Case study # 1
+                          o  Academic Performance Analysis
+
+   Session 5                     Python Sequences and File Operations
+                       •  Python files I/O Functions/Numbers/Strings and related operations
+                          o  Tuples and related operations
+                          o   Lists and related operations
+                          o   Dictionaries and related operations
+                          o  Sets and related operations
+
+  Week 4                             Statistics for Data Science
+
+Learning Objectives: In this module, we will build a Solid Foundation of Statistics for Data Science, Learn
+Probability, Distributions, Hypothesis Testing. Statistics is the science of assigning a probability to an event based on
+experiments. It is the application of quantitative principles to the collection, analysis, and presentation of numerical
+data. Ace the fundamentals of Data Science, statistics, and Machine Learning with this course. It will enable you to
+define statistics and essential terms related to it, explain measures of central tendency and dispersion, and comprehend
+skewness, correlation, regression, distribution. You will be able to make data-driven predictions through statistical
+inference.
+
+--- Page 8 ---
+   Session 1                       Introduction to Statistics & Probability
+                       •  Data
+                       •   Levels of Measurement
+                       •  Measures of Central Tendency
+                       •   Population and Sample
+                       •  Measures of Dispersion
+                       •   Quartiles and IQR
+
+   Session 2                            Introduction to Distribution
+                       •   Introduction to Distribution
+                       •  Uniform Distribution
+                       •   Binomial Distribution
+                       •   Poisson Distribution
+                       •  Normal Distribution
+                       •  Skewness
+                       •   Standardization and Z Score
+
+   Session 3                           Advanced Statistics
+                       •   Central Limit Theorem
+                       •   Hypothesis Testing
+                       •  ANOVA - Analysis of Variance
+                       •   Chi-Square Analysis
+
+   Session 4          Team Projects 1st Presentation (Framing Business Problem)
+                       •  Team Projects (Business Understanding)
+                       •  Team Leads’ First Presentation
+
+   Session 5                          Python & R for Statistics
+
+                       •  Loading Data
+                       •   Dataset Preparation | Dealing with Outliers | Distribution Histograms Box and Violin Scatter Matrix
+                       •   Correlation | Mean | Median | Mode | Skewness | Kurtosis | Percentiles
+                       •  Sampling and the Central Limit Theorem | Pearson’s Chi2 Test
+                       •   Exploratory Data Analysis Summary
+
+Week 5              Data Understanding | Exploratory Data Analysis
+
+Learning Objectives: Continuing with the topics from Week 4, you will be introduced the second phase of the Cross-
+Industry Standard Process for Data Mining (CRISP-DM) process model, you obtain data & verify that it is appropriate
+for the needs. You might identify issues that cause you to return to the ‘Business Understanding’ phase of the project
+& revise your plan. You may even discover flaws in the ‘Business Understanding’, another reason to rethink goals &
+plans.
+
+The Data Understanding phase includes four tasks. These are Gathering data – Describing data – Exploring data –
+Verifying data quality.
+
+--- Page 9 ---
+   Session 1              Data Types- Measure of Shape - Position - Dispersion
+                       •  Measures of the Spread: Range – IQR – Variance – Standard Deviation
+                       •  Measures of Dispersion
+                       •  Measures of Position: Statistical Analysis (John T. 5 Numbers Summary)
+                       •  Measures of Relationships: Correlation | Variance & Covariance
+                       •  Measures of Shapes: Skewness & Kurtosis
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2                      Data Loading & Data Manipulation
+                       •  Read data from different sources
+                       •  Get to Know the Data
+                          o   Identifying Categorical Data: Nominal, Ordinal and Continuous
+                          o  Univariate | Bivariate | Multivariate Analysis
+                          o  Types of Data | Type of Central Tendency | Data distribution | Data Density
+
+   Session 3         Data Visualization (Numerical & Graphical Descriptive Statistics)
+                       •  Data Visualization (Histograms, Bar Plot, Scatter Plot, Box Plot)
+                       •  Data Quality Report | Develop the Code Book
+                          o  Summary of Data | Type of variable | Ranges of variables | Missing fields | Identify the
+                                      primary list of variables to solve the business problem
+                       •   Detecting missing values & outliers | Duplicates & redundant records
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+                       •  Tableau:
+                          o  Time series, Aggregation, and Filters | Working with Data Extracts in Tableau
+                          o  Working with Time Series  | Understanding Aggregation, Granularity, and Level of
+                                          Detail  | Creating an Area Chart & Learning About Highlighting  | Adding a Filter and
+                                   Quick Filter
+                       •  Power BI
+                          o  Data Transformation and Modeling  | Basic Data Transformations  | Splitting Columns
+                                    and Changing Data Types   | Conditional Columns and Merge Queries   | Creating
+                                        Calculated Columns | Manage Your Data Relationships
+
+   Session 5                          OOPs in Python
+                       •   Understanding the OOP paradigm like encapsulation, inheritance, polymorphism and abstraction
+                       •  What are access modifiers, instances, class members?
+                       •   Classes and objects | Function parameter and return type functions/Lambda expressions.
+
+  Week 6          Data Preparation & Preprocessing (Transformations)
+
+Learning Objectives: In the Data Preparation phase, you learn the process of cleaning and transforming raw data prior
+to processing and analysis. This is an important step prior to processing and often involves reformatting data, making
+corrections to data and the combining of data sets to enrich data.
+
+You also learn how to fix data quality issues discovered through EDA & Data visualization from the Data
+Understanding phase.
+
+--- Page 10 ---
+   Session 1             Data Preparation & Processing (Categorical Attributes)
+
+                       •  Encoding Categorical Data
+                          o  Replacing values | Creating Dummy Variables | Encoding labels | One-Hot encoding |
+                                      Binary encoding | Backward difference encoding | Miscellaneous features
+                       •  Data Quality Report
+                       •  Develop the Code Book
+                          o  Summary of Data | Type of variable | Ranges of variables | Missing fields | Identify the
+                                      primary list of variables to solve the business problem
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2               Data Preparation & Processing (Numeric Attributes)
+
+                       •   Statistical Analysis (John T. 5 Numbers Summary)
+                       •   Variance & Covariance | Correlation Analysis
+                       •   Dealing with Skewness & Kurtosis | Missing Values & Outliers | Duplicates & redundant
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3           Data Preparation & Processing (Attributes Transformation)
+
+                       •   Variable Conversion
+                       o   Discretization
+                       o  Binning
+                       •   Variable Transformation
+                       o  Normalization | Standardization
+                       o   Factorizations | Binarization
+                       •  Box-Cox Transformation
+                       •  Data Partitioning
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+                       •  RapidMiner:
+                       o  Turbo Prep – Introduction
+                       o  Data Cleansing | Merging Data
+                       o  Data Pivoting | Data Preparation | Connecting to Databases
+                       •  Case study # 2
+                          o   Cities Population Analysis
+
+   Session 5                               Intermediate Python
+
+                       •  Data Structures for Analysis
+                          o   Lists
+                          o   Dictionaries
+                          o   Mutability and iterations with examples on data structures
+
+  Week 7          Data Preparation & Preprocessing (Factor Analysis)
+Learning Objectives: Data preprocessing includes imputing missing values, dealing with outliers, duplicates,
+redundant data, skewness, kurtosis, distributions, correlation, feature selection, feature extraction, generic wrangling,
+data manipulation, scaling, factorization, binarization, transformation (Box-Cox), normalization & many more.
+
+--- Page 11 ---
+   Session 1                    Features Engineering | Extraction | Selection
+                       •   Goals of Feature Selection
+                       •   Classes of Feature Selection Methodologies
+                          o  Correlation Method
+                          o  Machine Learning Method | Feature Importance
+                       •   Regularization & Embedded Feature Selection
+                       •   Feature Subset Selection | Feature Creation
+
+   Session 2                     Dimensionality Reduction (PCA & KPCA)
+                       •   Factor Analysis: PCA | KPCA
+                       •   Aggregation | Sampling | Dimensionality Reduction
+                       •   Feature Subset Selection | Feature Creation
+                       •   Discretization & Binarization | Variable Transformation | Data Partitioning
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                      Dimensionality Reduction (LDA & SVD)
+                       •   Factor Analysis: LDA & SVD
+                       •   Aggregation | Sampling | Dimensionality Reduction
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4         Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+                       •  Tableau:
+                          o  Maps, Scatterplots, and Your First Dashboard | Relationships vs Joins (v00update)
+                          o  Joining Data in Tableau | Creating a Map, Working with Hierarchies
+                          o  Creating a Scatter Plot, Applying Filters to Multiple Worksheets | Creating a Dashboard
+                                                                                      | Adding an Interactive Action - Filter | Adding an Interactive Action - Highlighting
+                       •  Power BI
+                          o  Power BI Desktop Visualizations | Introducing Various Visuals | Communicating with
+                                       Charts
+                          o  R Visual Integration | Page Layout and Formatting
+
+   Session 5                            Advanced Python
+
+                       •   Generators, Comprehensions and Lambda Expression
+                          o  Generators and Yield  | Next and Ranges  | The os. walk Generator  | Searching the
+                                        Filesystem | Reading Mp3 Tags | List Comprehensions
+                          o   List Comprehensions and Side-Effects   | Conditional Comprehensions/Conditional
+                                       Expressions
+                          o  Nested Comprehensions | The timeit Module/Map Intro | The Filter Function
+                          o  The Reduce Function | any and all/Named Tuples | any and all with Comprehensions
+
+  Week 8               Supervised Learning - Classification (Part 1)
+
+Learning Objectives: This module broadens concepts learned in Data Understanding, Data Preparation & Exploratory
+Data Analysis (EDA) by extending to Machine Learning where you will learn about the models & methods used in
+machine learning & apply them to real-world.
+The aim of supervised machine learning is to build a model that makes predictions based on evidence in the presence
+of uncertainty. In this session, you will learn about the different algorithms of supervised learning such as Decisions
+Tree, Rule-Based classifier & Naive Bayes
+
+--- Page 12 ---
+Session 1          Introduction to Machine Learning (Baseline Algorithms Analysis)
+
+                    •   Introduction to Machine Learning from different perspectives
+                    •   Understand the Need of Machine Learning
+                    •   Understand Machine Learning major elements
+                    •   Understand Machine Learning tasks & types of Machine Learning
+                    •   Understand Types of Algorithms & types of Analysis
+                    •   Understand Algorithms Performance
+
+Session 2              Decision Tree & Rule-Based Classification in R & Python
+
+                    •   Algorithm for Decision Tree Induction
+                    •  Methods for Expressing Attribute Test Conditions
+                    •  Measures for Selecting an Attribute Test Condition
+                    •   Characteristics of Decision Tree Classifiers
+                    •  How a Rule-Based Classifier Works
+                    •   Properties of a Rule Set
+                    •   Direct Methods for Rule Extraction
+                    •   Indirect Methods for Rule Extraction
+                    •   Characteristics of Rule-Based Classifiers
+                    •   Strengths & Weaknesses
+                    •  R & Python hands-on training with real-world business problems
+
+Session 3                           Naïve Bayes - R & Python
+                    •  Naïve Bayes motivation
+                    •  Naïve Bayes Mathematical foundation
+                    •   Basics of Probability Theory
+                    •  Naïve Bayes Assumption
+                    •   Strengths & Weaknesses
+                    •  R & Python hands-on training with real-world business problems
+
+Session 4       Team Projects 2nd Presentation (Data Understanding & Data Viz)
+                    •  Team Projects (Data Understanding & Data Visualization)
+                    •  Team Leads’ Second Presentation
+
+Session 5                           Introduction Python Packages
+
+                    •   Python: Intro to Five Most common Python Packages
+                       o  Pandas
+                       o  NumPy
+                       o  Matplotlib
+                       o  Seaborn
+                       o  NLTK
+                       o   Sckit-learn
+  BREAK WEEK - 1
+                            3/6/2021
+
+--- Page 13 ---
+  Week 9               Supervised Learning - Classification (Part 2)
+
+Learning Objectives: Continuing from Week 8, you add several more Supervised Learning classification algorithms to
+your arsenals. Machine learning topics taught this week to involve parametric classification algorithms (Logistic
+Regression, Support Vector Machine, Nearest Neighbor Classifiers) with deeper use of R & scikit-learn functionality,
+introducing automated methods of feature selection, options for estimation including stochastic gradient descent, &
+advanced metrics for model evaluation.
+
+   Session 1                           Logistic Regression in R & Python
+
+                       •   Logistic Regression motivation
+                       •   Logistic Regression Mathematical foundation
+                       •   Logistic Regression as a Generalized Linear Model
+                       •   Characteristics of Logistic Regression
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2              Support Vector Machine SVM & KSVM in R & Python
+
+                       •  SVM motivation
+                       •  SVM Mathematical foundation
+                       •  Margin of a Separating Hyperplane
+                       •   Linear SVM
+                       •   Soft-margin SVM
+                       •   Nonlinear SVM
+                       •   Characteristics of SVM
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3            Neighbor Classifiers (KNN) in R & Python - Nonparametric
+                       •  KNN motivation
+                       •  KNN Mathematical foundation
+                       •  KNN Algorithm
+                       •   Characteristics of Nearest Neighbor Classifiers
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+                       •  Azure ML
+                          o   Introduction Azure ML
+                          o  Get Familiar with Azure Machine Learning
+                          o   Introduction to Azure Machine Learning
+                          o   Introduction to supervised machine learning
+                          o   Introduction to Azure Machine Learning
+                          o  Azure Machine Learning Algorithms
+                       •  Case study # 3
+                          o  World's GDP Analysis
+
+--- Page 14 ---
+   Session 5                       SQL for Python
+                       •  Using SQL for Python, SQL workbench, working with multiple tables
+                       •  Data Extraction
+
+ Week 10              Supervised Learning - Regression (SL & PL)
+
+Learning Objectives: This week provides Regression Analysis (Supervised Learning with a continuous target
+variable). Regression analysis is a form of predictive modeling technique that investigates the relationship between a
+dependent (target) and independent variable (s) (predictor). This technique is used for forecasting, time series
+modeling & finding the causal effect relationship between the variables.
+
+Machine learning topics taught involve linear regression algorithms (Simple Linear Regression, Multiple Linear
+Regression & Polynomial Linear Regression) with deeper use of R & scikit-learn functionality.
+
+   Session 1                      Simple Linear Regression R & Python
+
+                       •   Preparing Data for Linear Regression
+                       •  Making Predictions with Linear Regression
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                      Multiple Linear Regression R & Python
+
+                       •   Multiple Linear Regression
+                       •  The F-Statistic
+                       •   Interpreting results of Categorical variables
+                       •   Heteroscedasticity
+                       •  Backward Elimination | Backward Elimination | Automatic Backward Elimination
+
+   Session 3                    Polynomial Linear Regression R & Python
+                       •   Polynomial Algorithm
+                       •  Why use polynomial regression?
+                       •   Polynomial Features
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+                       •  Tableau:
+                          o   Joining, Blending and Relationships | Dual Axis Charts | Joins with Duplicate Values |
+                                         Joining on Multiple Fields | The Showdown: Joining Data vs. Blending Data in Tableau
+                          o  Creating Calculated Fields in a Blend (Advanced Topic) | Working with Relationships
+                                            in Tableau
+                       •  Power BI
+                          o  Power BI Service | Introduction to Power BI Service
+                          o  Uploading Reports to Power BI Service and Quick Insights   | Natural Language
+                                    Querying
+                          o   Alerts and Notifications in Power BI Service | Personal Gateway
+   Session 5                     Python Web scraping (JSON & XML)
+                       •   Extracting data from the web using JSON, Google API, and XML
+                       •  Data Extraction - Getting Data from the Internet
+
+--- Page 15 ---
+ Week 11        Supervised Learning - Regression (ML & Regularization)
+
+Learning Objectives: This week is a continuation of Regression Analysis techniques learned in week 10. Machine
+learning topics taught this week to involve non-linear regression algorithms (Decision Tree and Support Vector
+Machine) and Regularization Techniques (Lasso, Ridge, Elastic Net, Least Squared) with deeper use of R and scikit-
+learn functionality.
+
+   Session 1           Least Square | Lasso | Ridge | Elastic Net Regression R & Python
+
+                       •  OLS Regression- Theory | Implementation
+                       •   Confidence Interval and OLS Regressions
+                       •  Ridge Regression | LASSO Regression
+                       •  Implement ANOVA on OLS Regression
+                       •   Identify Multicollinearity
+                       •   Partial Least Square Regression
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2                        Decision Tree Regression R & Python
+
+                       •  A Basic Algorithm to Build a Decision Tree
+                       •  Methods for Expressing Attribute Test Conditions
+                       •  Measures for Selecting an Attribute Test Condition
+                       •   Algorithm for Decision Tree Induction
+                       •   Characteristics of Decision Tree Classifiers
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                   Support Vector Machine (SVR) R & Python
+                       •  Margin of a Separating Hyperplane
+                       •   Linear SVM
+                       •   Soft-margin SVM
+                       •   Nonlinear SVM
+                       •   Characteristics of SVM
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+                       •  Azure ML
+                          o  Azure Classification Machine Learning
+                          o   Introduction to Azure ML Studio
+                          o  Explore dataset | Prepare the dataset
+                          o  Build the Azure ML experiment | Run the Azure ML experiment
+                          o  Visualize the results | Deploy the web service
+                       •  RapidMiner:
+                          o  Applying the Model | Testing a Model | Validating a Model | Finding the Right Model
+                                                                                      | Optimization of the Model Parameters
+
+--- Page 16 ---
+   Session 5                         Python: BeautifulSoup Library
+
+                       •   Installing Beautiful Soup
+                       •  Data extraction with BeautifulSoup
+                       •   BeautifulSoup Usage | Filtering | BeautifulSoup Object
+                       •   Extracting all the URLs found within a page 'a' tag | Extracting all the text from a page
+
+ Week 12               Ensemble Methods & Imbalanced Data
+
+Learning Objectives: Ensemble methods help to improve the predictive performance of Machine Learning models. In
+this module, you will learn about different Ensemble methods that combine several Machine Learning techniques into
+one predictive model in order to decrease variance, bias or improve predictions.
+
+You will learn about selecting one model over another, and Boosting & its importance in Machine Learning. You will
+learn how to convert weaker algorithms into stronger ones.
+
+   Session 1              Random Forest Voting & Averaging R & Python
+                       •  Random Forests
+                       •   Empirical Comparison among Ensemble Methods
+                       •  R & Python hands-on training with real-world business problem
+
+   Session 2                Bagging | Boosting | Gradient Boosting | Ada-Boost
+
+                       •  Methods for Constructing an Ensemble Classifier
+                       •  What is the Model Selection? | The need for Model Selection
+                       •   Cross-Validation
+                       •  What is Boosting?
+                       •   Adaptive Boosting
+                       •  How Boosting Algorithms work?
+                       •  Types of Boosting Algorithms
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                             Class Imbalanced Problem
+                       •   Building Classifiers - Class Imbalance
+                       •   Data-based Approaches & Algorithmic approach
+                       •   Evaluating Performance - Class Imbalance
+                       •   Finding an Optimal Score Threshold
+                       •   Aggregate Evaluation of Performance
+                       •  R & Python hands-on training with real-world business problems
+Session 4              Team Projects 3rd Presentation (Analytical Approach)
+
+                       •  Team Projects (Analytical Approach)
+                       •  Team Leads’ Third Presentation
+
+   Session 5                            Python: NumPy Library
+                       •   Array Creation | Printing Array
+                       •  Changing Shape of an Array  | Basic Operation  | Universal function  | View  | Copy  | Automatic
+                       Reshaping… and more
+
+--- Page 17 ---
+ Week 13      Model Assessment | Evaluation | Comparison | Optimization
+
+Learning Objectives: Model building is an iterative process. Employing Feature Engineering techniques along with a
+careful model selection exercise helps to improve the model. Further, tuning the model is an important step to arrive at
+the best possible result.
+
+This module talks about the steps and processes around the same, you will learn how to analyze the performance of
+each algorithm, and dive deep in core Machine Learning concepts like Cost Function, Object Function, Model
+Optimization, Model Tuning, Regularization, Gradient Boosting, Grid & Random Search.
+
+   Session 1                           Model assessments
+
+                       •  CM, ROC, Rank-Ordered Approach
+                       •  R2, MSE, MAE, Median Error, Median Absolute error, Correlation
+                       •  Reasons for Model Overfitting
+                       •  Model Selection | Using a Validation Set
+                       •   Incorporating Model Complexity | Estimating Statistical Bounds
+                       •  Model Selection for Decision Trees
+                       •  R & Python hands-on training with real-world business problems
+   Session 2                           Model Evaluation
+
+                       •   Holdout Method & Cross-Validation
+                       •   Presence of Hyper-parameters & Hyper-parameter Selection
+                       •   Nested Cross-Validation
+                       •   Pitfalls of Model Selection & Evaluation
+                       •   Overlap between Training & Test Sets
+                       •  Use of Validation Error as Generalization Error
+                       •   Cluster Evaluation
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                      Model Comparison | XG-Boost
+
+                       •   Estimating the Confidence Interval for Accuracy
+                       •  Comparing the Performance of Two Models
+                       •  XG-Boost in R & Python
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+
+                       •  Tableau:
+                          o  Table Calculations, Advanced Dashboards | Storytelling
+                          o  Mapping: How to Set Geographical Roles | Creating Table Calculations for Gender
+                          o  Creating Bins and Distributions for Age | Leveraging the Power of Parameters
+                          o  How to Create a Tree Map Chart | Creating a Customer Segmentation Dashboard
+                          o  Advanced Dashboard Interactivity |Analyzing the Customer Segmentation Dashboard
+                       •  Power BI
+                          o  Working with Excel in Power BI | Using Excel Data in Power BI | Connecting to
+                                      Excel Workbook on OneDrive for Business | Pinning Excel Tables or Visuals
+
+--- Page 18 ---
+   Session 5                            Python: Pandas Library
+
+                       •  Pandas Data Frame Basic
+                       •   Create Data Frame | Addition and Deletion | Contact and Merge
+                       •   Export to CSV | Excel | Txt
+                       •  Group By | Sorting | Stack & Unstack | Iterate Over Data Frame | Pandas Time Series | Reshaping
+                            using Pivot | Selection & Indexing
+
+ Week 14   Unsupervised Learning - Clustering Analysis | Anomalies Detection
+
+Learning Objectives: In this week, we will shift to Unsupervised Learning techniques (target variable is unknown).
+Unsupervised Learning finds hidden patterns or intrinsic structures in data.
+
+The end goal is less clear-cut than predicting an output based on a corresponding input. In this module, you will learn
+about commonly-used clustering techniques like K-Means Clustering and Hierarchical Clustering along with
+anomalies detection algorithms with deeper use of R & scikit-learn functionality.
+
+   Session 1                    K-Mean Clustering - R & Python
+
+                       •  The Basic K-means Algorithm
+                       •   Bisecting K-means
+                       •  K-means & Different Types of Clusters
+                       •  K-means as an Optimization Problem
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2        Agglomerative Hierarchical Clustering - Density Methods – DBSCAN
+
+                       •   Basic Agglomerative Hierarchical Clustering Algorithm
+                       •  AHC Specific Techniques
+                       •  The Lance-Williams Formula for Cluster Proximity
+                       •  Key Issues in Hierarchical Clustering
+                       •  AHC Outliers
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                       Anomalies Detection - R & Python
+                       •   Characteristics of Anomaly Detection Problems
+                       •   Characteristics of Anomaly Detection Methods
+                       •  Spectrum of Anomaly detection techniques
+                       •   Nearest Neighbor based Methods
+                       •   Rule-based Anomaly Detection
+                       •   Classification based Models for Anomaly Detection
+                       •   Proximity-based Approaches
+                       •   Strengths & Weaknesses
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+
+               o  SAS For Enterprise Miner:
+                          o   Introduction SAS for Enterprise Miner  | Loading Data  | Data Manipulation  | Feature
+                                          Selections | Data Split
+
+--- Page 19 ---
+                       •  BigML:
+                          o   Logistic Regression   | Times Series   | Clusters   | Anomaly detection   | Association
+                                        Discoveries
+
+   Session 5                           Python: Matplotlib Library
+                       •   Annotation | Autocorrelation | Curves
+                       •   Scales | Shapes | Box Plot | Violet Plot
+                       •   Histograms | Pie Chart | Twin Axis | Figures | Color Map
+
+ Week 15         Association Rules | A | B Testing | Recommender Systems
+
+Learning Objectives: This module is a continuation of the Unsupervised Machine Learning algorithms from the
+previous week. We go deep into Association Rule mining which has numerous applications that are widely used to
+help discover sales correlations in transactional data or in medical data sets.
+
+We also go deep to A | B Testing, also known as split tests, to cover the ins & outs of how to use Python & R to
+analyze customer behavior & business trends as well as how to create, run, and analyze A | B tests to make proactive,
+data-driven business decisions.
+
+We will also dive deep into recommender systems, which are software that select products to recommend to
+individual customers. You will learn how to produce successful recommender systems that use past product purchase
+and satisfaction data to make high-quality personalized recommendations.
+
+   Session 1                           Association Rules - R & Python
+
+                       •   Strength of an association rule
+                       •  The Apriori & Eclat Principle
+                       •   Frequent Itemset Generation in the Apriori Algorithm
+                       •   Candidate Generation & Pruning
+                       •   Computational Complexity
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2                  A | B Testing R & Python
+
+                       •  Overview of A | B Testing?
+                       •  How A | B Testing Works
+                       •   Policy and Ethics
+                       •   Characterizing Metrics
+                       •   Designing an Experiment
+                       •  A | B Testing Process | Analyzing Results | Alternatives to A | B Testing
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                    Recommender Systems R & Python
+
+                       •   Matrix Factorization Model (Object recommendation)
+                       •   Content Filtering | Collaborating Filtering (CF)
+                       •  CF Neighborhood-Based Approach
+                       •  CF Location-Based Approach
+                       •  R & Python hands-on training with real-world business problems
+                       •
+
+--- Page 20 ---
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+
+                       •  Tableau:
+                          o  Advanced Data Preparation | What Format Your Data Should Be In
+                          o  Data Interpreter | Pivot | Splitting a Column into Multiple Columns
+                          o  Metadata Grid | Fixing Geographical Data Errors in Tableau
+                       •  Power BI
+                          o  Publishing and Sharing | Introduction to Content Pack, Security, and Groups
+                          o  Creating a Group | Creating, Using, and Editing Content Pack
+                          o  Row-Level Security (RLS) | Integrate and Share OneDrive for Business with Power
+                                  BI
+
+Session 5                              Python: Seaborn Library
+                       •   Visualizing Distribution to find Patterns
+                       •   Categorical Data and Multi-Panel data/
+                       •   Customizing the Facet Grid/Subset using the Paid Grid
+                       •   Color Palettes/Figure Aesthetics
+
+ Week 16                     Time Series Analysis
+
+Learning Objectives: In this module, you will learn about Time Series Analysis to forecast dependent variables based
+on time. Time series analysis is a statistical technique that deals with time-series data, or trend analysis. Time series
+data means that data is in a series of particular periods or intervals.
+
+You will learn different models for time series modeling such that you analyze a real time-dependent data for
+forecasting.
+   Session 1               AR - MA & EST Models - R & Python
+
+                       •  What is Time Series Analysis?
+                       •   Importance of TSA | Components of TSA
+                       •   Single Exponential Smoothing
+                       •   Forecasting with Single Exponential Smoothing
+                       •  Double Exponential Smoothing
+                       •   Forecasting with Double Exponential Smoothing
+                       •   Triple Exponential Smoothing
+                       •  Example of Triple Exponential Smoothing
+                       •   Exponential Smoothing Summary
+   Session 3             ARMA & ARIMA Models - R & Python
+
+                       •   Forecasting
+                       •   Relation between time series: Causality & time lags
+                       •   Distinction between short & long run
+                       •   Study of agent’s expectations
+                       •   Stationarity
+                       •  ACF & PACF
+                       •  Trend removal
+                       •   Seasonal adjustment
+                       •   Detection of structural breaks
+                       •   Control of the process
+                       •  R & Python hands-on training with real-world business problems
+
+--- Page 21 ---
+   Session 3                  SARIMAX Model - R & Python
+
+                       •  The limitations of ARIMA
+                       •  The SARIMA extension of ARIMA
+                       •   Implementing SARIMA method using the Statmodels library
+
+   Session 4      Team Projects 4th Presentation (Analytical Approach Implementation)
+                       •  Team Projects (Analytical Approach Implementation)
+                       •  Team Leads’ Fourth Presentation
+
+   Session 5                      Python: SciPy for scientific computing
+                       •   Introduction to Scipy, building on top of NumPy
+                       •  What are the characteristics of SciPy?
+                       •   Various sub packages for SciPy like Signal, Integrate, Fatback, Cluster, Optimize, Stats and more,
+                         Bayes Theorem with SciPy.
+   BREAK WEEK - 2
+                              5/8/2021
+ Week 17          Text Analysis & Natural Language Processing (NLP)
+
+Learning Objectives: In this module, we dive into Natural Language Processing or NLP which is one such technology
+penetrating deeply and widely in the market, irrespective of the industry and domains. It is extensively applied in
+businesses today and it is the buzzword in every engineer's life.
+
+   Session 1                          Text Analysis - R & Python
+
+                       •   Basic feature extraction using text data
+                       •   Basic Text Pre-processing of text data
+                          o  Lower Casing | Punctuation Removal | Stop Words Removal | Frequent Words
+                                 Removal | Rare Words Removal | Spelling Correction | Tokenization | Stemming |
+                                     Lemmatization
+                       •  Advance Text Processing
+                          o  N-grams | Term Frequency | Inverse Document Frequency (TF-IDF) | Bag of Words |
+                                      Sentiment Analysis | Word Embedding
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2                        Sentiments Analysis - R & Python
+
+                       •   Motivations
+                       •  Why Sentiment Analysis?
+                       •  Types of Sentiment Analysis
+                          o   Polarity Detection | Emotion Detection | Intent Detection
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 3                      Topic Model using LDA - R & Python
+
+                       •   Motivations
+                       •   Latent Dirichlet Allocation (LDA)
+
+--- Page 22 ---
+                       •   Dirichlet Distribution | Dirichlet Output
+                       •  LDA & Matrix Factorization
+                       •   Nonnegative Matrix Factorization
+                       •  R & Python hands-on training with real-world business problems
+                                •
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+
+                       •  Azure ML
+                          o  Azure Regression Machine Learning
+                          o   Predicting housing prices with Azure ML
+                          o  Explore dataset | Prepare the dataset | Build the Azure ML experiment
+                          o  Run the Azure ML experiment | Visualize the results | Deploy the web service
+                       •  BigML:
+                          o  Supervised vs Unsupervised | Ensembles
+                          o   Logistic Regression | Deepnets | Times Series
+
+   Session 5                  Python for Deep Learning: PyTorch Library
+
+                       •  How to Install PyTorch
+                       •  PyTorch Deep Learning Model Life-Cycle
+                          o  Prepare the Data | Define the Model | Train the Model | Evaluate the Model |
+                                          Predictions
+                       •  How to Develop PyTorch Deep Learning Models
+                          o  How to Develop an MLP for Binary Classification
+                          o  How to Develop an MLP for Multiclass Classification
+                          o  How to Develop an MLP for Regression
+                          o  How to Develop a CNN for Image Classification
+
+ Week 18                   Deep Learning: ANN & CNN
+
+Learning Objectives: This week, we dive into Deep Learning - an Artificial Intelligence function that imitates the
+workings of the human brain in processing data and creating patterns for use in decision making.
+
+Deep Learning carries out the Machine Learning process using an ‘Artificial Neural Net’, which is composed of a
+number of levels arranged in a hierarchy. In this session, you will learn about the basic building blocks of Artificial
+Neural Networks. You’ll learn how Deep Learning Networks can be successfully applied to data for knowledge
+discovery, knowledge application, and knowledge-based prediction.
+
+
+   Session 1                           Introduction to Deep Learning
+
+                       •  Deep Learning Explained
+                       •   Biological Neural Network
+                       •   Perceptron – Gradient Decent – Scholastic Gradient Descent
+
+   Session 2                      Artificial Neural Network (ANN) - R & Python
+
+                       •  ANN Explained
+                       •   Multi-layer Neural Network
+                       •   Characteristics of ANN
+                       •  R & Python hands-on training with real-world business problems
+
+--- Page 23 ---
+   Session 4                       Convolutional Neural Network (CNN)
+
+                       •  CNN Explained
+                       •   Synergistic Loss Functions
+                       •   Responsive Activation Functions
+                       •   Regularization
+                       •   Initialization of Model Parameters
+                       •   Characteristics of Deep Learning
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+
+                       •  Tableau:
+                          o   Clusters, Custom Territories, Design Features | Custom Territories Via Groups
+                          o  Custom Territories Via Geographic Roles | Adding a Highlighter | Clustering in
+                                     Tableau
+                          o  Cross-Database Joins | Modeling with Clusters | Saving Your Clusters
+                       •  Power BI
+                          o  Power BI Mobile
+                          o   Introduction to Power BI Mobile
+                          o  Mobile Dashboard Layout
+                          o  Sharing and Annotating in Power BI Mobile
+                          o  Using Custom Charts from Marketplace
+
+   Session 5                     Python for Deep Learning: Keras Library
+
+                       •   Set up your environment.
+                       •   Install Keras.
+                       •   Import libraries and modules.
+                       •  Load image data from MNIST.
+                       •   Preprocess input data for Keras.
+                       •   Preprocess class labels for Keras.
+                       •   Define model architecture.
+                       •  Compile model.
+                       •   Fit model on training data.
+                       •   Evaluate model on test data.
+
+ Week 19            Deep Learning (RNN) for NLP & Time Series
+Learning Objectives: This module talks about yet another interesting implementation of Neural Networks that
+revolves around equipping computers to understand human language.
+
+You will learn to work with text data and sequential data, and explore the interesting world of RNNs and LSTMs
+
+   Session 1                 Recurrent Neural Networks (RNN) - R & Python
+
+                       •  RNN Explained | Characteristics of RNN
+                       •   Backpropagation
+                       •   Gradient problem (Vanishing vs. Exploding)
+                       •  Long Short-Term Memory Networks
+                       •  R & Python hands-on training with real-world business problems
+
+--- Page 24 ---
+   Session 2             Recurrent Neural Networks for Time Series- R & Python
+                       •   Transform Data for Time Series
+                       •  MLP & CNN for Time Series Forecasting
+                       •  LSTM & CNN-LSTM for Time Series Forecasting
+                       •  Encoder-Decoder LSTM Multi-step Forecasting
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 2                 Recurrent Neural Networks for NLP- R & Python
+                       •   Motivations
+                       •  From logistic regression to neural networks
+                       •  Word representations
+                       •   Unsupervised word vector learning
+                       •   Backpropagation Training
+                       •   Learning word-level classifiers: POS & NER
+                       •  R & Python hands-on training with real-world business problems
+
+   Session 4          Tableau – Power BI - RapidMiner - Analytics tools - Case Studies
+
+                       •  Azure ML:
+                          o  Deploy a Web Application with Azure Machine Learning
+                          o  Deploy a web application with Azure ML
+                          o   Introduction to Azure cloud
+                          o  Deploy & Review Azure ML web application
+                          o  Test drive Azure ML web application
+                       •  Case study # 4
+                          o  Crime Data Analysis
+
+   Session 5                Python for Deep Learning: TensorFlow Library
+                       •  Overview of TensorFlow and TensorFlow libraries
+                       •  Use cases for a machine learning service
+                       •  Using and applying your model
+                       •   Training your model
+                       •   Testing your model
+                       •  Using TensorBoard to visualize model performance
+
+ Week 20         General Deployment Considerations & intro to Big Data
+Learning Objectives: In this module, you will learn every aspect of how to put your models in production. You will
+learn all the steps and infrastructure required to deploy machine learning models professionally, and you will have at
+your fingertips, the sequence of steps that you need to follow to deploy a machine learning model, plus a project
+template with full code, that you can adapt to deploy your own models.
+
+   Session 1                           Avoiding False Discoveries
+
+                       •   Preliminaries: Statistical Testing
+                       •  Modeling Null & Alternative Distributions
+                       •   Statistical Testing for Classification | Association Analysis | Cluster Analysis | Anomaly Detection
+                       •  R & Python hands-on training with real-world business problems
+
+--- Page 25 ---
+   Session 2                      General Deployment Considerations
+
+                       •  Docker Basics | Flask Basics
+                       •  Deployment Steps & Challenge
+               o  Load your model with its weights - Preprocess your data - Perform the actual prediction - Handle the
+                          prediction response data
+                       •  Loading model directly into an application
+                       •   Calling an API
+               o  Kubernetes - Custom REST-API with Flask | Django - AWS Lambda | Serverless
+                       •  Apache Beam
+               o  Spark | Flink
+
+   Session 3                              Introduction to Big Data
+
+                       •  The job market around Big Data
+                       •  What is Big Data?
+                       •  Big Data use cases
+                       •  Big Data Ecosystem
+                       •  HDFS | What is MapReduce | Pig, Hive etc.
+                       •  NoSQL Databases
+
+   Session 4          Team Projects Final Presentation (Insights & Action Plan)
+
+                       •  Team Projects (Analytical Approach Implementation)
+                       •  Team Leads’ Final Presentation
+
+Session 5                       Team Projects Codes share
+                       •   Share and Compare Team Project codes with the Business solutions
+                       •  Lesson learned
+
+Week 21-25                Individual Capstone Project (1 Month)
+Learning Objectives: During the final week, you will be transitioned into full-time focus on your final, passion
+individual capstone assignment that will require you to apply the tools you have learned in the program.
+
+          Duration: The capstone will run for ONE month starting from the 12th of June 2021 till the 19th of July
+          2021.
+
+         Grading: The capstone project is a program requirement. To successfully complete the capstone project
+         and receive the certificate, students must achieve “Meets Expectations” OR “Exceeds Expectations”.
+
+--- Page 26 ---
+         ATC Innovation Center
+                         2972 Webb Bridge Rd, Alpharetta, GA 30009
+                     www.bbds.ma | | register@bbds.ma | | 315-975-1661
+
+
+
+
+
+    Resume Preparation | Interview
+  Preparation  | Employment Assistance
+Certificate Analytics Professional Training
+
+--- Page 27 ---
+Learning Objectives: In this module, you will be introduced to 120+ Data Science Interview questions and answers
+covering the topics like:
+                        o  The Big Picture | Optimization | Data Pre-processing | Sampling & Splitting
+                        o   Supervised Learning | Unsupervised Learning | Model Evaluation | Ensemble
+                                    Learning
+                        o   Business Applications
+
+ Week 27              Data Science Interview Real Challenges)
+
+Learning Objectives:  In this module, you will be introduced to some 24 hours real take-home challenges used as hiring
+process with some big companies:
+                        o  Capgemini Challenge | SDSC Challenge
+                        o  Foot Locker Challenge | Fatality Crashes Challenge
+                        o  PayPal Challenge
+
+ Week 28                     Resume Preparation
+
+Learning Objectives: In this module, you will learn how to build an affective Data Science resume:
+
+                        o   Structure of your Data Science Resume
+                        o  Adding Content and Information to your Data Science Resume
+                        o  Get Feedback from Industry Experts
+                        o  Build your Digital Presence
+ Week 29         Certified Analytics Professional (CAP Exam) Self-paced
+
+Learning Objectives: BBDS has developed a new course “CAP Preparation Course” as a bonus & great opportunity
+for all students at all experience levels to prepare for the Certified Analytics Professional (CAP®) certification or to
+refresh their knowledge and skills. In this module, you will explore all seven domains of the analytics practice as
+outlined by the CAP®Job Task Analysis. Apply concepts learned in each course module through a case study
+developed specifically for CAP® Prep users.
+
+
+
+
+
+     •  Domain I: Business Problem Framing                       •  Domain V: Model Building
+     •  Domain II: Analytics Problem Framing                     •  Domain VI: Model Deployment
+     •  Domain III: Working with Data                            •  Domain VII: Life-Cycle Management
+     •  Domain IV: Methodology Selection                        •  Mock exam
+
+ Week 30             Big Data & Hadoop Developer. – (Self-paced)
+
+Learning Objectives: In this last module, you will be introduced to Big Data technologies. This is a self-paced course and
+topics covered, but not limited to:
+
+     •   Introduction to Linux and Big Data Virtual Machine (VM)       •  MR Algorithm and Data Flow
+     •   Understanding Big Data                                    •  MR algorithm s (Non- graph)
+     •  HDFS (The Hadoop Distributed File System)                  •   Different types of NoSQL databases
+     •  MapReduce Architecture                                    •   Pig and Hive
+     •  Hadoop Streaming                                         •   Spark
+
+
+                                                                r care
+
+--- Page 28 ---
+    BBDS
+   Advantage
+
+We are Big Bang Data Science Solutions
+(BBDS), a professional Data Science            Key Facts about Artificial
+Solutions company based in Atlanta GA. We         Intelligence and Machine Learning:
+are specializing in Data Science, Machine
+Learning and advanced analytics                 Between 2015 and 2018, the number of
+technologies, including software engineers/          job postings with "AI" or "Machine
+programming, for the past 5 years.                   Learning" increased by nearly 100%.
+                                                                   Indeed, 2018
+BBDS regularly presents at numerous
+                                                     AI was among the top 5 in-demand hardconference workshops and until recently held
+                                                                         skills in 2019.regular monthly Meetups with industry experts                                                                         LinkedIn, 2019
+as speakers.
+                                                The global machine learning market is
+We currently offer a few multi-week, multi-                                                 expected to grow from USD 1.41 billion
+session courses that are live (then recorded)                                                                  in 2017 to USD 8.81 billion by 2022.
+programs that participants have thoroughly             Research and Markets Report, 2017
+enjoyed since we support our participants with
+almost endless one-on-one or group live         86% of executives at fast-growing
+support sessions.                                 companies say AI is important to their
+                                                  company’s success.
+                                                                 Cognizant Report, 2018
+
+   Showcase Your Competence
+   with a BBDS Certiﬁcate
+
+--- Page 29 ---
+Ready to Advance Your Career?
+
+
+            APPLY NOW
+
+
+
+    Speak to a Program Advisor
+       Have questions about the program or how it fits in with your career goals?
+
+                 +1 (315) 975-1661
+
+
+
+                       register@bbds.ma
+
+
+
+                      www.bbds.ma

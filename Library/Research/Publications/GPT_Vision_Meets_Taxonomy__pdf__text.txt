@@ -1,0 +1,651 @@
+--- Page 1 ---
+GPT Vision Meets Taxonomy:
+A Comprehensive Evaluation
+for Biological Image Classiﬁcation
+
+
+Angsuman Das and Bhabana Das
+
+
+
+
+
+Abstract This study assesses the proﬁciency of GPT Vision, a multimodal language
+model, in the classiﬁcation of biological images across taxonomic ranks. Utilizing a
+meticulously curated dataset from A–Z Animals, Wikipedia, and eLife Sciences, the
+model’s performance was analyzed at various levels from Phylum to Species. Our
+quantitative analysis, supported by Python libraries like Pandas, Matplotlib, Seaborn,
+SciPy, and Statsmodels, revealed a trend of high accuracy at broader taxonomic
+categories, with a notable decrease at more speciﬁc levels. The overall accuracy
+peaked at 78.95% for Phylum but dropped to 11.58% for Species. Misclassiﬁcation
+and null value analyses were conducted, indicating both the strengths of GPT Vision
+in identifying certain taxa and its limitations, especially at narrower taxonomic levels.
+The ﬁndings underscore the potential of GPT Vision in biological classiﬁcation
+while highlighting the necessity for further model reﬁnement, particularly for lower
+taxonomic ranks.
+
+Keywords GPT4 · GPT vision · Biological image classiﬁcation
+
+
+
+1  Introduction
+
+
+1.1  Background on Image Classiﬁcation in Biology
+
+
+Image classiﬁcation plays a pivotal role in a multitude of disciplines within the
+ﬁeld of biology, encompassing genomics, computational biology, medical diagnoses,
+drug discovery, biodiversity conservation, and ecological studies [1–3]. Automated,
+image-based high-content screening serves as an essential tool for exploration in
+
+A. Das envelopesymbol
+Rajiv Gandhi University, Doimukh, Itanagar, Arunachal Pradesh, India
+e-mail: angsuman.das@rgu.ac.in
+
+B. Das
+Nowgogong Autonomous College, Nagaon, India
+
+
+© The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2024       427
+I. Woungang et al. (eds.), Proceedings of the NIELIT’s International Conference
+on Communication, Electronics and Digital Technology, Lecture Notes in Networks
+and Systems 1022, https://doi.org/10.1007/978-981-97-3601-0_31
+
+--- Page 2 ---
+428                                                              A. Das and B. Das
+
+the realm of biological science [4]. When it comes to the analysis of biological
+images, the classiﬁcation of datasets is frequently executed employing specialized
+techniques such as deep learning and convolutional neural networks (CNNs) [5].
+These techniques have demonstrated remarkable progress in the realm of image-
+based classiﬁcation, recognition, and detection tasks [6]. Furthermore, the utilization
+of parallel neural networks and rule-based genetic algorithms has been investigated
+for the purpose of image classiﬁcation in biology “(Binary Image Classiﬁcation using
+Parallel Neural Networks”, 2020; Tseng et al. 2008).
+  To achieve precise image classiﬁcation, a variety of methodologies and character-
+istics are employed. For example, the proposal of combining multiple characteristics
+and utilizing random subspace classiﬁer ensembles has been made for the purpose
+of phenotype recognition [6]. Moreover, the utilization of indicator kriging error
+comparison and texture analysis has been implemented to identify speciﬁc regions
+within intricate intracellular spaces [6]. In the domain of stem cell research, image
+analysis techniques have been employed to identify tenogenic differentiation using
+Convolutional Neural Networks (CNNs) [6]. Furthermore, the assessment of colony
+and nuclear morphology has been utilized to evaluate human induced pluripotent
+stem cells [8].
+   In the context of animal taxonomy, automated image analysis techniques have
+proven to be valuable tools for species identiﬁcation and classiﬁcation. These tech-
+niques involve image processing and the extraction of relevant features from speci-
+mens’ images, followed by the classiﬁcation of these features into correct categories.
+By utilizing automated image analysis, scientists can streamline the process of species
+identiﬁcation, saving time, and resources [9].
+  The emergence of automated recognition algorithms exhibited a considerable
+degree of precision in the identiﬁcation of plant species in the geographical region
+of Northern Europe. These algorithms take into consideration diverse image char-
+acteristics, including plant organs, background composition, and the concentration
+of species being analyzed [10]. Furthermore, the quantity of training images acces-
+sible for particular species inﬂuences the effectiveness of the automated recognition
+algorithm (Pärtel et al. 2021). This clearly exempliﬁes the potential of employing
+automated image analysis techniques to accurately discern and categorize various
+plant species.
+
+
+
+1.2  The Advent of Machine Learning and Its Implications
+     for Biological Image Classiﬁcation
+
+
+The advent of machine learning has had signiﬁcant implications for biological image
+classiﬁcation. Machine-learning algorithms have shown great potential in analyzing
+large and complex biological data [11]. The application of machine learning to
+biological image processing has expanded with the development of deep-learning
+
+--- Page 3 ---
+GPT Vision Meets Taxonomy: A Comprehensive Evaluation …                        429
+
+techniques [12]. These techniques have enabled the automated analysis of biolog-
+ical images, leading to high-throughput measurement, identiﬁcation, and sorting of
+biological entities [13].
+   However, there are challenges in applying machine learning to biological image
+classiﬁcation. Variations in cell densities and differences in low-level image features
+can compromise the reliability of machine-learning methods [14]. Additionally, the
+availability of data and the rarity of certain diseases can impede the application of
+machine learning in musculoskeletal tumor imaging [15].
+   Despite the obstacles, machine learning has garnered signiﬁcant acceptance
+in the realm of medical image analysis, speciﬁcally in endeavors such as image
+segmentation and classiﬁcation, as stated by Dai et al. [16]. Furthermore, machine
+learning algorithms have demonstrated their efﬁcacy in detecting latent pathologies in
+medical imaging, surpassing conventional image analysis techniques, as highlighted
+by Ayubcha et al. [17].
+  The ﬁeld of animal taxonomy has been impacted by the advent of machine
+learning. Machine-learning algorithms have been utilized to aid in the classiﬁ-
+cation and identiﬁcation of animal species. By extracting features from speciﬁc
+image regions, machine-learning algorithms can classify these regions as either
+animal or non-animal [18]. This methodology has the potential to streamline the
+process of species identiﬁcation and contribute to the overall understanding of animal
+taxonomy. Another such example is the app Merlin that speciﬁcally designed for Bird
+identiﬁcation and classiﬁcation.
+
+
+
+1.3 GPT Vision’s Potential in This Domain
+
+
+GPT (generative pre-trained transformer) Vision’s integration of vast internet-scale
+textual data with image processing capabilities holds considerable promise for
+biological image classiﬁcation, particularly in the realm of animal taxonomy. Its
+hypothetical advantages in this domain are grounded in the following attributes:
+  Deep Contextual Understanding: The extensive scientiﬁc knowledge embedded
+in GPT Vision’s training data can be used to provide context for visual features in
+biological images, potentially leading to more accurate classiﬁcations [19].
+  Advanced Feature Recognition: GPT Vision may excel at identifying subtle,
+species-speciﬁc visual cues that are critical for taxonomic classiﬁcation due to
+its ability to access and process large datasets of biological imagery and their
+accompanying textual information [20].
+   Efﬁcient Data Processing: The model’s ability to rapidly analyze large numbers
+of images could support high-throughput classiﬁcation tasks, potentially speeding
+up taxonomic workﬂows and research.
+   Continuous Learning: By utilizing reinforcement learning from human feedback,
+GPT Vision could iteratively improve its classiﬁcation accuracy, adapting to new
+data and expert corrections over time.
+
+--- Page 4 ---
+430                                                              A. Das and B. Das
+
+1.4  Objective of the Study
+
+
+The primary aim of this investigation is to scrutinize the efﬁcacy of GPT Vision in the
+classiﬁcation of biological images across various taxonomic levels. The study sets
+out to (1) quantify the model’s accuracy and reliability, (2) understand its precision,
+(3) identify the taxonomic ranks at which the model excels or falters, and (4) highlight
+the model’s behavior in the face of non-classiﬁable data. This inquiry strives to not
+only evaluate GPT Vision’s current capabilities but also to pinpoint areas for potential
+enhancement, setting the stage for its application in the broader ﬁeld of biological
+research.
+
+
+
+2  Materials and Methods
+
+
+2.1  Dataset Description
+
+
+The dataset for this study was meticulously curated from a trio of reputable online
+sources known for their extensive biological repositories. The primary source was
+A–Z Animals (https://a-z-animals.com), a comprehensive database of animal images
+spanning a wide array of species. Additional images were sourced from Wikipedia
+(https://wikipedia.org), the renowned online encyclopedia that offers a vast collection
+of wildlife photography contributed by its global user base. Lastly, eLife Sciences
+(https://elifesciences.org) provided high-quality scientiﬁc images, supporting the
+dataset with a scholarly perspective.
+  Each image in the dataset was tagged with taxonomic information at multiple
+levels, ranging from the broadest category of Phylum to the most speciﬁc designation
+of Species. This multi-tier classiﬁcation enabled a granular analysis of GPT Vision’s
+classiﬁcation capabilities, providing insights into its performance at each hierarchical
+level. The categorization process was underpinned by the taxonomic data available on
+the source websites, ensuring a scientiﬁcally grounded and accurate representation
+of biological diversity.
+   Categories and Taxonomic Levels: The dataset encompasses a diverse array
+of biological categories, reﬂecting the rich tapestry of life. These categories are
+organized according to the universally accepted biological classiﬁcation system,
+spanning across several taxonomic levels. The broadest category included is the
+Phylum, which groups organisms based on fundamental body plans and structures.
+Within each Phylum, the images are further classiﬁed into Classes, Orders, Families,
+Genera, and ultimately, Species.
+  The Species level, being the most speciﬁc, denotes individual types of organisms
+that are capable of interbreeding, while Genus groups together species that are closely
+related. Family and Order represent higher levels of common characteristics, and
+Class groups together those orders sharing key attributes. The dataset, therefore,
+
+--- Page 5 ---
+GPT Vision Meets Taxonomy: A Comprehensive Evaluation …                        431
+
+serves as a hierarchical map of biodiversity, capturing the complexity and nuances
+of biological classiﬁcation.
+  By leveraging such a structured and comprehensive dataset, the study aims to
+dissect the performance of GPT Vision at each of these levels, delivering a thorough
+assessment of its classiﬁcatory acumen. This approach not only challenges the model
+across a spectrum of complexity but also mirrors the real-world application of such
+technology in the ﬁeld of taxonomy and biological research.
+  As the GPT vision is available in easy-to-use chat interface inside ChatGPT plus,
+we input each image a simple initial prompt: “I will give you some photos return
+me with only Phylum, Class, Order, Family, Genus and Species, if anything is
+not know just write NA for that taxon. OK?”.
+
+
+
+2.2 GPT Vision Overview
+
+
+GPT-4 V is a language model developed by OpenAI that incorporates additional
+modalities, such as image inputs, into large language models (LLMs). It is viewed
+by some as a key frontier in artiﬁcial intelligence research and development. The
+model enables users to instruct GPT-4 to analyze image inputs provided by the
+user, expanding the impact of language-only systems with novel interfaces and
+capabilities.
+  The training process for GPT-4 V was completed in 2022 and was the same as
+that for GPT-4, which is the technology behind the visual capabilities of GPT-4 V.
+The pre-trained model was ﬁrst trained to predict the next word in a document, using
+a large dataset of text and image data from the Internet as well as licensed sources of
+data. The model architecture is not described in detail by the company (Open AI),
+but it is a multimodal language model that possesses the limitations and capabilities
+of both text and vision modalities.
+   After the pre-training, the model was ﬁne-tuned with additional data using an
+algorithm called reinforcement learning from human feedback (RLHF). This algo-
+rithm produces outputs that are preferred by human trainers, allowing the model to
+learn from human feedback and improve its performance. The system card does not
+provide further details on the model architecture and training, but it does describe
+the safety evaluations, preparation, and mitigation work done speciﬁcally for image
+inputs [19, 20]. Figure 3 explains the whole process of the experiment visually.
+
+
+
+2.3  Analysis and Visualization Techniques
+
+
+The backbone of our evaluation rested on meticulous quantitative analysis, aimed
+at unraveling the nuances of GPT Vision’s performance in biological image clas-
+siﬁcation. To ensure precision and extract substantive conclusions, we utilized a
+
+--- Page 6 ---
+432                                                              A. Das and B. Das
+
+selection of specialized Python libraries, each chosen for its speciﬁc capabilities in
+data analysis and visualization.
+   Pandas: Serving as the cornerstone of our data wrangling efforts, Pandas enabled
+us to meticulously clean, transform, and examine our data. It proved indispensable
+in structuring the image metadata and taxonomic classiﬁcations into organized data
+frames, which formed the basis for all further analysis.
+   Matplotlib and Seaborn: These visualization libraries were essential in bringing
+our data to life. Matplotlib offered a robust platform for crafting various plot types,
+while Seaborn, which extends Matplotlib, provided a means to produce more complex
+and visually appealing charts. These tools were pivotal in generating the bar plots,
+pie charts, and confusion matrix that elucidated GPT Vision’s classiﬁcation trends
+and challenges.
+   SciPy and Statsmodels: To delve deeper into the statistical aspects of our study, we
+utilized SciPy and Statsmodels. They facilitated the execution of advanced statistical
+tests, such as confusion matrices and accuracy calculations, to assess the reliability
+and precision of GPT Vision’s predictions across the different taxonomic ranks. These
+analyses were critical in identifying the model’s strengths and the areas requiring
+further training and optimization.
+
+
+
+3  Results
+
+
+Our study embarked on a comprehensive evaluation of GPT Vision’s ability to clas-
+sify biological images across different taxonomic levels. The results varied across
+the taxonomy, with the model exhibiting better performance at broader taxonomic
+levels and a decline as the classiﬁcation became more speciﬁc.
+
+
+
+3.1  Overall Accuracy Across Taxonomic Levels
+
+
+To gain a deeper understanding of the model’s strengths and areas for improvement,
+we computed analysis. In the presented Fig. 3, the classiﬁcation accuracy of GPT
+Vision across different taxonomic levels is meticulously illustrated. Distinctively,
+two scenarios are compared: One where null values are incorporated (represented in
+blue) and another devoid of them (shown in red). At the broader levels of taxonomy,
+such as “Phylum” and “Class”, the accuracy metrics are notably high, and there’s
+a minimal disparity between the two scenarios. However, as we delve deeper into
+more speciﬁc taxonomic categories like “Order”, “Family”, “Genus”, and “Species”,
+a pronounced variability between the two conditions becomes evident. Particularly at
+the “Order” and “Genus” levels, the inclusion of null values appears to signiﬁcantly
+diminish classiﬁcation accuracy. Our results indicated that the model’s performance,
+as measured by these metrics, mirrors the trend observed in the accuracy assessment,
+with higher scores at the Phylum level and a decline at more speciﬁc classiﬁcations.
+
+--- Page 7 ---
+GPT Vision Meets Taxonomy: A Comprehensive Evaluation …                        433
+
+This signiﬁes that at lower level of taxonomy not only it unable to predict the taxon,
+it is more likely to predict wrongly.
+  The overall accuracy of GPT Vision’s predictions across different taxonomic
+levels was assessed. The model demonstrated its highest accuracy at the Phylum
+level, with a success rate of 78.95%. As we traversed down the taxonomic hier-
+archy, the accuracy diminished, culminating at Species: 11.58% for Species iden-
+tiﬁcation (Fig. 1). Total accuracy with null values for Phylum level is, 78.95%, for
+Class: 61.05%, Order: 40.00%, Family: 26.32%, Genus: 20.00% and for Species it
+is 11.58%. The formulas to deliver the accuracy and to plot the bar chart in Fig. 3 is
+shown in Fig. 2. The Table below shows the exact numbers of correct, incorrect and
+Null Values (where GPT vision model denied to predict).
+
+
+
+
+
+Fig. 1  Schematic diagram of getting the output and analysis
+
+
+
+
+
+Fig. 2 Formula to count accuracy with and without null values
+
+--- Page 8 ---
+434                                                              A. Das and B. Das
+
+
+
+
+
+Fig. 3 Accuracy with and without recognizing null values (accuracies are in decimals should be
+multiplied with 100 to get percentage)
+
+
+3.2  Detailed Performance Metrics
+
+
+An examination of GPT Vision’s predictions highlighted that the model occasionally
+failed to predict certain classiﬁcations, marking them as null. A pie chart analysis
+illuminated the proportion of predictions that the model could not classify versus
+those it did across different taxonomic levels Fig. 4.
+   In conclusion, our results shed light on GPT Vision’s capabilities and poten-
+tial areas for enhancement in the domain of biological image classiﬁcation. The
+model exhibits commendable proﬁciency at broader taxonomic levels, with room
+for improvement at ﬁner classiﬁcation levels.
+
+
+
+
+
+Fig. 4  Percentage of null values in each taxonomic level signifying models’ denial to predict
+
+--- Page 9 ---
+GPT Vision Meets Taxonomy: A Comprehensive Evaluation …                        435
+
+
+ Level                  Correct                 Incorrect                Null
+
+ Phylum              75                  20                    0
+
+ Class                58                  37                    0
+
+ Order               38                  26                   31
+
+ Family              25                  16                   54
+
+ Genus               19                   4                   72
+
+ Species              11                   4                   80
+
+
+   After a detailed examination of the provided diagram illustrating GPT Vision’s
+performance on biological image classiﬁcation, some intriguing patterns emerge.
+The phyla Mollusca and Nematoda stand out with consistently high accuracy rates
+across all taxonomic ranks, suggesting that GPT Vision adeptly identiﬁes organisms
+within these groups irrespective of the taxonomic speciﬁcity. In contrast, the phyla
+Annelida and Cnidaria display signiﬁcant discrepancies, particularly between the
+broader (e.g., phylum, class) and narrower (e.g., genus, species) taxonomic ranks
+(Fig. 5). And, the phyla Hemichordata showed a shocking zero accuracy mostly
+because of morphological similarity with annelida and mostly to the polychetae
+class. Such disparities in accuracy hint at the intricacies and potential challenges
+faced when differentiating between organisms that share close evolutionary ties or
+morphological similarities within these phyla. The data emphasizes GPT Vision’s
+impressive capabilities in the realm of biological classiﬁcation, but also pinpoints
+the domains that might beneﬁt from more specialized training or ﬁne-tuning.
+
+
+
+3.3  Misclassiﬁcation Analysis
+
+
+Confusion matrix visualization was employed to depict the frequency of misclas-
+siﬁcations at high taxonomic level. Our analysis revealed that certain taxa within
+the Phylum, Class, levels were recurrently misidentiﬁed, suggesting potential reﬁne-
+ment. One platyhelminth image was misclassiﬁed as rotifera which is a phylum not
+even there in the whole sample (Figs. 6 and 7).
+
+
+
+3.4  Data Availability Statement
+
+
+Data Availability: All data and python code for data cleaning, exploration, accuracy
+count, and visualization are available in this Git Hub repository: https://github.com/
+Angsumi/GPT_VISION_FOR_Animal_Classiﬁcation
+
+--- Page 10 ---
+436                                                              A. Das and B. Das
+
+
+
+
+
+Fig. 5 Accuracy of each taxon within each unique phyla (Phlum Annelida, Nematoda, Arthropoda,
+Chordata, Cnidaria, Mollusca, Echinodermata, Platyhelminthes, Rotifera, Porifera are denoted as
+0–9 successively)
+
+
+4  Discussion
+
+4.1  Interpretation of the Results
+
+
+The analysis of GPT Vision’s performance in biological image classiﬁcation has
+yielded insights with signiﬁcant implications for both the model’s application and
+the broader ﬁeld of machine learning in taxonomy. As observed in the results, the
+model’s prediction accuracy diminishes as the taxonomic classiﬁcation becomes
+more granular, with a notable decrease from broader categories such as Phylum to the
+more speciﬁc category of Species. This trend suggests that while GPT Vision is adept
+at discerning distinct, high-level biological features, its capability to differentiate ﬁner
+taxonomic details is less robust.
+   However, an intriguing pattern emerges when null predictions—instances where
+GPT Vision abstained from making a prediction—are excluded from the analysis. The
+exclusion of these null values results in a marked increase in accuracy across the lower
+taxonomic levels. This observation points to a sophisticated aspect of the model’s
+design; it appears that GPT Vision, likely due to the extensive and varied textual
+context inherent in its training, possesses an inherent caution in its predictive process.
+Rather than risking incorrect classiﬁcations, the model opts to withhold judgment
+when the available visual data does not sufﬁce for a high-conﬁdence prediction.
+
+--- Page 11 ---
+GPT Vision Meets Taxonomy: A Comprehensive Evaluation …                        437
+
+
+
+
+
+Fig. 6  Confusion matric of phylum level
+
+
+   This behavior may reﬂect a form of “artiﬁcial intuition”, akin to a seasoned
+taxonomist who recognizes the limits of their expertise under conditions of uncer-
+tainty. From an academic standpoint, this self-regulating mechanism within GPT
+Vision’s algorithm is a notable departure from the often-criticized “black box” nature
+of many machine learning models. It opens avenues for discussion on the integration
+of such models in scientiﬁc workﬂows, where the cost of misclassiﬁcation can be
+high.
+   Further discussions could explore the implications of these ﬁndings for the deploy-
+ment of machine learning models in critical ﬁelds. The self-awareness exhibited by
+GPT Vision in “knowing what it doesn’t know” could lead to more reliable appli-
+cations of AI in biological research and conservation efforts. It also raises questions
+about the training process for such models and the potential for incorporating explicit
+measures of uncertainty or conﬁdence in their outputs.
+   Moreover, the ﬁndings stimulate a conversation about the balance between the
+breadth and depth of knowledge in machine learning applications. As machine
+learning continues to intersect with diverse domains, the ability of models to gauge
+their predictions’ reliability becomes paramount. This study’s insights into GPT
+
+--- Page 12 ---
+438                                                              A. Das and B. Das
+
+
+
+
+
+Fig. 7 Confusion matrix at class level
+
+
+Vision’s performance across taxonomic levels offer a valuable case study for such
+interdisciplinary dialogues.
+
+
+
+4.2  Implications for Biological Research and Taxonomy
+
+
+The potential of GPT Vision to revolutionize biological research through future
+enhancements is substantial. As the model’s predictive accuracy at ﬁner taxonomic
+levels improves, it could become an invaluable tool for rapid species identiﬁca-
+tion, aiding in biodiversity monitoring and ecological studies. The model’s cautious
+approach to classiﬁcation, opting to provide no prediction rather than an incorrect one,
+sets a precedent for developing AI with a built-in safeguard against the propagation
+of errors.
+   Future iterations of GPT Vision could beneﬁt from augmented datasets that
+include more varied and detailed images, coupled with robust metadata, enhancing
+the model’s learning. Integrating feedback loops from taxonomic experts can reﬁne
+
+--- Page 13 ---
+GPT Vision Meets Taxonomy: A Comprehensive Evaluation …                        439
+
+its algorithms, enabling the model to approach the discernment of a seasoned biol-
+ogist. With these advancements, GPT Vision may offer unprecedented support
+in cataloguing species, tracking invasive populations, and monitoring changes in
+biodiversity.
+  The  implications  for conservation biology  are  particularly promising. By
+automating the identiﬁcation process, researchers can allocate more time to conserva-
+tion efforts rather than the manual cataloguing of species. This increase in efﬁciency
+and accuracy, especially in remote or highly biodiverse regions, could accelerate
+conservation strategies and policymaking, ultimately contributing to the preservation
+of ecosystems on a global scale.
+
+
+
+4.3  Limitations of the Study
+
+
+This study, while expansive in its scope, is not without limitations. The dataset, though
+diverse, is limited to animal images and thus, the ﬁndings may not be entirely gener-
+alizable to plant species or microorganisms, which exhibit different visual character-
+istics and classiﬁcation challenges. Additionally, the comparison with other models
+was beyond the ambit of this research, presenting an opportunity for future studies
+to benchmark GPT Vision against existing classiﬁcation algorithms. The current
+assessment focused solely on GPT Vision’s capabilities and did not explore a multi-
+model or ensemble approach that might yield improved results. These limitations
+underscore areas for further research, suggesting a broader application potential and
+inviting comparative analyses with alternative machine learning solutions.
+
+
+
+5  Conclusion
+
+
+5.1  Key Findings
+
+
+GPT Vision demonstrates high accuracy in classifying images at broader taxo-
+nomic levels, particularly at the Phylum level, indicating robust recognition of
+general biological features. Accuracy declines at ﬁner taxonomic resolutions, with
+the Species level showing the lowest accuracy, suggesting challenges in distin-
+guishing subtle, species-speciﬁc traits. Excluding null predictions reveals an increase
+in accuracy, highlighting the model’s ability to self-regulate and avoid overconﬁdent,
+potentially incorrect classiﬁcations. The model’s conservative approach in predic-
+tion mirrors the caution of expert taxonomists, indicating a sophisticated level of
+“artiﬁcial intuition” about its knowledge boundaries. Misclassiﬁcation patterns, as
+visualized through confusion matrix, suggest speciﬁc areas where GPT Vision may
+require additional training or reﬁnement. The study identiﬁes a potential “artiﬁcial
+intuition” in GPT Vision’s design, where it demonstrates a form of self-awareness in
+
+--- Page 14 ---
+440                                                              A. Das and B. Das
+
+its predictive capabilities, a promising feature for AI applications in scientiﬁc ﬁelds.
+The research outlines the promise of GPT Vision’s future application in biolog-
+ical research, with possible expansions into plant and microbial taxonomy, and its
+potential role in enhancing biodiversity monitoring and conservation strategies.
+
+
+
+5.2  Recommendations for Further Research
+
+
+Based on the study’s ﬁndings and limitations, here are several recommendations for
+future research:
+
+1.  Algorithm Benchmarking: Benchmark GPT Vision against other state-of-the-
+    art image classiﬁcation algorithms, including convolutional neural networks
+   (CNNs) and other machine-learning models, to contextualize its performance
+    in the broader ﬁeld of computer vision.
+2.  Artiﬁcial Intuition Exploration: Research the underlying mechanisms that enable
+    the model’s “artiﬁcial intuition”, and how this can be further developed or reﬁned
+    to enhance decision-making in AI applications.
+3.  Cross-Domain Generalization Studies: Conduct research to test and improve
+  GPT Vision’s classiﬁcation capabilities across different domains, such as plant
+    species and microorganisms, to assess the model’s generalizability beyond animal
+    imagery.
+4.  Ensemble and Multi-Model Approaches: Explore the use of ensemble methods
+    that combine GPT Vision’s output with other models to see if accuracy at ﬁner
+   taxonomic levels can be improved. Investigate multi-model approaches that inte-
+    grate GPT Vision with traditional ecological and genetic data to create a more
+    holistic species identiﬁcation system.
+5.  Interactive AI for Taxonomy: Develop interactive AI tools that can work along-
+    side taxonomists, allowing for a human-in-the-loop approach to reﬁne the
+   model’s predictions based on expert feedback.
+6.  Null Prediction Analysis: Analyze the circumstances and features associated
+   with null predictions to better understand when and why the model chooses not
+    to make a prediction, which could lead to more precise model tuning.
+7.  Understanding Misclassiﬁcation: Undertake a thorough examination of misclas-
+    siﬁcation patterns to identify any systematic biases or knowledge gaps in the
+   model, which could inform targeted data augmentation and training strategies.
+
+
+
+References
+
+
+ 1. Angermueller C, Pärnamaa T, Parts L (2016) Deep learning for computational biology. Mol
+    Syst Biol. https://doi.org/10.15252/msb.20156651
+ 2. Pham TD (2014) Image classiﬁcation with indicator kriging error comparison. https://doi.org/
+    10.1007/978-3-319-07998-1_50.
+
+--- Page 15 ---
+GPT Vision Meets Taxonomy: A Comprehensive Evaluation …                        441
+
+
+ 3. Guo M, Sosa DN, Altman RB (2021) Challenges and opportunities in network-based solutions
+     for biological questions. Brief Bioinform. https://doi.org/10.1093/bib/bbab437
+ 4. Zhang B, Pham TD (2011) Phenotype recognition with combined features and random subspace
+     classiﬁer ensemble. BMC Bioinf. https://doi.org/10.1186/1471-2105-12-128
+ 5. Oei RW et al (2019) Convolutional neural network for cell classiﬁcation using microscope
+    images of intracellular actin networks. PLoS ONE. https://doi.org/10.1371/journal.pone.021
+    3626
+ 6. Dursun G, Eschweiler J, Tohidnezhad M, Stoffel M, Markert B, Tandale SB (2020) Recognition
+    of tenogenic differentiation using convolutional neural network. Curr Dir Biomed Eng. https://
+    doi.org/10.1515/cdbme-2020-3051
+ 7. Tseng M-H, Chen S-J, Hwang GJ, Shen M (2008) A Genetic algorithm rule-based approach
+     for land-cover classiﬁcation. Isprs J Photogramm Remote Sens. https://doi.org/10.1016/j.isp
+    rsjprs.2007.09.001
+ 8. Tokunaga K et al (2014) Computational image analysis of colony and nuclear morphology to
+    evaluate human induced pluripotent stem cells. Sci Rep. https://doi.org/10.1038/srep06996
+ 9. Kalaﬁ EY, Town C, Dhillon SK (2018) How automated image analysis techniques help scientists
+     in species identiﬁcation and classiﬁcation? Folia Morphol (Warsz). https://doi.org/10.5603/fm.
+    a2017.0079
+10.  Pärtel J, Pärtel M, Wäldchen J (2021) Plant image identiﬁcation application demonstrates high
+    accuracy in Northern Europe. AoB Plants. https://doi.org/10.1093/aobpla/plab050
+11. Xu C, Jackson SA (2019) Machine learning and complex biological data. Genome Biol. https://
+    doi.org/10.1186/s13059-019-1689-0
+12. Ogawa T et al (2022) Different cell imaging methods did not signiﬁcantly improve immune cell
+    image classiﬁcation performance. PLoS ONE. https://doi.org/10.1371/journal.pone.0262397
+13. Luo S et al (2021) Machine-learning-assisted intelligent imaging ﬂow cytometry: a review.
+   Adv Intell Syst. https://doi.org/10.1002/aisy.202100073
+14. Sommer C, Gerlich DW (2013) Machine learning in cell biology—teaching computers to
+    recognize phenotypes. J Cell Sci. https://doi.org/10.1242/jcs.123604
+15. Hinterwimmer F, Consalvo S, Neumann J, Rueckert D, von Eisenhart-Rothe R, Burgkart R
+    (2022) Applications of machine learning for imaging-driven diagnosis of musculoskeletal
+    malignancies—a scoping review. Eur Radiol. https://doi.org/10.1007/s00330-022-08981-3
+16. Dai et al C (2020) Suggestive annotation of brain tumour images with gradient-guided sampling.
+    https://doi.org/10.48550/arxiv.2006.14984
+17. Ayubcha C et al (2023) Machine learning in the positron emission tomography imaging of
+    Alzheimer’s disease. Nucl Med Commun. https://doi.org/10.1097/mnm.0000000000001723
+18. Mary GPA, PS N, V N, GV T (2023) Wild animal detection system. In: 2023 2nd interna-
+     tional conference on advancements in electrical, electronics, communication, computing and
+    automation (ICAECA), pp 1–6. https://doi.org/10.1109/ICAECA56562.2023.10199701
+19. Sanderson K (2023) GPT-4 is here: what scientists think. Nature 615(7954):773
+20. AI O (2023) GPT-4V (ision ) System Card. pp 1–18. https://cdn.openai.com/papers/GPTV_S
+    ystem_Card.pdf

@@ -1,0 +1,883 @@
+--- Page 1 ---
+JOURNAL OF APPLIED BIOANALYSIS, June. 2024, p. 114-128.
+https://doi.org/10.53555/jab.v10.007 (ISSN 2405-710X)
+Vol. 10, No. 1
+
+ Clinical Applications of Mass Spectrometry in Toxicological
+ Investigations: Advancing Therapeutic Drug Monitoring and
+                          Analysis
+
+  Dr. Puneet Sudan1*, Dr. Gajanand Modi2, Marina Albuquerque3, Abanibhusan Jena4,
+                           Angsuman Das5
+
+       1*Professor, Chandigarh Pharmacy College-Jhanjeri, Chandigarh Group of Colleges-Jhanjeri, Mohali (Punjab), India.,
+                                 puneetsudan22@gmail.com, 0000-0003-2007-9134
+            2Associate Professor, FOBAS RNB Global University, Bikaner. India. gajanand.modi@rnbglobal.edu.in
+                                         0000-0003-0644-9178
+             3Research Scholar, School of Biological Sciences and Biotechnology, Goa University. Taleigao Goa, India.
+                                                marinaedi@rediffmail.com
+             4Associate Professor, Fakir Mohan Medical College, Fakir Mohan University, O.U.H.S, Odisha, India.
+                                           76avanivhushan@gmail.com,
+                                      5Rajiv Gandhi University, angsuman.das@rgu.ac.in
+
+     Mass spectrometry (MS) has revolutionized therapeutic drug monitoring (TDM) and
+      analysis in clinical toxicology. This review studies the recent advancements and applications
+      of MS in toxicological investigations, highlighting its role in improving TDM precision and
+     expanding the analyte detection scope. MS's versatility allows for precise drug quantification
+      across various concentrations, enhancing patient care through personalized dosing regimens
+     and monitoring drug efficacy and toxicity. MS-based assays provide superior specificity and
+       sensitivity compared to traditional immunoassays, especially in complex matrices like blood,
+      urine, and tissue samples. MS aids in identifying and quantifying novel psychoactive
+      substances and designer drugs, addressing emerging challenges in clinical toxicology. The
+      rapid adaptation of this substance to changing drug landscapes is a crucial aspect of its
+      essential role in forensic and emergency toxicology. MS, alongside TDM, is increasingly
+     being utilized in postmortem toxicology, aiding in thorough investigations into drug-related
+      deaths, and contributing to forensic pathology and public health initiatives. Despite its
+     widespread adoption, challenges such as standardization of methodologies, complex data
+       interpretation, and cost-effectiveness persist. The integration of MS into clinical practice and
+        its potential in toxicological investigations will be significantly enhanced by addressing these
+      challenges. MS is crucial in postmortem toxicology, aiding in forensic pathology and public
+      health interventions, but challenges like standardization, data interpretation, and cost
+      remain. MS's application in toxicology is continuously evolving, providing exceptional
+       capabilities  in TDM, new  psychoactive  substances (NPS)  detection, and  forensic
+      investigations. Future technological advancements are expected to enhance the clinical
+       utility of MS, leading to improved patient outcomes and public health. MS continues to
+      revolutionize clinical toxicology, offering exceptional capabilities in TDM, NPS detection,
+     and forensic analyses, with continued advancements promising improved patient care and
+      public health outcomes.
+
+
+Keywords: Mass Spectrometry, Toxicological investigations, Therapeutic drug monitoring, Drug discovery,
+Insilico-methodologies
+
+
+
+
+  *Corresponding author: Dr. Puneet Sudan
+  *Email: puneetsudan22@gmail.com
+
+                                          114
+
+--- Page 2 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+1. Introduction                                        examination of toxins, the mechanisms of dangerous
+Pharmaceutical safety issues pose a global threat to         events, and human responses to them, along with the
+human  health, necessitating toxicological  analysis       development  of  strategies  for  the  therapeutic
+and safety evaluation. Mass spectrometry imaging       management  of  toxic  exposures (Langman and
+(MSI) has gained popularity as an instrument for        Kapur, 2006). Any biologically active compound that
+predicting drug  toxicity.  It enables simultaneous        can change a biological system's normal physiology
+quantitative,  qualitative,  as  well  as  localization       and reach sufficiently large concentrations to have a
+avoiding the need for intricate sample preparation        hazardous effect is considered a poison (Holsapple
+and labeling procedures (Chen et al. 2023). Drugs of       and Wallace, 2008). Because of this, even medicinal
+abuse recognition and quantification are among the        treatments have the potential to turn toxic, and the
+urgent  topics  in  forensic  research,  and  the         overall  pharmacokinetic  and  pharmacodynamic
+development of mass spectrometry technology has         effects as well as the dosage can have an impact on
+created novel possibilities for these examinations         toxic effects (Holsapple and Wallace, 2008).
+(Moore et al. 2008). One of the main factors for a
+high rate of Illicit activity is the extremely high global           It  is  enclosed by  chemicals  all  the  time;  thus,
+incidence of addiction and misuse of drugs (Beck,        exposure might happen from the environment, at
+2014). The primary emphasis in the advancement of        work, or at home. To assess toxic exposures, various
+novel analyzing procedures, with mass spectrometry          analytical methods and instruments are necessary
+(MS) serving as a crucial tool, has been on the        because of the intricate nature of possible toxins
+extensive utilization of hallucinogens, natural drugs,        (Smith et al. 2007; Viette et al. 2012; Goullé et al.
+psychotropic  substances, and more  lately "new        2014; Shannon, Cox, and Baum,  1998).  Toxic
+psychoactive substances (NPS)" that are derived        assessments  involve  quantitative  or  qualitative
+from the structures of certain formerly identified         evaluations  to  identify  and  measure  hazardous
+natural medications (Lee  et  al. 2016; Gwak and        substances responsible for reported toxic syndromes
+Almirall,   2015).   Combining   chromatography        (toxidromes) in various toxins (Holstege and Borek,
+methods with mass spectrometry for toxicological         2012). LC-MS, a chromatographic technique with a
+analysis   can   screen   unidentified   medicines'       mass detector, is widely used for forensic analysis of
+metabolites. Tandem mass spectrometry or selected         drugs, explosives, and chemical warfare agents. Its
+reaction monitoring enhances selectivity for target           versatility, sensitivity, and accuracy surpass GC-MS.
+analysis  when  the  signal/noise  ratio   is  high        This covers LC-MS  principles, ion sources, and
+(Mogollon et al. 2018; Cappelle et al. 2015).                 analyzer   types,   discussing  STA   (Systematic
+                                                           Toxicological Analysis) and applications on crime
+The most commonly used method due to its higher          site samples (Gahlaut, et al. 2014).
+specificity,  selectivity, and detectability, but time-
+consuming when chromatographic separation and      To ensure the organ's survival in the recipient, a
+sample preparation are required (Cappelle et al. 2015;         lifetime of immunosuppressive medication is always
+Chèze et al. 2008). Furthermore, because they can be        administered  after  solid  organ  transplantation.
+used with little to no sample preparation, ionization       Immunosuppressive medications must be used to
+mass  spectrometry  techniques  like  atmospheric         protect the transplant and, ultimately, the patient's
+solids  analysis probe (ASAP), touch spray mass            life. These medications are highly recommended for
+spectrometry (TS-MS), paper spray (PS), desorption         therapeutic drug monitoring (TDM) in Fig. 1, which
+atmospheric-pressure  photoionization  (DAPPI),        modifies the appropriate dosage for each patient to
+low-temperature   plasma   (LTP),    desorption        prevent therapy-related side effects or rejection.
+electrospray ionization (DESI), and more recently
+laser  diode  thermal  desorption  (LDTD)   in       Without the appropriate  analytical methods and
+toxicological analysis have become more and more        equipment, this precisely regulated therapy would
+popular (Domin and Cody, 2014; Pirro et al. 2015;        not be feasible. In practice, either chromatography
+Wang et al. 2010).                                        techniques or immunoassays founded on concepts
+                                                                      like  fluorescence  or  colorimetric  detection  are
+Advancements in mass spectrometry are needed to        employed. They all have to deal with the difficult,
+detect  substances  with   similar  fragmentation        uniquely different matrix of whole blood. Attaining
+patterns, as the matrix sample alone cannot provide        the necessary levels of quantification is challenging
+relevant  information  for  criminal  investigations        (Freudenberger et al. 2016).
+(Habala et  al. 2016). Toxicology encompasses the
+
+
+
+
+
+                                             115
+
+--- Page 3 ---
+JOURNAL OF APPLIED BIOANALYSIS, June. 2024, p. 114-128.
+https://doi.org/10.53555/jab.v10.007 (ISSN 2405-710X)
+Vol. 10, No. 1
+
+
+
+
+
+  Fig. 1. The therapeutic medication monitoring procedure. The absorption, distribution, metabolism,
+    excretion, and therapeutic efficacy of medication can vary post-consumption or treatment. Blood
+ analysis can be used to determine if a patient is within a specific therapeutic window or has hazardous
+ or subtherapeutic drug concentrations. Dosage modifications can enhance treatment effectiveness by
+                 adjusting drug concentrations, either at a timed or steady-state level.
+
+The findings highlight MS's unmatched sensitivity,        to find an instrument's resolution. When m/Δm50%
+specificity, and adaptability in identifying a broad        >10,000, a mass spectrometer is deemed capable of
+spectrum of medications, metabolites, and toxicants         high-resolution analysis (Xian et al. 2012; Allen and
+in diverse biological matrices (Moorthy et al. 2015).       McWhinney,    2019).    High-resolution   mass
+MS allows for precise and reliable measurement of        spectrometers,  including  Time-of-flight  (TOF),
+small molecule medications  as  well  as complex         orbitrap (OT) mass analyzers, and Fourier transform
+biologics, which helps with therapy optimization,        ion cyclotron resonance (FT-ICR) instruments, are
+dose  adjustment, and  adherence  monitoring  in        widely   available   commercially   using   various
+clinical  practice. This study  also emphasizes  the         technologies. A decrease in the price of devices like
+growing use of mass spectrometry in postmortem     TOF and OT mass analyzers has led to an increase
+and  forensic toxicology  investigations, providing         in the use of high-resolution mass analyzers  in
+information on drug-related deaths, intoxications,          clinical   laboratories   in   recent   years   (Jiwan,
+and   interactions.   Utilizing   cutting-edge  mass        Wallemacq, and Hérent, 2011). Over the past two
+spectrometry methods,  like  high-resolution mass        decades, MS has shown a growing usage in the field
+spectrometry   (HRMS)   and   tandem   mass        of environmental sciences to investigate the presence
+spectrometry (MS/MS),  toxicologists  can  better        of  organic  pollutants. This has  resulted  in  the
+interpret toxicological results in forensic settings,       emergence  of  various  techniques,  including  gas
+uncover new biomarkers, and clarify intricate drug        chromatography   (GC),   high-resolution   mass
+metabolism pathways.                                    spectrometry (HRMS), tandem mass spectrometry
+                                                  (MS-MS), and liquid chromatography (LC). HRMS is
+2. High-resolution mass spectrometry                     particularly popular due to its applicability for both
+High-resolution mass spectrometry (HRMS)  is a        focused  and  broad  assessment,  allowing  for
+method  that  accurately  measures  the  mass  of         retrospective analysis, pre- and post- and non-target
+molecular ions in a sample, unlike the nominal mass          analysis,  and  discovery  of  transformation  and
+method. This definition is provided by The Royal        metabolite products. Most literature on HRMS has
+Society of Chemistry (Allen and McWhinney, 2019).       been obtained since 2005, reflecting its expansion
+The  instrument  resolution  is  typically  used  to       and prevalence in this domain (Hernandez et  al.
+describe  the  efficacy  of  a  high-resolution mass         2012). High-resolution mass spectrometry (HRMS)
+analyzer. The "full width at half maximum" (FWHM)           is increasingly utilized for the examination of residual
+approach, which divides mass (m) by the peak width        substances  in  foodstuffs  due  to   its  selective,
+at 50% of the peak height (m/Δm50%), can be used          sensitive, and  rugged  instrumentation.  It  offers
+                                          116
+
+--- Page 4 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+benefits  like  full-scan  spectra,  retrospective data        spectrometry aside (Kaufmann, 2012). Native MS is
+analysis, compound-specific tuning, and structural        a recent addition to mass spectrometry, focusing on
+elucidation.    In     quantitative     multi-residue        the analysis and characterization of macromolecules,
+approaches, HRMS  competes  with  traditional          particularly intact proteins and protein complexes in
+tandem mass spectrometry, but it still has hardware         Fig. 2 (Tamara et al. 2021).
+and software problems that may set tandem mass
+
+
+
+
+
+  Fig. 2. Current advancements in sample preparation, MS technology, bioinformatic tools, and mass
+          spectrometry-based clinical proteomics: key benefits and necessary considerations
+
+3. Mass spectrometry's historical use in drug       and concentration of a drug. Within the bloodstream
+metabolism                                            or plasma, there exists a relationship between the
+The 1990s saw the development of commercially          level of concentration and therapeutic effects. TDM
+manufactured LC/MS instruments, high-resolution          starts at the time the drug is first administered and
+HRMS instruments, and data-mining technology,          entails choosing a starting dosage that is suitable for
+marking significant turning points in MS technology        the patient's age, weight, organ function, and clinical
+evolution  and  drug  metabolism  studies.  ESI        condition  as  well  as any concurrent medication
+technology overcomes physical barriers in LC/MS,         therapy. The  dosage  history,  patient  response,
+enabling direct liquid introduction into the gas phase,        intended medical aims, and the sample time about
+and enhancing analytical selectivity, sensitivity, and        the medication dose are all important considerations
+speed ideal for drug metabolic research (Lee and         for interpreting concentration values. Using the right
+Kerns, 1999). However, the LC/MS platform now        dosages of challenging-to-manage drugs to maximize
+collects accurate HRMS and MS/MS datasets (Ma         therapeutic outcomes for patients in a range of
+and  Chowdhury,   2013;  Zhu,   Zhang,  and          clinical  settings  is  the  aim  of  therapy-directed
+Humphreys, 2011).                                     medicine (Kang and Lee, 2009). Advancements,
+                                                                 especially  in the  last half-century (Box  1), have
+ 4. Translational difficulties for therapeutic drug        demonstrated  that  pharmacological   activity   is
+monitoring                                                     directly connected with a drug's blood concentration.
+TDM is a clinical procedure that involves regular       For this reason, concentration is a more appropriate
+testing of specific medications to maintain consistent       measure of efficacy or toxicity than dosage (Praveen,
+concentration in a patient's bloodstream. TDM  is         2024). TDM measures drug concentration in blood,
+primarily used for drugs with limited therapeutic        plasma, or other  biological  fluids, aiming  for a
+ranges,   significant  pharmacokinetic   variability,        predetermined  therapeutic  range, and modifying
+challenging target concentrations, and drugs with        drug dosage regimen accordingly. As a result, the
+both beneficial and negative effects (Azad et  al.          specificity and sensitivity of the analytical method
+2024). The foundation of TDM is the belief that        have a significant impact on the reliability of TDM.
+there is a measurable correlation between the dosage       These tests are carried out in the modern clinical
+
+                                             117
+
+--- Page 5 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+TDM  setting  utilizing  either  immunoassays  or         turning point (Ates et  al. 2020). Pharmacokinetic,
+chromatographic techniques along with specialized       pharmacodynamic,     and      pharmacological
+detectors  (often mass  spectrometers). However,        methodologies and analyses must  all be coupled
+there  are  certain  practical  drawbacks  to  these       when using TDM. It takes more than just measuring
+conventional techniques for the planned large-scale,        a patient's blood medication content and comparing
+dispersed TDM practice (Praveen et al. 2024). These             it to a target range to utilize TDM appropriately.
+include non-standard workflows, lengthy turnaround     TDM  is  vital for developing  safe and  effective
+times, and expensive apparatus with intricate sample         therapeutic drugs, as well as for personalizing these
+preparation.                                                drugs. TDM can also be used to detect medication
+In  this  sense,  recent  advancements  in  sensing        compliance issues in noncompliant patient instances.
+technology present a special chance to get over these       The patient's response, the intended clinical targets,
+constraints and fully utilize TDM. The capabilities of        the dosage history, and the sampling period about
+these applications and their recent advancements        the dose  are  all important  considerations when
+have been thoroughly discussed (Shafiee et al. 2019;         interpreting drug concentration results. With this
+McKeating  et   al.  2016;  Carlier  et   al.  2015;         data, the best dosage schedule for achieving the
+Meneghello et al. 2018). Personalized medicine and         desired effect with the least amount of toxicity can
+on-site care predate human civilization, with hunter-       be determined (Thomson, 2004; Borowitz, 1995).
+gatherer micro societies utilizing local knowledge
+and healers providing the best available medication.         5. Pharmacokinetics TDM of ISDs
+The  Ebers  Papyrus  (1550 BCE),  the  Sushruta     TDM  is  a  multidisciplinary  clinical  specialty  to
+Samhita (600 BCE), the Sumerian clay tablets (2000        enhance the quality of treatment provided to patients
+BCE), De materia medica (50–70 CE), the Shennong       by separately adjusting a drug's dose when clinical
+Bencao Jing (200 CE), and numerous other ancient           trials have demonstrated that doing so enhanced the
+documents  are  among  the   first  examples  of          result in a broad or specialized group of individuals.,
+pharmacological  therapy. The treatment concept        according to the definition given by the IATDMCT.
+remained largely unchanged for thousands of years     A key component of TDM is the quantification of
+until the 19th century, during the period of synthetic        drug levels in the blood at predetermined sample
+chemistry. The advent of  scientific methods for        times (PK monitoring), in addition to demographic,
+manipulating the structure of organic materials led to           clinical, pharmacogenetic, and PD data. TDM  is
+the replacement of individualized tailored cures by        necessary  anytime  the  dose-effect  relationship
+mass-produced,   industrialized   "one-size-fits-all"        precludes the use of a "one size fits all" approach to
+products from neighborhood apothecaries (Praveen        medication delivery. Drug concentrations must be
+and  Morales-Bayuelo,  2023).  Advancements  in         closely monitored during immunosuppressive drug
+electronics, data science, manufacturing technology,        (ISD) therapy for several reasons: These medications
+and process control have revolutionized the industry,        have a restricted expected target range, which  is
+challenging   the   fundamental   assumption   of          typically expressed as the trough concentration. If
+automation. Dosage has been a crucial factor in        the target range is missed, there could be serious
+treating patients nearing death due to toxicity or        consequences, including medication toxicity and/or
+subtherapeutic exposure since ancient times.              overimmunosuppression that increase the risk of
+Paracelsus once stated that everything is poison and         infection and cancer; on the other hand, there could
+nothing is without poison; only the dose makes a       be graft loss and impairment. It can be challenging
+thing, not a poison. But Widmark made the first         to differentiate toxicodynamic effects from clinical
+demonstration of this transition's monitoring and         disease (calcineurin inhibitor-induced nephrotoxicity
+correlation in 1932. The 1960s saw the publication       from kidney transplant function impairment or BK
+of  the  first PK  study,  establishing  the  field's         virus nephropathy, for example). There is significant
+significance due to doubts over the "one-size-fits-all"         intraindividual and interindividual variability in the
+approach to blood concentration measurements for        dose/exposure relationship.
+multiple medications. Another significant historical        Drug-drug,  drug-disease,  drug-food,  and  drug-
+turning point was a 1965 publication that contained        environment  interactions  are  just  a few of  the
+the  first organized analysis of the significance of        confounding     factors     that    might     alter
+"monitoring    of    drugs".    Innovations    in        dose/concentration   relationships.   Patients   will
+chromatographic methods gave these studies even         require different adjustments for dosage and target
+more impetus. Drug monitoring reached its zenith in         range.  ISD  regimen  adherence   is   vital  and
+the years that followed. Initially, MS, HPLC, and GC         necessitates  greater  observation,  particularly  in
+were used to measure the concentrations of different         patients who are teenagers or young children (Seger
+medications. The development of immunoassays,          et al. 2016). ISDs are essential for both very low
+which  transformed  the  idea  by  making  assay        acute allograft rejection rates in transplant recipients
+execution more  feasible, was another  significant       and  short-term  patient  survival.  Therapy-related
+
+                                             118
+
+--- Page 6 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+adverse effects or treatment failure can be prevented       and suitable statistical analysis (Kloosterboer et al.
+by using customized medicine, which involves TDM        2018; Veenhof et al. 2017; Zwart et al. 2018; Berm et
+to modify the dosage  for each  patient. This  is            al. 2016).
+necessary because of the narrow therapeutic index
+and high inter-patient pharmacokinetic variability of         8. Structure for assessing data in support of
+IDs. Effective TDM is required to accomplish this.    TDM
+However, without the appropriate clinical experience          It produced a framework to assess the evidence
+and analytical tools,  it would not be feasible. This        supporting TDM  by   altering  the  consensus
+study aims to give a critical overview of the current       recommendations for TDM of psychiatric medicines
+clinical practices and analytical methodologies for         established by the AGNP (Arbeitsgemeinschaft für
+the TDM  of  ISDs,  as  well  as  guidance  for       Neuropsychopharmacology                und
+establishing reliable TDM. It also discusses some of        Pharmakopsychiatrie). This made  it easier for the
+the important practical elements of TDM (Seyfinejad        working group to concentrate on a standardized
+and Jouyban, 2021).                                method  for  assessing  the TDM  evidence. An
+                                                                additional, higher degree of recommendation is the
+6. Analytical validation                                 primary change we made for its use in cancer (Buko,
+There  are  presently no  established  bioanalytical         2017). A shift in a symptom-scale score is frequently
+validation requirements for techniques based on        used to measure clinical efficacy in psychiatry, but in
+dried blood samples. A few tests (such as freeze-         cancer, it is important to distinguish between survival
+thaw  stability,  which  depends on  storage  and       benefit—which  is frequently necessary for FDA
+transportation conditions) might not be applicable as       approval—and proof of activity, which is measured
+outlined in these guidelines, while others would need       by tumor reduction. Phase II cancer trials' response
+to be refined. It will also be necessary to assess a few         rate doesn't indicate survival benefit in phase III
+more factors (Timmerman et al. 2011; Jager et al.            trials, and randomized  double-blind  studies  are
+2014). As a result, during technique validation, a        considered  best,  but  rarely  conducted  due  to
+marginally higher number of samples will need to be          logistical  difficulties.  Furthermore,  investigations
+examined. Before beginning any analytical validation,        with fixed dosages are preferred to establish the
+it is crucial to consider the method's required quality         association between exposure and result (Nguyen
+(Alffenaar  et  al. 2018). Despite FDA and EMA       and Fenn 2007).
+standards   recognizing   analytical   performance
+requirements, DBS methodology may not always         9. Mass spectrometry technologies
+meet them. Based on  scientific  evidence,  these          9.1. Mass spectrometers
+requirements can be stringent, depending on the         Triple   quadrupole   mass   spectrometers   are
+analyte and the method's intended use. Some have       commonly used  in  clinical  labs  for  quantitative
+proposed   applying   biological   variation-based          analysis, utilizing metal rods to filter mass ions and
+acceptance  criteria  in  this  case,  as  is  standard         transmit a specific m/z ion band. This selection
+procedure  in  other  clinical  chemistry  domains         usually  has  an  accuracy  of ~1 Da. A  "triple
+(Capiau et al. 2019).                                     quadrupole" is a set of quadrupoles that select for
+                                          m/z twice, with the second quadrupole fragmenting
+7. Clinical validation                                     the  ions  selected  in  the   first  filtering  stage.
+The DBS sampling method  is only  suitable for        Fragmentation  enhances  analytical  precision  as
+routine TDM care after being validated in a clinical         ionized compounds,  including  adducts, produce
+study (Enderle  et  al. 2016; Zakaria  et  al. 2016;          distinct  fragmentation  products   despite   their
+Hoogtanders et al. 2007; Kloosterboer et al. 2018).        seemingly similar parent m/z. This characteristic is
+This would mean that blood, serum, or plasma         exploited by the third quadrupole, which chooses
+analysis would  partially  replace standard venous        fragmentation products that arise. This kind of ion
+whole-blood sampling. Clinical validation research         detection is referred to by one of two terms, selective
+involves analyzing paired DBS samples with venous         reaction monitoring (SRM) or  multiple  reaction
+blood,  plasma,  and/or serum  samples.  Clinical        monitoring (MRM), depending on the number of
+validation aims to demonstrate that DBS results can       mass  changes  being  observed.  Throughout  an
+be used to compare data from traditional TDM          analysis, SRM detection just keeps an eye out for one
+methods,  such  as  blood,  serum,  or  plasma          transition. During an analysis, MRM detection keeps
+examinations.  This  guideline  provides  practical       an eye out for several transitions—but only one at a
+suggestions for clinical validation of a DBS test for         time. In recent years, MRM-based techniques have
+TDM.  Current  recommendations   for   clinical       been  increasingly used to analyze protein  digest
+validation are based on published studies using real        peptide  products,  despite the  majority of  triple
+finger prick blood-derived DBS, paired DBS and        quadrupole MS  being used  for  small  molecule
+traditional matrix samples from at least 20 patients,         research  (Grayson,  2011). The development  of
+
+                                             119
+
+--- Page 7 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+software that simplifies the selection of transitions        while electron transfer dissociation offers energy
+for peptide detection has significantly enhanced this        advantages. ETD makes  it possible to sequence
+method (Robb et al. 2000). Furthermore, the process       changed peptides more thoroughly and may help
+of unique fragmentation is exploited by the method        with the better characterization of glycosylated and
+for  establishing  analytical  specificity when using        phosphorylated peptides (Garg and Zhang 2016).
+triple quadrupole mass spectrometers to screen for
+biomarkers (Pappin et al. 1993; Dingle and Butler-         9.3. Ionization sources
+Wu, 2013; Zhang et al. 2004). The "precursor ion        Electrospray (ESI) revolutionized biological mass
+scan" scanning mode  is frequently used for this        spectrometry  by  enabling  the  conversion  of
+research. The triple quadrupole searches for desired         biologically generated compounds from liquid phase
+fragments in scanning mode, maintaining the last         to gas phase, a traditional technique (Amirav, 2017).
+mass filter constant for a specific production arising       ESI discovery, created by John Fenn and Koicihi
+from a specific collision energy. When targeting a        Tanaka,     revolutionized     biological    mass
+known  class of molecules (phosphates,  sulfates,        spectrometry, earning them the 2002 Nobel Prize in
+steroids,  etc.) that  yield  identical fragments,  this        Chemistry  (Ojanperä  et  al.  2012). Atmospheric
+tactic can be helpful. Multiplex screening of several        pressure  chemical  and  photoionization  are  the
+hundred possible biomarkers might be accomplished        primary  methods  for  converting  liquid  phase
+with the MRM test.                                      molecules to gas phase, but are typically restricted to
+A smaller group of interesting biomarkers might be         specialized compounds (Amirav, 2017). The low pre-
+chosen based on the outcome and subjected to         analysis work-up  associated  with  matrix-assisted
+additional    validation,   most     likely    using          laser desorption ionization (MALDI) is a plus. The
+immunoassays. MRM MS is cost-effective and faster,        standard procedure entails combining materials with
+with hybrid instruments like Q-ToF, Triple-TOF,        a chemical matrix, then using a high energy laser to
+and  Q-Orbitrap  providing  high  resolution  and       form ions. For the analysis of basic protein digests,
+fragmentation capabilities. These analyzers have the          this  method  (peptide  mass  fingerprinting)   is
+highest level of analytical specificity, which makes         incredibly practical (Thunig et al. 2012). Pre-analysis
+them   indispensable   for  biomarker   discovery        of complex specimens  requires more time than
+research. However, they might be less sensitive to        simply connecting a liquid chromatograph system to
+low-concentration analytes (less capacity to detect a       an electrospray ionization source. MALDI has made
+low-concentration analyte) than a triple quadrupole         significant progress in the  field of  clinical  utility
+analyzer.  Hybrid  mass  spectrometers   aid   in        within  the microbiology  laboratory. For  quickly
+biomarker discovery by analyzing chromatographic        screening  cultivated  organisms, MALDI  is  fast
+features  for  significant  quantitative  data  and       becoming the lead (Kauppila et al. 2011).
+providing structural information for fragmentation      SELDI is a MALDI variant that uses a substrate to
+events,  either  retrospectively  or  triggered.  This         attach proteins to a surface, removing interferences.
+analytical technique is used for shotgun proteomics,      SELDI findings have led to the development of
+which involves breaking down proteins into peptides        commercialized tests like OVA1, an IVDMIA for
+and sequencing them based on their MS/MS spectra,        guiding  exploratory  surgery   in  women  with
+or for small molecule screening. The Triple-TOF        abdominal  masses, though used  less  frequently
+enables  sequential windowed  acquisition  of   all        (Thunig et al. 2012). More recently developed direct
+theoretical  ions  (SWATH),  a  data-independent        atmospheric ionization devices show promise as an
+acquisition method, due to  its lower duty cycle        adjunct   to   conventional   pathological   tissue
+compared to Orbitrap-based analyzers (Kerian et al.         inspection methods.  Typically,  the  tissue  to be
+2014; Wu et al. 2013; Nemes and Vertes, 2007).             studied is sectioned, fixed, and stained with a variety
+                                                         of techniques (either immunology- or dye-based),
+9.2. Fragmentation                                 which can be used to diagnose a patient when
+The most popular technique for breaking up parent        analyzed by a pathologist with training. MS interprets
+ions is collision-induced dissociation (CID), which is         tissue segments in multiple dimensions, with direct
+used in hybrid devices and triple quadrupole mass          tissue ionization providing molecular insight and
+spectrometers. It entails putting an ion into an area          specificity, eliminating the need for epitope binding
+where  collision  gas  concentrations  are high—        or dye  affinity (DelGuidice  et  al.  2020). While
+nitrogen  or  argon—by  applying  an   electrical         additional versions are also being developed quickly
+potential to it. It can vary the applied potential to give        (Jagerdeo et al. 2015), the two most often used direct
+varying  levels  of  analytical  specificity. CID  is         ionization procedures are Desorption Electrospray
+contrasted  with  other  fragmentation  techniques.         Ionization (DESI) (Wu  et  al. 2007) and  Laser
+Higher-energy collisional dissociation (HCD) uses a        Ablation Electrospray Ionization (LAESI) (Wu et al.
+multipole collision cell for Orbitrap, eliminating low         2007).
+mass cutoff and allowing isobaric tag quantification,
+
+                                             120
+
+--- Page 8 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+                                                         pain treatment for compliance monitoring was also
+10. Application to toxicology screening                examined in a recent study.
+It has been demonstrated that toxicology screening       Comparing  immunoassay  methods  for  opiate
+can help clinicians provide better care and treatment         detection  against LC-MS-MS revealed 21%  false
+for  their  patients.  Drug  test  findings  in  the         negative results, suggesting that immunoassays may
+emergency room seldom affect the way patients are        not be sensitive enough for medication compliance.
+treated during an emergency because of  several        In several therapeutic situations, the adoption of
+reasons, such as delayed results, low sensitivity and       mass spectrometry-based methods for compliance
+specificity, and difficult interpretation (Cuypers et al.        monitoring was also advised. For instance, patients
+2016).  The   National  Academy   of   Clinical      may include medication in their urine samples to
+Biochemistry released guidelines in 2003 regarding       mimic  compliance. The  parent  medication was
+the use of laboratory testing to assist patients who       found  in  the  sample,  and  mass  spectrometry
+have been poisoned in the emergency room. The       methods also revealed the absence of recognized
+necessity  of  developing  novel  drug  tests  and         urine metabolites that would have indicated the
+enhancing quick drug detection methods in order to        proper compliance. In cases of polypharmacy, it was
+adapt to evolving drug abuse trends was emphasized         also  advised  that  patients   identify  unknown
+here (Cuypers et al. 2016). The utilization of Q-TOF-         prescriptions or  illicit drugs to identify potentially
+MS  in  drug  screening  applications  has shown          fatal  drug  interactions  (Jannetto and  Fitzgerald
+promise in recent years as an analytical method to         2016)).  Many  of  the   limitations   related  to
+address many of the present and upcoming drug       immunoassay and GC-MS have been resolved in
+detection  difficulties. Urine  is the most common         recent years by applications that make use of Q-
+sample  type  used  in  clinical  settings  for  drug      TOF-MS techniques. Because mass spectrometry
+screening nowadays, and immunoassay methods        has a high sensitivity and specificity by nature and
+continue to be the most widely used technology.      may  use  large compound  libraries,  quick  and
+Because immunoassays  are quick and simple to        thorough Q-TOF-MS screening methods are being
+automate on standard biochemistry platforms, they        used more frequently in forensic and therapeutic
+are  a  helpful  tool  for  screening  a  variety  of          settings.
+medication   classes.   Despite   these   benefits,       The requirement for individual laboratories to invest
+immunoassays have several intrinsic limitations that         in the in-house production of spectral libraries has
+should be taken into account when applying the         also been substantially eliminated by the availability
+results in a clinical context.                                of sizable commercial libraries created by vendors
+One of the biggest issues with drug detection is its         for use with  their  related  platforms.  Ultra-high
+limited sensitivity and specificity, which can result in        performance liquid chromatography (UHPLC) and
+both  false  positive  and  false  negative  results.      Q-TOF-MS have been routinely coupled, which has
+Inconsistent   cross-reactivity   profiles   between       made sample preparation easier and made it possible
+different immunoassay techniques, varying cut-off        to identify a wider variety of chemicals. According to
+levels  for  analyte  detection,  and  immunoassay        Tsai et al. UHPLC-QTOF-MS was used to test for
+interferences, such as adulteration, are additional       62 drugs of abuse and their metabolites using a
+technical   factors   that   could  make   clinical         straightforward  5-fold  dilution  of  urine  with
+interpretation more difficult. GC-MS, which uses        deionized water. Eight acidic compounds could be
+extensive  universal chemical  libraries to provide       found in a 12-minute runtime in negative ionization
+mass  spectrometry's  enhanced   sensitivity  and      mode and 54 basic compounds  in a 15-minute
+specificity, has been the gold standard for systematic        runtime in positive ionization mode (Adaway et al.
+toxicological  analysis for decades. The  fact  that         2015).
+highly  polar,  non-volatile, or  thermally  unstable
+chemicals must  be  chemically  modified  to  be          11. Applications of MS in toxicology
+analyzed by GC-MS can be a drawback of the     MS and its hyphenated applications (GC/LC/ICP-
+technique, necessitating labor-intensive and intricate      MS)  are powerful  analytical  tools  in toxicology,
+sample preparation procedures. The  literature  is         analyzing volatile and heat-stabilized compounds,
+replete with well-documented  limitations of  the         non-volatile and heat-labile compounds, and metals
+immunoassay  screening procedures now  in  use.        using ICP-MS (Hernandez et al. 2012; Kaufmann,
+Marin et al. conducted a study wherein 3571 urine        2012)  MS   applications   are   crucial   for  the
+samples that tested positive for amphetamine-type         toxicological investigation of pharmaceuticals and
+compounds by immunoassay (EMIT® II) yielded        poisons  due  to   their   analytical   adaptability,
+389 false positive results (11.9%) upon confirmation          specificity, sensitivity, dynamic range, and ability to
+by LC-MS-MS. The  use  of immunoassay-based        screen  numerous  unrelated  substances.  Drug
+medication screening in patients receiving chronic         analysis is currently used in PK/PD research as well
+                                                             as  focused  applications   (e.g., TDM  and  pain
+
+                                             121
+
+--- Page 9 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+management) and screening applications (e.g., drugs       Chowdhury, 2013; Zhu et al. 2011; Kang and Lee,
+of abuse (DOA), forensic toxicology in Table 1,        2009; Shafiee et  al. 2019; McKeating et  al. 2016;
+environmental toxicology, and clinical toxicology)         Carlier et al. 2015; Meneghello et al. 2018).
+(Tamara et al. 2021; Lee and Kerns, 1999; Ma and
+
+Table 1. Primary modifications and analysis techniques used in forensic toxicology analysis using mass
+                                          spectrometry
+ Kind of MS analysis    Mass spectrometry ionization methods combined with techniques for separation
+                       Advantages                                               Disadvantages
+ Laser       diode     (i) The process is fully automated.                              (i) It is not possible to simply switch between
+ thermal                                                                   the positive and negative ionization modes.
+ desorption                                                                                                   (ii) Before the  liquid samples are moved
+                                                                      towards the capillary surface, further sample
+                                                                           preparation   is  required. The  effects  of
+                                                                               interferences   in  complicated   biological
+                                                                      samples need to be investigated.
+ Negative chemical     (i) Because of the stability of the electronegative     (i) Combining the approach with EI-MS
+  ionization            moieties,   it  offers  greater   sensitivity   at  low    yields better results by obtaining additional
+                      concentrations (pg).                                     structural information.
+                                   (ii)   Saves   time   by   preventing   incorrect     (ii) Methane is a typical reagent that is needed
+                        interpretations of accurate results.                     for the ionization in this procedure.
+
+ Touch spray              (i) Ionization facilitates the examination of solid or     (i) Of all the steps in the analytical process,
+                         liquid samples without the need for pretreatment   the drying step for this substrate takes the
+                     because the substrate (medical swabs) can be utilized   longest.
+                        as a tool for sample collection.
+                                   (ii) Neat oral fluids can be directly and noninvasively
+                    sampled using the TS-MS.
+ Desorption               (i) High salt content matrices do not provide a high     (i) The  biological  matrix can  affect  the
+ atmospheric-         ionization suppression.                             presence of high-suppression ionization.
+  pressure                                                                                                       (ii) Sample preparation is frequently required
+ photoionization                                                           to prevent ionization from being suppressed.
+ Atmospheric             (i) It is simple to conduct solids and liquids analyses.     (i) More research needs to be done on the
+  solids      probe     (ii) During  the  analysis,  this  design  permits  a    effects  of  interferences  in  complicated
+  analysis              positive/negative switch.                               biological samples.
+                                                                                                                     (ii) By reducing the study of high-molecule
+                                                                             substances,    this   approach   improves
+                                                                                        sensitivity when  analyzing  small-molecule
+                                                                           medications.
+  Metal-assisted           (i) The target's distribution spectra can be obtained     (i) There has been no quantitative analysis
+ secondary     ion   by coupling it to mass spectrometric imaging (MSI).   performed.
+ mass spectrometry     (ii) When compared to the results obtained with LC-
+               MS/MS as well as MALDESI, the limits of detection
+                        are lower.
+                                    (iii) Sample preparation is not required to be done.
+ Low-temperature       (i) Direct analysis can be carried out without sample     (i) Only tiny organic compounds with low to
+ plasma               preparation.                                    moderate  polarity  are  employed  in  this
+                                   (ii) The instrumentation is basic, and its setup allows   approach.
+                        for the use of air as the discharge gas and minimal
+                       discharge gas usage.
+                                    (iii) It  is possible to achieve high sensitivity and
+                          sensitivity without pretreating the samples.
+
+11.1. Addressing limitations of Immunoassays        have   little  input  in  (Hernandez  et   al.  2012;
+(IA) in TDM and drug screening                    Kaufmann, 2012; Tamara et al. 2021; Lee and Kerns,
+GC and LC-MS applications in toxicology emerged        1999; Ma and Chowdhury, 2013; Zhu et al. 2011;
+to overcome the limitations of IAs in drug analysis,       Kang and Lee, 2009; Shafiee et al. 2019; McKeating
+as MS applications emerged during IAs' established          et  al. 2016; Carlier et  al. 2015; Meneghello et  al.
+presence in clinical laboratories. Manufacturers often         2018). When it comes to tiny pharmaceuticals, the
+design  IAs  for FDA  test  approval  based on         precision of IAs is typically restricted to identifying
+economic  interests,  leading  to  poor  analytical        drug classes rather than specific medications within
+specificity and interferences, which end users often        a class. This restriction may arise from the fact that
+
+                                             122
+
+--- Page 10 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+antibodies   typically   identify  epitopes  on  big       and Cody, 2014). GC-MS is widely used for drug
+macromolecules,  meaning  that  IAs  have  low         screening, dangerous chemical identification, doping
+specificity when  it comes to identifying particular         control, environmental  analysis, and  clinical and
+tiny molecules (Hernandez et al. 2012; Meneghello et         forensic toxicology due to its high specificity and MS
+al.  2018). IAs  are commonly used  in  first-line          sensitivity (Gahlaut et al. 2014). GC-MS is frequently
+toxicology  screening  for  identifying  potentially        used in emergency care settings to screen blood and
+negative samples and drug classes like phencyclidine,         urine for acute overdoses of prescription and over-
+methadone,    fentanyl,   benzodiazepines,   and        the-counter  medicines,  particularly  those  with
+amphetamines. The standard procedure involves        harmful side effects (Langman and Kapur, 2006;
+screening   using   immunoassay,   followed   by       Shannon et al. 1998; Holstege and Borek, 2012). GC-
+confirmation using GC-MS or LC-MS techniques     MS is commonly used in forensic investigations and
+for specific molecule identification due to high false          clinical evaluations for drug screenings, identifying
+positive and false negative results. Immunoassays are       and quantifying poisons like barbiturates, opioids,
+typically available as FDA-approved tests on large,         stimulants,       anesthetics,       anticonvulsants,
+automated analyzers (Strathmann and Hoofnagle,         antihistamines, and sedative-hypnotics (Smith et al.
+2011; Jannetto and Fitzgerald, 2016).                        2007). GC-MS is a useful tool for environmental
+                                                           toxicology screening hazardous compounds such as
+11.2. Drug analysis by GC-MS                           chlorophenols,  PAH,   dioxins,   dibenzofurans,
+The coupling of GC to MS enabled the construction        organo-chlorine  pesticides,  herbicides,  phenols,
+of  regular  applications  with  the  sensitivity and        halogenated  pesticides, and sulfur  analysis  in  air
+specificity of MS (Lynch et  al. 2010; Yuan et  al.        (Goullé et  al. 2014). Most toxicology laboratories
+2015). GC is an analytical technique that separates        with financial means are transitioning from GC-MS
+molecules by partitioning them into stationery and         to LC-MS for targeted drug screenings in clinical and
+gas phases, using a liquid or polymer stationary phase         forensic toxicology applications (Viette et al. 2012;
+and a gas mobile phase. High temperatures, up to        Freudenberger et al. 2016).
+350°C, are required for chemical elution into the
+mobile  gas  phase,  facilitating MS  detection by         12. Conclusions
+separating analytes and entering the gas phase using     MS has revolutionized TDM and analysis, providing
+EI  sources. EI  ionization  creates  a  consistent         precise quantification and broad analyte coverage.
+fragmentation pattern from organic compounds by        Future    advancements    should    focus   on
+utilizing high-energy electrons to remove electrons         standardization, technological improvements, and
+from analyte molecules at high temperatures (Lynch         interdisciplinary collaboration for optimal patient
+et  al. 2010). Large EI-GC-MS libraries have been         care and public health. The integration of MS into
+developed     for    spectrum    matching-based          clinical toxicology has significantly improved TDM
+identification, making EI-GC-MS data valuable for       and analytical investigations. MS provides precise
+interlaboratory spectral comparisons (Lynch et  al.        drug   quantification   across   various   biological
+2010; Yuan et al. 2015). EI-GC-MS libraries enhance         matrices, enabling personalized treatment strategies
+in-house    libraries,   improving   GC-MS-based       and accurate assessment of drug efficacy and safety.
+compound identification, and making it an effective       The  tool's  superior  sensitivity  and  specificity,
+method for untargeted detection and quantification         especially in challenging sample matrices, make it a
+of small compounds with MS specificity. EI-GC-MS         crucial   component    in   modern   toxicology
+is   still  utilized  for  broad unknown  screening         laboratories. MS aids in identifying and quantifying
+applications using various sample types (Jannetto        emerging  psychoactive  substances  and  designer
+and Fitzgerald, 2016; Yuan et al. 2015). GC-MS is         drugs, thereby enhancing the understanding of the
+frequently used to confirm positive results from drug        evolving   clinical  toxicology  landscape.  Future
+screens in clinical toxicology (Adaway et al. 2015;        developments   in  mass   spectrometry   clinical
+Lynch et  al. 2010; Yuan et  al. 2015; Lynch et  al.         applications in toxicological investigations present
+2010). To function properly with GC-MS, some       numerous opportunities for further advancement.
+analytes  require chemical  derivatization to make       The  standardization  of methodologies and  data
+them  volatile and heat-stable (Yuan  et  al. 2015;         interpretation protocols  is crucial for maintaining
+Lynch et al. 2010).                                         consistency   and    reliability    across    various
+                                                                laboratories. Technological advancements aimed at
+11.3. Applications of GC-MS in Toxicology             improving the sensitivity, speed, and throughput of
+GC-MS  offers advantages  like homogenous  gas     MS instruments are expected to expand their utility
+mobile   phase,    efficient   separation,   precise         in clinical practice. The demand for interdisciplinary
+temperature programming, and library-based toxic         collaboration   between    clinical    toxicologists,
+compound identification through EI-MS databases,          analytical chemists, and forensic experts is increasing
+compared to LC-MS/MS (Chèze et al. 2008; Domin        to challenge emerging challenges and enhance MS-
+
+                                             123
+
+--- Page 11 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+based methods in toxicological investigations. The         10.  Buko, A. (2017). Capillary electrophoresis mass
+widespread adoption of MS technologies in clinical             spectrometry based metabolomics. Journal of
+settings  will be  significantly aided by  efforts to            Applied Bioanalysis, 3(1), 5–20.
+enhance  their cost-effectiveness and  accessibility.         11.  Capiau,   S.,  Veenhof,  H.,  Koster,  R.  A.,
+Innovation and collaboration in MS can enhance the              Bergqvist, Y., Boettcher, M., Halmingh, O.,
+precision,   efficiency,  and   clinical  impact  of              Keevil, B. G., Koch, B. C. P., Linden, R., Pistos,
+toxicological  investigations,  ultimately  improving               C., Stolk, L. M., Touw, D. J., Stove, C. P., &
+patient care and public health outcomes. MS in              Alffenaar,  J. C. (2019). Official International
+toxicological investigations is expected to improve             Association for Therapeutic Drug Monitoring
+precision, sensitivity, and affordability, making it a       & Clinical Toxicology Guideline: Development
+crucial   tool   in  TDM.   Standardization  and       &  Validation  of  Dried  Blood  Spot-Based
+interdisciplinary collaborations  will optimize data           Methods  for Therapeutic Drug Monitoring.
+interpretation, and adapting to emerging challenges             Therapeutic drug monitoring, 41(4), 409–430.
+will enhance patient care.                                    https://doi.org/10.1097/FTD.0000000000000
+                                                      643
+References                                                 12.  Cappelle, D., Neels, H., Yegles, M., Paulus, J.,
+1.   Adaway,  J. E., Keevil, B. G., & Owen, L.  J.            van Nuijs, A. L., Covaci, A., & Crunelle, C. L.
+     (2015).  Liquid  chromatography-t&em  mass              (2015). Gas chromatographic determination of
+     spectrometry in the clinical laboratory. Annals              ethyl glucuronide in hair: comparison between
+     of clinical biochemistry, 52(1), 18-38.                 t&em mass spectrometry & single quadrupole
+2.   Allen, D.  R., & McWhinney, B. C. (2019).           mass      spectrometry. Forensic      science
+    Quadrupole time-of-flight mass spectrometry:              internation nal, 249, 20–24.
+   A  paradigm  shift  in  toxicology  screening              https://doi.org/10.1016/j.forsciint.2014.11.02
+     applications. The Clinical Biochemist Reviews,                2.
+     40(3), 135.                                              13.  Carlier, M., Carrette, S., Klugkist, S., Verstraete,
+3.   Alffenaar, J. W., van Hateren, K., & Touw, D.              A., & Stove, C. P. (2015). Assays for therapeutic
+       J.  (2018).  Determination  of  Flucytosine  in            drug monitoring of  β-lactam  antibiotics: A
+   Human Serum using Liquid Chromato graphy-              structured  review.  International  journal  of
+   T&em Mass Spectrometry. Journal of Applied              antimicrobial agents, 46(4), 367-375.
+     Bioanalysis,            4(5),          157–165.         14.  Chauhan, A., Goyal, M. K., & Chauhan, P.
+     https://doi.org/10.17145/jab.18.020                        (2014). GC-MS  technique &  its  analytical
+4.   Ates, H. C., Roberts, J. A., Lipman, J., Cass, A.              applications in science & technology. J. Anal.
+     E., Urban, G. A., & Dincer, C. (2020). On-site              Bioanal. Tech, 5(6), 222.
+     therapeutic  drug  monitoring.  Trends   in         15.  Chen, Y., Xie, Y., Li, L., Wang, Z., & Yang, L.
+     biotechnology, 38(11), 1262-1277.                           (2023). Advances in mass spectrometry imaging
+5.   Azad, A. K., Praveen, M., & Sulaiman, W. M.              for toxicological analysis & safety evaluation of
+    A. B. W. (2024). Assessment of Anticancer             pharmaceuticals. Mass Spectrometry Reviews,
+     Properties of Plumbago zeylanica. Harnessing               42(5), 2207-2233.
+     Medicinal  Plants  in  Cancer  Prevention &         16.  Cheze, M., Lenoan, A., Deveaux, M., & Pépin,
+     Treatment,                         91–121.           G.  (2008).  Determination  of  ibogaine &
+     https://doi.org/10.4018/979-8-3693-1646-                noribogaine in biological fluids & hair by LC–
+    7.ch004                                 MS/MS after Tabernanthe iboga abuse: Iboga
+6.   Beck, O. (2014). Exhaled breath for drugs of              alkaloids distribution in a drowning death case.
+    abuse testing—evaluation  in criminal  justice             Forensic Science International, 176(1), 58-66.
+      settings. Science & Justice, 54(1), 57-60.                17.  Cuypers,  E.,  Flinders,  B.,  Boone,  C.  M.,
+7.   Becker,  J. O., & Hoofnagle, A. N. (2012).           Bosman, I. J., Lusthof, K. J., Van Asten, A. C.,
+     Replacing immunoassays with tryptic digestion-              Tytgat,    J., &  Heeren,  R.  M.   (2016).
+     peptide immunoaffinity enrichment & LC–            Consequences of Decontamination Procedures
+   MS/ MS. Bioanalysis, 4(3), 281-290.                          in Forensic Hair Analysis Using Metal-Assisted
+8.   Berm, E. J., et al. (2016). A clinical validation            Secondary    Ion    Mass    Spectrometry
+     study for application of DBS in therapeutic              Analysis. Analytical  chemistry, 88(6),  3091–
+    drug    monitoring    of    antidepressants.             3097.
+     Bioanalysis, 8(5), 413-424.                                https://doi.org/10.1021/acs.analchem.5b0397
+9.   Borowitz,  S. (1995). A monthly review for           9
+     health  care  professionals  of  the  children’s         18.  DelGuidice, C. E., Ismaiel, O. A., Mylott Jr, W.
+     medical center: therapeutic drug monitoring in               R., &  Halquist, M.  S.  (2020,  January  15).
+     pediatric patients. Pediatr Pharmacother, 1, 1-             Quantitative  Bioanalysis  of   Intact  Large
+     10.
+
+                                             124
+
+--- Page 12 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+    Molecules using Mass Spectrometry. Journal of         31.  Holstege,  C.  P., &  Borek, H.  A.  (2012).
+    Applied Bioanalysis, 6(1), 52–64.                        Toxidromes. Critical Care Clinics, 28(4), 479-
+19.  Dingle, T.  C., & Butler-Wu,  S. M.  (2013).             498.
+   MALDI-TOF   mass    spectrometry    for         32.  Hoogt&ers, K., et al. (2007). Therapeutic drug
+    microorganism    identification.   Clinics   in            monitoring of tacrolimus with the dried blood
+     laboratory medicine, 33(3), 589-609.                       spot method.  Journal  of pharmaceutical &
+20.  Domin,  M., & Cody,  R.  (2014). Ambient             biomedical analysis, 44(3), 658-664.
+     ionization mass spectrometry. Royal Society of         33.  Jackson, A. U., et al. (2010). Analysis of drugs
+     Chemistry.                                              of abuse in biofluids by low temperature plasma
+21.  Enderle,  Y.,  Foerster,  K., & Burhenne,  J.           (LTP) ionization mass spectrometry. Analyst,
+     (2016). Clinical feasibility of dried blood spots:              135(5), 927-933.
+      analytics, validation, & applications. Journal of         34.  Jager, N. G., Rosing, H., Schellens,  J. H., &
+     Pharmaceutical & Biomedical Analysis, 130,              Beijnen, J. H. (2014). Procedures & practices
+     231-243.                                                    for  the  validation  of  bioanalytical methods
+22.  Freudenberger, K., Hilbig, U., & Gauglitz, G.             using dried blood spots: a review. Bioanalysis,
+     (2016). Recent advances in therapeutic drug               6(18), 2481-2514.
+    monitoring  of  immunosuppressive   drugs.         35.  Jagerdeo, E., Clark, J. A., Leibowitz, J. N., &
+   TrAC Trends in Analytical Chemistry, 79, 257-            Reda, L. J. (2015). Rapid analysis of forensic
+     268.                                                  samples using an atmospheric solid analysis
+23.  Gahlaut, A., Dhull, V., Dahiya, M., & Dabur, R.            probe  interfaced to a  linear ion  trap mass
+     (2014). Mass Spectroscopy: Investigative Tool             spectrometer. Rapid Communications in Mass
+     in Forensic Toxicology. Drug Invention Today,             Spectrometry, 29(2), 205-212.
+      6(1).                                                    36.  Jannetto, P.  J., &  Fitzgerald, R. L.  (2016).
+24.  Garg,  U., &  Zhang,  Y.  V.  (2016). Mass              Effective use of mass spectrometry  in  the
+     spectrometry in clinical laboratory: applications                clinical laboratory. Clinical chemistry, 62(1), 92-
+     in therapeutic drug monitoring & toxicology. In              98.
+     Clinical Applications of Mass Spectrometry in         37.  Jiwan, J.-L. H., Wallemacq, P., & Hérent, M.-F.
+    Drug Analysis: Methods & Protocols (pp. 1-10).              (2011).   HPLC-high    resolution    mass
+25.  Goullé,  J.-P., Saussereau, E., Mahieu,  L., &             spectrometry  in  clinical  laboratory?  Clinical
+    Guerbet, M. (2014). Current role of ICP–MS in             biochemistry, 44(1), 136-147.
+      clinical toxicology & forensic toxicology: A         38.  Kang, J.-S., & Lee, M.-H. (2009). Overview of
+     metallic profile. Bioanalysis, 6(17), 2245-2259.               therapeutic  drug  monitoring.  The  Korean
+26.  Grayson, M. A. (2011). John Bennett Fenn: a              journal of internal medicine, 24(1), 1.
+     curious road  to  the  prize.  Journal of The         39.  Kaufmann, A. (2012). The current role of high-
+    American Society for Mass Spectrometry, 22(8),              resolution mass spectrometry in food analysis.
+     1301-1308.                                                   Analytical &  bioanalytical chemistry, 403(5),
+27.  Gwak,  S., &  Almirall,  J. R.  (2015). Rapid            1233-1249.
+     screening of 35 new psychoactive substances by         40.  Kauppila,  T.   J.,  Flink,  A.,  Haapala,  M.,
+     ion  mobility  spectrometry  (IMS) &  direct            Laakkonen, U. M., Aalberg, L., Ketola, R. A., &
+     analysis  in  real  time (DART)  coupled  to             Kostiainen, R. (2011). Desorption atmospheric
+    quadrupole time‐of‐flight mass spectrometry             pressure photoionization-mass spectrometry in
+    (QTOF‐MS). Drug Testing & Analysis, 7(10),             routine analysis of confiscated drugs. Forensic
+     884-893.                                                   science    international, 210(1-3),    206–212.
+28.  Habala, L., Valentová, J., Pechová, I., Fuknová,              https://doi.org/10.1016/j.forsciint.2011.03.01
+     M., &  Devínsky,  F.  (2016). DART–LTQ           8
+   ORBITRAP  as an  expedient  tool  for  the         41.  Kerian, K. S., Jarmusch, A. K., & Cooks, R. G.
+     identification of synthetic cannabinoids. Legal              (2014). Touch spray mass spectrometry for in
+     Medicine, 20, 27-31.                                              situ  analysis  of complex  samples.  Analyst,
+29.  Hern&ez, F., Sancho, J. V., Ibáñez, M., Abad,              139(11), 2714-2720.
+     E., Portolés, T., & Mattioli, L. (2012). Current         42.  Kloosterboer,  S. M., de Winter, B. C. M.,
+     use of high-resolution mass spectrometry in the           Bahmany,  S.,  Al-Hassany,  L.,  Dekker,  A.,
+     environmental    sciences.    Analytical  &            Dieleman, G. C., van Gelder, T., Dierckx, B., &
+     bioanalytical chemistry, 403, 1251-1264.                 Koch, B. C.  P.  (2018). Dried Blood Spot
+30.  Holsapple, M. P., & Wallace, K. B. (2008). Dose             Analysis for Therapeutic Drug Monitoring of
+     response considerations in risk assessment—an             Antipsychotics:  Drawbacks  of  Its  Clinical
+    overview of recent ILSI activities. Toxicology              Application. Therapeutic  drug   monitoring, 40(3),
+     Letters, 180(2), 85-92.                                  344–350.
+
+
+                                             125
+
+--- Page 13 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+    https://doi.org/10.1097/FTD.0000000000000         54.  Nguyen, S., & Fenn,  J. B. (2007). Gas-phase
+    502                                                       ions of solute species from charged droplets of
+43.  Langman,  L.   J., &  Kapur,  B. M.  (2006).              solutions.   Proceedings   of   the   National
+     Toxicology:   Then  &   now.    Clinical          Academy of Sciences, 104(4), 1111-1117.
+     Biochemistry, 39(5), 498-510.                           55.  Ojanperä,  I., Kolmonen, M., & Pel&er, A.
+44.  Lee, H.-H., Lee, J.-F., Lin, S.-Y., & Chen, B.-H.              (2012). Current use of high-resolution mass
+     (2016). Simultaneous identification of abused             spectrometry  in drug  screening  relevant  to
+     drugs, benzodiazepines, & new psychoactive                clinical & forensic toxicology & doping control.
+     substances in urine by liquid chromatography              Analytical &  bioanalytical chemistry, 403(5),
+    t&em  mass  spectrometry. The  Kaohsiung             1203-1220.
+     Journal of Medical Sciences, 32(3), 118-127.            56.  Pappin, D.  J., Hojrup,  P., & Bleasby, A.  J.
+45.  Lee, M.  S., & Kerns, E. H. (1999). LC/MS              (1993). Rapid  identification  of  proteins by
+     applications   in  drug  development.  Mass             peptide-mass fingerprinting. Current biology,
+     spectrometry reviews, 18(3-4), 187-279.                        3(6), 327-332.
+46.  Lynch, K. L., Breaud, A. R., V&enberghe, H.,         57.  Pirro, V., Jarmusch, A. K., Vincenti, M., &
+    Wu, A. H., & Clarke, W. (2010). Performance            Cooks, R. G. (2015). Direct drug analysis from
+     evaluation of three liquid chromatography mass              oral fluid using medical swab touch spray mass
+     spectrometry  methods  for  broad-spectrum             spectrometry. Analytica Chimica Acta, 861, 47-
+    drug screening. Clinica Chimica Acta, 411(19-              54.
+     20), 1474-1481.                                         58.  Praveen,  M.   Multi-epitope-based   vaccine
+47.  Ma,  S., & Chowdhury,  S. K.  (2013). Data             designing  against  Junín  virus  glycoprotein:
+     acquisition &  data  mining  techniques  for            immunoinformatics approach. Futur J Pharm
+     metabolite identification using LC coupled to              Sci           10,         29           (2024).
+     high-resolution MS. Bioanalysis, 5(10), 1285-             https://doi.org/10.1186/s43094-024-00602-8
+     1297.                                                   59.  Praveen M.  Characterizing  the  West  Nile
+48.  Maurer, H., & Meyer, M. R. (2016). High-              Virus's polyprotein from nucleotide sequence
+     resolution mass spectrometry  in  toxicology:             to protein structure - Computational tools. J
+     current status & future perspectives. Archives            Taibah Univ Med Sci. 2024 Jan 16;19(2):338-
+     of toxicology, 90(11), 2161-2172.                           350. doi: 10.1016/j.jtumed.2024.01.001. PMID:
+49.  McKeating, K. S., Aubé, A., & Masson, J.-F.            38304694; PMCID: PMC10831166.
+     (2016).  Biosensors &  nanobiosensors  for         60.  Praveen M, Ullah I, Buendia R, Khan IA, Sayed
+     therapeutic  drug &  response  monitoring.         MG, Kabir R, Bhat MA, Yaseen M. Exploring
+     Analyst, 141(2), 429-449.                                      Potentilla    nepalensis    Phytoconstituents:
+50.  Meneghello, A., Tartaggia,  S., Alvau, M. D.,             Integrated      Strategies     of    Network
+     Polo,  F., &  Toffoli, G.  (2018). Biosensing            Pharmacology, Molecular Docking, Dynamic
+     technologies for therapeutic drug monitoring.              Simulations, & MMGBSA Analysis for Cancer
+     Current  medicinal  chemistry,  25(34),  4354-             Therapeutic        Targets        Discovery.
+     4377.                                                    Pharmaceuticals (Basel). 2024 Jan 19;17(1):134.
+51.  Mogollón, N. G.  S., Quiroz-Moreno, C. D.,               doi: 10.3390/ph17010134. PMID: 38276007;
+     Prata, P. S., de Almeida, J. R., Cevallos, A. S.,          PMCID: PMC10819299.
+     Torres-Guiérrez, R., & Augusto, F. (2018). New         61.  Praveen,        M.,        Morales-Bayuelo,
+    Advances in Toxicological Forensic Analysis            A.    (2023)   Drug    Designing    against
+    Using Mass Spectrometry Techniques. Journal           VP4, VP7 & NSP4 of Rotavirus Proteins –
+     of  analytical  methods  in  chemistry, 2018,               Insilico studies, Mor.  J. Chem., 14(6), 729-741.
+    4142527.                                               62.  Robb, D. B., Covey, T. R., & Bruins, A. P.
+     https://doi.org/10.1155/2018/4142527.                    (2000). Atmospheric pressure photoionization:
+52.  Moore,  C.,  Marinetti,  L.,  Coulter,  C., &            an     ionization    method     for     liquid
+    Crompton,  K.  (2008).  Analysis  of  pain           chromatography−    mass     spectrometry.
+    management drugs, specifically fentanyl, in hair:              Analytical chemistry, 72(15), 3653-3659.
+     Application to forensic specimens. Forensic         63.  Seger, C., Beattie, I., Shing, B., & Ferrero, S.
+     Science International, 176(1), 47-50.                         (2016).   Assuring   the   proper   analytical
+53.  Moorthy, G. S., Stricker, P. A., & Zuppa, A. F.            performance of measurement procedures for
+     (2015).  A   simple  &   selective   liquid            immunosuppressive  drug  concentrations  in
+    chromatography-t&em  mass   spectrometry                clinical  practice:  Recommendations  of  the
+    method for determination of ε-aminocaproic              International Association of Therapeutic Drug
+     acid  in human plasma.  Journal of Applied            Monitoring   &     Clinical     Toxicology
+     Bioanalysis,             1(3),          99–107.            Immunosuppressive     Drug       Scientific
+     https://doi.org/10.17145/jab.15.016
+
+                                             126
+
+--- Page 14 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+    Committee.  Therapeutic  Drug  Monitoring,         74.  Viette, V., Hochstrasser, D., & Fathi, M. (2012).
+     38(2), 170-189.                               LC-MS (/MS) in clinical toxicology screening
+64.  Seyfinejad, B., & Jouyban, A. (2021). Overview            methods. Chimia, 66(5), 339-339.
+     of    therapeutic   drug    monitoring    of         75.  Wang, H., Liu, J., Cooks, R. G., & Ouyang, Z.
+    immunosuppressive drugs: Analytical & clinical              (2010).  Paper  spray  for  direct  analysis  of
+     practices.   Journal   of   Pharmaceutical  &           complex mixtures using mass spectrometry.
+    Biomedical Analysis, 205, 114315.                    Angew&te Chemie, 122(5), 889-892.
+65.  Shafiee, A., Ghadiri, E., Kassis, J., & Atala, A.         76.  Wang, H., Liu, J., Cooks, R. G., & Ouyang, Z.
+     (2019).  Nanosensors  for  therapeutic  drug              (2010).  Paper  spray  for  direct  analysis  of
+     monitoring: Implications for  transplantation.           complex mixtures using mass spectrometry.
+    Nanomedicine, 14(20), 2735-2747.                    Angew&te Chemie, 122(5), 889-892.
+66.  Shannon, M., Cox, M. N., & Baum, C. R.         77. Wu, C., Dill, A. L., Eberlin, L. S., Cooks, R. G.,
+     (1998). Toxicology reviews: Immunoassay in       & Ifa, D. R. (2013). Mass spectrometry imaging
+     detecting drugs of abuse. Pediatric Emergency            under ambient conditions. Mass spectrometry
+     Care, 14(5), 372-375.                                        reviews, 32(3), 218–243.
+67.  Smith, M.  L., Vorce,  S.  P.,  Holler,  J. M.,             https://doi.org/10.1002/mas.21360.
+    Shimomura, E., Magluilo,  J., Jacobs, A.  J., &         78. Wu,  J., Hughes, C. S., Picard, P., Letarte, S.,
+     Huestis, M. A. (2007). Modern instrumental             Gaudreault, M., Lévesque, J. F., Nicoll-Griffith,
+    methods  in  forensic  toxicology. Journal  of           D.  A., &  Bateman,  K.  P.  (2007).  High-
+     analytical      toxicology, 31(5),     237–9A.            throughput cytochrome P450 inhibition assays
+     https://doi.org/10.1093/jat/31.5.237.                     using   laser   diode   thermal   desorption-
+68.  Suni, N. M., Lindfors, P., Laine, O., Ostman, P.,            atmospheric  pressure  chemical  ionization-
+     Ojanperä,  I., Kotiaho, T., Kauppila, T.  J., &          t&em     mass      spectrometry. Analytical
+     Kostiainen, R.  (2011). Matrix  effect  in the             chemistry, 79(12),               4657–4665.
+     analysis of drugs of abuse from urine with             https://doi.org/10.1021/ac070221o.
+     desorption       atmospheric        pressure         79. Wu, Y.-H., Lin, K.-l., Chen, S.-C., & Chang, Y.-
+     photoionization-mass spectrometry (DAPPI-            Z.  (2008).  Integration  of  GC/EI-MS &
+    MS) & desorption electrospray ionization-mass         GC/NCI-MS  for  simultaneous  quantitative
+     spectrometry  (DESI-MS). Analytica  chimica             determination   of   opiates,  amphetamines,
+      acta, 699(1), 73–80.                        MDMA, ketamine, & metabolites in human
+     https://doi.org/10.1016/j.aca.2011.05.004                     hair. Journal of Chromatography B, 870(2),
+69.  Tamara, S., den Boer, M. A., & Heck, A.  J.             192-202.
+     (2021).    High-resolution    native    mass         80.  Xian, F., Hendrickson, C. L., & Marshall, A. G.
+     spectrometry. Chemical Reviews, 122(8), 7269-              (2012). High  resolution mass  spectrometry.
+     7326.                                                         Analytical chemistry, 84(2), 708-719.
+70.  Thomson, A. (2004). Why do therapeutic drug         81.  Yuan, C., Chen, D., & Wang, S. (2015). Drug
+     monitoring. Pharm j, 273(7310), 153-5.                    confirmation    by    mass    spectrometry:
+71.  Thunig,  J.,  Flø,  L.,  Pedersen‐Bjergaard,  S.,              Identification criteria & complicating factors.
+    Hansen, S. H., & Janfelt, C. (2012). Liquid‐              Clinica Chimica Acta, 438, 119-125
+    phase    microextraction  &    desorption         82.  Zakaria, R., Allen, K. J., Koplin, J. J., Roche, P.,
+     electrospray ionization mass spectrometry for       &  Greaves,  R.  F.  (2016).  Advantages &
+     identification & quantification of basic drugs in              challenges of dried blood spot analysis by mass
+    human urine. Rapid Communications in Mass             spectrometry across the total testing process.
+     Spectrometry, 26(2), 133-140.                                  Ejifcc, 27(4), 288.
+72.  Timmerman,    P.,   et    al.   (2011).  EBF         83.  Zhang, Z., Bast, R. C., Jr, Yu, Y., Li, J., Sokoll,
+    recommendation  on   the   validation   of             L. J., Rai, A. J., Rosenzweig, J. M., Cameron, B.,
+     bioanalytical methods for dried blood spots.           Wang, Y. Y., Meng, X. Y., Berchuck, A., Van
+     Bioanalysis, 3(14), 1567-1575.                            Haaften-Day, C., Hacker, N. F., de Bruijn, H.
+73.  Veenhof, H., Koster, R. A., Alffenaar,  J. C.,            W., van der Zee, A. G., Jacobs, I. J., Fung, E.
+     Berger, S. P., Bakker, S. J. L., & Touw, D. J.               T., & Chan, D. W. (2004). Three biomarkers
+     (2017).  Clinical  Validation  of  Simultaneous               identified from serum proteomic analysis for
+     Analysis of Tacrolimus, Cyclosporine A, &             the   detection   of   early   stage   ovarian
+     Creatinine in Dried Blood Spots in Kidney              cancer. Cancer  research, 64(16),  5882–5890.
+     Transplant  Patients. Transplantation, 101  (7),            https://doi.org/10.1158/0008-5472.CAN-04-
+    1727–1733.                                         0746
+    https://doi.org/10.1097/TP.00000000000015          84.  Zhu, M., Zhang, H., & Humphreys, W. G.
+     91.                                                           (2011).   Drug   metabolite    profiling  &
+                                                                      identification   by    high-resolution   mass
+
+                                             127
+
+--- Page 15 ---
+SUDAN et al.                                                                                                                                                                                      J. APPL. BIOANAL
+
+     spectrometry. Journal of Biological Chemistry,
+     286(29), 25419-25425.
+85.  Zwart, T. C., Gokoel, S. R. M., van der Boog,
+     P. J. M., de Fijter, J. W., Kweekel, D. M., Swen,
+       J.  J., Guchelaar, H.  J., & Moes, D.  J. A. R.
+     (2018).  Therapeutic  drug  monitoring  of
+     tacrolimus & mycophenolic acid in outpatient
+     renal transplant recipients using a volumetric
+     dried  blood  spot  sampling  device. British
+     journal of clinical pharmacology, 84(12), 2889–
+     2902. https://doi.org/10.1111/bcp.13755.
+
+
+
+
+
+                                             128

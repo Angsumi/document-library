@@ -1,0 +1,185 @@
+
+
+
+DEPARTMENT : ZOOLOGY
+
+
+Name of The Assigment
+Humanization of Cattle Gut Microbiome: Comparing Domestic and Stray Cattle
+
+
+
+Name: Angsuman Das
+Roll No. : MDU/PhD/ZOO/24/02
+Humanization of Cattle Gut Microbiome: Comparing Domestic and Stray Cattle
+
+This comprehensive synopsis presents a novel interdisciplinary research proposal investigating the humanization of cattle gut microbiome through comparative analysis of domestic cattle (reared in close association with humans) and stray cattle (living freely in human settlements). The study addresses a critical knowledge gap in understanding how human-animal interactions influence microbial communities, antimicrobial resistance patterns, and zoonotic disease transmission risks. Through advanced metagenomic approaches and One Health principles, this research will provide fundamental insights into the complex relationships between human activities, animal microbiomes, and public health outcomes, with significant implications for livestock management, urban planning, and global health policy.
+Introduction & Background
+The gut microbiome plays a pivotal role in animal health, nutrition, and disease resistance, serving as a complex ecosystem that influences host physiology and pathogen susceptibility[1][2]. In cattle, the gastrointestinal microbiome is particularly significant due to its role in fiber digestion and its potential as a reservoir for antimicrobial resistance genes and zoonotic pathogens[3][4]. Recent research has demonstrated that domestication and human interaction significantly alter animal microbiomes, with implications extending beyond individual animal health to broader public health concerns[5][6].
+The concept of microbiome humanization refers to the acquisition of human-associated microbial taxa by animals through direct contact, environmental sharing, or consumption of human food waste[7][8]. This phenomenon has been documented across various animal species, with evidence suggesting that animals living in close proximity to humans develop microbiomes that increasingly resemble human gut communities[9]. Studies have shown that microbes can be transmitted between humans and animals through multiple pathways, including direct contact, shared environments, and food chains[10][11].
+Cattle represent a particularly important model for studying microbiome humanization due to their widespread distribution, economic significance, and potential role in zoonotic disease transmission[12]. Domestic cattle, raised under human management systems, experience regular contact with humans, controlled diets, and veterinary interventions including antibiotic treatments[13]. In contrast, stray cattle living in urban and rural settlements represent a unique population that, while not directly managed by humans, exists within human-dominated environments and frequently scavenges human food waste[14].
+The One Health approach recognizes the interconnected nature of human, animal, and environmental health, emphasizing that understanding animal microbiomes is crucial for predicting and preventing zoonotic disease emergence[15][16]. With over 75% of emerging infectious diseases being zoonotic in origin, and increasing concerns about antimicrobial resistance transmission from livestock to humans, investigating cattle gut microbiome humanization has become a critical research priority[17][18].
+Urban stray cattle present a particularly complex scenario, as they live independently but within human settlements, potentially representing an intermediate state between wild and fully domesticated animals[19]. These animals may acquire human-associated microbes through environmental exposure and food scavenging while maintaining some characteristics of unmanaged populations. Understanding the microbiome differences between domestic and stray cattle populations could provide insights into the mechanisms and consequences of microbiome humanization.
+Review of Literature
+Cattle Microbiome Composition and Diversity
+The bovine gastrointestinal tract harbors a complex and diverse microbial community dominated by Bacteroidetes, Firmicutes, Proteobacteria, and Actinobacteria[20][21]. Research has demonstrated that the cattle gut microbiome exhibits distinct regional characteristics, with the four-chambered stomach, small intestine, and large intestine each hosting specialized microbial communities adapted to local environmental conditions[22]. The rumen microbiome, in particular, is essential for fiber digestion and contains unique cellulosome-producing bacteria that enable efficient plant matter breakdown[23].
+Recent metagenomic studies have revealed significant functional diversity within cattle gut microbiomes, with communities exhibiting specialized metabolic pathways for carbohydrate degradation, protein synthesis, and secondary metabolite production[24][25]. These functional capabilities are directly linked to animal health and production performance, making microbiome composition a critical factor in livestock management.
+Domestication Effects on Animal Microbiomes
+Comprehensive comparative studies across multiple mammalian species have demonstrated that domestication consistently alters gut microbiome composition[26]. These changes are characterized by reduced microbial diversity, altered taxonomic composition, and shifts in functional gene profiles compared to wild relatives[27][28]. Research on various domesticated animals, including horses, dogs, and cattle, has shown that domesticated populations typically exhibit lower pathogen diversity but may harbor increased antimicrobial resistance genes due to antibiotic exposure[29].
+Studies comparing wild gaur with domestic mithun revealed that domestication can impact gut microbiome composition more severely than captivity alone, with domestic animals showing reduced abundance of beneficial bacterial families such as Ruminococcaceae and Lachnospiraceae[30][31]. These findings suggest that the domestication process itself, rather than simply environmental changes, drives significant microbiome alterations.
+Human-Animal Microbiome Sharing
+Evidence for microbiome sharing between humans and animals has been documented across multiple contexts and species[32]. Research has demonstrated that people living with pets show greater skin and nasal microbiome diversity, while livestock farmers exhibit distinct gut microbiome signatures compared to urban populations[33][34]. Of particular significance is the discovery that certain cellulose-degrading bacteria found in human guts likely originated from cattle, indicating historical microbiome transmission during early agricultural development[35].
+Studies of rural communities with close livestock contact have revealed sharing of microbiome components between humans and cattle, particularly in households with extensive animal interaction[36]. This bidirectional transmission suggests that human-cattle microbiome exchange is an ongoing process with potential implications for both human and animal health.
+Antimicrobial Resistance in Livestock
+The livestock resistome represents a significant concern for global health, with cattle serving as reservoirs for diverse antimicrobial resistance genes[37][38]. Comprehensive metagenomic analyses have identified extensive ARG diversity in cattle gut microbiomes, with tetracycline, quinolone, and β-lactam resistance genes being particularly prevalent[39][40]. Research has demonstrated that intensive farming practices and antibiotic use significantly increase ARG abundance and diversity in cattle microbiomes[41].
+Studies comparing different cattle management systems have revealed that animals exposed to higher antibiotic selective pressure develop more diverse and abundant resistomes[42]. The presence of mobile genetic elements facilitating horizontal gene transfer suggests that cattle gut microbiomes serve as active reservoirs for antimicrobial resistance dissemination[43][44].
+Macroparasites in Cattle Populations
+Macroparasite infections represent a significant health concern in cattle populations worldwide, with implications for both animal welfare and zoonotic disease transmission[45]. Research comparing detection methods has demonstrated that molecular techniques significantly outperform traditional microscopy for identifying carrier animals with low parasitemia[46][47]. Studies have shown that different management systems result in varying parasite exposure patterns, with stray animals typically experiencing higher pathogen diversity due to environmental exposure[48].
+Research Gap & Justification
+Despite extensive research on cattle microbiomes and the effects of domestication, several critical knowledge gaps remain that this study aims to address:
+1. Limited Understanding of Microbiome Humanization in CattleCurrent research has largely focused on the effects of domestication on animal microbiomes in controlled settings, but there is insufficient understanding of how cattle living in human settlements but not under direct management (stray cattle) develop humanized microbiome signatures. The intermediate status of stray cattle presents a unique opportunity to study microbiome humanization processes in a real-world context.
+2. Lack of Comprehensive Resistome ComparisonWhile individual studies have examined antimicrobial resistance in either domestic or wild cattle populations, no comprehensive comparative analysis has been conducted to understand how human proximity and interaction influence resistome development in cattle. This gap is critical given growing concerns about AMR transmission between livestock and humans.
+3. Insufficient Integration of Microbiome and Macroparasite DataMost existing research treats microbiome composition and macroparasite infections as separate phenomena, despite evidence suggesting complex interactions between microbial communities and parasitic infections. Understanding these relationships in the context of human-cattle interaction could provide insights into zoonotic disease transmission mechanisms.
+4. Limited One Health Perspective on Urban LivestockThe increasing presence of stray cattle in urban environments represents a growing public health concern, yet research integrating animal health, human health, and environmental factors remains limited. This gap impedes the development of evidence-based policies for managing urban livestock populations.
+5. Methodological Limitations in Comparative StudiesPrevious studies have been limited by sample sizes, geographic scope, or methodological approaches that prevent comprehensive comparison of microbiome humanization processes. There is a need for integrated approaches combining advanced sequencing technologies with robust statistical and machine learning methods.
+This research is justified by several compelling factors:
+Public Health Significance: Understanding microbiome humanization in cattle is crucial for predicting and preventing zoonotic disease emergence and antimicrobial resistance transmission.
+Economic Impact: Cattle-related zoonoses and AMR impose substantial economic burdens globally, making prevention strategies economically valuable.
+Policy Relevance: Results will inform evidence-based policies for livestock management, urban planning, and One Health initiatives.
+Scientific Innovation: The study will advance methodological approaches for microbiome research and contribute to fundamental understanding of host-microbe-environment interactions.
+Global Applicability: Findings will be relevant to diverse geographic contexts where cattle and humans coexist.
+Objectives
+The primary aim of this research is to investigate the humanization of cattle gut microbiome through comprehensive comparative analysis of domestic and stray cattle populations. Specific objectives include:
+Primary Objective:
+Investigate microbiome humanization patterns by comparing the gut microbial community structure, diversity, and composition between domestic cattle (reared in close association with humans) and stray cattle (living freely in human settlements).
+Secondary Objectives:2. Characterize microbial community structure and diversity through metagenomic sequencing of fecal samples to identify bacterial, archaeal, viral, and eukaryotic communities and determine differences in taxonomic composition between study groups.
+Assess macroparasite prevalence and diversity through comprehensive screening using light microscopy and molecular techniques to compare parasite burdens between domestic and stray cattle populations and evaluate potential zoonotic risks.
+Analyze resistome composition through bioinformatic screening of metagenomic reads against antimicrobial resistance gene databases to detect and compare abundance of ARGs between study groups and assess implications for public health.
+Explore multivariate correlations between microbiome composition, resistome characteristics, and macroparasite load in the context of environmental exposure and human-cattle interaction patterns to identify key factors driving microbiome humanization.
+Research Questions/Hypotheses
+This research addresses several interconnected research questions with corresponding testable hypotheses:
+Research Question 1: How does the gut microbiome composition and diversity differ between domestic and stray cattle populations?
+Hypothesis 1: Domestic cattle will exhibit higher abundance of human-associated microbial taxa and reduced overall microbial diversity compared to stray cattle, reflecting the effects of close human contact and managed environments.
+Research Question 2: Do stray cattle exhibit human-associated microbiome signatures due to environmental exposure and scavenging behavior?
+Hypothesis 2: Stray cattle living in human settlements will show intermediate levels of human-associated microbes compared to domestic cattle, with specific enrichment of taxa associated with human food waste and urban environments.
+Research Question 3: What differences exist in macroparasite diversity and prevalence between domestic and stray cattle populations?
+Hypothesis 3: Stray cattle will exhibit higher macroparasite diversity and prevalence due to environmental exposure and lack of veterinary intervention, while domestic cattle will show lower diversity but potentially different parasite species profiles.
+Research Question 4: Is there a significant difference in resistome composition between domestic and stray cattle, and how does this relate to human exposure and antibiotic usage patterns?
+Hypothesis 4: Domestic cattle will exhibit higher abundance of clinically relevant antimicrobial resistance genes reflecting antibiotic exposure in farming systems, while stray cattle will show different ARG profiles related to environmental antimicrobial contamination.
+Research Question 5: How do microbiome composition, resistome characteristics, and macroparasite loads correlate with environmental factors and human-cattle interaction patterns?
+Hypothesis 5: Strong correlations will exist between microbiome humanization signatures, resistome composition, and environmental factors, with human proximity being a primary driver of observed differences.
+Methodology
+Study Design and Sampling Strategy
+This study employs a cross-sectional comparative design with stratified random sampling to ensure representative populations of domestic and stray cattle across diverse environmental contexts.
+Sample Collection Protocol:
+Target Sample Size: 200 cattle total (100 domestic, 100 stray) based on power analysis for detecting medium effect sizes with 80% power
+Geographic Scope: Urban and rural areas across three distinct climatic regions to account for environmental variation
+Sampling Criteria:
+Domestic cattle: Animals housed in farming systems with regular human contact and veterinary care
+Stray cattle: Animals living freely in human settlements with minimal human management
+Sample Type: Fresh fecal samples (approximately 50g) collected within 2 hours of defecation
+Collection Protocol: Sterile technique using disposable gloves and containers, immediate cooling to 4°C, and processing within 24 hours
+Metagenomic Sequencing
+DNA Extraction:Metagenomic DNA extraction will be performed using the repeated bead beating plus column (RBB+C) method, which has been demonstrated to provide superior DNA yield and quality from bovine fecal samples[49]. This method involves mechanical disruption using bead beating followed by column purification to ensure recovery of DNA from diverse microbial populations including difficult-to-lyse organisms.
+Sequencing Approach:
+Platform: Illumina NovaSeq 6000 system for high-throughput paired-end sequencing
+Strategy: Whole-genome shotgun sequencing to enable comprehensive characterization of bacterial, archaeal, viral, and eukaryotic communities
+Coverage: Minimum 10 million paired-end reads per sample to ensure sufficient depth for functional analysis
+Quality Control: FastQC assessment followed by trimming using Trimmomatic to remove low-quality sequences and adapters
+Bioinformatic Analysis:
+Host DNA Removal: Mapping to bovine reference genome using Bowtie2 to eliminate host contamination
+Taxonomic Classification: Kraken2 analysis against comprehensive databases including NCBI RefSeq
+Functional Annotation: KEGG and MetaCyc pathway analysis for metabolic profiling
+Assembly: Co-assembly using MEGAHIT followed by gene prediction and annotation
+Macroparasite Screening
+Microscopic Examination:
+Technique: Light microscopy of concentrated fecal samples using zinc sulfate flotation and sedimentation methods
+Protocol: Systematic examination of minimum 50 microscopic fields per sample at 400x magnification
+Target Organisms: Identification of eggs, larvae, cysts, and oocysts of common bovine parasites
+Documentation: Digital imaging and morphometric analysis for species identification
+Molecular Confirmation:
+DNA Extraction: Specialized protocols for parasite DNA recovery from fecal samples
+PCR Amplification: Species-specific primer sets for major cattle parasite groups
+Sequencing Validation: Confirmation of morphologically identified parasites through molecular sequencing
+Phylogenetic Analysis: Construction of phylogenetic trees to confirm species identification and detect novel variants
+Resistome Analysis
+Database-Driven Approach:Comprehensive bioinformatic screening of metagenomic reads against multiple antimicrobial resistance databases:
+CARD (Comprehensive Antibiotic Resistance Database): Primary database for rigorously curated resistance genes
+ResFinder: Complementary database for acquired resistance gene identification
+MEGARes: Comprehensive database including resistance, virulence, and mobile genetic element annotations
+Analysis Pipeline:
+Quality Filtering: Removal of low-quality sequences and host contamination
+Alignment: Diamond BLAST alignment against resistance databases with stringent e-value cutoffs
+Gene Quantification: Calculation of reads per kilobase million (RPKM) for resistance gene abundance
+Functional Classification: Categorization by antibiotic class, resistance mechanism, and mobility
+Statistical Analysis: Comparative abundance analysis between study groups
+Data Analysis and Statistical Approaches
+Diversity Analysis:
+Alpha Diversity: Calculation of Shannon, Simpson, and Chao1 indices for within-sample diversity
+Beta Diversity: Principal coordinate analysis (PCoA) using Bray-Curtis and weighted UniFrac distances
+Rarefaction Analysis: Assessment of sequencing depth adequacy through rarefaction curves
+Comparative Statistical Analysis:
+Univariate Tests: Wilcoxon rank-sum tests for non-parametric comparisons of diversity indices and taxonomic abundances
+Multivariate Analysis: PERMANOVA for testing differences in community composition between groups
+Differential Abundance: Linear discriminant analysis Effect Size (LEfSe) for identifying biomarker taxa
+Correlation Analysis: Spearman correlation analysis for relationships between microbiome, resistome, and parasite data
+Machine Learning Applications:
+Classification Models: Random Forest and Support Vector Machine algorithms for predicting cattle group membership based on microbiome signatures
+Feature Selection: Recursive feature elimination to identify most informative microbial taxa and resistance genes
+Model Validation: Cross-validation and external validation on independent datasets
+Biomarker Discovery: Identification of microbial and genetic signatures associated with humanization
+Software and Tools:
+R Statistical Environment: Primary platform for statistical analysis using packages including phyloseq, vegan, and caret
+QIIME2: Integrated platform for microbiome analysis and visualization
+MicrobiomeAnalyst: Web-based platform for comprehensive microbiome data analysis
+ResistoXplorer: Specialized tool for resistome analysis and visualization
+Quality Assurance and Controls
+Experimental Controls:
+Negative Controls: Sterile sampling containers processed alongside samples
+Positive Controls: Known microbial communities for sequencing validation
+Technical Replicates: Duplicate analysis of 10% of samples for reproducibility assessment
+Data Quality Measures:
+Contamination Detection: Identification and removal of potential contaminant sequences
+Batch Effect Correction: Statistical adjustment for technical variation between sequencing runs
+Reproducibility Testing: Correlation analysis between technical replicates
+Expected Outcomes & Contributions
+Primary Scientific Contributions
+1. Microbiome Humanization SignaturesThis research will identify specific microbial taxa and functional pathways that characterize microbiome humanization in cattle. We expect to discover distinct taxonomic signatures that distinguish domestic from stray cattle, potentially including increased abundance of human-associated bacteria such as Bifidobacterium, Lactobacillus, and specific Enterobacteriaceae in domestic cattle populations[50]. The study will provide the first comprehensive characterization of intermediate humanization states in stray cattle, revealing how environmental exposure to human settlements influences microbial community assembly.
+2. Resistome Mapping and Risk AssessmentThe research will generate comprehensive resistome profiles for both cattle populations, identifying clinically relevant antimicrobial resistance genes and their abundance patterns. We anticipate finding higher prevalence of resistance genes associated with antibiotics commonly used in livestock (tetracyclines, β-lactams, macrolides) in domestic cattle, while stray cattle may harbor resistance genes reflecting environmental antimicrobial contamination[51][52]. This will provide crucial data for assessing zoonotic transmission risks and informing antimicrobial stewardship policies.
+3. Integrated Microbiome-Parasite InteractionsThis study will be among the first to comprehensively examine relationships between gut microbiome composition and macroparasite infections in cattle populations with different human exposure levels. We expect to identify specific microbial taxa associated with parasite resistance or susceptibility, potentially revealing protective microbiome configurations that could inform probiotic or management strategies[53].
+4. Machine Learning Models for Health PredictionThe development of machine learning models will enable prediction of cattle health status, humanization level, and zoonotic risk based on microbiome signatures. These models will have practical applications for rapid screening and health assessment in both research and applied contexts.
+Public Health Implications
+Zoonotic Disease Risk Assessment:The research will provide critical data for assessing zoonotic disease transmission risks associated with different cattle management systems. By identifying microbial and genetic markers associated with pathogen carriage, the study will inform risk stratification approaches for public health surveillance. Understanding how human proximity influences cattle microbiomes will help predict which populations pose the greatest zoonotic risks.
+Antimicrobial Resistance Monitoring:Results will contribute to global antimicrobial resistance surveillance efforts by characterizing resistome patterns in livestock populations with varying human contact. This information will be valuable for tracking resistance gene dissemination and developing targeted intervention strategies to prevent transmission from animals to humans.
+One Health Policy Development:The integrated analysis of animal health, microbial ecology, and human exposure factors will provide evidence for One Health policy initiatives. Findings will inform guidelines for livestock management, urban planning regarding stray animal populations, and strategies for reducing zoonotic disease emergence.
+Economic and Social Impact
+Livestock Production Optimization:Understanding microbiome factors associated with health and productivity will inform management strategies for improving livestock production efficiency. Identification of beneficial microbiome configurations could lead to targeted interventions for enhancing cattle health and reducing production losses.
+Healthcare Cost Reduction:By providing data to prevent zoonotic disease transmission and antimicrobial resistance spread, the research will contribute to reducing healthcare costs associated with these public health challenges. Early identification of high-risk populations could enable targeted prevention strategies.
+Policy and Regulatory Support:Results will provide scientific evidence for policy decisions regarding livestock management, antimicrobial use regulation, and urban stray animal control. This evidence base will be valuable for regulatory agencies and policymakers developing One Health strategies.
+Long-term Research Impact
+Foundation for Longitudinal Studies:This cross-sectional research will establish baseline data and methodological frameworks for future longitudinal studies examining microbiome dynamics over time. The identified biomarkers and predictive models will enable tracking of microbiome changes in response to interventions or environmental changes.
+Global Comparative Framework:The methodology and findings will provide a framework for comparative studies in different geographic contexts, enabling global assessment of microbiome humanization patterns and their implications for public health.
+Interdisciplinary Collaboration Platform:The One Health approach employed in this research will foster interdisciplinary collaborations between veterinarians, microbiologists, public health experts, and policymakers, creating networks for future research initiatives and practical applications.
+References
+
+Key References for Inclusion (APA Style):
+Alberdi, A., Aizpurua, O., Bohmann, K., Zepeda-Mendoza, M. L., & Gilbert, M. T. P. (2016). Do vertebrate gut metagenomes confer rapid ecological adaptation? Trends in Ecology & Evolution, 31(9), 689-699.
+Anderson, M. J., & Walsh, D. C. (2013). PERMANOVA, ANOSIM, and the Mantel test in the face of heterogeneous dispersions: What null hypothesis are you testing? Ecological Monographs, 83(4), 557-574.
+Bibbal, D., Dupouy, V., Ferré, J. P., Toutain, P. L., Fayet, O., Prère, M. F., & Bousquet-Mélou, A. (2007). Impact of three ampicillin dosage regimens on selection of ampicillin resistance in Enterobacteriaceae and excretion of β-lactamases in swine feces. Applied and Environmental Microbiology, 73(15), 4785-4790.
+Bloomfield, S. J., McIntosh, F., Lambin, E. F., & di Minin, E. (2020). Habitat fragmentation, livestock management, and human-wildlife conflicts across the Western Indian Ocean. PloS One, 15(7), e0235769.
+Bolger, A. M., Lohse, M., & Usadel, B. (2014). Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics, 30(15), 2114-2120.
+Chong, J., Liu, P., Zhou, G., & Xia, J. (2020). Using MicrobiomeAnalyst for comprehensive statistical, functional, and meta-analysis of microbiome data. Nature Protocols, 15(3), 799-821.
+Clayton, J. B., Vangay, P., Huang, H., Ward, T., Hillmann, B. M., Al-Ghalith, G. A., ... & Knights, D. (2016). Captivity humanizes the primate microbiome. Proceedings of the National Academy of Sciences, 113(37), 10376-10381.
+Forsberg, K. J., Patel, S., Gibson, M. K., Lauber, C. L., Knight, R., Fierer, N., & Dantas, G. (2014). Bacterial phylogeny structures soil resistomes across habitats. Nature, 509(7502), 612-616.
+Gibson, K. M., Nguyen, B. N., Neumann, L. M., Miller, M., Buss, P., Mathebula, S., ... & Lyashchenko, K. P. (2019). Gut microbiome differences between wild and captive black rhinoceros–implications for rhino health. Scientific Reports, 9(1), 1-13.
+Jha, A. R., Davenport, E. R., Gautam, Y., Bhandari, D., Tandukar, S., Ng, K. M., ... & Sonnenburg, J. L. (2018). Gut microbiome transition across a lifestyle gradient in Himalaya. PLoS Biology, 16(11), e2005396.
+Kohl, K. D., Weiss, R. B., Cox, J., Dale, C., & Dearing, M. D. (2014). Gut microbes of mammalian herbivores facilitate intake of plant toxins. Ecology Letters, 17(10), 1238-1246.
+Li, Y., Hu, X., Yang, S., Zhou, J., Zhang, T., Qi, L., ... & Yao, B. (2017). Comparative analysis of the gut microbiota composition between captive and wild forest musk deer. Frontiers in Microbiology, 8, 1705.
+McKenzie, V. J., Song, S. J., Delsuc, F., Prest, T. L., Oliverio, A. M., Korpita, T. M., ... & Knight, R. (2017). The effects of captivity on the mammalian gut microbiome. Integrative and Comparative Biology, 57(4), 690-704.
+Mizrahi, I., Wallace, R. J., & Moraïs, S. (2021). The rumen microbiome: balancing food security and environmental impacts. Nature Reviews Microbiology, 19(9), 553-566.
+Paulson, J. N., Stine, O. C., Bravo, H. C., & Pop, M. (2013). Differential abundance analysis for microbial marker-gene surveys. Nature Methods, 10(12), 1200-1202.
+Rosenfeld, C. S. (2017). Gut dysbiosis in animals due to environmental chemical exposures. Frontiers in Cellular and Infection Microbiology, 7, 396.
+Salehzadeh, A., Tavacol, P., & Mahjub, H. (2006). The study relationship between human and animals Q fever in Hamadan province, west of Iran. Journal of Research in Health Sciences, 6(2), 42-45.
+Seimenis, A., & Tabbaa, D. (2014). Stray animal populations and public health in the Eastern Mediterranean region. Eastern Mediterranean Health Journal, 20(11), 691-697.
+Smillie, C. S., Smith, M. B., Friedman, J., Cordero, O. X., David, L. A., & Alm, E. J. (2011). Ecology drives a global network of gene exchange connecting the human microbiome. Nature, 480(7376), 241-244.
+Yu, Z., & Morrison, M. (2004). Improved extraction of PCR-quality community DNA from digesta and fecal samples. Biotechniques, 36(5), 808-812.

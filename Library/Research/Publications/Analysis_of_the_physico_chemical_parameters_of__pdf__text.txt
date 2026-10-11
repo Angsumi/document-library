@@ -1,0 +1,432 @@
+--- Page 1 ---
+                       IARJSET                               ISSN (O) 2393-8021, ISSN (P) 2394-1588
+
+               International Advanced Research Journal in Science, Engineering and Technology
+
+                                             Vol. 8, Issue 11, November 2021
+
+                                   DOI: 10.17148/IARJSET.2021.81126
+ Analysis of the physico-chemical parameters of
+ river Bohimora in the Sonitpur district of Assam
+and evaluation of its macro-invertebrate diversity
+
+Angsuman Das1, Anand Raj2, V Gayathri snigdha3, Khundongbam Ronalson Meitei4,Kirandeep kaur5
+
+                           Trainee Bioinformatician in RASA Life science Informatics1
+                         National Dope Testing Laboratory (NDTL),Government of India2
+                          M.Sc in Human Genetics and Molecular Biology3
+
+                    Department of Forestry and Environmental Science, Manipur University4
+
+                        M.Sc Zoology, Guru Nanak Dev University, Amritsar5
+
+
+Abstract: A systematic study was conducted to evaluate the water quality status of the River Bohimora in Sonitpur
+District. To assess and monitor its habitability and water-usability, 15 water samples and many macro-invertebrates were
+collected from three sampling stations and analysed for physicochemical parameters (temperature, transparency,
+turbidity, TDS, pH, and DO) and diversity indices (Shannon index, Simpson index). Each parameter was compared to
+other studies on river water in various studies. The analytical data of various physicochemical parameters show that some
+parameters, such as transparency, are degrading and unfavourable to the biosphere adjacent the river's mouth. These
+values indicate that water samples from some sampling stations are unfit for drinking due to high TDS levels. These
+physiochemical findings also support the decreasing biotic indices near the river mouth. Observations were made about
+the possible causes of these deteriorating parameters.
+
+Keywords: Biodiversity Index, Water quality, Physico-chemical parameters, River water
+
+                                                            I.     INTRODUCTION
+Water is constantly circulating between Earth's surface (the land and oceans that make up our planet) and the atmosphere
+up above in a never-ending conveyor belt called the water cycle.Rivers are the main parts of the conveyor that carry water
+from the higher parts of Earth (the mountains and hills that we call uplands) to the lower parts (lakes and seas). Rivers
+are useful to humans, animals as well as to plants.
+Humans use rivers for  various purposes like irrigation in agriculture, as  source of drinking water, for transportation, to
+produce electricity through hydroelectric dams, and for leisure activities like swimming and boating. Each of these uses
+can affect the health of a river and its surrounding ecosystems. Monitoring the health of rivers, lakes, and streams is
+important.Rivers play a pivotal role in assimilation properties. Apart from carrying off the industrial waste water, toxic
+heavy metals and  chemical wastes from industries  they play a vital role in creating energy. The physical and chemical
+properties of the river  play an important in assessing various aspects of river and one can also learn about habitat in the
+river.
+The interactions of both the physical and chemical properties of river water play an important role in composition of the
+river [1]. One of the major advantage of studying the physicochemical properties of the river is that one can assess the
+levels of pollution [2]. Through observing  the physicochemical  quality of river we can assess various important
+properties of river like the water environment, ecosystem, hydrochemistry, and ecology, and restoring water quality
+(Whitehead et al., 2018; Sarkar et al., 2016; Islam et al., 2019).The interaction between the physical and chemical
+properties of river play an important role in studying the composition, distribution, pollution and the extent of organisms
+present in the river. [3]. It also gives the relationship between the organism and the environment, which can further be
+used in determining water quality [4].
+            Water is constantly circulating between Earth's surface (the land and oceans that make up our planet) and
+the atmosphere up above in a never-ending conveyor belt called the watercycle.Rivers are the main parts of the conveyor
+that carry water from the higher parts of Earth (the mountains and hills that we call uplands) to the lower parts (lakes and
+seas). Rivers are useful to humans, animals as well as to plants.Humans use rivers for  various purposes like irrigation
+in agriculture, as  source of drinking water, for transportation, to produce electricity through hydroelectric dams, and for
+leisure activities like swimming and boating. Each of these uses can affect the health of a river and its surrounding
+ecosystems. Monitoring the health of rivers, lakes, and streams is important.
+
+© IARJSET         This work is licensed under a Creative Commons Attribution 4.0 International License         178
+
+--- Page 2 ---
+                       IARJSET                               ISSN (O) 2393-8021, ISSN (P) 2394-1588
+
+               International Advanced Research Journal in Science, Engineering and Technology
+
+                                             Vol. 8, Issue 11, November 2021
+
+                                   DOI: 10.17148/IARJSET.2021.81126
+
+Rivers play a pivotal role in assimilation properties. Apart from carrying off the industrial waste water, toxic heavy metals
+and  chemical wastes from industries  they play a vital role in creating energy. The physical and chemical properties of
+the river  play an important in assessing various aspects of river and one can also learn about habitat in the river.
+     As mentioned above river not merely flowing water on land field, they carry whole ecosystem which benefit a
+great range of biodiversity connected by a food-net. From different insect, water spiders and other arthropods to fishes
+and snails is the part of this food-net. This food-net also include the terrestrial animals like mammals (Bear), Birds (Egret,
+Kingfisher) etc. Rivers not only preserves them with habitat but also gives the essential nutrient, temp, pH and other
+physico-chemical and environmental conditions to harbour and pass the life-cycle. When these are maintained in natural
+condition, the river can be called as a healthy river.
+Various factors determine the health of a river ecosystem (Norris and Thomas, 1999), which include discharge (flow),
+the physical structure of channel and riparian zone, water quality, channel management such as macrophyte cutting and
+dredging, level of exploitation (e.g. fishing) and the presence of physical barriers to connectivity - (Acremon and Dunbar,
+2004).
+But the modern lifestyle of human has a big and negative impact on natural state of rivers. As the human habitat on the
+planet earth expanded, each and every aspect of nature had badly affected, rivers and river system is not an exception.
+The sewerages from urban residence, the excretion from the industries, and the chemicals from agriculture forms changed
+the natural physico-chemical conditions. There are various greedy human activities that can interfere with river's flow,
+like quarry, mining, boring, drilling for natural gas or petroleum or making big dam for elasticity production etc. These
+have sometimes a vast effect but sometimes may have some small impact which is not easily observable but gradually
+result in a big subsequence. They should be monitored in the initial period because 70% of the fresh water in liquid form
+throughout country is converted into being unfit for consumption (Dwivedi, 2017). There are various method of biological
+and chemical tests for monitoring water quality. The method of physico-chemical assessment may be utilized or different
+biotic indices may be used for the purpose of water quality monitoring.
+There are various biotic indices that can monitor water health of a stream efficiently. Some of them are
+i / Oligo chaete Indices
+ii/ Beach's Biotic Index
+iii/ Hilsenhoff's Biotic Index
+Iv/Shannon-Weiner Index
+v/ Simpson Index etc.
+
+Therefore the calculation of various biodiversity indices is important to assess the quality of an aquatic system. Moreover,
+the bio monitoring works of a riverine system is important to assess the water quality over a period of time.
+Therefore the study has been conducted in Bohimora River in Sonitpur district of Assam with the following aims and
+objectives →
+
+1. To evaluate certain physico-chemical parameters of the river water.
+2. To assess the macro invertebrate (molluscs & arthropods) diversity of the water system.
+3. Analysis of macro invertebrate species diversity using Shannon-Weiner Index (H) and Simpson index (D).
+
+                                             II.    MATERIALS AND METHODS
+The whole project was done on a small river named Bohimora which flows on northern bank of Brahmaputra in the
+district of Sonitpur, Assam (Sub. Div.- Tezpur, Mrhadol). Several villages are situated on the bank of this river, nammed
+as Balijuri, khristambasti, Pachmukh, Silbori, 2 No. Batamari, Rangachakua, Nobil, Toubhanga.
+ Once the river Bohimora was flows with greater strength than that of today, which was sourced from the river Dikorai
+But at that time both the river Dikorai and Bohimora was flooded in every monsoon. That is why the farmers from the
+surrounding area builded embankment on the Dikorai, due to which Echimora lost very much of its strength in 1962.
+From that time the river Bohimora reduced in size and amount of water also reduced. Due to this the river name became
+boimora which mean death during flow in Assamese. Before it was known as Boivora which means full of flow. The
+name Boimora was changed through time and became Bohimora. The sampling stations on this river are
+1.     BM-1
+ The first station of sampling is near to the water head or source of the river. It has been observed that a certain amount
+of water is flows out of ground to the surface. The local people call this as "Gogol' which is an Assamese word meaning
+for the place where water funnelled out from ground.  The coordinates of that spot is 26.8834660 N and 92.9474091 E.
+The river is 3-4 m wide on that spot. The water there is so clear that the riverbed filled with thread like green algae can
+be seen on sun-light. But human activity like quarry, fishing made it a little polluted. The human habitats around it use
+water from there for washing cooking equipment, and mining sand and stones.
+2.     BM-2
+ On this spot the algal diversity is near to zero, and arthropodan diversity is comparatively lower because the high current
+and slender water way and pesticides, used in a tea plantation situated just on the bank. Here human activity is highest in
+
+© IARJSET         This work is licensed under a Creative Commons Attribution 4.0 International License         179
+
+--- Page 3 ---
+                       IARJSET                               ISSN (O) 2393-8021, ISSN (P) 2394-1588
+
+               International Advanced Research Journal in Science, Engineering and Technology
+
+                                             Vol. 8, Issue 11, November 2021
+
+                                   DOI: 10.17148/IARJSET.2021.81126
+
+comparison to the other two spot, due to presence of a bridge and densely populated village near to it. The coordinates
+are 26.834234 N and 92. 9143113E.
+3.     BM-3
+ The third station is on the end or water mouth of the river. Here the water flows slowly & the width is little bit higher
+than the other 2 spots (approximately 7-8 m). There the coordinates are 26.7976969 N and 92.8907179 E.
+
+       Methodology
+The water samples were collected from 3 sampling stations of river Bohimora (BM-1, BM-2 & BM-3). The selected
+parameters were studies for a period of 6 months from November 2017 to April 2018 during the winter season. For
+ecological study of the river, following aspects has been undertaken -
+
+1.      Studies on Physico-chemical parameters of water
+(A) Physical Parameters
+    i) Temperature:- Water temperature was recorded by a mercury thermometer.
+    ii) Transparency: - Transparency was measured by Sacchi disc
+    iii) Turbidity: Turbidity of the river water was measured by a turbidometer.
+   iv) TDS: - Total dissolved solids (TDS) was determined with the help of a TDS meter.
+(B) Chemical Parameters
+     i) Hydrogen ion concentration (pH): It was determined by an electronic pH meter.
+    ii) Dissolved Oxygen (DO): It was measured by the modified Winkler’s method - APHA, 1998. The water samples
+were collected with care in bottles without bubble formation     and brought in laboratory. 500 ml water samples were
+taken in BOD bottle and then       added 5ml of manganese sulphate (Mn S04), 5ml of Alkali iodate azide (KI), the
+precipitates formed were dissolved by adding 4 ml off conc. sulphuric acid (H₂504). 100 ml sample was taken from this
+and titrated against 0.025 sodium thiosulphate. Starch is used as an indicator to estimate iodine generated and the end
+point is noted as the solution from blue to colourless.
+
+DO mg /L BR X NX 1000 X 8 camount of sample taken (oud)
+where, BR= Burette Reading
+N = Normality of sodium this sulphate.
+Free Carbondioxide (APHA, 1998) :
+
+The method is based on the principle that free carbon dioxide in water reacts with sodium hydroxide (NaOH) to -form
+sodium bicarbonate (Na₂CO3) and the end point is indicated by development of prick colour using phantophthalin an
+indicator at pH 8.3.
+To estimate CO₂ in water in 5 ml sample to 3 drops of phenlophthalin were added and the sample was titrated against
+0.045 N sodium carbonate, until a pink colour was obtained. The free CO₂ was calculated using following formula
+BR X NX 44 X 1000 Free CO₂ mg/4 = amount of sample taken (ml)
+where,
+BR = Burette reading N - Normality of Na₂ CO₂
+2.       Collection and Identification of Macroinvertebrates (Arthropods and Molluses) :
+The macro-invertebrates from each sampling site were collected using dragging net, following the protocols of Barbour
+et al. (1999) and Mondaville (2002). Collected species were washed, photographed with help of a digital camera and
+identified as per Pennak (1989), Subba Rao (1989), Edmondson (1993), Merrit and Cummins (1996) and Subramanian
+and Sivaramakrishnan (2007).
+
+3.       Calculation of Diversity Index:
+Macro-invertebrate species diversity was studied in the sampling sites using different indices such as Shannon Weiner
+index (H) and Simpson index (D) using the formula ->
+Shannon Judex (H) Pi In Pi
+Simpson Index (D) 1
+
+                                                         III.   RESULTS
+
+River Bohimora which is on the Sonitpur district of Assam travels a distance of about 11 km before joining River Jia
+Bharali. No work has yet been conducted on this riverine system. Therefor an investigation has been needed on water
+quality and biodiversity.
+1/ Temperature: In the present investigation the temp. were ranged from 21°C to 23°C.
+2/ Transparency: The transparency on the study were ranged from 27 cm to 69 cm
+3/ Turbidity: The turbidity was monitored in the range between 1.35 NTU to 11.8 NTU.
+
+© IARJSET         This work is licensed under a Creative Commons Attribution 4.0 International License         180
+
+--- Page 4 ---
+                       IARJSET                               ISSN (O) 2393-8021, ISSN (P) 2394-1588
+
+               International Advanced Research Journal in Science, Engineering and Technology
+
+                                             Vol. 8, Issue 11, November 2021
+
+                                   DOI: 10.17148/IARJSET.2021.81126
+
+4/ Total dissolved solids (TDS): In the 3 sampling stations the maximums TDS was found as 700 mg/L and minimum
+TDS was 30 mg/L.
+5/ Hydrogen ion concentration (PH): In case of hydrogen ion the most concentrated site was BM-3 with a pH level of 8.5
+and least concentrated site was BM-2 with pH level of 7.
+6/ Dissolved Oxygen (DO): In the river Bohimora the dissolved oxygen was ranged from 6.2 mg/L to 9.8 mg/L
+7/ Free carbon dioxide: The minimum free CO₂ conc. was found to be 13.8 mg/L in BM-2 site where as maximum CO₂
+was found to be 102.96 mg/L in BM-3 sampling site.
+
+Distribution of macro-invertebrate fauna of river Bohimora
+BM-1
+On the BM-1 site of Bohimora river 6 species of arthropods are found, those are - Isonychia sp., Caenis sp., Lacotrophes
+sp., Microneta sp., Notonecta sp. and Stenopsyche sp. These are included in 6 different family of 3 order. (Table 1 and
+Figure 2)
+BM-2
+On the BM-2 site of Bohimora river 4 species of arthropods are found, those are - Isonychia sp., Caenis sp, Notonecta
+sp., and Macrobrachium sp. which are included in 4 different family of 4 order. An another species of molluse also found
+on this spot that is Brotia sp. of Pacly-chilidae. (Table 1 and Figure 2)
+
+BM-3
+On the BM-3 site 6 species of arthropods and 2 species of molluscs are found. The arthropods are Caenis sp., Diplonychus
+sp., hacotrephes Sp., Notonecta sp., Hydaticus sp. and Macrobrachium sp. These are included in 6 families of 3 orders.
+The molluscs that are found on this spot are Gyrulus convexiusculus cond, Bellamya bengalensis. (Table 1 and Figure 2)
+
+Distribution of macroinvertebrate fauna of river Behimora.
+
+Anthropode
+Macroinvertibrate sp.
+Trong chia 2P,
+Caenis SP
+Diplonychus sp.
+Lacotrophes sp.
+Microneta sp.
+Notonesta 2p.
+Stenopsyche sp.
+Hydaticus sp.
+Macrobrachnum
+Molluses
+Family
+Iso my chidae
+Caenidae
+Belostomatidae
+Nepidae
+Notonestidae
+Stenopsychidae
+Dytiscidae
+Palaemonidae
+Planorbidac
+Viviparidae
+Pachychilidae
+
+
+
+
+
+© IARJSET         This work is licensed under a Creative Commons Attribution 4.0 International License         181
+
+--- Page 5 ---
+                       IARJSET                               ISSN (O) 2393-8021, ISSN (P) 2394-1588
+
+               International Advanced Research Journal in Science, Engineering and Technology
+
+                                             Vol. 8, Issue 11, November 2021
+
+                                   DOI: 10.17148/IARJSET.2021.81126
+
+
+
+
+
+                                                 Table -2
+
+
+
+
+
+                                                  Table-3
+
+
+© IARJSET         This work is licensed under a Creative Commons Attribution 4.0 International License         182
+
+--- Page 6 ---
+                       IARJSET                               ISSN (O) 2393-8021, ISSN (P) 2394-1588
+
+               International Advanced Research Journal in Science, Engineering and Technology
+
+                                             Vol. 8, Issue 11, November 2021
+
+                                   DOI: 10.17148/IARJSET.2021.81126
+
+
+
+
+
+                                                  Table-4
+
+BM-1
+Different diversity indices off the BM-1 stimpling site of river. Bohimora are given below.
+Shannon Index (H) = 2.439 = 6.993
+Simpsom Index
+
+BM-2
+Different diversity indices of the BM-2 sampling site are,
+Shannon Index (H) = 1.326. Simpson Index (D) = 1.295
+Diversity indices of BM-3 site are,
+Shannon Index (H) = 1.668.
+Simpson Index (D) = 0.271
+
+The above observation mentioned in the Table 2,3 & 4 show that the Shannon Index of river Bohimora is ranged between
+1.326 to 2.439 and the Simpson Index is ranged between 0.2.71 to 6.993. Therefore it is found that shannon index (H)
+and Simpson index (D) is highest at BM-1 at 2.439 and 6.993. respectively. Therefore sector BM-1 has got highest species
+diversity.
+
+                                  DISCUSSION
+""We never know the worth of water till the well is dry" (T. Fuller). Inland water biodiversity underpins the provision of
+most goods and services that freshwater ecosystem provide to people. They are diverse and include not only direct used
+for food, fibre and medicine but also benefits such as pollution and nutrient absorption and recycling.
+Temperature is a vital parameter for growth of biodiversity and physico-chemical behaviour of biotic component of
+aquatic ecosystem. The water tempr. showed a balance in all the 3 sampling site. The tempr. that were detected is healthy
+for a habitat which is ranged between 21-23°c. This can be easily balanced to human body tempr. and healthy to consume.
+pH of a water body is also a very important character of water quality. The standard pHfor fresh water to be healthy is
+below 8 (according to WHO). The pH of Bohimora River was ranged from 1 to 8.5 which is a sign of over pollution.
+According to WHO, 1993, the standard permissible limit for TDS is 1000 mg/L. Water at a TDS level of 5000 mg/L is
+unsuitable for flora and fauna to grow and taste unpleasant to drink. The current study showed a TDS range of 90 to 700
+mg/L that is under desirable condition.
+The turbidity of any water sample is the reduction of transparency due to the presence of particulate matter such as clay
+or salt, finely divided organic matter, or salt, Plankton and other microscopic organisms. In the present investigation the
+turbidity range was between 1.35 NTU and 4.18 NTU which is greater than normal and indicates a significant pollution
+rate.
+Barman and Gupta (2015) researched on Bakumari shcom of chakrashila Wildilife Sanctuary, Assam and find out the
+DO was ranged between 6.63 to 12.17 which was a little bit lower to the current study found in Bohimara river that was
+4.2-6.2 and depicts a certain amount of pollution
+Barman & Gupta (2015) studied the Free Co₂ level too which awas in the range of 5.86 to 10.56. But the free CO₂ level
+of river Bohimora is in the range of 45.5 to 102.96 mg/L which is far greater than the former one, that depicts high
+pollution rate.
+Gogoi and Gupta (2017) have also researched on the Brahmaputra river and find out that order Hemiptera are most
+abundant on it. In the river 'Bohimora' too the most abundant group of arthropod is Hemiptera. In coleoptera order they
+
+© IARJSET         This work is licensed under a Creative Commons Attribution 4.0 International License         183
+
+--- Page 7 ---
+                       IARJSET                               ISSN (O) 2393-8021, ISSN (P) 2394-1588
+
+               International Advanced Research Journal in Science, Engineering and Technology
+
+                                             Vol. 8, Issue 11, November 2021
+
+                                   DOI: 10.17148/IARJSET.2021.81126
+
+found 5 family, those are Noteridae, Dyropidae, Dylisidae, Elmidae and Hydrophilidae. But the current study found only
+family from the order coleoptera that is Dytiscidae. They found only 1 family from the order Ephemeropterar in
+Brahmaputra where as in Behimora 3 family has been found, those are Isomychidae, Caenidae and Belostomatidae. In
+the current study another 2 order of arthropoda was found which are Trichoptera and Decapada in place of then Gogoi
+and Gupta had found Odonata
+Kardong et al. (2016) studied the diversity of molluscs in Muguri beel in Tinsukia District. They found 30 species of 9
+families which are included in 5 different order, in bohimora 3 species of 8 family has been found.
+One of most important aspect of river is the diversity of fauna on it. Different program from USA and Europe that the
+benthic macro-invertebrates are most useful in monitoring fresh water ecosystem. Shannon-Weiner index and Simpson
+index are some of the mostly used indices to monitor diversity of river all around the globe.
+In river Brahmaputra Gogoi and Gupta (2017) found the Shannon index in the range between 0.376 to 0.943 which is not
+similar result of the current study which ranges from 2.439 to 1.326. The result that shows greater than 1 indicates a fair
+ecosystem.
+Ghosh and Biswas (2015) measured simpson index in Chariganga lake in eastern india and found in the range of 0.53-
+0.69 which is far lower than the current study that showed in the range between 0.271 to 6.993 that is an indicator of
+more diverse ecosystem.
+
+                              CONCLUSION
+This was a little attempt to examine and evaluate the parameters related to the biosphere of the river Bohimora. Though
+it was a trial to approach each and every possible aspect of the topic, as natural it was neither perfect nor complete. There
+were many physio-chemical parameters that can affect the biology of a river which were remained untouched and must
+be taken into consideration in a future work. eg. Electrical conductivity, concentration of ions and metals, Total hardness,
+Biological oxygen demand, Nitrates conc. etc.
+The monitoring of the water quality is not enough, but the assessment of the reasons for poor state should be done in a
+future research which should also include the overall solution of the problem.At last it can be concluded that the attempt
+was successful to monitor the water quality and biodiversity state of river 'Bohimara' though various aspects are remained
+in this field to study.
+
+                               REFERENCES
+
+1.     MK Mustapha; JS Omotosho. African J. of App. Zoo. and Envtl. Bio., 2005, 7, 3-77.
+2.         Duran; Mustafa; M Suicmez. J. Environ. Biol., 2007, 28, 231-236. [8] RR Sangpal; UD Kulkarn; YM Nandurkar. ARPN J. of Agri. and
+Biol. Sci., 2011, 6(3), 34-38
+3. Nidhi Saxena; SN Misra; RN Shukla. J. Chem. Pharm. Res., 2011, 3(2):162-    167.
+4. RR Sangpal; UD Kulkarn; YM Nandurkar. ARPN J. of Agri. and Biol. Sci., 2011, 6(3).
+5. Hazarika LP, Baruah D, Borah S and Biswas SP (2014). Diversity assessment of macroinvertibrates in the dan progressed Subansiri river in the
+North Eastern India. International Journal of Fisheries and Aquatic Studies, 2(1), 442-146.
+6.Hilsenhoff WL (1982). Using a biotic index to evaluate water quality in streams. 132nd Bulletin of Department of Natural Resources, Madeson,
+Wisconsin.
+7.Hilsen hoff WL (1988). Rapid field assessment of organic Pollution with a Family - Level Biotic Index. Journal of North American Benthological
+Society, 7(1), 65-68.
+8.Huggins DG and Moffet M (1988). Proposed Biotic and Habitat Indices for use in Kansas Streams. 35th report of Kansas Biological Surwery, The
+University of Kansas, hawrence.
+9.Kardong D, Puzari M and Sonowal J (2016). Diversity of freshwater molluse in beel- Maguri bedl - a floodplain wet land of wetland Tinsukia district
+in Assam, India. International Journal of current research, 8(4), 29169-29176.
+10.Kumar A and Vyas V (2012). Diversity of Molluscan communities in River Narmada, India. Journal of Chemical, Biological and Physical Science,
+2(2), 1407-1412.
+11.henat DR (1998). Water quality assessment of streams using a qualitative collection method for benthic macroinvertebrates. Journal of the North
+Americal Benthological Society, 7(8), 222-233.
+12.Mandaville SM (2002). Benthic macroinvertibrate in fresh water - Jana Jolerance Value, Metrics and Protocols. Project H-1, soil and Water
+conservation society of Metro Halifax Xviii, 48 p, Appendices A-8, 120 pp.
+13.Merrit RW and Cummins KW (1996). An introduction to Aquatic insects of North America (3rd ed.). Kendall-Hunt, 862 pp.
+14.Moldoveanu M, Chiriac & and Risnoveanu & (2013). E.cological status of lotic system. assessed based on biotic quality components: Arges, Vedea
+and Litoral river basins. Romanian Journal of Biology, 58 (2), 141-150.
+15.Norris RH and Thoms MC (1999). What is River Health. Freshwater Biology, 41, 197-209.
+16.Shannon CE and Weiner W (1949). The mathematical theory of ice commime ca tion. Univ. Illinois Press, Urbana, 125 pp.
+17.Simpson EH (1949). Measurement of diversity. Nature, 1639 688. Subba Rao NV (1993). Hand-book - Freshwater molluses of India. Published by
+zoological survey of India, Calcutta, 165 pp.
+18.Subramaniam KA and Jaiswal D (2012). Faunal of Ecosystem of India Fresh water. Published by the Director, zoological survey of India, Kolkata,
+1-28.
+19.Subramanian KA and Sivaramakrishnan KG (2007). Aquatic Insects of India A field guide. Ashok Trust for Ecology and Environment, Banglore,62
+pp
+20.Davies BR and Day JA (1998). Vanishing water. University of Cate Town press, Cape Town, South Africa, 487 PP.
+21.Dwivedi Ak (2017). Researches in Water Pollution: A review. International Research Journal of Natural and Applied Science, 4(1), 118-142.
+22.Edmonsen WT (1993). Ward and Whipple's Fresh water biology (2nd Edition) John Wiley & Sons, New-york
+
+
+© IARJSET         This work is licensed under a Creative Commons Attribution 4.0 International License         184

@@ -1,0 +1,60 @@
+# Records needing review
+
+OCR is machine-generated. Verify names, numbers, tables and handwriting against the original.
+
+- [BSc Degree and Marksheet](Library/Angsuman_Das/Academic/BSc/BSc_Degree_and_Marksheet.pdf): Page 1: low OCR confidence (51.9%) or sparse text; Page 2: low OCR confidence (43.9%) or sparse text
+- [BSc Mrksheet  f532f73a](Library/Angsuman_Das/Academic/BSc/BSc_Mrksheet__f532f73a.pdf): Page 1: low OCR confidence (60.4%) or sparse text
+- [bsc merged](Library/Angsuman_Das/Academic/BSc/bsc_merged.pdf): Page 1: low OCR confidence (59.0%) or sparse text; Page 2: low OCR confidence (49.4%) or sparse text
+- [degree mark](Library/Angsuman_Das/Academic/BSc/degree_mark.jpg): Low OCR confidence (64.9%) or sparse text; may be a photograph/signature
+- [bsc msc marksheets collection](Library/Angsuman_Das/Academic/Combined_Records/bsc_msc_marksheets_collection.pdf): Page 5: low OCR confidence (62.7%) or sparse text
+- [HSLC Certificate and Marksheet](Library/Angsuman_Das/Academic/HSLC/HSLC_Certificate_and_Marksheet.pdf): Page 1: low OCR confidence (57.1%) or sparse text
+- [Matric Certificate  3e09d4c9](Library/Angsuman_Das/Academic/HSLC/Matric_Certificate__3e09d4c9.pdf): Page 1: low OCR confidence (62.5%) or sparse text
+- [matric cert](Library/Angsuman_Das/Academic/HSLC/matric_cert.jpg): Low OCR confidence (56.1%) or sparse text; may be a photograph/signature
+- [HS Certificate  6549c59c](Library/Angsuman_Das/Academic/Higher_Secondary/HS_Certificate__6549c59c.pdf): Page 1: low OCR confidence (43.4%) or sparse text
+- [HS Markesheet  19f0a36c](Library/Angsuman_Das/Academic/Higher_Secondary/HS_Markesheet__19f0a36c.pdf): Page 1: low OCR confidence (44.4%) or sparse text
+- [HS cert](Library/Angsuman_Das/Academic/Higher_Secondary/HS_cert.jpg): Low OCR confidence (14.4%) or sparse text; may be a photograph/signature
+- [HS mark](Library/Angsuman_Das/Academic/Higher_Secondary/HS_mark.jpg): Low OCR confidence (47.3%) or sparse text; may be a photograph/signature
+- [Higher Secondary Certificate and Marksheet](Library/Angsuman_Das/Academic/Higher_Secondary/Higher_Secondary_Certificate_and_Marksheet.pdf): Page 1: low OCR confidence (36.8%) or sparse text; Page 2: low OCR confidence (41.4%) or sparse text
+- [Higher Secondary Certificate and Marksheet  2ca37c99](Library/Angsuman_Das/Academic/Higher_Secondary/Higher_Secondary_Certificate_and_Marksheet__2ca37c99.pdf): Page 1: low OCR confidence (47.8%) or sparse text; Page 2: low OCR confidence (48.0%) or sparse text
+- [MIGRATION CERTIFICATE](Library/Angsuman_Das/Academic/Migration/MIGRATION_CERTIFICATE.pdf): Page 1: low OCR confidence (0%) or sparse text; OCR recovered no document text; original must be read/transcribed manually
+- [slet result sheet 2023](Library/Angsuman_Das/Competitive_Exams/slet_result_sheet_2023.pdf): Page 10: low OCR confidence (0%) or sparse text; Page 11: low OCR confidence (0%) or sparse text
+- [AADHAR BACK](Library/Angsuman_Das/Identity/AADHAR_BACK.jpeg): Low OCR confidence (53.7%) or sparse text; may be a photograph/signature
+- [ANGSU NON CREAMY](Library/Angsuman_Das/Identity/ANGSU_NON_CREAMY.jpg): Low OCR confidence (51.9%) or sparse text; may be a photograph/signature
+- [Cast](Library/Angsuman_Das/Identity/Cast.pdf): Page 1: low OCR confidence (62.2%) or sparse text
+- [LICENSE](Library/Angsuman_Das/Identity/LICENSE.jpeg): Low OCR confidence (64.2%) or sparse text; may be a photograph/signature
+- [PAN](Library/Angsuman_Das/Identity/PAN.jpeg): Low OCR confidence (48.8%) or sparse text; may be a photograph/signature
+- [PAN Card](Library/Angsuman_Das/Identity/PAN_Card.jpeg): Low OCR confidence (41.8%) or sparse text; may be a photograph/signature
+- [obc3](Library/Angsuman_Das/Identity/obc3.jpg): Low OCR confidence (46.4%) or sparse text; may be a photograph/signature
+- [passport back page](Library/Angsuman_Das/Identity/passport_back_page.jpg): Low OCR confidence (62.3%) or sparse text; may be a photograph/signature
+- [passport combined](Library/Angsuman_Das/Identity/passport_combined.pdf): Page 1: low OCR confidence (63.3%) or sparse text; Page 2: low OCR confidence (63.7%) or sparse text
+- [passport front page](Library/Angsuman_Das/Identity/passport_front_page.jpg): Low OCR confidence (58.1%) or sparse text; may be a photograph/signature
+- [voter id card combined](Library/Angsuman_Das/Identity/voter_id_card_combined.pdf): Page 2: low OCR confidence (50.7%) or sparse text
+- [Campus Photograph Institution Unconfirmed](Library/Angsuman_Das/Photos_and_Signatures/Campus_Photograph_Institution_Unconfirmed.jpeg): Identity/type not confidently established; original filename retained or explicitly marked unconfirmed
+- [Adobe Scan Jul 30 2024 1](Library/Family/Astrology_Records/Adobe_Scan_Jul_30_2024_1.pdf): Page 1: low OCR confidence (44.0%) or sparse text
+- [Adobe Scan Jul 30 2024 2](Library/Family/Astrology_Records/Adobe_Scan_Jul_30_2024_2.pdf): Page 1: low OCR confidence (42.3%) or sparse text
+- [Angsuman Kusti](Library/Family/Astrology_Records/Angsuman_Kusti.pdf): Page 1: low OCR confidence (37.2%) or sparse text
+- [DOC 20240728 WA0017](Library/Family/Astrology_Records/DOC_20240728_WA0017.pdf): Page 1: low OCR confidence (38.8%) or sparse text
+- [Sumpimoni kusti](Library/Family/Astrology_Records/Sumpimoni_kusti.pdf): Page 1: low OCR confidence (36.0%) or sparse text
+- [Bubul Das Voter ID](Library/Family/Parents_and_Relatives/Identity/Bubul_Das_Voter_ID.jpg): Low OCR confidence (40.4%) or sparse text; may be a photograph/signature
+- [Father OBC](Library/Family/Parents_and_Relatives/Identity/Father_OBC.jpeg): Low OCR confidence (62.3%) or sparse text; may be a photograph/signature
+- [father obc certificate](Library/Family/Parents_and_Relatives/Identity/father_obc_certificate.jpg): Low OCR confidence (0%) or sparse text; may be a photograph/signature; OCR recovered no document text; original must be read/transcribed manually
+- [Female Portrait Identity Unconfirmed](Library/Family/Parents_and_Relatives/Photos_and_Signatures/Female_Portrait_Identity_Unconfirmed.jpg): Identity/type not confidently established; original filename retained or explicitly marked unconfirmed
+- [Male Portrait Identity Unconfirmed](Library/Family/Parents_and_Relatives/Photos_and_Signatures/Male_Portrait_Identity_Unconfirmed.jpg): Identity/type not confidently established; original filename retained or explicitly marked unconfirmed
+- [BSc certificate](Library/Family/Sumpi_Moni_Das/Academic/BSc_certificate.pdf): Page 1: low OCR confidence (62.1%) or sparse text
+- [SUMPI MARK](Library/Family/Sumpi_Moni_Das/Academic/SUMPI_MARK.jpg): Low OCR confidence (54.6%) or sparse text; may be a photograph/signature
+- [matric cert compressed](Library/Family/Sumpi_Moni_Das/Academic/matric_cert_compressed.pdf): Page 1: low OCR confidence (30.3%) or sparse text
+- [Bank Passbook Page 1](Library/Family/Sumpi_Moni_Das/Banking/Bank_Passbook_Page_1.jpg): Low OCR confidence (43.1%) or sparse text; may be a photograph/signature
+- [Bank Passbook Page 2](Library/Family/Sumpi_Moni_Das/Banking/Bank_Passbook_Page_2.jpg): Low OCR confidence (0%) or sparse text; may be a photograph/signature; OCR recovered no document text; original must be read/transcribed manually
+- [DIT Computer Application Diploma](Library/Family/Sumpi_Moni_Das/Certificates/DIT_Computer_Application_Diploma.jpg): Low OCR confidence (60.5%) or sparse text; may be a photograph/signature
+- [Exam Admit Card Identity Unconfirmed](Library/Family/Sumpi_Moni_Das/Competitive_Exams/Exam_Admit_Card_Identity_Unconfirmed.jpg): Identity/type not confidently established; original filename retained or explicitly marked unconfirmed
+- [matric admit compressed](Library/Family/Sumpi_Moni_Das/Competitive_Exams/matric_admit_compressed.pdf): Page 1: low OCR confidence (44.9%) or sparse text
+- [OBC](Library/Family/Sumpi_Moni_Das/Identity/OBC.pdf): Page 1: low OCR confidence (61.2%) or sparse text
+- [PAN SU](Library/Family/Sumpi_Moni_Das/Identity/PAN_SU.jpg): Low OCR confidence (34.2%) or sparse text; may be a photograph/signature
+- [SUMP NON CREAMY](Library/Family/Sumpi_Moni_Das/Identity/SUMP_NON_CREAMY.jpg): Low OCR confidence (47.4%) or sparse text; may be a photograph/signature
+- [chinese scholarship 2020 21](Library/Study_Materials/chinese_scholarship_2020_21.pdf): Page 6: low OCR confidence (61.2%) or sparse text
+- [comparative marking statement zoology](Library/Study_Materials/comparative_marking_statement_zoology.pdf): Page 1: low OCR confidence (0%) or sparse text; Page 2: low OCR confidence (0%) or sparse text; Page 3: low OCR confidence (0%) or sparse text; OCR recovered no document text; original must be read/transcribed manually
+- [ecology notes](Library/Study_Materials/ecology_notes.pdf): Page 9: low OCR confidence (64.5%) or sparse text
+- [Indian Economy Prelims Final Notes copy](Library/Study_Materials/JRF_and_General_Studies/Indian_Economy_Prelims_Final_Notes_copy.pdf): Page 1: low OCR confidence (44.2%) or sparse text; Page 2: low OCR confidence (39.4%) or sparse text; Page 3: low OCR confidence (44.7%) or sparse text; Page 4: low OCR confidence (43.8%) or sparse text; Page 5: low OCR confidence (52.2%) or sparse text; Page 6: low OCR confidence (47.1%) or sparse text; Page 7: low OCR confidence (44.8%) or sparse text; Page 8: low OCR confidence (49.7%) or sparse text; Page 9: low OCR confidence (44.3%) or sparse text; Page 10: low OCR confidence (41.0%) or sparse text; Page 11: low OCR confidence (56.8%) or sparse text; Page 12: low OCR confidence (50.4%) or sparse text; Page 13: low OCR confidence (46.9%) or sparse text; Page 14: low OCR confidence (36.2%) or sparse text; Page 15: low OCR confidence (54.3%) or sparse text
+- [Last Minute Revision Final copy](Library/Study_Materials/JRF_and_General_Studies/Last_Minute_Revision_Final_copy.pdf): Page 1: low OCR confidence (44.5%) or sparse text
+- [paper1 eBook 2022](Library/Study_Materials/JRF_and_General_Studies/paper1_eBook_2022.pdf): Page 2: low OCR confidence (0%) or sparse text; Page 53: low OCR confidence (60.0%) or sparse text; Page 67: low OCR confidence (57.1%) or sparse text; Page 68: low OCR confidence (59.5%) or sparse text; Page 72: low OCR confidence (57.4%) or sparse text; Page 74: low OCR confidence (56.8%) or sparse text; Page 76: low OCR confidence (57.9%) or sparse text; Page 79: low OCR confidence (64.0%) or sparse text; Page 81: low OCR confidence (60.4%) or sparse text; Page 87: low OCR confidence (58.1%) or sparse text; Page 89: low OCR confidence (51.4%) or sparse text; Page 123: low OCR confidence (93.2%) or sparse text; Page 129: low OCR confidence (96.4%) or sparse text
+- [SLET 2016 GENERAL PAPER](Library/Study_Materials/SLET_Question_Papers/SLET_2016_GENERAL_PAPER.pdf): Page 7: low OCR confidence (49.1%) or sparse text

@@ -1,0 +1,185 @@
+--- Page 1 ---
+  Comparative Analysis of Gut Microbiomes in Wild Buffalo, Domestic Cows, and
+                 Urban Stray Cattle: A Metagenomic Study
+
+Introduction:
+
+The gut microbiome plays a  critical role in the health and well-being of animals,
+influencing aspects such as digestion, metabolism, immunity, and disease resistance.
+While gut microbiome studies in domesticated animals like cows have been conducted
+extensively, there is a scarcity of data on the gut microbiomes of wild buffalo and urban
+stray  cattle. This research aims to bridge  this gap by conducting a comparative
+metagenomic analysis of the gut microbiomes of these three distinct bovine populations.
+
+Objectives:
+
+    1. Comparative Analysis of Gut Microbiomes in Wild Buffalo and Domestic cattle:
+      Assess the impact of domestication on the gut microbiome composition, diversity,
+      and functional potential by comparing wild buffalo to domestic cattle.
+
+    2. Comparative Analysis of Gut Microbiomes in Domestic cattle and Urban Stray
+        Cattle:  Investigate  the  influence  of  urbanization on  the  gut  microbiome
+       composition, diversity, and potential alterations in microbial functions in urban
+       stray cattle.
+
+    3.  Decipher the trends in change of gut Microbiome during history: Is domestication
+      and urbanization analogous?
+
+    4.  Yet to be decided……
+
+Methods:
+
+Sample Collection
+-  Collect fecal samples from wild buffalo populations in their natural habitat.
+- Obtain fecal samples from domestic cows in controlled farm settings.
+-  Collect fecal samples from urban stray cattle within urban environments.
+
+DNA Extraction
+-  Isolate DNA from the fecal samples using standardized metagenomic DNA
+extraction protocols.
+
+Metagenomic Sequencing (will be outsourced)
+- Prepare metagenomic libraries from the extracted DNA for each sample.
+- Perform high-throughput sequencing (e.g., Illumina) to generate metagenomic datasets.
+
+Data Analysis
+- Process and quality-filter the sequencing data.
+- Perform taxonomic classification to identify microbial species and their
+relative abundances.
+- Assess alpha and beta diversity to compare microbial richness and community
+structure.
+-  Identify differentially abundant taxa and functions among the three groups.
+- Conduct   statistical  analyses  (ANOVA)  to   correlate  microbiome
+composition with relevantenvironmental factors.
+
+--- Page 2 ---
+Discussion:
+
+The comparative analysis of the gut microbiomes of wild buffalo, domestic cows, and
+urban stray cattle will provide insights into the impact of habitat, diet, and domestication
+on the composition and functional potential of the gut microbiota in these bovine
+populations.
+Understanding these differences may have implications for animal health, adaptation to
+urban environments, and conservation efforts.
+
+Significance:
+
+This research contributes to our understanding of how anthropogenic factors, such as
+urbanization and domestication, influence the gut microbiome of bovine species. The
+findings may have implications for livestock management, wildlife conservation, and the
+potential role of gut microbiota in adapting to changing environments.
+
+Timeline:
+
+- Sample collection: Months 1-3 (only winter during winters when  national parks are
+open)
+- DNA extraction and library preparation: Months 4-6
+- Metagenomic sequencing: Months 7-9
+- Data analysis: Months 8-9
+- Report and manuscript preparation: Months
+16-18
+
+
+Budget:
+
+The budget will include expenses for sample collection (travel, national park, and ticket
+may cost estimated 10,000), DNA extraction kits (5000 per kit), sequencing costs (6500
+per sample, if we take 5 sample size for each group for 15 sample may cost 97500),
+computational resources (most packages and tools are free but complications may costs
+extra 500), and personnel.
+
+
+Discussion:
+
+Previous studies have shown that the gut microbiome composition can differ between
+wild and captive animal populations (Gibson et al., 2019). These studies have primarily
+used targeted amplicon sequencing of the 16S rRNA gene. However, a metagenomic
+approach provides several advantages, including the ability to capture a broader range of
+microbial taxa and functional genes (Gibson et al., 2019). Additionally, it is not subject to
+PCR artifacts, which can affect the accuracy of amplicon sequencing (Gibson et al., 2019).
+
+Diet has been shown to influence the diversity of the gut microbiome in cattle (Lau et al.,
+2018). A study comparing the gut microbiomes of omnivorous and herbivorous cattle
+found that the omnivorous group had a more diverse microbiome (Lau et al., 2018). This
+suggests that microbiota diversity increases as diet variation increases (Lau et al., 2018).
+Understanding the differences in the gut microbiomes of wild buffalo, domestic cows, and
+urban stray cattle can provide insights into the impact of diet and domestication on the
+gut microbiome.
+
+--- Page 3 ---
+The gut microbiome has also been implicated in the metabolism of environmental toxins
+and pesticides (Gao et  al., 2017). Exposure to organophosphate pesticides has been
+shown to alter the gut microbiome composition and associated metabolites (Gao et al.,
+2017). This raises the possibility that perturbation of the gut microbiome contributes to
+the neurotoxicity of these pesticides (Gao et al., 2017). Investigating the gut microbiomes
+of wild buffalo, domestic cows, and urban stray cattle can provide insights into the
+potential effects of environmental factors on the gut microbiome.
+
+Furthermore, the gut microbiome has been linked to host behavior (Cusick et al., 2021).
+Comparative studies across different species or taxa have highlighted the bidirectional
+relationship between the gut microbiome and host behavior (Cusick et al., 2021). By
+examining the gut microbiomes of wild buffalo, domestic cows, and urban stray cattle, we
+can explore potential associations between the gut microbiome and behavior in these
+populations.
+
+
+Conclusion:
+
+This research proposal aims to conduct a comparative analysis of the gut microbiomes in
+wild buffalo, domestic cows, and urban stray cattle using a metagenomic approach. By
+examining the differences in the gut microbiomes of these populations, we can gain
+insights into the impact of domestication, diet, environmental factors, and behavior on
+the gut microbiome composition and function. This study  will contribute to our
+understanding of the gut microbiome in different populations of cattle and its potential
+implications for animal health and well-being.
+
+References:
+
+Cusick, J., Wellman, C., & Demas, G. (2021). The call of the wild: using non-model systems
+to investigate microbiome–behaviour relationships. Journal of Experimental Biology,
+224(10). https://doi.org/10.1242/jeb.224485
+
+Gao, B., Bian, X., Mahbub, R., & Lu, K. (2017). Sex-specific effects of organophosphate
+diazinon on the gut microbiome and its metabolic functions. Environmental Health
+Perspectives, 125(2), 198-206. https://doi.org/10.1289/ehp202
+
+Gibson, K., Nguyen, B., Neumann, L., Miller, M., Buss, P., Daniels, S., … & Pukazhenthi, B.
+(2019). Gut microbiome differences between wild and captive black rhinoceros –
+implications for rhino health. Scientific Reports, 9(1). https://doi.org/10.1038/s41598-
+019-43875-3
+
+Lau,  S., Teng,  J., Chiu,  T., Chan,  E., Tsang,  A., Panagiotou,  G., … & Woo, P. (2018).
+Differential microbial communities of omnivorous and herbivorous cattle in southern
+china.   Computational   and   Structural   Biotechnology   Journal,   16,   54-60.
+https://doi.org/10.1016/j.csbj.2018.02.004
+
+--- Page 4 ---
+Further readings:
+
+
+
+
+[1] Youngblut et al., "Large-Scale Metagenome Assembly Reveals Novel Animal-Associated
+Microbial Genomes, Biosynthetic Gene Clusters, and Other Genetic Diversity," Msystems (2020).
+doi:10.1128/msystems.01045-20
+[2] Gao et al., "Sex-Specific Effects of Organophosphate Diazinon on the Gut Microbiome and Its
+Metabolic Functions," Environmental health perspectives (2017). doi:10.1289/ehp202
+[3] Ben-Yacov et al., "Personalized Postprandial Glucose Response–Targeting Diet Versus
+Mediterranean Diet for Glycemic Control in Prediabetes," Diabetes care (2021).
+doi:10.2337/dc21-0162
+[4] Gibson et al., "Gut microbiome differences between wild and captive black rhinoceros –
+implications for rhino health," Scientific reports (2019). doi:10.1038/s41598-019-43875-3
+[5] Phillips et al., "The Effects of Landscape Urbanization on the Gut Microbiome: An Exploration
+Into the Gut of Urban and Rural White-Crowned Sparrows," Frontiers in ecology and evolution
+(2018). doi:10.3389/fevo.2018.00148
+[6] Abed et al., "Gut metagenome profile of the Nunavik Inuit youth is distinct from industrial and
+non-industrial counterparts," Communications biology (2022). doi:10.1038/s42003-022-04372-y
+[7] Zhu, "New challenges in the study of the evolution of wild animals and their gut microbiome,"
+Ecology and evolution (2022). doi:10.1002/ece3.8904
+[8] Lau et al., "Differential Microbial Communities of Omnivorous and Herbivorous Cattle in
+Southern China," Computational and structural biotechnology journal (2018).
+doi:10.1016/j.csbj.2018.02.004
+[9] Chong et al., "Looking like the locals - gut microbiome changes post-release in an endangered
+species," Animal microbiome (2019). doi:10.1186/s42523-019-0012-4
+[10] Sun et al., "Analysis of the Gut Microbiome of Wild and Captive Père David’s Deer," Frontiers
+in microbiology (2019). doi:10.3389/fmicb.2019.02331
