@@ -1,6 +1,6 @@
 # Angsumi Document Download Centre
 
-[Open the download page](https://angsumi.github.io/document-library/) · [Sequencing downloads](https://github.com/Angsumi/document-library/releases/tag/sequencing-data-v1)
+[Open the download page](https://angsumi.online/document-library/) · [Sequencing downloads](https://github.com/Angsumi/document-library/releases/tag/sequencing-data-v1)
 
 547 organized records, with downloadable originals, searchable PDFs and plain-text transcripts. The page searches names, categories, source names and extracted text, and works on mobile.
 
