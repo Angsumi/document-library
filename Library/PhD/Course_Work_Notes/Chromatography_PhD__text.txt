@@ -1,0 +1,539 @@
+Chromatography is an important biophysical technique that enables
+the separation, identification, and purification of the components of
+a mixture for qualitative and quantitative analysis.
+      • A wide range of chromatographic procedures makes use of
+        differences in size, binding affinities, charge, and other properties
+        to separate materials.
+      • It is a powerful separation tool that is used in all branches of
+        science and is often the only means of separating components
+        from complex mixtures.
+      • Chromatography is a very useful technique as it allows the
+        separation of components of a mixture on the basis of their
+        nature, structure, size, and other properties.
+      • Chromatography, in general, is based on the principle that
+        components of a mixture are separated when the mixture added to
+        a mobile phase is moved through a stationary phase (which mostly
+        is a solid surface), resulting in some components of the mixture
+        being attached to the stationary phase. At the same time, the rest
+        is passed along with the mobile phase.
+      • Thus, there are two essential components of all chromatography
+        techniques.
+The stationary phase in chromatography is the phase that is either a solid
+or liquid particle attached to a glass or a metal surface on which the
+components of the mixture to be separated is absorbed selectively.
+
+The mobile phase in chromatography is the phase that is either liquid or
+gas that is passed through a chromatographic system where the
+components of the mixture are separated at different raters by adsorbing
+them to the stationary phase.
+Thin Layer Chromatography
+   •   Chromatography is an important biophysical technique that
+       enables the separation, identification, and purification of the
+       components of a mixture for qualitative and quantitative analysis.
+   •   In this physical method of separation, the components to be
+       separated are distributed between two phases, one of which is
+       stationary (stationary phase) while the other (the mobile phase)
+       moves in a definite direction. Depending upon the stationary phase
+       and mobile phase chosen, they can be of different types.
+   •   Thin Layer Chromatography can be defined as a method of
+       separation or identification of a mixture of components into
+       individual components by using finely divided adsorbent solid /
+       (liquid) spread over a plate and liquid as a mobile phase.
+Principle of Thin Layer Chromatography (TLC)
+      •
+      •   Thin-layer chromatography is performed on a sheet of glass, plastic, or
+          aluminium foil, which is coated with a thin layer of adsorbent material,
+          usually silica gel, aluminium oxide (alumina), or cellulose. This layer of
+          adsorbent is known as the stationary phase.
+      •   After the sample has been applied on the plate, a solvent or solvent
+          mixture (known as the mobile phase) is drawn up the plate via capillary
+          action. Because different analytes ascend the TLC plate at different
+          rates, separation is achieved.
+      •   It is thus based on the principle of adsorption chromatography or
+          partition chromatography or combination of both, depending on
+          adsorbent, its treatment and nature of solvents employed. The
+          components with more affinity towards stationary phase travels slower.
+          Components with less affinity towards stationary phase travels faster.
+      •   Once separation occurs, the individual components are visualized as
+          spots at a respective level of travel on the plate. Their nature or
+          character is identified by means of suitable detection techniques.
+
+
+Components              of    Thin       Layer        Chromatography
+(TLC)
+TLC system components consists of:
+      1. TLC plates, preferably ready made with a stationary phase: These are
+         stable and chemically inert plates, where a thin layer of stationary phase
+         is applied on its whole surface layer. The stationary phase on the plates
+         is of uniform thickness and is in a fine particle size.
+      2. TLC chamber- This is used for the development of TLC plate. The
+         chamber maintains a uniform environment inside for proper
+         development of spots. It also prevents the evaporation of solvents, and
+         keeps the process dust free.
+      3. Mobile phase- This comprises of a solvent or solvent mixture The
+         mobile phase used should be particulate-free and of the highest purity
+         for proper development of TLC spots. The solvents recommended are
+         chemically inert with the sample, a stationary phase.
+      4. A filter paper- This is moistened in the mobile phase, to be placed
+         inside the chamber. This helps develop a uniform rise in a mobile phase
+         over the length of the stationary phase.
+Procedure of Thin Layer Chromatography
+(TLC)
+
+
+
+
+The stationary phase is applied onto the plate uniformly and then allowed to
+dry and stabilize. These days, however, ready-made plates are more
+commonly used.
+      1. With a pencil, a thin mark is made at the bottom of the plate to apply
+         the sample spots.
+      2. Then, samples solutions are applied on the spots marked on the line in
+         equal distances.
+      3. The mobile phase is poured into the TLC chamber to a leveled few
+         centimeters above the chamber bottom.
+      4. A moistened filter paper in mobile phase is placed on the inner wall of
+         the chamber to maintain equal humidity (and also thereby avoids edge
+         effect).
+      5. Now, the plate prepared with sample spotting is placed in TLC chamber
+         so that the side of the plate with the sample line is facing the mobile
+         phase. Then the chamber is closed with a lid.
+      6. The plate is then immersed, such that the sample spots are well above
+         the level of mobile phase (but not immersed in the solvent) for
+         development.
+      7. Sufficient time is given for the development of spots.
+      8. The plates are then removed and allowed to dry.
+      9. The sample spots are then seen in a suitable UV light chamber, or any
+         other methods as recommended for the given sample.
+Some common techniques for visualizing the results of a TLC plate include
+      1. UV light
+      2. Iodine Staining: is very useful in detecting carbohydrates since it turns
+         black on contact with Iodine
+      3. KMnO4 stain (organic molecules)
+      4. Ninhydrin Reagent: often used to detect amino acids and proteins
+
+Retention Factor (Rf ) Value
+      •   The behaviour of a compound on a TLC is usually described in terms of
+          its relative mobility or Rf value.
+      •   Rf or Retention factor is a unique value for each compound under the
+          same conditions.
+      •   The Rf for a compound is a constant from one experiment to the next
+          only if the chromatography conditions below are also constant:
+      •   solvent system
+      •   adsorbent
+      •   thickness of the adsorbent
+      •   amount of material spotted
+      •   temperature
+      •   Since these factors are difficult to keep constant from experiment to
+          experiment, relative Rf values are generally considered.
+      •   Relative Rf” means that the values are reported relative to a standard.
+      •   The Rf value is calculated using the following equation:
+
+
+
+
+Applications          of     Thin       Layer        Chromatography
+(TLC)
+      1. In monitoring the progress of reactions
+      2. Identify compounds present in a given mixture
+      3. Determine the purity of a substance.
+      • Analyzing ceramides and fatty acids
+      • Detection of pesticides or insecticides in food and water
+      • Analyzing the dye composition of fibers in forensics
+      • Assaying the radiochemical purity of radiopharmaceuticals
+      • Identification of medicinal plants and their constituents
+
+
+Advantages            of     Thin       Layer        Chromatography
+(TLC)
+      •   It is a simple process with a short development time.
+      •   It helps with the visualization of separated compound spots easily.
+      •   It helps in isolating of most of the compounds.
+      •   The separation process is faster and the selectivity for compounds is
+          higher (even small differences in chemistry is enough for clear
+          separation).
+    •   The purity standards of the given sample can be assessed easily.
+    •   It is a cheaper chromatographic technique.
+
+
+Limitations of Thin Layer Chromatography (TLC)
+    •   It cannot tell the difference between enantiomers and some isomers.
+    •   In order to identify specific compounds, the Rf values for the compounds
+        of interest must be known beforehand.
+    •   TLC plates do not have long stationary phases. Therefore, the length of
+        separation is limited compared to other chromatographic techniques.
+    •
+
+High-Performance                  Liquid          Chromatography
+(HPLC)
+    •   High performance liquid chromatography or commonly known as
+        HPLC is an analytical technique used to separate, identify or
+        quantify each component in a mixture.
+    •   The mixture is separated using the basic principle of
+        column chromatography and then identified and quantified by
+        spectroscopy.
+    •   In the 1960s the column chromatography LC with its low-pressure
+        suitable glass columns was further developed to the HPLC with its
+        high-pressure adapted metal columns.
+    •   HPLC is thus basically a highly improved form of column liquid
+        chromatography. Instead of a solvent being allowed to drip
+        through a column under gravity, it is forced through under high
+        pressures of up to 400 atmospheres.
+Principle  of    High-Performance                                       Liquid
+Chromatography (HPLC)
+     •   The purification takes place in a separation column between a stationary
+         and a mobile phase.
+     •   The stationary phase is a granular material with very small porous
+         particles in a separation column.
+     •   The mobile phase, on the other hand, is a solvent or solvent mixture
+         which is forced at high pressure through the separation column.
+     •   Via a valve with a connected sample loop, i.e. a small tube or a capillary
+         made of stainless steel, the sample is injected into the mobile phase flow
+         from the pump to the separation column using a syringe.
+     •   Subsequently, the individual components of the sample migrate through
+         the column at different rates because they are retained to a varying
+         degree by interactions with the stationary phase.
+     •   After leaving the column, the individual substances are detected by a
+         suitable detector and passed on as a signal to the HPLC software on the
+         computer.
+     •   At the end of this operation/run, a chromatogram in the HPLC software
+         on the computer is obtained.
+     •   The chromatogram allows the identification and quantification of the
+         different substances.
+
+Instrumentation  of High-Performance                                    Liquid
+Chromatography (HPLC)
+
+
+
+
+The Pump
+     •   The development of HPLC led to the development of the pump system.
+     •   The pump is positioned in the most upper stream of the liquid
+         chromatography system and generates a flow of eluent from the solvent
+         reservoir into the system.
+      •    High-pressure generation is a “standard” requirement of pumps besides
+           which, it should also to be able to provide a consistent pressure at any
+           condition and a controllable and reproducible flow rate.
+      •    Most pumps used in current LC systems generate the flow by back-and-
+           forth motion of a motor-driven piston (reciprocating pumps). Because of
+           this piston motion, it produces “pulses”.
+Injector
+      •    An injector is placed next to the pump.
+      •    The simplest method is to use a syringe, and the sample is introduced to
+           the flow of eluent.
+      •    The most widely used injection method is based on sampling loops.
+      •    The use of the autosampler (auto-injector) system is also widely used
+           that allows repeated injections in a set scheduled-timing.
+Column
+      •    The separation is performed inside the column.
+      •    The recent columns are often prepared in a stainless steel housing,
+           instead of glass columns.
+      •    The packing material generally used is silica or polymer gels compared
+           to                           calcium                          carbonate.
+           The eluent used for LC varies from acidic to basic solvents.
+      •    Most column housing is made of stainless steel since stainless is tolerant
+           towards a large variety of solvents.
+Detector
+      •    Separation of analytes is performed inside the column, whereas a
+           detector is used to observe the obtained separation.
+      •    The composition of the eluent is consistent when no analyte is present.
+           While the presence of analyte changes the composition of the eluent.
+           What detector does is to measure these differences.
+      •    This difference is monitored as a form of an electronic signal. There are
+           different types of detectors available.
+Recorder
+      •    The change in eluent detected by a detector is in the form of an
+           electronic signal, and thus it is still not visible to our eyes.
+      •    In older days, the pen (paper)-chart recorder was popularly used.
+           Nowadays, a computer-based data processor (integrator) is more
+           common.
+      •    There are various types of data processors; from a simple system
+           consisting of the in-built printer and word processor while those with
+           software that are specifically designed for an LC system which not only
+           data acquisition but features like peak-fitting, baseline correction,
+           automatic concentration calculation, molecular weight determination,
+           etc.
+Degasser
+The eluent used for LC analysis may contain gases such as oxygen that are
+non-visible to our eyes.
+      •    When gas is present in the eluent, this is detected as noise and causes
+           an unstable baseline.
+       •   Degasser uses special polymer membrane tubing to remove gases.
+       •   The numerous very small pores on the surface of the polymer tube allow
+           the air to go through while preventing any liquid to go through the pore.
+ Column Heater
+The LC separation is often largely influenced by the column temperature.
+       •   In order to obtain repeatable results, it is important to keep consistent
+           temperature conditions.
+       •   Also for some analysis, such as sugar and organic acid, better
+           resolutions can be obtained at elevated temperatures (50 to 80°C).
+       •   Thus columns are generally kept inside the column oven (column
+           heater).
+
+Types     of     High-Performance                                        Liquid
+Chromatography (HPLC)
+       1. Normal phase:
+Column packing is polar (e.g silica) and the mobile phase is non-polar. It is
+used for water-sensitive compounds, geometric isomers, cis-trans isomers,
+and chiral compounds.
+       2. Reverse phase:
+The column packing is non-polar (e.g C18), the mobile phase is water+
+miscible solvent (e.g methanol). It can be used for polar, non-polar,
+ionizable and ionic samples.
+       3. Ion exchange:
+Column packing contains ionic groups and the mobile phase is buffer. It is
+used to separate anions and cations.
+       4. Size exclusion:
+Molecules diffuse into pores of a porous medium and are separated
+according to their relative size to the pore size. Large molecules elute first
+and smaller molecules elute later.
+
+
+Applications of   High-Performance                                       Liquid
+Chromatography (HPLC)
+The HPLC has developed into a universally applicable method so that it finds
+it use in almost all areas of chemistry, biochemistry, and pharmacy.
+       •   Analysis of drugs
+       •   Analysis of synthetic polymers
+       •   Analysis of pollutants in environmental analytics
+       •   Determination of drugs in biological matrices
+       •   Isolation of valuable products
+       •   Product purity and quality control of industrial products and fine
+           chemicals
+       •   Separation and purification of biopolymers such as enzymes or nucleic
+           acids
+       •   Water purification
+    •   Pre-concentration of trace components
+    •   Ligand-exchange chromatography
+    •   Ion-exchange chromatography of proteins
+    •   High-pH anion-exchange chromatography     of   carbohydrates   and
+        oligosaccharides
+
+
+Advantages   of   High-Performance                              Liquid
+Chromatography (HPLC)
+    1. Speed
+    2. Efficiency
+    3. Accuracy
+    4. Versatile and extremely precise when it comes to identifying and
+       quantifying chemical components.
+
+
+Limitations
+    1. Cost: Despite its advantages, HPLC can be costly, requiring large
+       quantities of expensive organics.
+    2. Complexity
+    3. HPLC does have low sensitivity for certain compounds, and some
+       cannot be detected as they are irreversibly adsorbed.
+    4. Volatile substances are better separated by gas chromatography.
+Gas chromatography-                       definition,           principle,
+working, uses
+
+What is gas chromatography?
+    •   Gas chromatography differs from other forms of chromatography in
+        that the mobile phase is a gas and the components are separated as
+        vapors.
+    •   It is thus used to separate and detect small molecular weight compounds
+        in the gas phase.
+    •   The sample is either a gas or a liquid that is vaporized in the injection
+        port. The mobile phase for gas chromatography is a carrier gas, typically
+        helium because of its low molecular weight and being chemically inert.
+    •   The pressure is applied and the mobile phase moves the analyte through
+        the column. The separation is accomplished using a column coated with
+        a stationary phase.
+Principle of Gas chromatography (how does gas
+chromatography work)
+The equilibrium for gas chromatography is partitioning, and the components
+of the sample will partition (i.e. distribute) between the two phases: the
+stationary phase and the mobile phase.
+       Compounds that have a greater affinity for the stationary phase spend
+more time in the column and thus elute later and have a longer retention
+time (Rt) than samples that have a higher affinity for the mobile phase.
+Affinity for the stationary phase is driven mainly by intermolecular
+interactions and the polarity of the stationary phase can be chosen to
+maximize interactions and thus the separation.
+Ideal peaks are Gaussian distributions and symmetrical, because of the
+random nature of the analyte interactions with the column.
+      •   The separation is hence accomplished by partitioning the sample
+          between the gas and a thin layer of a nonvolatile liquid held on a solid
+          support.
+      •   A sample containing the solutes is injected into a heated block where it
+          is immediately vaporized and swept as a plug of vapor by the carrier gas
+          stream into the column inlet.
+      •   The solutes are adsorbed by the stationary phase and then desorbed by
+          a fresh carrier gas.
+      •   The process is repeated in each plate as the sample is moved toward the
+          outlet.
+      •   Each solute will travel at its own rate through the column.
+      •   Their bands will separate into distinct zones depending on the partition
+          coefficients, and band spreading.
+      •   The solutes are eluted one after another in the increasing order of their
+          kd, and enter into a detector attached to the exit end of the column.
+      •   Here they register a series of signals resulting from concentration
+          changes and rates of elution on the recorder as a plot of time versus the
+          composition of carrier gas stream.
+      •   The appearance time, height, width, and area of these peaks can be
+          measured to yield quantitative data.
+Parts of Gas chromatography
+
+
+
+
+Gas chromatography is mainly composed of the following parts:
+      1. Carrier gas in a high-pressure cylinder with attendant pressure
+         regulators and flow meters
+      • Helium, N2, H, Argon are used as carrier gases.
+      • Helium is preferred for thermal conductivity detectors because of its high
+         thermal conductivity relative to that of most organic vapors.
+      • N2 is preferable when a large consumption of carrier gas is employed.
+      • Carrier gas from the tank passes through a toggle valve, a flow meter,
+         (1-1000 ml/min), capillary restrictors, and a pressure gauge (1-4 atm).
+      • Flow rate is adjusted by means of a needle valve mounted on the base
+         of the flow meter and controlled by capillary restrictors.
+      • The operating efficiency of the gas chromatograph is directly dependant
+         on the maintenance of constant gas flow.
+      2. Sample injection system
+      • Liquid samples are injected by a microsyringe with a needle inserted
+         through a self-scaling, silicon-rubber septum into a heated metal block
+         by a resistance heater.
+      • Gaseous samples are injected by a gas-tight syringe or through a by-
+         pass loop and valves.
+      • Typical sample volumes range from 0.1 to 0.2 ml.
+      3. The separation column
+      • The heart of the gas chromatography is the column which is made of
+         metals bent in U shape or coiled into an open spiral or a flat pancake
+         shape.
+      • Copper is useful up to 2500
+      • Swege lock fittings make column insertion easy.
+      • Several sizes of columns are used depending upon the requirements.
+      4. Liquid phases
+       •   An infinite variety of liquid phases are available limited only by their
+           volatility, thermal stability and ability to wet the support.
+       •   No single phase will serve for all separation problems at all
+           temperatures.
+Non-Polar – Parafin, squalane, silicone greases, apiezon L, silicone gum
+rubber. These materials separate the components in order of their boiling
+points.
+Intermediate Polarity – These materials contain a polar or polarizable
+group on a long non-polar skeleton which can dissolve both polar and non-
+polar solutes. For example. diethyl hexyl phthalate is used for the separation
+of high boiling alcohols.
+Polar – Carbowaxes – Liquid phases with a large proportion of polar groups.
+Separation of polar and non-polar substances.
+Hydrogen bonding – Polar liquid phases with high hydrogen bonding e.g.
+Glycol.
+Specific purpose phases – Relying on a chemical reaction with solute to
+achieve separations. e.g AgNO3 in glycol separates unsaturated
+hydrocarbons.
+       5. Supports
+       • The structure and surface characteristics of the support materials are
+          important parameters, which determine the efficiency of the support and
+          the degree of separation respectively.
+       • The support should be inert but capable of immobilizing a large volume
+          of liquid phase as a thin film over its surface.
+       • The surface area should be large to ensure the rapid attainment of
+          equilibrium between stationary and mobile phases.
+       • Support should be strong enough to resist breakdown in handling and be
+          capable of packed into a uniform bed.
+       • Diatomaceous earth, kieselguhr treated with Na 2CO 3 for 9000 C causes
+          the particle fusion into coarser aggregates.
+       • Glass beads with a low surface area and low porosity can be used to coat
+          up to 3% stationary phases.
+       • Porous polymer beads differing in the degree of cross-linking of styrene
+          with alkyl-vinyl benzene are also used which are stable up to 2500
+       6. Detector
+       • Detectors sense the arrival of the separated components and provide a
+          signal.
+       • These are either concentration-dependent or mass dependant.
+       • The detector should be close to the column exit and the correct
+          temperature to prevent decomposition.
+       7. Recorder
+       • The recorder should be generally 10 mv (full scale) fitted with a fast
+          response pen (1 sec or less). The recorder should be connected with a
+          series of good quality resistances connected across the input to
+          attenuate the large signals.
+       • An integrator may be a good addition.
+The procedure of Gas Chromatography
+Step 1: Sample Injection and Vapourization
+      1. A small amount of liquid sample to be analyzed is drawn up into a
+         syringe.
+      2. The syringe needle is positioned in the hot injection port of the gas
+         chromatograph and the sample is injected quickly.
+      3. The injection of the sample is considered to be a “point” in time, that is,
+         it is assumed that the entire sample enters the gas chromatograph at
+         the same time, so the sample must be injected quickly.
+      4. The temperature is set to be higher than the boiling points of the
+         components of the mixture so that the components will vaporize.
+      5. The vaporized components then mix with the inert gas mobile phase to
+         be carried to the gas chromatography column to be separated.
+Step 2: Separation in the Column
+      •  Components in the mixture are separated based on their abilities to
+         adsorb on or bind to, the stationary phase.
+      • A component that adsorbs most strongly to the stationary phase will
+         spend the most time in the column (will be retained in the column for
+         the longest time) and will, therefore, have the longest retention time
+         (Rt). It will emerge from the gas chromatograph last.
+      • A component that adsorbs the least strongly to the stationary phase will
+         spend the least time in the column (will be retained in the column for the
+         shortest time) and will, therefore, have the shortest retention time (Rt).
+         It will emerge from the gas chromatograph first.
+      • If we consider a 2 component mixture in which component A is
+         more polar than component B then:
+      1. component A will have a longer retention time in a polar column than
+         component B
+      2. component A will have a shorter retention time in a non-polar column
+         than component B
+Step 3: Detecting and Recording Results
+      1. The components of the mixture reach the detector at different times due
+         to differences in the time they are retained in the column.
+      2. The component that is retained the shortest time in the column is
+         detected first. The component that is retained the longest time in the
+         column is detected last.
+      3. The detector sends a signal to the chart recorder which results in a peak
+         on the chart paper. The component that is detected first is recorded
+         first. The component that is detected last is recorded last.
+
+Applications
+      •   GC analysis is used to calculate the content of a chemical product, for
+          example in assuring the quality of products in the chemical industry; or
+          measuring toxic substances in soil, air or water.
+      •   Gas chromatography is used in the analysis of:
+(a) air-borne pollutants
+(b) performance-enhancing drugs in athlete’s urine samples
+(c) oil spills
+(d) essential oils in perfume preparation
+      •   GC is very accurate if used properly and can measure picomoles of a
+          substance in a 1 ml liquid sample, or parts-per-billion concentrations in
+          gaseous samples.
+      •   Gas Chromatography is used extensively in forensic science. Disciplines
+          as diverse as solid drug dose (pre-consumption form) identification and
+          quantification, arson investigation, paint chip analysis, and toxicology
+          cases, employ GC to identify and quantify various biological specimens
+          and crime-scene evidence.
+
+Advantages
+      •   The use of longer columns and higher velocity of carrier gas permits the
+          fast separation in a matter of a few minutes.
+      •   Higher working temperatures up to 5000C and the possibility of
+          converting any material into a volatile component make gas
+          chromatography one of the most versatile techniques.
+      •   GC is popular for environmental monitoring and industrial applications
+          because it is very reliable and can be run nearly continuously.
+      •   GC is typically used in applications where small, volatile molecules are
+          detected and with non-aqueous solutions.
+      •   GC is favored for non-polar molecules.
+
+Limitations
+      •   Compound to be analyzed should be stable under GC operation
+          conditions.
+      •   They should have a vapor pressure significantly greater than zero.
+      •   Typically, the compounds analyzed are less than 1,000 Da, because it is
+          difficult to vaporize larger compounds.
+      •   The samples are also required to be salt-free; they should not
+          contain ions.
+      •   Very minute amounts of a substance can be measured, but it is often
+          required that the sample must be measured in comparison to a sample
+          containing the pure, suspected substance known as a reference
+          standard.
+

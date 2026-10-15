@@ -1,0 +1,870 @@
+    REMOTE SENSING AND ITS APPLICATIONS IN INDIA
+                                      K.Ganesha Raj
+                                NNRMS/EOS, ISRO HQ,
+                           Antariksh Bhavan, New BEL Road,
+                                   Bangalore-560 094
+                  Email: ganeshraj@rediffmail.com & ganesh@isro.org
+
+1.0 Introduction
+
+Exploration of Earth’s natural resources is vital for the socio-economic development
+of any country. The state-of-the-art technology of space based earth observation
+systems offers timely and accurate information on various natural resources such as
+land, water, forests, mineral resources etc. Though the potentials of orbiting space
+platforms were realized at the time of launching of the very first satellite, the Russian
+"Sputnik" in 1957, the remote sensing application especially for earth resources
+came into its own from 1972 with the launch of "Earth Resources Technology
+Satellite" later renamed as Landsat by National Aeronautics and Space
+Administration (NASA) of United States of America (USA). The various application
+studies carried out in India and elsewhere in the world proves beyond doubt that
+remote sensing is a powerful tool for mapping/inventorying, monitoring and
+managing of natural resources due to the inherent advantages of synoptic viewing,
+repetitive imaging, capability to study inaccessible areas, relatively low cost and near
+real time availability of data. This paper explains in brief about remote sensing and
+its applications in India.
+
+2.0 Principles of Remote Sensing
+
+Remote sensing is mainly concerned with the measurement or acquisition of
+information about an object without being in physical contact with the object under
+study. The term remote sensing is used to methods, which use electromagnetic
+energy as the means for collection of information about the object. Depending on its
+physical features and properties, the earth surface reflects or reradiates or emits
+different kinds and amounts of electromagnetic energy in various wavelengths. The
+measurement of reflected or radiated or emitted electromagnetic radiation forms the
+basis for understanding the characteristics of Earth's surface features (Colwell, 1983
+and Sabins, 1997). In passive remote sensing system, the sensors operating in
+different selected spectral bands onboard the airborne/space borne platforms
+measure the naturally radiated or reflected energy from the earth’s surface features.
+An active remote sensing system supplies its own source of energy to illuminate the
+objects, and measures the reflected/ back-scattered energy returned to the system.
+
+Only selected portions of the electromagnetic spectrum those can pass through the
+Earth's atmosphere with relatively little attenuation are used for remote sensing
+purposes (Fig.1). Each object of the earth’s surface features reflects, radiates or
+emits different kinds and amounts of electromagnetic energy in different regions of
+the electromagnetic spectrum. These typical responses are used to distinguish the
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   1
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+objects from one another. Typical spectral response curves for selected features are
+given in Fig.2. These spectral reflectance curves represent the percent of incident
+light reflected by materials as a function of wavelengths.
+
+
+
+
+                             Figure-1: Electromagnetic Spectrum
+
+        80
+                                                           VEGETATION
+        70                                                 WATER (Shallow/Deep)
+                                                           SILTY CLAY SOIL
+                                                           MUCK SOIL
+   R    60
+   E
+    F
+    L   50
+   E
+   C
+    T   40
+   A
+   N    30
+   C
+   E
+   in   20
+   %
+        10
+
+   ( 0
+   %          0.4     0.6      0.8      1.0     1.2     1.4     1.6     1.8      2.0
+   )          2.2      2.4     2.6     WaveWa
+                                      Wavelength in m
+
+                      Figure-2: Typical Spectral Reflectance Curves
+
+
+
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   2
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+3. 0 Satellites and Sensors
+
+Earth Resources Technology Satellite (ERTS) later renamed as Landsat -1 was the
+first remote sensing satellite to be launched by NASA for surveying, mapping and
+monitoring of earth resources. Realizing the potentials of this emerging technology
+many other countries like France (satellite series named SPOT), India (satellite
+series named IRS) have entered into this venture. So far six satellites in the series
+of Landsat have been launched of which first three are of first generation satellites
+and carried Return Beam Vidicon (RBV) and Multispectral Scanner (MSS) imaging
+sensors and the second generation satellites carried apart from MSS advanced
+imaging sensor called Thematic Mapper (TM) with 30m spatial resolution and seven
+spectral bands (including Short Wave Infra Red and Thermal bands). The latest
+Landsat 7 has a sensor called Enhanced Thematic Mapper (ETM) with spatial
+resolution of 15m. Three satellites in the series of SPOT launched by France
+provided data in MSS and panchromatic spectral bands (20 and 10 m spatial
+resolution) with normal and/or stereoscopic mode. Indian Remote Sensing Satellite
+- IRS-1A and IRS-1B, the indigenously developed satellites have been put into orbit
+in 1988 and 1991 respectively and both of them provided good quality data
+continuously (with spatial resolution of 72 m & 36 m for- Linear Imaging Self
+Scanning Sensors: LISS -I and LISS –II respectively).
+
+European Remote Sensing satellites (ERS-1 & 2) of European Space Agency (ESA)
+and RADARSAT of Canada provides Radar data (which can collect data in all
+weather conditions and in day & night). These data are found to be useful in
+studying crops, snow, geology etc. The Radar Interferometry data generated using
+ERS-1&2 are found to be useful in earthquake studies.
+
+Unlike geostationary satellites, these remote sensing satellites are sun synchronous
+(same local equatorial crossing time of the descending node enabling the study of
+natural resources at various seasons under the same illumination condition), and
+polar orbiting type with a repetitivity cycle of 16 to 26 days enabling repeated
+collection of data of the same place at the same local time for continuous monitoring
+of the earth's resources. The imaging payloads of these satellites operate in
+different spectral bands (parts of electromagnetic spectrum), spatial resolution (the
+smallest area on the ground being sensed by the sensors), and radiometric
+resolution (number of grey/reflectance levels which is distinguishable).
+
+Remote sensing surveys carried out till date use data from remote sensing satellites
+such as Landsat, IRS & SPOT etc. Sometimes information is supplemented by aerial
+photos/airborne sensors. The resolutions offered by these satellites broadly fall in
+four categories - low, medium, high and very high. Low resolution (70-80 m pixel
+size) is offered by Landsat MSS and IRS LISS I sensors. Medium resolution (20-40
+m) is offered by Landsat - TM, IRS-LISS II, LISS III and SPOT HRV MLA sensors,
+high resolution (5-10m) is available from SPOT HRV PLA, IRS-1C/1D PAN and
+Resoucesat LISS-IV sensors. IKONOS & Quick Bird satellites offer very high
+resolution (4m&1m and 2.4m & 0.61m).
+
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   3
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+During the last 3-4 years tremendous progress has been achieved in acquiring data
+with very high spatial resolution, hyper spectral data, stereo data, increased revisit
+capability etc. This started with the launch of commercial satellite missions like
+IKONOS of Space Imaging Corporation of USA in 2000. IKONOS with 1m spatial
+resolution in panchromatic and 4m in multi spectral bands revolutionized the remote
+sensing applications. With the launch of Quick Bird in 2001, data with 61cm (in
+panchromatic and 2.4 m in multispectral mode) are made available. Orbview -3
+launched in 2003 also provides 1m & 4m data. All these satellites provide stereo
+images and high radiometric resolutions. Now it is possible to go up to mapping on
+1:2000/4000 scales. Height information/contours can also be derived using stereo
+pairs of these data and it is found that 2-4 m contour can be derived. Hyperspectral
+data from sensors like MODIS (Moderate Resolution Imaging Spectroradiometer) on
+Terra and Aura satellites and ASTER (Advanced Space borne Thermal Emission
+and Reflection Radiometer) on Terra satellites are found to be useful in studying
+various features.
+
+Airborne Laser Terrain Mapper (ALTM) the latest addition in the remote sensing
+technology using laser beams can provide resolution up to 15cm and is found to
+very useful for taking up detailed studies of canal alignment, contour extraction etc.
+
+3.1 Indian Remote Sensing Satellites (IRS)
+
+India's first operational indigenously developed Remote Sensing Satellite IRS-1A in
+the IRS series was successfully launched on March 17, 1988. IRS-1A was placed in
+the sun-synchronous orbit of 904 km with equatorial crossing time of the descending
+node being at 10.25 AM, which enables the study of natural resources at various
+seasons under the same illumination condition. The repetitivity cycle of IRS-1A was
+22 days.
+
+The major payloads of IRS-1A consisted of two types of imaging sensors, which
+operated in push broom scanning mode using Linear Imaging Self Scanning Sensor
+(LISS). In this mode of operation each line of the image is electronically scanned by
+a linear array of detectors called Charged Coupled Devices (CCD) consisting 2048
+elements. The first type of imaging sensor provided a spatial resolution of 72 meters
+and designated as LISS-I and the other type consisted of two separate imaging
+sensors providing spatial resolution of 36 meters and designated as LISS-IIA and
+LISS-IIB. LISS-I provided a swath of 148 km on ground while LISS-IIA and LISS-IIB
+provided a composite swath of 145 km on ground.
+
+The spectral bands selected for the IRS-1A are almost similar to that of first four
+bands of Landsat TM sensor. As follow-on to IRS-1A, the second operational
+Remote Sensing Satellite, IRS-1B in the IRS series was launched successfully on
+August 29, 1991. IRS-1B is functionally identical to that of IRS-1A and phased in
+such a way as to provide a combined repetitivity cycle of 11 days, as against 22
+days provided by each of them. The IRS-1A and IRS-1B data products are being
+used extensively in various application projects like geological mapping, ground
+
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   4
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+water prospect zone mapping, drought management, water resources management,
+land use/land cover mapping, etc.
+
+IRS- 1C/1D launched in 1995/1997 have sensors such as (i) LISS-III (with spatial
+resolution of 23 m and SWIR- Short Wave Infrared band) (ii) PAN (Panchromatic
+band with 5.8 m spatial resolution) and (iii) WiFS (Wide Field Sensor- with 188m
+spatial resolution). The data from these sensors are being extensively utilized for
+various application projects. IRS-P6 (RESOURCESAT) launched in October 2003
+has sensors like LISS-IV (5.8 m spatial resolution in multi-spectral mode) AWiFS
+(Advanced Wide Field Sensor - with spatial resolution of 56 m) and LISS-III (identical
+to one in IRS-1C/1D). The future satellite missions include Cartosat 1/2 with PAN
+sensor having spatial resolution 2.5m/1m, Radar satellite Risat etc.
+
+4.0 Image Interpretation and Analysis
+
+The satellite data products are available to the resource scientists either in the form
+of photographic products such as films, dispositive, paper prints of various scales or
+digital data stored in the form of floppies and CD-ROM or through Internet. The
+desired information can be extracted from these data products through visual
+interpretation and/or digital image processing techniques. In practice, both visual
+interpretation and digital image processing techniques are complimentary to each
+other. For large areas and spectrally homogeneous scenes digital image processing
+method may provide a quick and cost effective means of image analysis. On
+contrary for smaller areas and spectrally heterogeneous scenes visual interpretation
+method may be more suitable because of the need for basic image characteristics,
+visual perception etc.
+
+4.1 Visual Interpretation Techniques
+
+Visual interpretation of remote sensing images, for extracting desired information
+could be achieved in an efficient and effective way by using several basic
+interpretation keys or elements (Sabins, 1997). The basic interpretation keys are (i)
+tone (ii) texture (iii) pattern (iv) shape (v) size and (vi) location or association. All
+these interpretation elements are qualitative attributes and they are subjective
+depending on the experience and personal bias of an interpreter.                     The
+characteristics of each of the interpretation keys are given below:
+
+•   Tone/Colour refers to relative brightness of objects on the black and white
+    image or refers to the combination of hue, saturation and intensity in colour
+    images. The tone in the black and white images is expressed as different
+    shades or levels of grey. For example water, vegetation, soil etc. have distinct
+    tonal variations. Without tonal differences, the shape, pattern and texture could
+    not be discerned. Tonal variations depend upon the reflectance properties of
+    surface materials, terrain slope, illumination condition, etc.
+
+•   Texture is the frequency of change and arrangement of tones/colour on an
+    image. It is produced by a spatial arrangement/aggregation of features that may
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   5
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+    be too small to discern individually on the image. The visual impression of
+    roughness or smoothness created by some objects is a valuable clue in image
+    interpretation. The texture is normally referred as fine, medium or coarse and
+    also as stippled or mottled.
+
+•   Pattern on an image result from regular repetition of tonal variations and
+    textures. The repetition of certain general forms or relationships is characteristic
+    of many natural and man made objects. Arrangement of vegetation, topographic
+    features, drainage networks, different rock types are typical examples of pattern.
+    The most commonly used patterns are (i) the drainage networks, which have
+    orderly association with geologic structure and (ii) rock types and outcrop
+    patterns, which provide clues to geologic structures.
+
+•   Shape refers to the general form, configuration or outline of individual objects.
+    The shape of some object is so distinctive that their image may be identified
+    solely from this criterion. Stadiums, race course, golf course, tanks, geological
+    features such as folds, igneous intrusions, faults, deltas, volcanic cones, sand
+    dunes etc. are having specific shape that helps the interpreter for delineation.
+
+•   Size of an object is one of the most useful clues to its identity and should be
+    discussed in the context of the image scale. For example streams versus rivers
+    can be differentiated based on the size as the criterion in their identification.
+
+•   Location or association of objects in relation to other features gives important
+    clues on the identity of an object. A circular feature in an area of metamorphic
+    rocks is unlikely to be a salt plug, irrigated crop near a tank; sand beaches along
+    the coastline are the examples of association.
+
+Among the above elements tone and texture are the functions of brightness, contrast
+and resolution of the image while size, shape and pattern are dependent on the
+scale of an image.
+
+4.2 Digital Image Processing Techniques
+
+Remotely sensed data corresponds to the different earth features collected by the
+sensors and stored in cartridge/floppy/CD-ROM in the form of rasters or tiny equal
+areas or picture elements or pixels and are arranged in regular lines and columns.
+The pixels represent brightness value having a specific Digital Number (DN) value,
+which depends on the energy reflected by the earth surface in a specific wavelength
+or band or channel. Most of the sensors on-board the satellites operate in different
+discrete wavelengths. Therefore, each one of the earth features is sensed by the
+sensors simultaneously and provides a set of DN values. The DN value of each
+pixel is ranging from zero for black to some higher value for white, based on the
+radiometric resolution (eg: 6 bit data represents 0-63 grey level, 7 bit data represents
+0-127 grey levels and so on). The availability of remotely sensed data in digital
+form helps in carrying out digital image processing with the aid of computers. The
+digital image processing techniques provide flexibility in data handling due to the fact
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   6
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+that the digital data can be numerically manipulated by using an equation or set of
+equations to get the desired details in the graphic display monitor or pictorial form for
+further interpretation.
+
+There are a number of procedures/methods available for image data manipulation
+(Hord, 1982; Jensen, 1986; Lillesand and Kiefer, 1994; Schowengerdt, 1997; and
+Mather, 1999). However, they can be broadly grouped into three categories, viz., (i)
+Image rectification and restoration also called as pre-processing, (ii) Image
+enhancement, and (iii) Image classification.
+
+•   Image rectification and restoration/pre-processing operations are intended to
+    eliminate or correct the distortions or errors caused due to geometric distortions,
+    radiometric distortions, presence of noise in the data, etc. The standard products
+    made available to the interpreters are pre-processed. Therefore, generally data
+    can be directly used for image enhancement and classification.
+
+•   Image enhancement operations (Contrast stretching, Band Subtraction,
+    Brightness Index, Vegetation Index, Band Ratioing, Principal Component
+    Analysis, Decorrelation Stretching, Filtering, Intensity-Hue-Saturation (IHS),
+    resolution merging etc) are being applied to image data to get the enhanced
+    output for subsequent visual interpretations. The enhancement techniques
+    provide better feature exhibitance, i.e., increases the visual distinction between
+    features contained in a scene. The enhanced outputs can be seen in the display
+    monitor or can be recorded in the pictorial form as B&W and/or colour composite
+    images.
+
+•   Image classification operations are essentially meant to analyze the remotely
+    sensed data with quantitative assessment. The classification of the remotely
+    sensed data can be carried out either without a priori knowledge about the
+    features present in the scene (unsupervised classification) or with a priori
+    knowledge about the terrain features (supervised classification).
+
+5.0 Remote Sensing Applications
+
+Remote sensing data (satellite/aerial) are being used to map/monitor/survey/manage
+various natural resources. The technique is being used to study land use/cover, soil,
+geology, geomorphology, agriculture, forestry, water resources, urban areas,
+wastelands, coastal zone, glaciers, volcanoes, earthquakes, floods, drought, oceans
+etc. In India large number of remote sensing application projects have been carried
+out during the last 3 decades. A unique system called National Natural Resources
+Management System (NNRMS) has been set up to optimally manage country’s
+natural resources using Remote Sensing and conventional techniques. Brief on
+various major applications is given below.
+
+5.1 Agriculture
+
+Agriculture is the one area where remote sensing has been used successfully (i) to
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   7
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+estimate crop acreage, (ii) to assess the crop damage (iii) to estimate production
+etc., Pre-harvest Crop Acreage and Production Estimation (CAPE) of major crops
+(wheat, rice, rapeseed/mustard, cotton, groundnut, bajra and sugarcane crop) using
+remote sensing data is one of the major ongoing projects being carried out in
+collaboration with state and central agencies. Pre-harvest acreage and production
+estimation of major food grains, oilseeds and fiber crops are generated regularly and
+provided to Department of Agriculture in advance (2 months). The project is carried
+out in major crop growing areas in 15 states (AP, Assam, Bihar, Gujarat, Haryana,
+HP, Karnataka, Orissa, Maharashtra, MP, Punjab, Rajasthan, Tamil Nadu, UP & W.
+Bengal).
+
+A major project on Forecasting Agricultural output using Space, Agrometeorology
+and Land Observations (FASAL) has been taken up on pilot scale basis for selected
+states. The project envisages an integrated approach to CAPE on lines similar to
+MARS (Monitoring of Agricultural Statistics with Remote Sensing in the European
+Countries). FASAL addresses all important issues such as improved timeliness,
+better accuracy and extended coverage of crops, besides providing more than one
+assessment during a crop season and having a provision for alternate forecast
+methodology in case of non-availability of cloud free satellite data.
+
+Projects have been carried out to determine the actual area under mulberry and to
+conduct pilot studies on detection and estimation of area under ‘tasar’ and ‘muga’
+plants and to assess the suitability of districts in the selected states for taking up
+sericulture.
+
+GIS database on Indian Farmers Fertilizer Cooperative (IFFCO) infrastructure, road
+network, settlement, natural resource layers, weather and historical data have been
+created. A Decision Support System (GeoFARMS) for fertilizer movement - for entire
+country has been developed. Horticulture crops are also being studied using remote
+sensing and GIS.
+
+5.2 Water Resources
+
+One of the first applications of remote sensing in water resources area is for surface
+water inventory. Presently remote sensing data are being used for number of
+applications     viz     Irrigation   Water     Management,       Command         area
+surveys/monitoring/management, Dam/reservoir site assessment, Canal Alignment,
+Snow melt Runoff Forecasting, Snow/Glacier studies, Surface water bodies
+mapping/monitoring,       River/water   body    pollution   assessment,     Reservoir
+sedimentation/Siltation assessment & Capacity evaluation, Water Quality Mapping
+and Monitoring etc.
+
+5.2.1 Command area studies
+
+Command area development is an area where remote sensing can contribute
+significantly. To monitor the impact of Command Area Programme (CAD)
+implementation on major irrigation projects since 1985, Ministry of Water Resources
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   8
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+(MoWR) requested ISRO/DOS to carryout satellite based Inventory, monitoring and
+performance evaluation of Irrigation systems of 14 selected irrigation projects
+covered in 5 states in two phases. The irrigation project performance with respect to
+Rabi/Summer season crop productivity was evaluated using satellite data of three-
+time period scenario (e.g., 1986-87, 1990-91, 1998-99). Thirteen CAD projects
+namely, Upper Tapi, Purna, Jayakwadi, Krishna, Girna and Bhima in Maharastra,
+Chambal (Kota) in Rajasthan, DVC System, Mayurakshi and Kanshabati command
+in West Bengal, Sriram Sagar, Nagarjun Sagar in Andhra Pradesh, Jamuna in
+Assam have been studied.
+
+A major project to assess saline and / or alkaline affected areas; waterlogged areas
+using multi-temporal satellite data in 333 Commands of major & medium irrigation
+projects has been taken up recently at the behest of CWC in Rajasthan, Haryana,
+Bihar, Jharkand, Karnataka and Goa States.
+
+5.2.2 Irrigation Water Management
+
+Management of water supplies for irrigation in command areas requires information
+on total demand and its distribution. The current satellite remote sensing capabilities
+for irrigation water management include end-of-season evaluation of canal
+command areas at the disaggregated level and diagnostic analysis of problem
+distributaries to enable follow-up corrective management.
+
+Satellite remote sensing has been used for base line inventory of irrigated area,
+cropping pattern, crop condition and productivity assessment in irrigation systems,
+monitoring irrigation status through the season, optimum design of crop cutting
+experiments etc.
+
+Simultaneous monitoring of crop performance through the irrigation season is a
+critical element in effective water management in the irrigation projects. Monitoring
+of crop condition is essential to ensure that the irrigation requirements are
+adequately met by canal releases. The 5 days repetitive coverage of WiFS sensor
+provides the necessary surveillance capability across the command area through the
+season. The inventory capability is significantly enhanced with the higher spatial
+resolution offered by LISS III sensor and the additional SWIR band has improved
+crop condition assessment. WiFS sensor helps in concurrent monitoring during the
+irrigation season, generating near real-time information on the sowing progress and
+crop condition for appropriate irrigation water delivery. Data from the Advanced
+WiFS data with 56m spatial resolution from IRS P6 will further improve this activity.
+The stereo coverage from PAN sensor providing contour maps of 10 m interval or
+better, helping in preliminary analysis of canal alignment and land/infrastructure
+development. The 1m & 61cm resolution data from IKONOS/Quick Bird etc; could be
+used for delineating details of canal network and field level crop inventory.
+
+Many irrigation projects in India and elsewhere suffer from adverse impacts of
+excessive irrigation and poor drainage. Satellite remote sensing has helped in
+mapping areas affected by salinity/alkality and water logging. In many irrigation
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and   9
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+projects in India, the areal extent and severity of water logging and salinisation have
+been mapped. The severity of such soil limitation can be either directly detected
+through remote sensing or seen by the impact on crop productivity. A major project
+to map and monitor the saline/water-logged areas in the command areas of 800
+reservoirs has been launched by Regional Remote Sensing Service Centres
+(RRSSCs) recently at the behest of Central Water Commission (CWC).
+
+5.2.3 Reservoir Capacity Evaluation
+
+Storage capacity of the reservoir decreases due to periodical deposition of sediment
+discharge, which causes reduction in irrigation intensity in a command area.
+Information on sedimentation process is vital for taking up appropriate measures in
+controlling the sediment inflow and judicious management of the available storage in
+the reservoir. The reduction of storage capacity of a reservoir due to sedimentation
+is indicated by the reduction in contour area at a given elevation. Monitoring the
+changes in water spread, which is nothing but contour area at different operating
+levels of the reservoir will help to assess the quantum of sediment load that had
+settled down in the reservoir. Remote sensing satellites, which provide data on water
+spread at regular intervals of time, could be used successfully, for estimating the
+water spread and monitoring the seasonal changes in water spread. The reservoir
+sedimentation study in terms of storage loss estimation of some reservoirs namely;
+Bhadra, Malaprabha, Ghataprabha, Krishnarajasagara, Mahi Bajajsagar, Hirakud,
+Ukai-Kadana has been carried out using multi-date satellite data. Recently a major
+project has been launched to estimate the capacity loss due to sedimentation of 20
+reservoirs in the country.
+
+5.2.4 Snowmelt Runoff Forecasting
+
+Snowmelt runoff modeling in different Himalayan basins is being routinely carried out
+using satellite data. National Oceanic and Atmospheric Administration/Advanced
+Very High Resolution Radiometer (NOAA/AVHRR) have been used in 23 large river
+basins for real time mapping and monitoring of snow cover. Since 1994, seasonal
+snowmelt runoff forecast for the Sutlej river basin is being operationally provided to
+Bhakra Beas Management Board by 1st week of April every year based on analysis
+of daily observed NOAA satellite AVHRR data from February to June period and
+subsequent updating. True forecast is obtained with an error of maximum ±10% with
+respect to actual measured inflow.
+
+5.2.5 Snow and Glacier Investigations
+
+Snow and glacier investigation through satellite data has been carried out in the
+Himalayan region. Snow cover in parts of Himalayas has been monitored using high
+repetitivity WiFS data at regular 5-day interval. Retreat of eight glaciers of Basapa
+valley has been studied using PAN stereo data. Map showing crevasses of Siachen
+Glacier using PAN data at 1:15,000 scale is being prepared. 1m & 61cm spatial
+resolution data will be very useful in detailed study of snow and glaciers. Ministry of
+
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 10
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+Environment and Department of Space have proposed a major project for studying
+the snow & glaciers of the Himalayas.
+
+5.2.6 Water Quality Mapping and Monitoring
+
+Surveillance of water quality is an important activity for multiple uses such as
+irrigation, water supply, etc., and also for the protection of aquatic and shoreline
+environment. Water bodies are polluted through sedimentation, industrial effluents,
+municipal sewage, agricultural run off, eutrophication and oil pollution. Remote
+sensing of water quality can complement ground efforts in mapping and monitoring
+point and non-point pollution sources, the influx and dispersal of pollutants in the
+aquatic environment and consequent impact such as algal blooms and weed growth.
+Growth of aquatic weeds and algal blooms indicating the eutrophication status of
+water bodies can be mapped from satellite data. Aquatic weeds are responsible for
+deterioration of water quality and reduction of aquatic life. A number of tanks in India
+infested with aquatic weeds have been mapped using satellite data. High resolution
+data from IKONOS, Quick Bird and hyper spectral data from MODIS are found to be
+useful in assessing the water quality. Oil spill monitoring (in ocean), turbidity
+assessment etc have also been carried out successfully using remote sensing.
+
+5.3 Drought Assessment and Monitoring
+
+The periodic droughts are very common in India due to failure or irregular onset of
+monsoon as the Indian agriculture is mostly dependent on rainfall with an estimate of
+around 94 million ha rain fed area out of 142 million ha arable land. Therefore, the
+drought combating strategies like drought prone area programmes have been taken
+up and are showing encouraging results. In this context ISRO/DOS has developed a
+national/regional system for assessment and monitoring of agricultural drought using
+satellite data based vegetation index to provide timely information on drought
+severity. Towards this, National Agricultural Drought Assessment and Monitoring
+System (N-ADAMS) have been launched in 1987 to characterize the severity of
+drought in the country. Since then, N-ADAMS Bulletins on monthly and seasonal
+crop conditions depicting agricultural drought condition are issued at States/District
+levels, based on vegetation indices and ground based information for 14 states and
+sub district levels for 6 States during the kharif season.
+
+5.4 Flood Mapping and Damage Assessment
+
+Remote sensing provides comprehensive, reliable and timely information on flood
+inundated and drainage congested areas, extent of damage to crops, structures etc.,
+River configuration, silt deposits and vulnerable areas of bank erosion and flood risk
+zones could be studied using remote sensing data. However comprehensive flood
+monitoring would call for integration of ground measurements and remote sensing
+data and flood plain characteristics including topography. The flood risk zone maps
+are updated with high spatial resolution data and digital elevation models based on
+close contour information. Flood damage vulnerability analysis requires integration
+of the information on satellite derived physical damage and socio-economic data.
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 11
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+Since 1987, all major flood events of the country have been mapped in near real
+time and statistics on crop area affected and number of marooned villages
+generated. Near real time flood monitoring is being carried operationally in
+Brahmaputra (Assam), Kosi/ Ganga (Bihar), Indus (J & K), Godavari (AP) and
+Mahanadi (Orissa) river basins using optical and microwave data. Studies have
+been carried out for delineation of flood risk zone in Bramhaputra and Kosi river
+basin.
+
+However, presence of cloud cover during the flood-monitoring period is a limitation
+for optical remote sensing data. In this case, microwave data from ERS1/2 and
+Radarsat satellites are effectively supporting the study in the persistent cloud cover
+during the flood events. The WiFS sensor with 5 days repetitivity on board in IRS
+1C/D satellite, provide unique opportunity to map and monitor flood events
+frequently over large river basins. The detailed impact assessments in larger scale
+are being implemented through LISS III and PAN sensors. The availability of very
+high-resolution data (61cm/1m) is helping in studying the flood at cadastral level.
+The planned RISAT (Radar Imaging Satellite) of ISRO will provide the radar data in
+future.
+
+5.5 Forestry
+
+Forest cover mapping using satellite data is one of the first studies done in the early
+80’s by National Remote Sensing Agency (NRSA) Hyderabad. Subsequently Forest
+Survey of India (FSI) took up this activity and regularly prepares forest cover maps
+once in two years using satellite data on 1:250,000 scale (recently FSI has switched
+over to 1:50,000 scale) for monitoring the forest cover changes and planning
+conservation measures.
+
+Forest fire mapping/damage assessment, wildlife habitat evaluation, forest type
+mapping/management plan preparation, forest encroachment studies are also
+carried out at different parts of the country. A major project has been recently
+launched by the Ministry of Environment & Forests to map forest types of the country
+on 1:50,000 scale.
+
+5.6 Bio- diversity Mapping
+
+A major project ‘Biodiversity Characterisation at Landscape Level’ to prepare Bio-
+resource Data Base for four important bio-diversity rich areas viz., NE Region,
+Western Himalaya, Western Ghats and Andaman & Nicobar Islands of the country
+through remote sensing and GIS was taken up subsequent to Biodiversity
+Convention held during 1992 at Rio De Janeiro and has been completed. The
+project was carried out in two phases. The phase-I is aimed at bio-resource mapping
+and prioritisation of areas for bio-diversity conservation, while under the phase-II
+detailed assessment of bio-diversity and their distribution pattern in 10 important bio-
+diversity rich sites was carried out. Important medicinal plants, which have a
+significant role in the preparation of drugs to cure cancer, asthma and other life
+threatening diseases, have been mapped in the high altitude Himalayas. A
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 12
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+Biodiversity Information System (BIS), containing exhaustive database on species,
+has also been developed which is web enabled. Similar work has been taken up in
+Central India, Eastern Ghats and Mangroves of east coast.
+
+5.7 Environmental Impact Assessment
+
+Satellite remote sensing provides the synoptic overview to generate objective base
+line information for proposed projects and in evaluating impact in the case of existing
+projects. Analysis of time series of satellite data enables monitoring changes before,
+during and after implementation projects like dams, reservoirs etc. Inventory of land
+cover/land use in the reservoir submergence area, particularly the forest and
+agricultural cropped areas has been carried out using satellite data. Irrigability,
+mapping of command area, through integration of satellite derived and ground
+measured data, would help in appropriate allocation and application of water to
+minimize water logging and salinization. In India, satellite data is used potentially in
+environmental monitoring of Idukki hydel project, Kerala, Western Ghat areas
+including Nilgiri Biosphere Reserve, large-scale river valley projects of Narmada and
+the Tehri dam in Himalayas. The satellite remote sensing survey in these regions
+clearly brought the degradation of vegetation cover due to biotic interference as well
+as long spells of adverse climatic condition. High-resolution data is of tremendous
+help in assessing the impact before during and after the dam/reservoir/canal
+construction etc.
+
+Environmental Impact Assessment of Industries/Mining/Thermal Power Plants is
+also carried out in the country. Suitability of sites for setting up of chemical industries
+(like distilleries) was assessed in Karnataka, UP & Punjab. Studies have been
+carried out to assess the ecological feasibility of proposed mining activity and the
+impact of ongoing mining (Bailadila & Keonjhar Iron Ore Mines; Baphlimali, Surguja
+& Chintapalli Bauxite Mines). Thermal Power Plants like Farakka, WB;
+Ramagundam AP; Korba & Rhiand, MP were ecologically monitored. The
+change in forest cover due to mining in Sandur area, Karnataka has also been
+assessed.
+
+5.8 Wasteland Mapping
+
+13 categories of wastelands (degraded/under used/un cultivable land) like
+gullied or ravinous land, upland with or without scrub, waterlogged/marshy
+areas, degraded forests etc were mapped in the country in 5 Phases, during
+1986–2000, on 1:50,000 scale. Digital database of all the maps have been
+created. Total wastelands in the country are estimated to be 64 Mha, of which
+46 Mha is culturable and 18 Mha is un-culturable. Wasteland maps have been
+recently updated using satellite data of 2003.
+
+5.9 Ocean/Coastal Studies
+
+Under the programme known as Marine Satellite Information Services (MARSIS),
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 13
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+several activities for developing capabilities for retrieval of oceanic parameters and
+monitoring of coastal zone, and providing such data to down stream users have
+been undertaken. Potential Fishing Zone (PFZ) advisories based on integration of
+Sea Surface Temperature (SST) derived from NOVAA-AVHRR data and ocean
+colour from Ocean Colour Monitor (OCM) on IRS P4 were generated thrice in a
+week (Tuesday, Thursday and Saturday) for the entire Indian coast and is
+disseminated to the fishermen. Presently Indian National Centre for Ocean
+Information Services (INCOIS) is providing the PFZ forecast through Bulletin Boards,
+Fax, Telex etc. Plans are afoot to disseminate through digital audio broadcasting.
+
+Mapping of coastal zone features such as land use/land cover, wetland/land form,
+mangroves and shoreline changes on 1:250,000 and 1:50,000 scale covering the
+entire coast of India has been completed. Methodologies for retrieval of various
+ocean parameters such as surface winds, wave forecast model, internal waves and
+wave spectrum have been developed.
+
+Coral reef maps on 1:50,000 scale have been prepared for Gulf of Kachchh, Gulf of
+Mannar, Palk’s Bay, Lakshadweep and Andaman & Nicobar islands. Mapping of
+features between High Tide Line (HTL) and Low Tide Line (LTL) and land use
+features for a strip of 500 m from HTL, on 1:25,000 scale, under Coastal Regulation
+Zone (CRZ) was also carried out. Ministry of Environment & Forests has recently
+launched a project to study coastal areas, corals and mangroves.
+
+5.10   Watershed Planning and Management
+
+Judicious management and conservation of soil and water resources on watershed
+basis is a pre requisite for sustaining the productivity. Characterization and
+prioritisation of watersheds are essential steps towards the integrated management.
+Watershed characterization involves measurement of parameters of geological,
+hydrogeological, geomorphological, hydrological, soil, land cover /land use etc.
+Remote sensing via aerial and space borne sensors can be effectively used for
+watershed characterization and assessing the watershed priority, evaluating
+problems, potentials and management requirements and periodic monitoring.
+Remote sensing data greatly facilitates mapping of land use/cover, geology, soils
+and other features of watershed, which would assist in the study of land use pattern,
+water potential, degradation etc. This along with ground based information can be
+used for assessing the land capability classes, irrigation suitability classes, potential
+land uses, suitable water harvesting measures, monitoring the effects of watershed
+conservation/development measures, correlation of run off and sediment yields from
+different watersheds and monitoring land use changes and land degradation.
+
+Remote sensing based Integrated Mission for Sustainable Development (IMSD)
+project, based on integration of various themes and collateral information, carried
+out in about 84 million ha in 175 districts of the country has been successful in
+improving the ground water level, increasing the cropping intensity along with the net
+returns from the fields and finally conserving the land and water resources. Under
+National Watershed Development Programme for Rain fed Areas (NWDPRA) 20
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 14
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+watershed in Karnataka and 110 watersheds throughout the country were monitored
+to assess the impact of various developmental programmes, which had been
+undertaken in those watersheds.
+
+Remote sensing techniques are also providing significant information inputs towards
+calibration, validation and use of various hydrologic models like Soil Conservation
+Service (SCS) model for rainfall run-off prediction, Sediment Yield Index (SYI) and
+Universal Soil Loss Equation for prioritization of watersheds, etc.
+
+5.11 Desertification Monitoring
+
+The studies have taken up jointly with Ministry of Agriculture for monitoring desert in
+the Thar desert. Using satellite data, desertification indicators such as sand dune
+movement, change in green bio-mass, soil erosion, wind erosion, water logging,
+salinity & alkality, frequency of dust storms and precipitation pattern are monitored to
+assess the impact of control measures being undertaken in Thar desert. An
+integrated approach, involving the assessment of each of these indicators and their
+impact on natural resources has been taken up for understanding the process of the
+desertification in the region.
+
+A Convention on Combating Desertification (UNCCD) was organized by the United
+Nations in 1994. One of the important initiatives taken during the convention was to
+develop a framework for the formulation of Regional Action Plan (RAP) and
+substantiating plans of action by means of establishing Thematic Programme
+Networks (TPNs). Six thematic programme areas have been identified under RAP.
+The first one, Thematic Programme Network (TPN -1) is on Desertification
+Monitoring and Assessment. Asian countries participating in TPN -1 include China,
+India, Iran, Japan, Jordan, Kazakhstan, Kyrgystan, Kuwait, Lebanon, Mongolia,
+Oman, Pakistan, Philippines, Syria, Tajikistan, Turkmenistan, Uzbekistan and
+Yemen. China has been identified as the host country to coordinate TPN -1
+activities. In India, Space Applications Centre has been identified as the national
+focal institution to coordinate TPN-1 activities within the country and establish the
+national network for desertification monitoring and assessment. Ministry of
+Environment and Forests, Govt. of India coordinates UNCCD activities in the
+country.
+
+Towards generating information for TPN-1 a project titled ‘Desertification Monitoring
+and Assessment using Satellite Remote Sensing and GIS: A Pilot Study’ has been
+taken up by SAC at the behest of MOEF to evolve and standardize methodology.
+
+Under the pilot study, mapping is being carried out on 1:50,000 scale adopting a
+three level hierarchical system of classification based on (i) Land use/Land Cover (ii)
+Processes of Degradation and (iii) Severity of Degradation. The UNCCD definition of
+desertification (as given in article 1) – “ land degradation in arid, semi arid and dry-
+sub humid areas resulting from factors including climatic variations and human
+activities” has been followed in the pilot study and accordingly areas/sites in arid,
+semi arid and dry-sub humid regions of the country viz Pali & Dausa Districts of
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 15
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+Rajasthan; Ratlam Dist. MP; Bellary District, Karnataka; Balia Dist. UP; Panchkula
+Dist. Haryana; Mehboob Nagar Dist. (one watershed) AP; Theni Watershed, TN;
+Kathua, Padam, Hanle, Leh, Panamic, Diskit (in J&K); Chamba, Keylong and Lahul
+Spiti (in HP) watersheds have been covered under the study.
+
+Several organizations/departments/universities like Central Arid Zone Research
+Institute (CAZRI), National Bureau of Soil Survey and Land use Planning
+(NBSS&LUP), All India Soil & Land Use Survey (AIS&LUS), National Thematic
+Mapping Organization (NATMO), Institute of Remote Sensing, Anna University,
+Remote Sensing Application Centres of MP/Haryana/J&K, Universities of
+Rajasthan/Jammu/JNU and ISRO/DOS centers are involved in the work with SAC as
+the lead centre.
+
+5.12   Geology and Mineral Resources
+
+One of the first to use remote sensing are geologists. The remote sensing data was
+used to study structural geological features like faults/folds/fractures etc,
+geomorphology, lithology and in turn used in mineral/oil exploration, ground water
+exploration & development, engineering geology, environmental geology
+neotectonics, seismotectonics etc., Under Project Vasundhara major part of South
+India was studied and detailed data base was created. Geological Information
+System for the states of Maharashtra & Chhattisgarh has been developed. Landslide
+hazard zonation maps on 1:25,000 scale for the pilgrim/tourist routes of Uttaranchal
+and Himachal Pradesh have been prepared.
+
+Seismotectonic studies of Gujarat, Maharashtra, Karnataka, Tamil Nadu and other
+places also have been carried out. Eruptions of Barren Island Volcano in 1991 & 95
+have been monitored. Atomic minerals, diamond and oil prospective areas have
+been identified using remote sensing. A number of several other remote sensing
+base studies have also been carried out in the country for geological applications.
+
+In Jharia Coal Field underground coal fire prone/risk zones were delineated using
+airborne and satellite thermal data. Thermal anomalies as deep as 70 metres were
+detected and suggested suitable remedial measures
+
+5.13 Ground Water Prospect Zone Mapping
+
+Remote sensing data helps in delineating the potential ground water occurrence
+zone with less time and cost effective manner than the conventional methods. The
+thematic layers on geology, geomorphology, drainage, soil and land use generated
+from satellite data, are essential in identifying the ground water prospect zones.
+Remote      sensing    technology     has     been    used   for   preparation   of
+hydrogeomorphological maps of the entire country on 1:250,000 scale using satellite
+images under the National Drinking Water Mission, launched by Government of
+India in 1986 as an effort to provide sources of safe drinking water to 1.6 lakh
+problematic villages. Under this mission, broad groundwater prospective zones have
+
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 16
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+been delineated for further follow-up through hydro geological and geophysical
+methods to provide potable drinking water to the problematic villages.
+
+Subsequently, under Rajiv Gandhi National Drinking Water Mission (RGNDWM),
+launched in 1999, preparation of ground water prospects map is being carried out on
+1:50,000 scale using high resolution satellite data (IRS LISS-III data). Andhra
+Pradesh, Karnataka, Kerala, Madhya Pradesh, Chattishgarh and Rajasthan states
+are covered in phase -I and Jharkhand, Himachal Pradesh, Orissa and Gujarat
+states are being covered under phase-II. The main objective of this project is to
+enable scientific source finding of drinking water for all the non-covered (NC) and
+partially covered (PC) habitations (around 2 lakh) and to identify suitable recharge
+structures. Around 2000 maps have been prepared so far and have been submitted
+to Department of Drinking Water Supply of Ministry of Rural Development and the
+State Ground Water and other related departments.
+
+So far (till June 2004) around 65,000 wells have been drilled with about 90%
+success in Andhra Pradesh, Karnataka, Kerala, Madhya Pradesh, Chattishgarh and
+Rajasthan states. Around 3500 recharge structures also have been built in these
+states.
+
+5.14 Urban
+
+Using remote sensing data, detailed developmental plans for selected cities like
+Mumbai, Bangalore, Delhi, Hyderabad, Ahmedabad in the country have been carried
+out. City guide maps on 1:10,000 scale have also been prepared. Base map
+updation, urban land use change and growth monitoring, master plan development,
+facilities management, taxation applications, urban information systems are the
+other major studies being planned. Under National Urban Information System
+(NUIS) 136 towns of the country will be studied. New capitals areas for Chattishgarh
+and Jharkhand were identified using remote sensing.
+
+5.15 Infrastructure
+
+Remote sensing data along with GIS & GPS have been extensively used to find out
+suitable corridors/alignment of roads, railways, pipelines, canals, tunnels etc. One of
+the first such studies is the alignment of ring road for Bangalore City carried out in
+1990’s. The Mysore – Bangalore infrastructure corridor, gas pipeline between
+Mangalore – Bangalore, gas pipeline grid of Gujarat, Oil pipelines in Maharashtra,
+Gujarat and West Bengal etc; are some of the projects where in Remote Sensing
+inputs were used. Selection of suitable sites for bridges (both road/railway) in UP
+and Bihar, assessment of suitability for airports, harbours and major industries are
+the other projects carried out. With the availability of very high resolution data from
+Quick Bird, IKONOS and other satellites it is possible to go up to 1:4000/2000 scale
+which will help in a big way for all the infrastructure projects.
+
+
+
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 17
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+5.16   National (Natural) Resources Information System (NRIS)
+
+NRIS forms the core information system for the NNRMS and is oriented to aid
+decision-makers at national, regional, state and district levels. The NRIS is a set of
+spatial, GIS-based database of thematic and non-spatial data organised into
+interlinked/networked hierarchy so as to cater to free flow of resources information.
+Implemented for 30 Districts and 4 State nodes. Contains 22 spatial & 8 non-spatial
+layers of information – pertaining to natural resources as well as socio-economics –
+with necessary analysis modules. NRIS for Orissa state is ready, for UP, Punjab,
+Maharashtra, Gujarat, Karnataka, MP, Haryana, Mizoram work is in progress. For
+Delhi, Chandigarh, A&N Islands work is in progress also progressing well for the
+other 22 districts. Specific user oriented query shells has been developed.
+
+References
+ColwelL, R.N. Ed. (1983) Manual of Remote Sensing v. 2, American Society of Photogrammetry, The
+        Sheridan Press, Virginia. 2417p.
+Hord, R.M. (1982) Digital Image Processing of Remotely Sensed Data. Academic Press, New York,
+        253p.
+Jensen, J.R. (1996) Introductory Digital Image Processing: A Remote Sensing perspective. Prentice
+        Hall Inc., New Jersey, 319p.
+Lillesand, T.M. and Kieffer, R.W. (1994) Remote Sensing and Image Interpretation. 3rd Edn. John
+        Wiley & Sons, New York, 750 p.
+Mather Paul, M. (1999) Computer processing of remotely sensed images: An Introduction. John Wiley
+        & Sons, Chichester, 284p.
+Sabins, F.F. (1997) Remote Sensing: Principles and Interpretation, 3rd Edn. WH Freeman and
+        Company, New York, 494p.
+Schowengerdt, R.A. (1997) Remote Sensing: Models and Methods of Image Processing. 2nd Edn.
+        Academy Press, New York, 522p.
+
+
+
+
+Induction Level Training Course for 2004-05 on “ Hydrogeological Investigation, Development and 18
+Management of Groundwater Resources” on 16th December 2004, Bangalore.
+

@@ -1,0 +1,367 @@
+Enzyme Linked Immunosorbent Assay
+
+Authors
+Mandy Alhajj1; Muhammad Zubair2; Aisha Farhana3.
+
+
+Affiliations
+1
+  LMU-DCOM
+2
+  Indus Hospital & Health Network
+3
+  College of Applied Medical Sciences, Jouf University
+
+Last Update: April 23, 2023.
+
+Introduction
+Enzyme immunoassays (EIAs) use the catalytic properties of enzymes to detect and quantify
+immunologic reactions. Enzyme-linked immunosorbent assay (ELISA) is a heterogeneous EIA
+technique used in clinical analyses.[1] In this type of assay, one of the reaction components is
+nonspecifically adsorbed or covalently bound to the surface of a solid phase, such as a
+microtiter well, a magnetic particle, or a plastic bead. This attachment facilitates the separation
+of bound and free-labeled reactants.[2]
+In the most common approach to using the ELISA technique, an aliquot of sample or calibrator
+containing the antigen (Ag) to be quantified is added to and allowed to bind with a solid-phase
+antibody (Ab). After washing, an enzyme-labeled antibody is added and forms a
+“sandwich complex” of solid-phase Ab-Ag-Ab enzyme. Unbound antibody is then washed
+away, and enzyme substrate is added. The amount of product generated is proportional to the
+quantity of antigen in the sample.[1]
+Specific antibodies in a sample can also be quantified using an ELISA procedure in which
+antigen instead of antibody is bound to a solid phase. The second reagent is an enzyme-labeled
+antibody specific to the analyte antibody.[3] In addition, ELISA assays have been used
+extensively to detect antibodies to viruses and autoantigens in serum or whole blood. In
+addition, enzyme conjugates coupled with substrates that produce visible products have been
+used to develop ELISA-type assays with results that can be interpreted visually. Such assays
+are very useful in screening, point-of-care, and home testing applications.[4]
+
+Etiology and Epidemiology
+Two different research teams simultaneously invented the direct ELISA; scientists Engvall and
+Perlman, and scientists Van Weemen and Schuurs. The ELISA was developed by the
+modification of the radioimmunoassay (RIA). This was done by conjugating tagged antigens
+and antibodies with enzymes rather than radioactive iodine 125. The new method was first
+employed in determining the levels of IgG in rabbit serum. Within the same year, scientists
+quantified human chorionic gonadotropin in urine using horseradish peroxidase. Since then,
+the ELISA method has been used in many different applications and has become a routine
+laboratory research and diagnostic method worldwide.[1]
+The first ELISA methodology involved chromogenic reporter molecules and substrates in
+generating observable color change that monitors the presence of antigen. Further advancement
+in the ELISA technique led to the development of fluorogenic, quantitative PCR, and
+electrochemiluminescent reporters to generate signals.[5] However, some of these techniques
+do not rely on using enzyme-linked substrates but non-enzymatic reporters that utilize the
+principle of ELISA.[6]
+The latest development, in 2012, was an ultrasensitive enzyme-based ELISA that manipulates
+nanoparticles as chromogenic reporters. This technique can generate a color signal visible to
+the naked eye, with a blue color indicating positive results and red color indicating negative
+results. However, this method is qualitative and can determine only the presence or absence of
+an analyte and not its concentration.[7]
+
+Specimen Requirements and Procedure
+ELISAs are performed in polystyrene plates, typically 96-well plates coated to bind protein
+strongly.[2] Depending on the ELISA type, testing requires a primary and/or secondary
+detection antibody, analyte/antigen, coating antibody/antigen, buffer, wash, and
+substrate/chromogen.[3] The primary detection antibody is a specific antibody that only binds
+to the protein of interest. In contrast, a secondary detection antibody is a second enzyme-
+conjugated antibody that binds to a primary antibody that is not enzyme-conjugated.[4]
+There are four main general steps to completing an ELISA immunoassay. These steps are:
+   1. Coating (with either antigen or antibody)
+   2. Blocking (typically with the addition of bovine serum albumin [BSA])
+   3. Detection
+   4. Final read
+Detection is carried out by adding a substrate that can generate a color. There are many
+substrates available for use in ELISA detection. However, the substrates most commonly used
+are horseradish peroxidase (HRP) and alkaline phosphatase (AP).[3] The substrate for HRP is
+hydrogen peroxide, resulting in a blue color change. AP measures the yellow color of
+nitrophenol after room temperature incubation periods of 15 to 30 minutes and usually uses p-
+Nitrophenyl-phosphate (pNPP) as its substrate.[2]
+Between each of the above four steps is a “wash” of the plate using a buffer, such as phosphate-
+buffered saline (PBS) and a non-ionic detergent, to remove unbound material. The wells are
+washed two or more times during each wash step, depending on the specific protocol.[4]
+In a usual ELISA protocol, a serial dilution of concentrations is placed in the wells of the
+plate. After the results are measured, a standard curve from the serial dilutions data is plotted
+with a concentration on the x-axis using a log scale and absorbance on the y-axis using a linear
+scale.[8]
+There are four major types of ELISA:
+   •   Direct ELISA (antigen-coated plate; screening antibody)
+   •   Indirect ELISA (antigen-coated plate; screening antigen/antibody)
+   •   Sandwich ELISA (antibody-coated plate; screening antigen)
+   •   Competitive ELISA (screening antibody)
+Direct ELISA
+Both direct and indirect ELISAs begin with the coating of antigens to the ELISA plates.[9] The
+first binding step involves adding antigens to the plates, which are incubated for one hour at
+37^oC or can be incubated at 4^oC overnight. Once the incubation step is completed, the next
+step is to wash the plates of any potential unbound antibodies and block any unbound sites on
+the ELISA plate using agents like BSA, ovalbumin, aprotinin, or other animal proteins.[2] This
+second step is crucial because it prevents the binding of any non-specific antibodies to the plate
+and minimizes false-positive results. After adding the buffer, the plate is rewashed, and a
+selected enzyme-conjugated primary detection antibody is added. The plate is further
+incubated for one hour.[10]
+In a direct ELISA, the primary detection antibody binds directly to the protein of
+interest.[11] Next, the plate is rewashed to remove any unbound antibodies. A
+substrate/chromophore, such as alkaline phosphatase (AP) or horseradish peroxidase (HRP), is
+added to the plate, which results in a color change. The color change of the sample occurs by
+either the hydrolysis of phosphate groups from the substrate by AP or by the oxidation of
+substrates by HRP.[10] The advantages of using direct ELISA include eliminating secondary
+antibody cross-reactivity, and due to fewer steps, it is rapid compared to indirect ELISA. Its
+disadvantages include its low sensitivity compared to the other types of ELISA and its high
+cost of reaction.[3]
+Indirect ELISA
+The steps of the indirect ELISA are identical to the direct ELISA, except for an additional wash
+step and the types of antibodies added after the buffer is removed.[12] Indirect ELISA requires
+two antibodies, a primary detection antibody that sticks to the protein of interest and
+a secondary enzyme-linked antibody complementary to the primary antibody.[8] The primary
+antibody is added first, followed by a wash step, and then the enzyme-conjugated secondary
+antibody is added and incubated. After this, the steps are the same as the direct ELISA, which
+includes a wash step, the addition of substrate, and the detection of a color change.[13]
+The indirect ELISA has a higher sensitivity when compared to the direct ELISA.[13] It is also
+less expensive and more flexible due to the many possible primary antibodies that can be used.
+The only major disadvantage of this type of ELISA is the risk of cross-reactivity between the
+secondary detection antibodies.[3]
+Sandwich ELISA
+Unlike direct and indirect ELISA, the sandwich ELISA begins with a capture antibody coated
+onto the wells of the plate.[8] It is termed a “sandwich” because the antigens are sandwiched
+between two layers of antibodies (capture and detection antibodies).[2] After adding the
+capture antibody to the plates, the plates are then covered and incubated overnight at 4^oC.
+Once the coating step is complete, the plates are washed with PBS, then buffered/blocked with
+BSA. The buffer washes are carried out at room temperature for at least 1 to 2 hours. Finally,
+the plate is washed with PBS once again before the antigen is added.[14]
+The antigen of interest is added to the plates to bind to the capture antibody and incubated for
+90 minutes at 37^oC. The plate is rewashed, and the primary detection antibody is added to the
+plate and incubated for another 1 to 2 hours at room temperature, followed by a buffer wash.
+Then the secondary enzyme-conjugated antibody is added and incubated for another 1 to 2
+hours. The plate is rewashed, and the substrate is added to produce a color change.[2] The
+sandwich ELISA has the highest sensitivity among all the ELISA types.[14] The major
+disadvantages of this type of ELISA are the time and expense and the necessary use of
+“matched pair” (divalent/multivalent antigen) and secondary antibodies.[3]
+Competitive ELISA
+The competitive ELISA tests for the presence of an antibody specific for antigens in the test
+serum.[15] This type of ELISA utilizes two specific antibodies, an enzyme-conjugated
+antibody and another antibody present in the test serum (if the serum is positive). Combining
+the two antibodies into the wells will allow for competition for binding to antigens. The
+presence of a color change means that the test is negative because the enzyme-conjugated
+antibody bound the antigens (not the antibodies of the test serum). The absence of color
+indicates a positive test and the presence of antibodies in the test serum.[3] The competitive
+ELISA has a low specificity and cannot be used in dilute samples. However, the benefits are
+that there is less sample purification needed, it can measure a large range of antigens in a given
+sample, it can be used for small antigens, and it has low variability.[10]
+
+Diagnostic Tests
+Enzyme-linked immunosorbent assays are applied in many diagnostic tests.[1][3] Some of the
+uses of ELISA can include the following:
+Detect and Measure the Presence of Antibodies in the Blood
+   •   Autoantibodies (anti-dsDNA, anti-dsg1, ANA, etc.)
+   •   Antibodies against infectious disease (antibacterial, antiviral, antifungal)
+   •   Hepatitis A, B, C, HIV, etc.
+Detect and Estimate the Levels of Tumor Markers
+   •   Prostate-specific antigen (PSA)
+   •   Carcinoembryonic Antigen (CEA)
+Detect and Estimate Hormone Levels
+   •   Luteinizing hormone
+   •   Follicular stimulating hormone
+   •   Prolactin
+   •   Testosterone
+   •   Human chorionic gonadotropin (hCG)
+Tracking Disease Outbreaks
+   •   Cholera
+   •   HIV
+   •   Influenza
+Detecting Past Exposures
+   •   HIV
+   •   Lyme disease
+   •   Hepatitis
+Screening Donated Blood for Possible Viral Contaminants
+   •   Anti-HIV-1/2
+   •   Anti-HCV
+   •   HBsAg
+Detecting Drug Abuse
+   •   Amphetamine
+   •   Methamphetamine
+   •   3,4-methylenedioxymethamphetamine
+   •   Cocaine
+   •   Benzoylecgonine
+
+Interfering Factors
+Factors that can interfere with appropriate ELISA testing can occur at any phase of the testing
+process, beginning with specimen collection. The quality and integrity of the assay plate,
+coating buffer, capture antibody, blocking buffer, target antigen, detection antibody, enzyme
+conjugate, washes, substrate, and signal detection can all interfere with proper ELISA
+testing.[1] Some of the factors that can interfere with testing are the following:
+   •   Plate Assay: the shape and quality of the wells, the material of the plate, potential pre-
+       activation, and even or uneven coating.[2]
+   •   Buffer: pH, contamination.[13]
+   •   Capture and detection antibody: incubation time, temperature, specificity, titer,
+       affinity.[10]
+   •   Blocking buffer: cross-reactivity, concentration, contamination.[14]
+   •   Target antigen: conformation, stability, epitopes.[3]
+   •   Enzyme conjugate: type, concentration, function, cross-reactivity.[16]
+   •   Washes: contamination, frequency, volume, duration, composition.[1]
+   •   Substrate: quality/manufacturer.[2]
+   •   Detection: instrument-dependent factors.[16]
+   •   Reader/human error.[3]
+
+Results, Reporting, and Critical Findings
+Data gathered from ELISA tests can be quantitative, qualitative, or semiquantitative.[1] The
+quantitative concentration results are plotted and compared to a standard curve. The qualitative
+results confirm or deny the presence of a particular antigen/antibody in a sample.[2] The
+semiquantitative results compare the intensity of the signals, which can reach relative antigen
+levels in a sample.[16]
+Once color changes are measured from the assay, the results are graphed either on paper or in
+software.[1] Typically, the graph compares optical density to log concentration, which gives a
+sigmoidal curve. Known concentrations give the graph's standard curve, and measurement of
+unknowns can then occur when sample values are compared to the linear portion of the graphed
+standard curve.[15]
+
+Clinical Significance
+ELISAs can be used in many settings, including rapid antibody screening tests for Human
+immunodeficiency virus (HIV), detection of other viruses, bacteria, fungi, autoimmune
+diseases, food allergens, blood typing, presence of the pregnancy hormone hCG, laboratory
+and clinical research, forensic toxicology, and many other diagnostic settings.[17][18]
+In HIV testing, a blood or saliva specimen is collected for testing, typically using indirect
+ELISA-based tests.[4] The ELISA is a screening tool for HIV detection, but not diagnostic.
+Diagnosis requires further testing by Western blot due to potential false
+positives. Another virus, Molluscum contagiosum virus (MCV), which commonly infects the
+skin of children and young adults, can be detected by ELISA testing.[19] ELISA testing in this
+setting is currently being evaluated to assess global MCV seroprevalence.[20]
+ELISA has also been used to detect desmogleins 1 and 3 and bullous pemphigoid antigen 180
+autoantibodies implicated in pemphigus and bullous pemphigoid autoimmune blistering
+diseases, respectively.[21] In food allergy, the evolution of the ELISA has played an important
+role in allergy research and diagnosis. Ultrasensitive ELISA variations have been developed to
+detect quantities of allergens on the scale of picograms. This is important because of the life-
+threatening role that food allergies can have on a public health scale.[22]
+
+Quality Control and Lab Safety
+As with quantitative procedures, it is important to verify that the results of qualitative and semi-
+quantitative examinations are correct before reporting them to the requesting healthcare
+provider.[23] The laboratory must establish a quality control program for all of its qualitative
+and semi-quantitative tests.[24] When establishing this program, set policies, train staff, assign
+responsibilities, and ensure all necessary resources are available. Ensure that the recording of
+all quality control data is complete and that the quality manager and the laboratory director
+conduct an appropriate review of the information.[25]
+Positive and negative controls are recommended for many qualitative and semi-quantitative
+tests, including some procedures that use special stains or reagents and tests with endpoints
+such as agglutination or color change.[26] These controls should generally be used with each
+test run.[27] The use of controls will also help validate a new lot number of test kits or reagents,
+check on temperatures of storage and testing areas, and evaluate the process when new testing
+personnel is carrying out the testing.[28]
+Keep the following in mind when using traditional controls for qualitative or semi-quantitative
+tests: test control materials in the same manner as testing patient samples; use a positive and
+negative control, preferably once each day of testing, or at least as often as recommended by
+the manufacturer; choose positive controls that are close to the cut-off value of the test, to be
+sure the test can detect weak positive reactions; for agglutination procedures, include a weak
+positive control as well as a negative control and stronger positive control.[24]
+Basic safety rules for laboratory conduct should be observed whenever working in a
+laboratory.[29] Consider all specimens, control materials, and calibrator materials as
+potentially infectious. Exercise the usual precautions required for handling all laboratory
+reagents.[30] Disposal of all waste material should be in accordance with local guidelines.
+Wear gloves, a lab coat, and safety glasses when handling human blood specimens. Place all
+plastic tips, sample cups, and gloves that come into contact with blood in a biohazard waste
+container. Discard all disposable glassware into sharps waste containers.[31]
+Protect all work surfaces with disposable absorbent bench top paper, discarded into biohazard
+waste containers weekly or whenever blood contamination occurs. Wipe all work surfaces
+weekly. All equipment should be regularly inspected for wear or deterioration. Equipment
+should be maintained according to the manufacturer’s requirements, and records of
+certification, maintenance, or repairs should be maintained for the life of the
+equipment.[32] Computers and instrumentation should be labeled to indicate whether gloves
+should be worn. Inconsistent glove use around keyboards/keypads is a source of potential
+contamination. Avoid wearing jewelry in the lab, as this can pose multiple safety hazards.
+Safety rules for laboratory-specific operations will be provided in appropriate laboratory
+SOPs.[33]
+
+Enhancing Healthcare Team Outcomes
+ELISA testing is an important part of medical care and scientific research. Collaboration
+between scientists, laboratory technicians, phlebotomists, clinicians, nurses, and other medical
+professionals is necessary for appropriate specimen collection, testing, interpretation,
+diagnosis, and effective patient education and treatment planning. ELISA technologies
+continue to grow and play a major role in clinical research allowing for the development of
+more diagnostic and screening tests. The continued evolution of ELISA testing is promising
+for the future of medicine and has improved early diagnosis of HIV and pregnancy detection.
+
+References
+1. Aydin S. A short history, principles, and types of ELISA, and our laboratory experience
+   with peptide/protein analyses using ELISA. Peptides. 2015 Oct;72:4-15. [PubMed:
+   25908411]
+2. Engvall E. The ELISA, enzyme-linked immunosorbent assay. Clin Chem. 2010
+   Feb;56(2):319-20. [PubMed: 19850633]
+3. Shah K, Maghsoudlou P. Enzyme-linked immunosorbent assay (ELISA): the basics. Br J
+   Hosp Med (Lond). 2016 Jul;77(7):C98-101. [PubMed: 27388394]
+4. Konstantinou GN. Enzyme-Linked Immunosorbent Assay (ELISA). Methods Mol
+   Biol. 2017;1592:79-94. [PubMed: 28315213]
+5. Leng SX, McElhaney JE, Walston JD, Xie D, Fedarko NS, Kuchel GA. ELISA and
+   multiplex technologies for cytokine measurement in inflammation and aging research. J
+   Gerontol A Biol Sci Med Sci. 2008 Aug;63(8):879-84. [PMC free article: PMC2562869]
+   [PubMed: 18772478]
+6. Gelkop S, Sobarzo A, Brangel P, Vincke C, Romão E, Fedida-Metula S, Strom N, Ataliba
+   I, Mwiine FN, Ochwo S, Velazquez-Salinas L, McKendry RA, Muyldermans S, Lutwama
+   JJ, Rieder E, Yavelsky V, Lobel L. The Development and Validation of a Novel
+   Nanobody-Based Competitive ELISA for the Detection of Foot and Mouth Disease 3ABC
+   Antibodies in Cattle. Front Vet Sci. 2018;5:250. [PMC free article: PMC6194346]
+   [PubMed: 30370272]
+7. de la Rica R, Stevens MM. Plasmonic ELISA for the ultrasensitive detection of disease
+   biomarkers with the naked eye. Nat Nanotechnol. 2012 Dec;7(12):821-4. [PubMed:
+   23103935]
+8. Tabatabaei MS, Ahmed M. Enzyme-Linked Immunosorbent Assay (ELISA). Methods
+    Mol Biol. 2022;2508:115-134. [PubMed: 35737237]
+9. Lin AV. Direct ELISA. Methods Mol Biol. 2015;1318:61-7. [PubMed: 26160564]
+10. Kohl TO, Ascoli CA. Direct Competitive Enzyme-Linked Immunosorbent Assay
+    (ELISA). Cold Spring Harb Protoc. 2017 Jul 05;2017(7):pdb.prot093740. [PubMed:
+    28679705]
+11. Hornbeck P. Enzyme-linked immunosorbent assays. Curr Protoc Immunol. 2001
+    May;Chapter 2:Unit 2.1. [PubMed: 18432761]
+12. Lin AV. Indirect ELISA. Methods Mol Biol. 2015;1318:51-9. [PubMed: 26160563]
+13. Kohl TO, Ascoli CA. Indirect Immunometric ELISA. Cold Spring Harb Protoc. 2017 May
+    01;2017(5) [PubMed: 28461658]
+14. Kohl TO, Ascoli CA. Immunometric Double-Antibody Sandwich Enzyme-Linked
+    Immunosorbent           Assay. Cold        Spring      Harb        Protoc. 2017        Jun
+    01;2017(6):pdb.prot093724. [PubMed: 28572188]
+15. Lequin RM. Enzyme immunoassay (EIA)/enzyme-linked immunosorbent assay
+    (ELISA). Clin Chem. 2005 Dec;51(12):2415-8. [PubMed: 16179424]
+16. Tighe PJ, Ryder RR, Todd I, Fairclough LC. ELISA in the multiplex era: potentials and
+    pitfalls. Proteomics Clin Appl. 2015 Apr;9(3-4):406-22. [PMC free article: PMC6680274]
+    [PubMed: 25644123]
+17. Kuo HT, Yeh JZ, Wu PH, Jiang CM, Wu MC. Application of immunomagnetic particles
+    to enzyme-linked immunosorbent assay (ELISA) for improvement of detection sensitivity
+    of HCG. J Immunoassay Immunochem. 2012;33(4):377-87. [PubMed: 22963487]
+18. Tiscione NB. The Validation of ELISA Screening According to SWGTOX
+    Recommendations. J Anal Toxicol. 2018 Apr 01;42(3):e33-e34. [PubMed: 29300967]
+19. Workowski KA, Bolan GA., Centers for Disease Control and Prevention. Sexually
+    transmitted diseases treatment guidelines, 2015. MMWR Recomm Rep. 2015 Jun
+    05;64(RR-03):1-137. [PMC free article: PMC5885289] [PubMed: 26042815]
+20. Sherwani S, Chowdhury M, Bugert JJ. ELISA for Molluscum Contagiosum Virus. Curr
+    Protoc Microbiol. 2017 Nov 09;47:14A.6.1-14A.6.9. [PubMed: 29120484]
+21. Atzori L, Deidda S, Aste N. Enzyme-linked immunosorbent assay in autoimmune
+    blistering diseases: preliminary experience of the Dermatology Department of Cagliari. G
+    Ital Dermatol Venereol. 2008 Feb;143(1):1-8. [PubMed: 18833046]
+22. Weng X, Gaur G, Neethirajan S. Rapid Detection of Food Allergens by Microfluidics
+    ELISA-Based Optical Sensor. Biosensors (Basel). 2016 Jun 07;6(2):24. [PMC free article:
+    PMC4931484] [PubMed: 27338488]
+23. Kearney E. Internal quality control. Methods Mol Biol. 2013;1065:277-89. [PubMed:
+    23996371]
+24. Kinns H, Pitkin S, Housley D, Freedman DB. Internal quality control: best practice. J Clin
+    Pathol. 2013 Dec;66(12):1027-32. [PubMed: 24072731]
+25. Westgard JO. Internal quality control: planning and implementation strategies. Ann Clin
+    Biochem. 2003 Nov;40(Pt 6):593-611. [PubMed: 14629798]
+26. Dubey A, Sonker A. Implementation of internal quality control program for monitoring of
+    enzyme-linked immunosorbent assay performance at a blood center. Asian J Transfus
+    Sci. 2021 Jan-Jun;15(1):21-29. [PMC free article: PMC8294434] [PubMed: 34349453]
+27. Charting methods for internal quality control for competition ELISA. Methods Mol
+    Biol. 2009;516:335-80. [PubMed: 19219591]
+28. Internal quality control and external quality management of data in practice. Methods Mol
+    Biol. 2009;516:517-41. [PubMed: 19219595]
+29. Lo J. Biological safety in the medical laboratory. Hong Kong Med J. 2015
+    Jun;21(3):200. [PubMed: 26045068]
+30. Klein RC, Party E, Gershey EL. Safety in the laboratory. Nature. 1989 Sep
+    28;341(6240):288. [PubMed: 2797146]
+31. Yücesan B, Özkan Ö. Laboratory Safety in Parasitology Laboratory. Turkiye Parazitol
+    Derg. 2018 Jun;42(2):144-153. [PubMed: 30070646]
+32. Rojo-Molinero E, Alados JC, de la Pedrosa EG, Leiva J, Pérez JL. [Safety in the
+    Microbiology laboratory]. Enferm Infecc Microbiol Clin. 2015 Jun-Jul;33(6):404-
+    10. [PubMed: 25444041]
+33. Vonesch N, Tomao P, Di Renzi S, Vita S, Signorini S. [Biosafety in laboratories
+    concerning exposure to biological agents]. G Ital Med Lav Ergon. 2006 Oct-
+    Dec;28(4):444-56. [PubMed: 17380946]
+      Disclosure: Mandy Alhajj declares no relevant financial relationships with ineligible companies.
+
+      Disclosure: Muhammad Zubair declares no relevant financial relationships with ineligible companies.
+
+      Disclosure: Aisha Farhana declares no relevant financial relationships with ineligible companies.
+

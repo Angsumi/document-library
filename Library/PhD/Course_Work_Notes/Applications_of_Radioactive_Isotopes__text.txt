@@ -1,0 +1,264 @@
+                          International Conference KNOWLEDGE-BASED ORGANIZATION
+                                          Vol. XXIX     No 3     2023
+
+
+
+                      APPLICATIONS OF RADIOACTIVE ISOTOPES
+
+                                        Adrian Ioan STOIAN
+
+                  “Nicolae Bălcescu” Land forces Academy, Sibiu, Romania
+                              stoian.adrian@armyacademy.ro
+
+Abstract: The discovery of radioactivity, a fundamental property of certain atoms, is credited to
+several scientists, including Henri Becquerel and Marie and Pierre Curie, who together made ground-
+breaking discoveries that paved the way for the use of radioactive isotopes in various applications in
+fields such as medicine, agriculture, industry, or archaeology. In medicine especially, radioactivity
+plays a crucial role, with application in both diagnosis and treatment of various diseases, including
+cancer. However, radioisotopes also pose potential risks to human health and the environment if not
+handled properly, causing damage to cells and increase the risk of cancer and other health problems.
+Nevertheless, their uses are regulated and monitored to ensure safety and, therefore, their utilization
+has firmly increased in the last decades. Overall, radioactive isotopes are a valuable tool in a wide
+range of fields and their continued development and application will remain important for years to
+come.
+
+Keywords: radioisotopes, radiations, radioactive decay, tracer technique, nuclear
+medicine
+
+1. Introduction                                           cosmic ray interactions and radioactive
+Isotopes are atoms of the same element,                   decay chains. Artificial radioisotopes, on
+having the same number of protons but a                   the other hand, are those created in
+different number of neutrons in their nuclei.             laboratories or nuclear reactors through
+Some isotopes are unstable if the nucleus                 nuclear reactions. They do not occur
+contains either too many protons or                       naturally in the environment [1].
+neutrons and are known as radioisotopes. A                The radioactivity was discovered by Henri
+radioisotope attains its stability by                     Becquerel in 1896, when he accidentally
+spontaneously emitting nuclear radiations                 discovered that uranium slats emit a
+such as alpha, beta (electron/positron)                   penetrating radiation that can be recorded
+particles or gamma rays (Fig. 1). This                    on a photographic plate.
+process is called radioactive decay, and                  However, Marie Curie introduced the word
+occurs at a constant rate, which is measured              “radioactivitè” to describe the rays emitted
+by its half-life. The half-life of a                      by uranium, thorium, polonium, or radium.
+radioisotope is the time it takes for half of             Several notable scientists who worked with
+the unstable atoms to decay.                              radioactive materials, including Marie
+Radioisotopes can be either natural or                    Curie and her daughter Irène, suffered from
+artificial. The natural ones are those that               radiation-related illnesses [2]. This is due to
+occur naturally in the environment and are                radioisotopes emitting radiation with
+created through various natural processes,                enough energy to remove electrons from
+such as the decay of primordial isotopes,                 atoms, causing the atoms to become ionized
+  DOI: 10.2478/kbo-2023-0080
+  © 2023 Adrian Ioan Stoian. This work is licensed under the Creative Commons Attribution-Non Commercial-No
+  Derivatives 3.0 License
+
+
+
+                                                     85
+or charged. Thus, the nuclear radiation is           Despite all these risks to human health and
+considered ionizing and can alter the                environment, radioisotopes have played a
+molecules within the cells of living                 significant role in improving the quality of
+organisms, including DNA, which can                  human beings. Here in, we will focus on the
+increase the risk of developing certain              most      important       applications    of
+health conditions, such as cancer [1].               radioisotopes in various fields.
+
+
+
+
+                              Figure 1: Types of radioactive decays
+                                                     involves the use of radionuclides that emit
+2. Applications of radioisotopes                     high-energy radiation, such as gamma rays,
+After more than 100 years since the                  X-rays, or charged particles to cancer cells,
+discovery of radioactivity, radioisotopes are        in order to kill them and shrink tumours.
+successfully used in many aspects of human           The radiation damages the DNA of the
+life, such as energy, medicine, agriculture,         cancer cells, which leads to their death.
+archaeology, or various industries (Fig. 2).         This can be done either:
+2.1. Radioisotopes in medicine                            • externally, when the radiation
+The use of radioisotopes in medicine has                      source is placed outside the body,
+revolutionized the diagnosis and treatment                    and only a limited area of the body
+of many diseases and conditions, saving the                   is irradiated, or
+lives of millions of patients. Over 90% of                • internally, where a radioactive
+the procedures involving nuclear medicine                     nuclide is administered to the
+are     for    diagnosis,   where     special                 patient and deliver a toxic level of
+radionuclides with short half-life are used                   radiation to the targeted sites [3].
+to complement the traditional imaging                Even though radiotherapy can have some
+methods based on X-rays. The patients are            side effects, such as fatigue, nausea, or skin
+administered a small amount of these                 irritation, it is considered very well
+radionuclides which emit gamma radiation             tolerated compared to more traditional
+that is detected and used to create images of        treatments, due to their minimum damage
+the body's organs and tissues.                       to healthy tissue and is considered a
+Radioactivity can be used for treatment              powerful tool in the fight against cancer.
+through a technique called radiation
+therapy, or radiotherapy. This technique
+
+
+
+
+                                                86
+                               Figure 2: Radioisotopes applications
+
+2.2. Radioisotopes in agriculture                     the adverse effects of insecticides and
+Radioactivity has several important                   pesticides.
+applications in agriculture, improving the            Another great use of radioactivity was
+quality and productivity of agricultural              recorded in food processing and
+products. Radioisotopes are very useful in            preservation. Between 25 and 30 percent of
+the effective use of the fertilizers, which           the world's food production is lost due to
+may result in lower costs and minimal                 spoilage caused by microbes and pests, and
+damage to the environment. The working                these losses are even higher in developing
+principle is quite simple, the nutrients taken        countries. However, this loss of food can be
+by the plant are labelled with a radioactive          prevented by implementing effective food
+tracer such as Nitrogen – 15 or phosphorus            preservation methods. Radiation is one
+– 32 and the movement of these species                method that can be used to eliminate
+through the plant and the soil can be                 microbes in food and control insect and
+monitored [4]. Radioisotopes were also                parasite infestation in harvested food,
+used to induce mutations, by exposing                 which prevents different types of wastage
+seeds to radiation, thus leading to new and           and spoilage. The agents responsible for
+desirable treats, such as disease resistance,         spoilage, such as microbes and insects, are
+earlier ripening, and ultimately, higher              eliminated by irradiation from packaged
+yield.                                                food, and the packaging materials are
+Radioactive nuclei are also used in insect            impermeable to bacteria and insects,
+pest management. Agricultural productivity            preventing recontamination. Also, it can
+is at risk due to insect pests, which not only        replace or significantly reduce the use of
+cause a reduction in crop yields, but also            hazardous food additives and fumigants,
+spread diseases to cultivated crops. To               which are dangerous for both consumers
+monitor the persistence of pesticide                  and food processing workers. General dose
+residues in food items, soil, groundwater,            requirements for various applications are
+and the environment, radiolabel pesticides            listed in Table 1, where the unit of absorbed
+have been employed. These studies have                dose, kGy (kilo Gray) represents 1kJ/kg
+been beneficial in identifying and reducing           absorbed energy [5], [6].
+
+
+
+                                                 87
+                                                       material or a process stream, and their
+                                                       movement and behaviour can be detected
+                                                       and measured. The main industries that
+   Table 1. Main applications and general dose         radiotracers are used in include:
+      requirements of food irradiation [5], [6]            • Oil and gas industry: flow rates of
+                                    Dose                       oil and gas in pipelines, leaks and
+Application                    requirement                     blockages or the performance of oil
+                                   (kGy)                       wells can be monitored with
+Inhibition of sprouting         0.03 – 0.12                    radiotracers.
+Insect disinfestation             0.2-0.8                  • Mining industry: Radiotracers are
+                                                               used to monitor the movement of
+Parasite disinfestation          0.1 – 3.0                     ores     and      minerals     through
+Shelf-life extension             0.5 – 3.0                     processing plants, and to determine
+Elimination of non-spore         1.5 – 7.0                     the effectiveness of mineral
+forming        pathogenic                                      extraction processes.
+bacteria                                                   • Chemical industry: The mixing and
+Reduction of microbial           3.0 – 20                      dispersion of chemicals in industrial
+population in dry food                                         reactors and performance of
+ingredients                                                    catalysts can be monitored with
+Production of meat,               25 - 60                      radiotracers.
+poultry, and fishery                                       • Environmental industry: The path of
+products shelf-stable at                                       contaminants in the environment
+ambient temperature                                            and      the      effectiveness     of
+                                                               environmental              remediation
+2.3. Radioisotopes in archaeology                              processes can be monitor with
+Radioactivity has various applications in                      radiotracers [9].
+archaeology, primarily in the field of                 2.5 Radioisotopes in consumer products
+radiocarbon dating. Radiocarbon dating is a            A variety of consumer products contain
+technique used to determine the age of                 radioactive isotopes, either as a working
+organic materials based on the decay of the            part of the product or as naturally occurring
+radioactive isotope carbon-14. When plants             radioactive material. The most commonly
+and animals are alive, they absorb carbon-             used radioisotopes are:
+14 from the atmosphere. Once they die, the                 • Tritium (H-3), used in exit signs,
+carbon-14 decays at a known rate, and by                       watches and other products that
+measuring the remaining amount of carbon-                      require    long-lasting,     low-level
+14 in a sample, scientists can calculate the                   illuminations.
+time elapsed since the organism died [7].                  • Americium (Am-241), used in
+2.4 Radioisotopes in industry                                  smoke detectors.
+The main use of radioisotopes in industry is               • Radium (Ra-226), used in older
+in smoke detecting. Smoke detectors use a                      watches or clocks, to make dials and
+small quantity of radioactive material, such                   numbers visible in the dark.
+as Americium-241, which emits alpha
+                                                           • Thorium (Th-232), used in the
+particles. These particles ionize the air,
+                                                               production of lenses for cameras.
+creating a small electrical current. When
+                                                               However, due to its radioactivity,
+smoke is the air, it disrupts the flow of ions
+                                                               the use of Th has declined in recent
+and reduces the current [8].
+                                                               years.
+Radioactive isotopes can be used as
+                                                           • Uranium, used as a colorant in glass
+radiotracers, tracking and monitoring
+                                                               or ceramics before the adverse
+industrial processes. They can be added to a
+                                                               effects of its radioactivity were
+
+
+
+                                                  88
+        understood [10].                             research stations in Antarctica [11].
+2.6 Radioisotopes in power systems                   3. Conclusions and future perspectives
+Radioisotope power systems generate                  Over the last century, the utilization of
+energy from the natural decay of                     radioactivity has steadily increased across
+radionuclides. A radioisotope power system           various fields. Today, radioisotopes play a
+typically consists of two main parts,                critical role in various aspects of human life
+namely, a radioisotope heat source and an            and their property to spontaneously emit
+energy conversion system. During the                 radiation is successfully used in medicine,
+decay process, heat is produced and is               agriculture, consumer products, or various
+partially transformed into electricity. These        industries.     The future of radioactivity
+power systems are known for being rugged,            usage is promising, as continued
+compact, and highly reliable. They can also          advancements in technology and scientific
+be produced and used safely, with minimal            understanding are likely to lead to new and
+risk both to the operating personnel and the         innovative applications. For instance, new
+public, as well as having minimal impact on          and improved cancer therapies and
+the environment. The most commonly used              diagnostic imaging may be developed based
+isotopes for this purpose are plutonium-238          on radioisotopes. Radioisotopes may also
+(Pu-238) and strontium-90 (Sr-90). Both              become        increasingly    important     in
+isotopes emit alpha particles, which can be          environmental monitoring and remediation
+converted to heat when they collide with a           efforts due to growing concerns about
+solid material.                                      climate change and pollution. Furthermore,
+Radioisotope power systems are commonly              as the energy sector searches for new
+used in space probes and satellites, where           sources of energy, radioisotopes may
+they can provide a reliable source of power          present a valuable asset.
+for many years without the need for                  Overall, radioactivity is likely to continue
+refuelling or maintenance. They are also             playing a significant role in many different
+used in remote or harsh environments on              fields, with its impact continuously
+Earth, such as in buoys, lighthouses, and            growing.
+
+                                       References List
+
+[1]   Jadiyappa S. “Radioisotope: Applications, Effects, and Occupational Protection”.
+      Principles and Applications in Nuclear Engineering, R.O.A. Rahman & H.E.-D. M.
+      Saleh, Eds., Rijeka: IntechOpen, 2018. doi: 10.5772/intechopen.79161.
+[2]   Singh N. Radioisotopes - Applications in Physical Sciences. Rijeka: Intech Open,
+      2011. doi: 10.5772/858.
+[3]   National Research Council (US) and Institute of Medicine (US) Committee on State of
+      the Science of Nuclear Medicine. Advancing Nuclear Medicine through Innovation.
+      Washington, DC: The National Academies Press, 2007. doi: 10.17226/11985.
+[4]   Siyal A.L., Hossain A., Siyal F.K., Jatt T., & Iram S. “Use of Radioisotopes to Produce
+      High Yielding Crops in Order to Increase Agricultural Production”. Chemistry
+      Proceedings, vol. 10, no. 1, 2022, doi: 10.3390/IOCAG2022-12267.
+[5]   Singh B., Singh J., & Kaur A. “Applications of Radioisotopes in Agriculture”.
+      International Journal of Biotechnology and Bioengineering Research, vol. 4, no. 3, pp.
+      167–174, 2013.
+[6]   Farkas J. & Mohácsi-Farkas C. “History and future of food irradiation”. Trends Food
+      Sci      Technol,     vol.      22,    no.    2,     pp.    121–126,     2011,      doi:
+      https://doi.org/10.1016/j.tifs.2010.04.002.
+
+
+
+
+                                                89
+[7]  Taylor R.E. “Radiocarbon dating: The continuing revolution”. Evolutionary
+     Anthropology: Issues, News, and Reviews, vol. 4, no. 5, pp. 169–181, 1995, doi:
+     https://doi.org/10.1002/evan.1360040507.
+[8] Hutchison S.G. and Hutchison F.I. “Radioactivity in Everyday Life”. J Chem Educ,
+     vol. 74, no. 5, p. 501, May 1997, doi: 10.1021/ed074p501.
+[9] Pant H.J. “Applications of the radiotracers in the industry: A review”. Applied
+     Radiation       and     Isotopes,    vol.    182,    p.   110076,       2022,      doi:
+     https://doi.org/10.1016/j.apradiso.2021.110076.
+[10] Shaw J., Dunderdale J. & Paynter R. “A Review of consumer products containing
+     radioactive substances in the European Union”. Radiation Protection, vol. 146, pp. 11–
+     14, 2007.
+[11] Lange R.G. & Carroll W.P. “Review of recent advances of radioisotope power
+     systems”. Energy Convers Manag, vol. 49, no. 3, pp. 393–401, 2008, doi:
+     https://doi.org/10.1016/j.enconman.2007.10.028.
+
+
+
+
+                                            90
+

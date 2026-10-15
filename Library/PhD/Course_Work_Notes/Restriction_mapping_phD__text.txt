@@ -1,0 +1,66 @@
+What is Restriction mapping?
+Restriction mapping is a process used to map an unknown segment of DNA by cutting the
+DNA into pieces with specific restriction enzymes and then identifying the locations of the
+breakpoints. The enzymes are generally the endonucleases that cut the DNA at specific sites.
+Restriction mapping steps:
+   • For performing restriction mapping first of all we need a sample DNA sequence. The
+       size of the sample DNA sequence should be known. Here, as an example a size of 4.0
+       kb complete DNA sequence has been taken.
+   • The complete DNA sequence is then digested with Hindlll and BamHI. Firstly, single
+       restriction digestion is performed with Hindlll and BamHI separately. Cutting with
+       Hindlll gives two fragments and cutting with BamHI creates three fragments.
+   • After that, double restriction digestion is performed with combined Hindlll+BamHI.
+       This creates four fragments of different sizes.
+   • Then the fragments are run in gel electrophoresis which gives different bands
+       according to the size of the fragments.
+   • After band visualization and analysis, we can see that the two fragments given by
+       Hindlll are of 2.8kb and 1.2kb in size whereas the three fragments given by BamHI
+       are 1.8kb, 1.3kb and 0.9kb in size. If we analyze the fragments of double restriction
+       digestion we can see that the fragments are 1.8kb, 1.0kb, 0.9kb and 0.3kb.
+
+
+
+
+From the process, we can understand that 1.8kb and 1.0kb fragments in the double digestion
+together represents 2.8kb fragment and 0.9kb and 0.3kb represents 1.2kb fragment produced
+by Hindlll in single restriction digestion. Again, 1.0kb and 0.3kb together represents 1.3kb
+fragment produced by BamHI in single digestion. So, we can identify the relative positions of
+restriction sites involving in single and double digestion based on the sizes of resultant DNA
+fragments.
+Applications:
+        • Used in the identification of restriction sites
+        • Used in the study of mutation
+        • Insert analysis during cloning
+        • Study of insertion and deletion of a gene
+Limitations:
+        • If there are few cutting sites for the enzyme that is being used, it becomes easier
+           to generate restriction maps. However, if so much restriction sites are present,
+           the result sometimes become ambiguous.
+        • Restriction mapping process is more suitable for smaller DNA molecules rather
+           than larger molecules. If the DNA molecule that is being used is less than 50kb
+           in length then it is possible to construct the map.
+
+Restriction Endonuclease?
+Restriction endonuclease or restriction enzyme is a protein that cuts DNA at specific sites.
+They are produced from bacteria. EcoRI, BamHI, HindIII are the examples of restriction
+endonuclease enzymes.
+
+Insertion and Deletion
+
+Insertion is defined as a type of mutation in which one or more nucleotide is added into the
+DNA sequence. On the other hand, deletion is also a type of mutation which refers to the
+removal of one or more nucleotides from the DNA sequence.
+
+Double digestion of DNA
+Double digestion of DNA means digesting DNA fragments with two restriction
+endonucleases simultaneously. Double digestion helps in the identification of correct
+orientation of the gene of interest.
+
+Gel electrophoresis
+
+Gel electrophoresis is a technique used in the separation and analysis of DNA, RNA, protein
+etc. based on their sizes and charge.
+
+Restriction site for BamHI and HindIII?
+GGATCC is the restriction site for BamHI and AAGCTT is the restriction site for HindIII
+
