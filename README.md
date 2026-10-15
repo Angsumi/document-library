@@ -19,3 +19,5 @@ This repository and website are public, including identity, banking and family d
 ## PhD
 
 `Library/PhD/` holds the reference library and supplementary scripts from the PhD proposal repository ([Angsumi/PhD](https://github.com/Angsumi/PhD)): 15 open-access journal articles with extracted text, a BibTeX file, and analysis templates. Shown under the **PhD** pill on the site.
+
+Ranu Das medical records (2002-2014) are in `Medical_Documents/Ranu_Das/`.
