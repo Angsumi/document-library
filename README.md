@@ -1,6 +1,6 @@
 # Angsumi Document Download Centre
 
-[Open the download page](https://angsumi.online/document-library/) · [Sequencing downloads](https://github.com/Angsumi/document-library/releases/tag/sequencing-data-v1)
+[Open the library site](https://angsumi.online/document-library/) · [Sequencing downloads](https://github.com/Angsumi/document-library/releases/tag/sequencing-data-v1)
 
 578 organized records, with downloadable originals, searchable PDFs and plain-text transcripts. The page searches names, categories, source names and extracted text, and works on mobile.
 
@@ -12,6 +12,6 @@ This repository and website are public, including identity, banking and family d
 
 ## Medical documents
 
-[Medical download page](medical.html) · [Dated index](Medical_Documents/INDEX.csv) · [Document guide](Medical_Documents/README.md)
+[Dated index](Medical_Documents/INDEX.csv) · [Document guide](Medical_Documents/README.md)
 
-31 medical photographs are organized by year and document type in `Medical_Documents/`, with date-first filenames, searchable PDFs and copyable transcripts. The prescription dated 17 January 2003 has an unverified patient identity. The associated ultrasound-film date is explicitly flagged as inferred. The three Health City laboratory pages also have a combined report. The page offers year and date-range filters and chronological sorting.
+31 medical photographs are organized by year and document type in `Medical_Documents/`, with date-first filenames, searchable PDFs and copyable transcripts. The prescription dated 17 January 2003 has an unverified patient identity. The associated ultrasound-film date is explicitly flagged as inferred. The three Health City laboratory pages also have a combined report. The site has a Medical collection with date sorting and year grouping; it also includes the Bubul Das records.
