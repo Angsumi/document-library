@@ -116,6 +116,7 @@ footer p{margin:4px 0;max-width:80ch}
   </form>
   <div class="chips" id="chips" role="group" aria-label="Collections"></div>
   <div class="filters">
+    <label>Person<select id="person"></select></label>
     <label>Folder<select id="sub"></select></label>
     <label>File type<select id="type"></select></label>
     <label>Sort<select id="sort">
@@ -146,7 +147,8 @@ footer p{margin:4px 0;max-width:80ch}
 (function(){
 'use strict';
 var DATA=[],view=[],PAGE=60,STEP=60;
-var S={q:'',c:'all',sub:'',type:'',sort:'rel',rev:false};
+var S={q:'',c:'all',p:'',sub:'',type:'',sort:'rel',rev:false};
+var PEOPLE=['Angsuman Das','Bubul Das','Ranu Das','Sumpimoni Das'];
 var $=function(id){return document.getElementById(id)};
 var COLL={Angsuman_Das:'Personal',Family:'Family',Medical_Documents:'Medical',Research:'Research data',Study_Materials:'Study materials',Fellowship_Guidelines:'Fellowship',Supporting_Files:'Supporting',Other_People:'Others'};
 var TYPEN={pdf:'PDF',jpg:'Image',jpeg:'Image',png:'Image',docx:'Word',txt:'Text',gz:'Sequencing data'};
@@ -182,7 +184,8 @@ function init(){
 }
 function bind(){
   var t;$('q').addEventListener('input',function(){clearTimeout(t);t=setTimeout(function(){S.q=$('q').value;apply(true)},120)});
-  $('clear').onclick=function(){S={q:'',c:'all',sub:'',type:'',sort:'rel',rev:false};$('q').value='';apply(true);$('q').focus()};
+  $('clear').onclick=function(){S={q:'',c:'all',p:'',sub:'',type:'',sort:'rel',rev:false};$('q').value='';apply(true);$('q').focus()};
+  $('person').onchange=function(){S.p=this.value;S.sub='';apply(true)};
   $('sub').onchange=function(){S.sub=this.value;apply(true)};
   $('type').onchange=function(){S.type=this.value;apply(true)};
   $('sort').onchange=function(){S.sort=this.value;apply(true)};
@@ -195,13 +198,16 @@ function bind(){
   try{var th=localStorage.getItem('theme');if(th)document.documentElement.setAttribute('data-theme',th)}catch(e){}
   window.addEventListener('hashchange',function(){readHash();apply(false)});
 }
-function readHash(){var h=location.hash.slice(1);if(!h)return;var p=new URLSearchParams(h);S.q=p.get('q')||'';S.c=p.get('c')||'all';S.sub=p.get('f')||'';S.type=p.get('t')||'';S.sort=p.get('s')||'rel';S.rev=p.get('r')==='1';$('q').value=S.q}
-function writeHash(){var p=new URLSearchParams();if(S.q)p.set('q',S.q);if(S.c!=='all')p.set('c',S.c);if(S.sub)p.set('f',S.sub);if(S.type)p.set('t',S.type);if(S.sort!=='rel')p.set('s',S.sort);if(S.rev)p.set('r','1');var s=p.toString();history.replaceState(null,'',s?'#'+s:location.pathname+location.search)}
+function readHash(){var h=location.hash.slice(1);if(!h)return;var p=new URLSearchParams(h);S.q=p.get('q')||'';S.c=p.get('c')||'all';S.p=p.get('p')||'';S.sub=p.get('f')||'';S.type=p.get('t')||'';S.sort=p.get('s')||'rel';S.rev=p.get('r')==='1';$('q').value=S.q}
+function writeHash(){var p=new URLSearchParams();if(S.q)p.set('q',S.q);if(S.c!=='all')p.set('c',S.c);if(S.p)p.set('p',S.p);if(S.sub)p.set('f',S.sub);if(S.type)p.set('t',S.type);if(S.sort!=='rel')p.set('s',S.sort);if(S.rev)p.set('r','1');var s=p.toString();history.replaceState(null,'',s?'#'+s:location.pathname+location.search)}
 function terms(){return S.q.toLowerCase().split(/\s+/).filter(Boolean)}
 function apply(reset){
   if(reset)PAGE=STEP;
   var T=terms();
-  var base=DATA.filter(function(d){return S.c==='all'||d._top===S.c});
+  var pc={};DATA.forEach(function(d){if(d.pp&&(S.c==='all'||d._top===S.c))pc[d.pp]=(pc[d.pp]||0)+1});
+  var po=$('person');po.innerHTML='<option value="">Everyone</option>'+PEOPLE.map(function(n){return '<option value="'+esc(n)+'">'+esc(n)+' ('+(pc[n]||0)+')</option>'}).join('');
+  if(PEOPLE.indexOf(S.p)<0)S.p='';po.value=S.p;
+  var base=DATA.filter(function(d){return (S.c==='all'||d._top===S.c)&&(!S.p||d.pp===S.p)});
   var subs={};base.forEach(function(d){var rest=d.c.split('/').slice(1).join('/');if(rest)subs[rest]=(subs[rest]||0)+1});
   var so=$('sub');so.innerHTML='<option value="">All folders</option>'+Object.keys(subs).sort().map(function(k){return '<option value="'+esc(k)+'">'+esc(pretty(k))+' ('+subs[k]+')</option>'}).join('');
   if(!subs[S.sub])S.sub='';so.value=S.sub;
