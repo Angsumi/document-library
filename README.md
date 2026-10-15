@@ -15,3 +15,7 @@ This repository and website are public, including identity, banking and family d
 [Dated index](Medical_Documents/INDEX.csv) · [Document guide](Medical_Documents/README.md)
 
 31 medical photographs are organized by year and document type in `Medical_Documents/`, with date-first filenames, searchable PDFs and copyable transcripts. The prescription dated 17 January 2003 has an unverified patient identity. The associated ultrasound-film date is explicitly flagged as inferred. The three Health City laboratory pages also have a combined report. The site has a Medical collection with date sorting and year grouping; it also includes the Bubul Das records.
+
+## PhD
+
+`Library/PhD/` holds the reference library and supplementary scripts from the PhD proposal repository ([Angsumi/PhD](https://github.com/Angsumi/PhD)): 15 open-access journal articles with extracted text, a BibTeX file, and analysis templates. Shown under the **PhD** pill on the site.

@@ -1,0 +1,621 @@
+                                                                                                                                                 ORIGINAL RESEARCH
+                                                                                                                                             published: 25 February 2020
+                                                                                                                                          doi: 10.3389/fmicb.2020.00133
+
+
+
+
+                                             Consequences of Domestication on
+                                             Gut Microbiome: A Comparative
+                                             Study Between Wild Gaur and
+                                             Domestic Mithun
+                                             Vandana R. Prabhu 1 , Wasimuddin 2 , Ranganathan Kamalakkannan 1 ,
+                                             Moolamkudy Suresh Arjun 1 and Muniyandi Nagarajan 1*
+                                             1
+                                               Department of Genomic Science, School of Biological Sciences, Central University of Kerala, Kasaragod, India, 2 Institute
+                                             for Infectious Diseases, Faculty of Medicine, University of Bern, Bern, Switzerland
+
+
+                                             Although the gut microbiome benefits the host in several ways, how anthropogenic
+                                             forces impact the gut microbiome of mammals is not yet completely known. Recent
+                                             studies have noted reduced gut microbiome diversity in captive mammals due to
+                                             changes in diet and living environment. However, no studies have been carried out to
+                                             understand how the gut microbiome of wild mammals responds to domestication. We
+                                             analyzed the gut microbiome of wild and captive gaur and domestic mithun (domestic
+                                             form of gaur) to understand whether the gut microbiome exhibits sequential changes
+                                             from wild to captivity and after domestication. Both captive and domestic populations
+                         Edited by:
+                         Lifeng Zhu,         were characterized by reduced microbial diversity and abundance as compared to
+     Nanjing Normal University, China        their wild counterparts. Notably, two beneficial bacterial families, Ruminococcaceae
+                      Reviewed by:           and Lachnospiraceae, which are known to play vital roles in herbivores’ digestion,
+                       Indira Ghosh,
+    Jawaharlal Nehru University, India
+                                             exhibited lower abundance in captive and domestic populations. Consequently, the
+                     Zhigang Zhang,          predicted bacterial functional pathways especially related to metabolism and immune
+            Yunnan University, China
+                                             system showed lower abundance in captive and domestic populations compared to wild
+                 *Correspondence:
+                                             population. Therefore, we suggest that domestication can impact the gut microbiome
+                Muniyandi Nagarajan
+             nagarajan@cukerala.ac.in        more severely than captivity, which might lead to adverse effects on host health and
+                                             fitness. However, further investigations are required across a wide range of domesticates
+                   Specialty section:
+                                             in order to understand the general trend of microbiome shifts in domestic animals.
+         This article was submitted to
+                 Microbial Symbioses,        Keywords: gaur, mithun, gayal, 16S rRNA gene, microbiome, captivity, domestication
+               a section of the journal
+             Frontiers in Microbiology
+          Received: 17 August 2019          INTRODUCTION
+         Accepted: 21 January 2020
+        Published: 25 February 2020         The diverse and enormously complex gut microbiome benefits animals in several ways such as by
+                            Citation:       instigating immune responses, synthesizing vitamins, and carrying out metabolic functions that the
+            Prabhu VR, Wasimuddin,          host cannot perform (Bäckhed et al., 2005; Cerf-Bensussan and Gaboriau-Routhiau, 2010; LeBlanc
+    Kamalakkannan R, Arjun MS and           et al., 2013; Crespo-Piazuelo et al., 2018; Nagarajan et al., 2018). Host–gut microbiome relationships
+  Nagarajan M (2020) Consequences
+                                            are influenced by host traits such as age, sex, genotype, and extrinsic factors like diet, lifestyle,
+of Domestication on Gut Microbiome:
+  A Comparative Study Between Wild
+                                            and habitat heterogeneity (Dubois et al., 2017; Wasimuddin et al., 2017). Understanding how the
+          Gaur and Domestic Mithun.         gut microbiome responds to these factors is important because perturbations of gut microbial
+             Front. Microbiol. 11:133.      communities beyond their natural range may have serious impact on the host health (Cheng et al.,
+     doi: 10.3389/fmicb.2020.00133          2015). Recent studies in human have noted that departing from ancestral lifestyle and adapting to
+
+
+Frontiers in Microbiology | www.frontiersin.org                                     1                                             February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                     Consequences of Domestication on the Gut Microbiome
+
+
+
+urban life that involves modifications of lifestyle, diet, and                and laboratory animals. Wild and captive gaur, and domestic
+living environment reduces the diversity and stability of                     mithun provide an excellent biological system to study the
+gut microbiome (Schnorr et al., 2014; Conlon and Bird,                        sequential change of gut microbiome from wild to captivity
+2015; Martínez et al., 2015; Obregon-Tito et al., 2015;                       and after domestication. Therefore, in order to discern the
+Rampelli et al., 2015; Valle Gottlieb et al., 2017). As observed              impact of captivity and domestication on gut microbiome, we
+in the case of modern human, under captive conditions,                        examined the gut microbiome of wild and captive gaur and
+most of the animal species including mammals, birds, and                      domestic mithun populations by sequencing the V3–V4 region
+amphibians experience radical shifts in their diet and living                 of the 16S rRNA gene. We were specifically interested to
+environment, sharply reduced geographic range, controlled social              investigate the following: (i) whether the wild population share
+interactions, and increased exposure to medical interventions                 similar gut microbial diversity and composition with captive
+that contrast from their way of living in the wild (Hird, 2017;               and domestic populations, (ii) whether microbial taxa show
+McKenzie et al., 2017; Metcalf et al., 2017; Martínez-Mota                    sequential increase/decrease in abundance, from wild to captive
+et al., 2020). In addition to these factors, domestic animals                 and after domestication, and (iii) if anticipated shifts in the gut
+undergo substantial biobehavioral changes due to the intensive                microbiome also reflect at their predicted functional level.
+domestication process. Owing to such changes, captive and
+domestic animals are more likely to differ from their wild
+counterparts in the gut microbial diversity and composition                   MATERIALS AND METHODS
+(Hird, 2017). Furthermore, considering even altered natural state
+of domesticated individuals in comparison to captives, increased              Sample Collection
+disturbance of microbial communities is highly probable.                      Fecal samples of wild and captive gaur and domestic mithun
+However, there have been no studies conducted to understand                   were collected from different places of India. To avoid sibling
+whether the gut microbiome shows sequential changes from wild                 effects, the samples were collected from divergent locations for
+to captivity and after domestication.                                         each category. Fecal samples of wild gaur (n = 10) were collected
+    Bos gaurus commonly known as gaur or Indian bison is                      from different places in the Western Ghats regions of Tamil Nadu
+one of the largest extant ungulates and endemic to South                      and Kerala while the captive gaur samples (n = 10) were collected
+and Southeastern Asia. In India, they occur in small isolated                 from different Zoos (Arignar Anna Zoological Park, Chennai,
+groups confined to Western Ghats, central Indian highlands, and               Tamil Nadu; Sri Chamarajendra Zoological Gardens, Mysore,
+Northeastern Himalayas (Choudhury, 2002). Although majority                   Karnataka; Bannerghatta Biological Park, Bangaluru, Karnataka;
+of gaur populations inhabit in India, it is placed in the schedule            Bondla Zoo, Goa; The Zoological Park, Thiruvananthapuram,
+II of Indian Wild Life (Protection) Act, 1972, and considered                 Kerala). The fecal samples of domestic mithun (n = 10) were
+as vulnerable species by IUCN. The domestic form of gaur is                   collected from Northeastern states of India (Nirjuli, Sagalee,
+considered as a distinct species, Bos frontalis, and commonly                 and Yupia, Arunachal Pradesh, and Khuangleng, Mizoram).
+known as mithun (India) and gayal (China). It is believed to                  The fecal samples were collected in absolute ethanol within
+have evolved from wild gaur more than 8000 years ago (Simoons,                a few minutes after defecation using sterile forceps to avoid
+1984; Dorji et al., 2010; Qu et al., 2012; Wang et al., 2017).                environmental contaminations and stored at −80◦ C until further
+However, there are different views for the origin of domestic                 analysis. The fecal samples were collected without having any
+mithun, and the recent studies have strongly supported the widely             contact with animals for which necessary permission were
+accepted view that presumes gaur as the ancestral species of                  obtained from the respective state forest departments. Further,
+domestic mithun (Mukherjee et al., 2018; Prabhu et al., 2019).                the fecal samples were collected with the help of respective forest
+The geographic range of mithun is restricted to Northeastern                  officials/veterinarians in compliance with the research ethical
+hilly regions of India, Myanmar, Bhutan, Bangladesh, and the                  standards of India. The study was conducted on the fecal samples
+Yunan province of China (Mukherjee et al., 2018). Interspecies                and no animal was used for the purpose of this study.
+hybridization, slaughtering, and other anthropogenic factors
+have led to the decline of mithun population; as a result, it is listed       DNA Extraction and Sequencing
+under the category endangered by the IUCN.                                    Genomic DNA was isolated from the fecal samples using DNeasy
+    Domestic animals, particularly livestocks, are essential food             PowerSoil kit (Qiagen) as per the manufacturer’s instructions.
+resources for the world’s rapidly growing human population.                   The V3–V4 region of the 16S rRNA gene was amplified using
+Importantly, animals like cattle, sheep, goat, buffalo, mithun,               the primer Pro341F (5’-CCTACGGGNBGCASCAG-3’) and
+etc. are able to effectively transform their forages into high-               Pro805R (5’-GACTACNVGGGTATCTAATCC-3’) (Nadkarni
+value animal products. However, animal health has been                        et al., 2002). The following conditions were applied for the
+shown to greatly influence their functions by having direct                   PCR: denaturation at 98◦ C for 30 s, followed by 35 cycles at
+effect on the productive parameters such as mortality rate,                   95◦ C for 10 s, 60◦ C for 15 s, and at 68◦ C for 30 s, and final
+prolificacy, body weight, and milk yield and indirect effect                  extension at 68◦ C for 5 min. The resulting PCR products were
+on public health as it increases the incidence of zoonotic                    purified using the PureLink PCR purification kit (Thermo Fisher
+diseases. Hence, it is essential to understand the gut microbiome             Scientific). The purified PCR products were proceeded with
+of domestic animals as distortion of microbiome has been                      library preparation using the NEBNext Ultra DNA Lib prep
+reported to increase the incidences of diseases in human                      kit (New England BioLabs Inc.) according to manufacturer’s
+
+
+Frontiers in Microbiology | www.frontiersin.org                           2                                      February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                    Consequences of Domestication on the Gut Microbiome
+
+
+
+instructions. The libraries were sequenced on Illumina HiSeq                 abundance of the predominant phyla including population type
+2500 platform generating 2 × 250 bp paired-end reads.                        and sampling site in the models as explanatory variables as
+                                                                             previously described. To identify the OTUs accountable for
+16S rRNA Gene Sequence Data                                                  differences among populations, we employed a negative binomial
+Processing                                                                   model-based approach available in the edgeR package (Robinson
+Forward and reverse reads were demultiplexed and the sequences               et al., 2010) in R after removing OTUs that were present
+with corresponding barcodes were merged using the software                   in less than three samples for each population. Exact tests
+FLASH (Magoč and Salzberg, 2011). Primer sequences were                     (Exact binomial test generalized for over dispersed counts) were
+removed using the software CUTADAPT (Martin, 2011).                          performed and only OTUs that remained significant (p < 0.01)
+Sequences that were too long or too short were removed from                  after the Benjamini–Hochberg correction were reported.
+the dataset using the software PRINSEQ-lite (Schmieder and
+Edwards, 2011). Reads were processed further using the QIIME                 Microbiome Functional Predictions
+software package (Caporaso et al., 2010) for initial quality filtering       PICRUSt (Langille et al., 2013) was used to predict the functional
+and further analysis. Sequences with quality threshold below                 differences of the gut microbiome. The metagenome prediction
+q = 30 or with homopolymers or more than six ambiguous bases                 was performed using KEGG Orthology (KOs) classification after
+were discarded. The potential chimeric sequences were identified             removing all de novo OTUs and normalization for copy number
+and discarded using the software USEARCH (Edgar, 2010). The                  variation. To ensure the accuracy of the prediction, weighted
+Open-reference Operational Taxonomic Units (OTUs) picking                    Nearest Sequenced Taxon Index (NSTI) scores were estimated.
+approach was used to identify OTUs with a 97% similarity                     The average NSTI values for wild gaur, captive gaur, and domestic
+threshold using UCLUST (Edgar, 2010). De novo OTUs (i.e.,                    mithun were adequately low (mean NSTI = 0.20 ± 0.02 s.d.)
+reads that did not hit the Greengenes database) were also picked.            to enable accurate prediction of metagenomes. To investigate
+The taxonomic position of OTUs was assigned using the RDP                    the effect of population type on the KEGG composition, we
+classifier (Ribosomal Database Project). The singletons OTUs and             calculated “Euclidean” and “Jaccard” distances after rarefying the
+those belonging to eukaryote, archaea, mitochondria, chloroplast,            data using the package phyloseq (McMurdie and Holmes, 2013) in
+and unassigned OTUs were excluded from the dataset.                          R. PERMANOVA was performed to check the significance of the
+                                                                             differences in the KEGG composition using 999 permutations.
+                                                                             Population type and sampling site were included in the model
+Alpha and Beta Diversity Analysis
+                                                                             as explanatory variables to explain differences in the distance
+Alpha diversity indices [number of observed species (OTUs),
+                                                                             metrics. PCoA plots were drawn to demonstrate the differences
+Chao1, and phylogenetic diversity] were calculated after rarefying
+                                                                             between populations. We classified the KOs into major functional
+the data to 58,700 sequences per sample. All further analyses were
+                                                                             pathways by applying the KEGG classification at the hierarchy
+carried out in R1 . ANOVA was performed to understand the effect
+                                                                             level 2. We carried out Exact tests implemented in the edgeR
+of “population type (i.e., wild, captive and domestic)” on alpha
+                                                                             package (Robinson et al., 2010) in R to find out the pathways,
+diversity indices using the lme4 package (Bates et al., 2015) in R.
+                                                                             which show differential abundance based on population type,
+We included population type and sampling site in the model as
+                                                                             and only pathways that remained significant (p ≤ 0.05) after
+explanatory variables for each alpha diversity metric. The beta
+                                                                             Benjamini–Hochberg correction were reported.
+diversity was calculated using unweighted and weighted UniFrac
+metrics (Lozupone et al., 2011) methods after rarefying the data
+to 58,700 sequences per sample by using the phyloseq package                 RESULTS
+(McMurdie and Holmes, 2013) in R. Permutational Multivariate
+Analysis of Variance (PERMANOVA) test was performed to                       Microbiome Composition and Diversity
+find out the significance of the differences in the community                The gut microbiome of wild and captive gaur and domestic
+composition with 999 permutations using vegan package in R.                  mithun was characterized by sequencing the V3–V4
+We included, as previously, population type and sampling site                hypervariable region of 16S rRNA gene. In total, 4,520,177
+in the model as explanatory variables for both beta diversity                high-quality reads with an average of 150,672 reads per sample
+metrics. Furthermore, principal coordinates analyses (PCoA)                  were used for analysis after quality filtering. Microbiome of all
+were performed based on UniFrac metrics to understand the                    the three populations was constituted mainly by the following
+pattern of separation between different populations. To deduce               10 bacterial phyla, Actinobacteria, Bacteroidets, Chloroflexi,
+the effect of population type on inter-individual variability,               Cyanobacteria, Firmicutes, Lentisphaerae, Proteobacteria, TM7,
+Wilcoxon rank-sum tests were performed.                                      Tenericutes, and Verrucomicrobia (Figure 1). Among these,
+                                                                             Firmicutes (91.5%) was the predominant phyla followed by
+Identification of Major Gut Bacterial                                        Proteobacteria (2.8%), Cyanobacteria (2.1%), TM7 (0.9%), and
+Phyla and OTUs                                                               Actinobacteria (0.9%).
+In order to understand the bacterial phyla that were specifically               The average observed species count, microbial richness
+influenced by population type, we performed ANOVA on relative                (Chao1 index), and diversity (Shannon index) were found to
+                                                                             be 3948, 8218, and 8.09, respectively. Further, ANOVA models
+1
+    https://www.r-project.org                                                explained that there is no significant variation (p > 0.05)
+
+
+Frontiers in Microbiology | www.frontiersin.org                          3                                      February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                 Consequences of Domestication on the Gut Microbiome
+
+
+
+
+  FIGURE 1 | The gut microbiome composition of gaur and mithun at phylum level. Each bar represents the relative abundance of different phyla in individual samples.
+  Each color represents one of the 10 most abundant phyla in all samples. All other bacteria are grouped as others.
+
+
+
+in the alpha diversity estimates between wild, captive, and                           increase in abundance in the captive population (Supplementary
+domestic populations (Figure 2). However, microbial community                         Table S1). The OTUs that were underrepresented mainly
+composition was significantly influenced by population type                           belonged to the families Ruminococcaceae, Lachnospiraceae, and
+as revealed by PERMANOVA models using both unweighted                                 Rhodobacteraceae, while the OTUs belonging to the genera
+(R2 = 0.111, p = 0.001) and weighted (R2 = 0.144, p = 0.013)                          Anaerostipes, Succinivibrio, and Akkermansia showed increase in
+UniFrac distances. Sampling site showed significant (R2 = 0.464,                      abundance (Figure 6A). Similarly, 68 OTUs showed differential
+p = 0.023) effect on unweighted UniFrac distance but failed to                        abundance between wild and domestic populations. Among the
+show significant effect on weighted UniFrac distance (R2 = 0.479,                     68 OTUs, 56 (82%) showed decrease in abundance whereas
+p = 0.223). The PCoA explained 20.6 and 61.2% variation between                       only 12 (18%) showed increase in abundance in domestic
+populations for unweighted and weighted UniFrac distances,                            population (Supplementary Table S2). The decreased abundance
+respectively (Figure 3). The inter-individual beta diversity varied                   was noticed mainly for the OTUs related to the Ruminococaceae,
+significantly (p < 0.001) in all the three populations. Among                         Rhodobacteraceae, and Lachnospiraceae family (Figure 6B).
+the three populations, domestic population showed lowest beta                         Among the 108 differentially abundant OTUs, 44 OTUs
+diversity index, which indicates high level of similarity in the                      sequentially declined in abundance from wild to captive and
+microbial composition of domestic population (Figure 4).                              further in domestic population. Majority of these OTUs belonged
+                                                                                      to the families Ruminococaceae (n = 12), Rhodobacteraceae
+Relative Abundance of Major Phyla and                                                 (n = 8), and Lachnospiraceae (n = 4).
+OTUs
+The ANOVA tests showed remarkable differences between                                 Predicted Functional Pathways
+populations in the proportion of Cyanobacteria (p = 0.001)                            The PERMANOVA was performed to examine whether
+and TM7 (p = 0.03) phyla. The relative abundance of                                   differences in the predicted KEGG Orthologs (KOs) could be
+Cyanobacteria (Figure 5A) increased from wild to domestic                             explained by population type or sampling site. Both Jaccard
+population, whereas TM7 showed the opposite trend (Figure 5B).                        and Euclidean distances, based on predicted KOs, showed
+Similarly, several OTUs (108) showed substantial differences                          significant differences between populations (Jaccard R2 = 0.157,
+in the mean abundance between wild, captive, and domestic                             p = 0.033; Euclidean R2 = 0.144, p = 0.027) but not on sampling
+populations. Between the wild and captive populations, 91                             sites (Jaccard R2 = 0.492, p = 0.223; Euclidean R2 = 0.464,
+OTUs showed differential abundance, of which 53 OTUs (58%)                            p = 0.284). The PCoA explained 72.7 and 80.2% variance
+revealed decrease in abundance and 38 OTUs (42%) revealed                             for Jaccard and Euclidean distances, respectively (Figure 7).
+
+
+Frontiers in Microbiology | www.frontiersin.org                                   4                                           February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                 Consequences of Domestication on the Gut Microbiome
+
+
+
+
+  FIGURE 2 | Microbial alpha diversity of gaur and mithun. (A) Number of observed species (OTUs), (B) Chao1, (C) phylogenetic diversity.
+
+
+
+
+  FIGURE 3 | Effect of domestication on bacterial community composition. Principal coordinates analysis plots show (A) unweighted and (B) weighted UniFrac
+  distances in wild, captive, and domestic populations (PERMANOVA: unweighted R2 = 0.111, p = 0.001; weighted R2 = 0.144, p = 0.013). Dots and surrounding
+  dashed ellipses (95% confidence level) represent the gut bacterial communities of wild (green), captive (yellow), and domestic (red) populations.
+
+
+
+KEGG analysis identified eight functional pathways that showed                        metabolism,” and “immune system”) showed decrease in
+differential abundance between wild and captive populations                           abundance in captive population except the pathway related
+(Exact test, p < 0.05). All the identified pathways (“transport and                   to “genetic information processing” (Figure 8A), whereas 13
+catabolism,” “digestive system,” “biosynthesis of other secondary                     pathways exhibited differential abundance between wild and
+metabolites,” “endocrine system,” “xenobiotics biodegradation                         domestic populations (exact test, p < 0.05). Surprisingly, all the
+
+
+
+Frontiers in Microbiology | www.frontiersin.org                                   5                                           February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                     Consequences of Domestication on the Gut Microbiome
+
+
+
+
+  FIGURE 4 | Effect of domestication on the inter-individual beta diversity of gaur. The box plots show the beta-diversity distances between individuals of wild (green),
+  captive (yellow), and domestic (red) populations for both (A) unweighted (Kruskal–Wallis test: p < 0.001) and (B) weighted (Kruskal–Wallis test: p < 0.001) UniFrac
+  tests.
+
+
+
+
+  FIGURE 5 | Effect of captivity and domestication on the relative abundance of major bacterial phyla. Box plots indicate the effect of domestication on the relative
+  abundance of two major phyla. (A) Cyanobacteria (p = 0.001) and (B) TM7 (p = 0.03) in wild (green), captive (yellow), and domestic (red) populations.
+
+
+
+pathways corresponding to “cell growth and death,” “endocrine                            in the captive animals compared to their wild counterparts,
+system,” “circulatory system,” “transcription,” “lipid metabolism,”                      suggesting diet and environment as probable factors for such
+“carbohydrate metabolism,” “xenobiotics biodegradation and                               reduction. Domestication of a species could be considered
+metabolism,” “metabolism of terpenoids and polyketides,” and                             as a successive step after initially keeping the animals in
+“immune system” showed decrease in abundance in domestic                                 captivity, which might further influence the gut microbiome.
+population (Figure 8B).                                                                  However, so far, no study has accounted all three scenarios
+                                                                                         simultaneously, i.e., compared the gut microbiome variations
+                                                                                         between wild, captive, and domestic populations. This is the
+DISCUSSION                                                                               first study to characterize the composition and structure of
+                                                                                         gut microbiome of wild, captive, and domestic populations
+A good number of studies have previously examined the gut                                and to provide important implications for the conservation
+microbial diversity between wild and captive populations. In                             and management of wild and domestic species. The gut
+most of these studies, the microbial diversity significantly reduced                     microbiome of gaur and mithun contained Firmicutes as the
+
+
+Frontiers in Microbiology | www.frontiersin.org                                      6                                             February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                   Consequences of Domestication on the Gut Microbiome
+
+
+
+
+  FIGURE 6 | Differential abundance of OTUs between gaur and mithun. OTUs that differed in their mean abundance with respect to population type were filtered by
+  negative binomial Exact test. (A) Wild and captive gaur, (B) wild gaur and domestic mithun. OTUs were arranged according to increasing values of log-fold change.
+  The X axis shows the log2 fold (logFC) decrease (green) and increase (red) of the OTUs based on the population type. The highest possible taxonomic rank is
+  assigned for each OTU. *Indicates unclassified OTUs at genus level.
+
+
+
+
+  FIGURE 7 | Effect of captivity and domestication on the predicted KEEG orthologs (KOs) of gaur and domestic mithun. Principal coordinates analysis plots show
+  (A) Jaccard and (B) Euclidean distances based on the predicted KOs in wild, captive, and domestic populations (PERMANOVA: Jaccard R2 = 0.157, p = 0.033,
+  Euclidean R2 = 0.144, p = 0.027). Dots and dashed ellipses (95% confidence level) reflect the predicted KOs of wild (green), captive (yellow), and domestic (red)
+  populations.
+
+
+
+dominant phylum. The occurrence of phylum Firmicutes in                                2008). Members of Firmicutes are particularly capable of
+higher abundance was in accordance with previous studies                               degrading a wide range of polysaccharides (Cockburn and
+on other ruminants such as cattle, goat, sheep, wood bison,                            Koropatkin, 2016); hence, the higher abundance of Firmicutes
+and alpaca (De Menezes et al., 2011; Weese et al., 2014;                               can be correlated with the food habits of gaur and mithun.
+O’Donnell et al., 2017). Firmicutes is the widely reported                             Similarly, the presence of other bacterial phyla was also
+phylum in the mammalian gut and is known to have a                                     in accordance with previous studies (Weese et al., 2014;
+significant role in host metabolism and digestion (Ley et al.,                         O’Donnell et al., 2017).
+
+
+
+Frontiers in Microbiology | www.frontiersin.org                                    7                                             February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                    Consequences of Domestication on the Gut Microbiome
+
+
+
+
+  FIGURE 8 | Differential abundance of predicted major functional pathways in gaur and domestic mithun. Differences in the mean abundance of major functional
+  pathways (identified by PICRUSt prediction by using KEGG classification) identified by Exact tests (p < 0.05) that differ between (A) wild and captive gaur and (B)
+  wild gaur and domestic mithun. The X axis shows log2 fold (logFC) decrease (green) and increase (red) in relative abundance. Functional pathways are arranged
+  according to increasing values of logFC.
+
+
+
+   There was no significant difference in the alpha diversity                           graze and browse upon a vast variety of plant species (Mondal
+measures between wild, captive, and domestic populations.                               et al., 2014). Also, the diet of domestic mithun and wild gaur
+Numerous, previous studies have also observed no difference                             is similar, which includes plants mainly from Poaceae and
+in the alpha diversity between wild and captive populations of                          Fabaceae families (Nayak and Patra, 2015; Haleem and Ilyas,
+rhinoceros, musk deer, bovid, giraffes, aardvarks, and anteaters                        2018; Jamir and Khare, 2018), which suggests that diet alone
+(Li et al., 2017; McKenzie et al., 2017; Gibson et al., 2019). In                       might not be the causative factor for the low beta diversity of
+contrast, beta diversity significantly varied between populations,                      domestic mithun.
+suggesting that distinct group of microbes inhabits the gut of                             The relative abundance of Cyanobacteria and TM7
+wild, captive, and domestic populations. In particular, a gradual                       remarkably differed between three populations. Cyanobacteria
+decline was observed in the microbial diversity from wild to                            showed increasing trend in captive and domestic populations
+domestic population. It indicates that the gut microbial diversity                      compared to wild population. Cyanobacteria are aerobic bacteria
+is sequentially lost in gaur during domestication, beginning                            widely observed in aqueous and soil environments and are
+with reduction of microbial diversity to some extent when the                           capable of fermenting a range of sugars in anoxic conditions
+animal was moved from wild to captivity (the first step taken                           (Nandi and Sengupta, 1998; Williams et al., 2004; Cruz-Martínez
+toward domesticating an animal) and then losing a much greater                          et al., 2009). As captive gaur and domestic mithun live in the
+portion of the microbiome at the later stage of domestication                           vicinity of human settlements, starches probably might have
+process. However, the effect of location on gut microbiome                              become a regular part of their diet. The increase of Cyanobacteria
+was weak and limited to unweighted UniFrac distance only.                               therefore could be an indication that captive and domestic
+Also, location did not show any effect on predicted microbial                           populations are acquiring gradual adaptation in response to the
+functions, suggesting that overall effect of location is weaker                         increasing starch content in their diet as reported previously in
+compared to that of population type. It is to be expected that                          dog (Axelsson et al., 2013). In contrast, the relative abundance of
+beta diversity will be higher in wild population as they naturally                      TM7 phyla decreased in captive and domestic populations. The
+feed on a vast variety of plant species including grasses, herbs,                       decreasing trend of TM7 phyla has also been observed in captive
+shrubs, and trees in large quantities to meet their daily energy                        Javan slow loris individuals fed with normal diet compared
+requirements, and the samples were also collected from divergent                        to individuals fed with improved diet (Cabana et al., 2019).
+locations. The relatively low beta diversity of captive population,                     TM7 bacteria are found in diverse habitats like soil, freshwater,
+although they were sampled from more diverse locations than                             human oral cavity, gut of several animals, etc. (Marcy et al.,
+wild population, suggested that not locations but captivity-                            2007; Kuehbacher et al., 2008; Ferrari et al., 2014); however, the
+induced factors such as similar diet, limited geographical space,                       functional attributes of TM7 phylum remain largely unknown.
+and contact with conspecific and similar artificial environment                         Some members of TM7 have been suggested to presumably play
+in zoos probably constrain the gut microbiome, making it                                a role in the degradation of polyphenols in the gut of woodrat
+more similar between individuals (Clayton et al., 2016; Billiet                         (Kohl et al., 2011). Therefore, the reduction of TM7 may affect
+et al., 2017; Rosenfeld, 2017; Hale et al., 2018). However, the                         the digestion efficiency of captive and domestic populations
+low beta diversity of domestic population cannot be solely                              as polyphenols; in particular, tannins at higher concentrations
+attributed to the above mentioned factors because generally                             are reported to reduce the nutrient absorption in ruminants
+mithun are allowed to roam freely in the forests, where they                            (Frutos et al., 2004).
+
+
+
+Frontiers in Microbiology | www.frontiersin.org                                     8                                             February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                 Consequences of Domestication on the Gut Microbiome
+
+
+
+   At the lower taxonomic ranks, many OTUs significantly                  beneficial to the host in several ways particularly associated with
+differed in relative abundance between wild, captive, and                 host metabolism and defense mechanism (Biddle et al., 2013;
+domestic populations, and most of these differences observed              Barelli et al., 2015). Therefore, we assume that, as a consequence,
+were characterized by decrease in the abundance of OTUs.                  the pathways associated with digestive and immune systems were
+The majority of bacterial OTUs that showed decreasing trend               predicted to be low in domestic mithun. Reduction of such
+in captivity and after domestication belonged to the families             functionally relevant microbes that aid in host digestion and
+Ruminococcaceae, Rhodobacteraceae, and Lachnospiraceae. The               defense mechanism likely points at the adverse impact of artificial
+members of Ruminococcaceae and Lachnospiraceae families are               selection/inbreeding on the gut microbiome. However, carefully
+known to have high number of glycoside hydrolase genes that               planned experimental laboratory animal crosses based on chosen
+enable them to break down the complex plant components such               phenotypic traits and keeping other variables in control can better
+as cellulose, hemicellulose, and other polysaccharides (Biddle            reveal the role of artificial selection on the gut microbiome.
+et al., 2013). In herbivorous animal, the bacterial breakdown             Given the importance of gut microbiome in facilitating immune
+of complex plant materials has been reported to account                   functions, it is possible that domestication might perturb the host
+for more than 50% of their energy production (Flint et al.,               immune response and cause pathogenesis, thereby having a direct
+2008). Hence, the reduction of commensal Ruminococcaceae                  effect on the production performances of domestic animals.
+and Lachnospiraceae might seriously affect the dietary energy             Thus, further investigations are required in this area to dissect
+requirements of captive and domestic populations. Other than              out the influence of each factor associated with domestication
+impeding the efficiency of host digestion, these bacterial families       on gut microbiome.
+are also associated with protection against enteric infections
+(Wlodarska et al., 2015). Rhodobacteraceae are reported to
+be involved in water purification, which removes harmful                  CONCLUSION
+substances from water (Nupur et al., 2013) and known to be
+major producers of vitamin B12 in marine ecosystems (Sañudo-              Our results showed significant variations in the gut microbiome
+Wilhelmy et al., 2014). Some members of Rhodobacteraceae are              between wild, captive, and domestic populations. These
+able to produce tropodithietic acid, which inhibits the growth of         variations, to a great extent, were characterized by low
+pathogens (Beyersmann et al., 2017). However, their functional            bacterial diversity and significant loss of several bacterial OTUs
+attributes in the rumen is not fully known.                               predominantly belonging to commensal bacteria. Although such
+   Domestication is a process in which a subset of wild animals           variations are generally explained by radical shifts in the diet,
+are selected artificially for their desired phenotype over a period       our study shows that microbiome variations in the domestic
+of time for human needs. In the course of domestication, wild             population could also be attributed to domestication process. If
+animals undergo prolonged period of stress and behavioral                 domestication exerts such an impact on the gut microbiome of
+changes. Recent studies have shown that many factors associated           domestic mithun, even though they are allowed to roam freely
+with domestication can either directly or indirectly influence            in the forest to compensate their limited diet, it might have
+the gut microbiome in domestic animals (Yuan et al., 2015;                serious impact on gut microbiome of the animals that are raised
+Cunningham et al., 2018; Karl et al., 2018; Griffiths et al., 2019;       under strict human constructed environments. Our findings
+Li et al., 2019). Our study showed significant differences in the         therefore imply that domestication might affect the health and
+gut microbiome between wild and domestic populations, and                 fitness of animals by altering the gut microbiome. However, it
+these differences cannot be solely attributed to the diet and             is necessary to study the gut microbiome variations associated
+environment as reported in previous studies, because the diet             with domestication across a wide range of domesticates in
+of domestic mithun and wild gaur is similar and the effect                order to understand the general trend of microbiome shifts in
+of location was not significant in our analyses. Therefore we             domestic species. Studies of such kind may indeed have broader
+suggest that the microbiome differences observed between wild             implications in the health management and conservation of wild
+and domestic populations can be attributed to the domestication           and domestic animals.
+associated factors such as artificial selection, inbreeding,
+phenotype, genotype, physiological changes, stress, etc. Among
+these factors, inbreeding is an unavoidable consequence in
+                                                                          DATA AVAILABILITY STATEMENT
+domestication due to the intense selection process in which               The raw sequence reads can be found at Sequence Read Archive
+only a few superior males are allowed to breed with females.              (SRA) under BioProject ID: PRJNA595722.
+Recent studies have shown the influence of inbreeding on gut
+microbiome composition in house mice and gopher tortoises
+(Kreisinger et al., 2014; Yuan et al., 2015). The phylum Firmicutes       AUTHOR CONTRIBUTIONS
+showed decreased abundance in inbred individuals in both
+the studies. Similarly, in our study, several OTUs particularly           MN conceived the study. VP performed the experiments and
+belonging to the phylum Firmicutes also decreased in abundance            wrote the manuscript. Wasimuddin performed the analyses. VP,
+in domestic mithun as compared to wild population. Most                   RK, and MA contributed to sample collection. Wasimuddin and
+of the Firmicutes OTUs were represented by the families                   MN revised the manuscript. All authors read and approved the
+Lachnospiraceae and Ruminococcaceae, which are known to be                final manuscript.
+
+
+Frontiers in Microbiology | www.frontiersin.org                       9                                      February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                              Consequences of Domestication on the Gut Microbiome
+
+
+
+
+FUNDING                                                                                        sample collection. We also owe thanks to the Additional
+                                                                                               Principal Chief Conservator of Forest and Director, Arignar
+This work was partly supported by the Science and Engineering                                  Anna Zoological Park, Chennai, Tamil Nadu; Director, Sri
+Research Board (SERB), the Department of Science and                                           Chamarajendra Zoological Gardens, Mysore, Karnataka; The
+Technology, (EMR/2015/000937), and the Department of                                           Executive Director, Bannerghatta Biological Park, Bangaluru,
+Biotechnology (BT/PR14584/AAQ/1/647/2015), Government                                          Karnataka; Director, Zoological Park, Thiruvananthapuram,
+of India, New Delhi. VP was supported by DST-INSPIRE                                           Kerala; Bondla Zoo, Goa, for providing necessary support during
+(IF160266) through Ph.D. fellowship.                                                           the sample collection.
+
+
+ACKNOWLEDGMENTS                                                                                SUPPLEMENTARY MATERIAL
+The authors are sincerely thankful to the Forest department                                    The Supplementary Material for this article can be found
+of Kerala, Karnataka, Goa, and Tamil Nadu, for giving                                          online at: https://www.frontiersin.org/articles/10.3389/fmicb.
+permission to carry out fieldwork and their support during                                     2020.00133/full#supplementary-material
+
+
+REFERENCES                                                                                     Conlon, M. A., and Bird, A. R. (2015). The impact of diet and lifestyle on gut
+                                                                                                   microbiota and human health. Nutrients 7, 17–44. doi: 10.3390/nu7010017
+Axelsson, E., Ratnakumar, A., Arendt, M. L., Maqbool, K., Webster, M. T., Perloski,            Crespo-Piazuelo, D., Estellé, J., Revilla, M., Criado-Mesas, L., Ramayo-Caldas, Y.,
+    M., et al. (2013). The genomic signature of dog domestication reveals adaptation               Óvilo, C., et al. (2018). Characterization of bacterial microbiota compositions
+    to a starch-rich diet. Nature 495, 360–365. doi: 10.1038/nature11837                           along the intestinal tract in pigs and their interactions and functions. Sci. Rep.
+Bäckhed, F., Ley, R. E., Sonnenburg, J. L., Peterson, D. A., and Gordon, J. I. (2005).             8:12727. doi: 10.1038/s41598-018-30932-6
+    Host-bacterial mutualism in the human intestine. Science 307, 1915–1920. doi:              Cruz-Martínez, K., Suttle, K. B., Brodie, E. L., Power, M. E., Andersen, G. L., and
+    10.1126/science.1104816                                                                        Banfield, J. F. (2009). Despite strong seasonal responses, soil microbial consortia
+Barelli, C., Albanese, D., Donati, C., Pindo, M., Dallago, C., Rovero, F., et al.                  are more resilient to long-term changes in rainfall than overlying grassland.
+    (2015). Habitat fragmentation is associated to gut microbiota diversity of an                  ISME J. 3, 738–744. doi: 10.1038/ismej.2009.16
+    endangered primate: implications for conservation. Sci. Rep. 5:14862. doi: 10.             Cunningham, H. C., Austin, K. J., and Cammack, K. M. (2018). Influence of
+    1038/srep14862                                                                                 maternal factors on the rumen microbiome and subsequent host performance.
+Bates, D., Mächler, M., Bolker, B., and Walker, S. (2015). Fitting linear mixed-effects            Transl. Anim. Sci. 2, S101–S105. doi: 10.1093/tas/txy058
+    models using lme4. J. Stat. Softw. 67, 1–48.                                               De Menezes, A. B., Lewis, E., O’Donovan, M., O’Neill, B. F., Clipson, N., and Doyle,
+Beyersmann, P. G., Tomasch, J., Son, K., Stocker, R., Göker, M., Wagner-Döbler, I.,                E. M. (2011). Microbiome analysis of dairy cows fed pasture or total mixed
+    et al. (2017). Dual function of tropodithietic acid as antibiotic and signaling                ration diets. FEMS Microbiol. Ecol. 78, 256–265. doi: 10.1111/j.1574-6941.2011.
+    molecule in global gene regulation of the probiotic bacterium Phaeobacter                      01151.x
+    inhibens. Sci. Rep. 7:730. doi: 10.1038/s41598-017-00784-7                                 Dorji, T., Mannen, H., Namikawa, T., Inamura, T., and Kawamoto, Y. (2010).
+Biddle, A., Stewart, L., Blanchard, J., and Leschine, S. (2013). Untangling the genetic            Diversity and phylogeny of mitochondrial DNA isolated from mithun Bos
+    basis of fibrolytic specialization by Lachnospiraceae and Ruminococcaceae in                   frontalis located in Bhutan. Anim. Genet. 41, 554–556. doi: 10.1111/j.1365-2052.
+    diverse gut communities. Diversity 5, 627–640. doi: 10.3390/d5030627                           2010.02033.x
+Billiet, A., Meeus, I., Van Nieuwerburgh, F., Deforce, D., Wäckers, F., and Smagghe,           Dubois, G., Girard, C., Lapointe, F. J., and Shapiro, B. J. (2017). The Inuit gut
+    G. (2017). Colony contact contributes to the diversity of gut bacteria in                      microbiome is dynamic over time and shaped by traditional foods. Microbiome
+    bumblebees (Bombus terrestris). Insect Sci. 24, 270–277. doi: 10.1111/1744-                    5:151. doi: 10.1186/s40168-017-0370-7
+    7917.12284                                                                                 Edgar, R. C. (2010). Search and clustering orders of magnitude faster than BLAST.
+Cabana, F., Clayton, J. B., Nekaris, K. A. I., Wirdateti, W., Knights, D., and Seedorf,            Bioinformatics 26, 2460–2461. doi: 10.1093/bioinformatics/btq461
+    H. (2019). Nutrient-based diet modifications impact on the gut microbiome                  Ferrari, B., Winsley, T., Ji, M., and Neilan, B. (2014). Insights into the distribution
+    of the Javan slow loris (Nycticebus javanicus). Sci. Rep. 9:4078. doi: 10.1038/                and abundance of the ubiquitous candidatus Saccharibacteria phylum following
+    s41598-019-40911-0                                                                             tag pyrosequencing. Sci. Rep. 4:3957. doi: 10.1038/srep03957
+Caporaso, J. G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F. D.,                  Flint, H. J., Bayer, E. A., Rincon, M. T., Lamed, R., and White, B. A. (2008).
+    Costello, E. K., et al. (2010). QIIME allows analysis of high-throughput                       Polysaccharide utilization by gut bacteria: potential for new insights from
+    community sequencing data. Nat. Methods 7, 335–336. doi: 10.1038/nmeth.f.                      genomic analysis. Nat. Rev. Microbiol. 6, 121–131. doi: 10.1038/nrmicro1817
+    303                                                                                        Frutos, P., Hervas, G., Giráldez, F. J., and Mantecón, A. R. (2004). Tannins and
+Cerf-Bensussan, N., and Gaboriau-Routhiau, V. (2010). The immune system and                        ruminant nutrition. Span. J. Agric. Res. 2, 191–202. doi: 10.5424/sjar/2004022-
+    the gut microbiota: friends or foes? Nat. Rev. Immunol. 10, 735–744. doi: 10.                  73
+    1038/nri2850                                                                               Gibson, K. M., Nguyen, B. N., Neumann, L. M., Miller, M., Buss, P., Daniels,
+Cheng, Y., Fox, S., Pemberton, D., Hogg, C., Papenfuss, A. T., and Belov, K.                       S., et al. (2019). Gut microbiome differences between wild and captive black
+    (2015). The Tasmanian devil microbiome–implications for conservation and                       rhinoceros – implications for rhino health. Sci. Rep. 9:7570. doi: 10.1038/
+    management. Microbiome 3:76. doi: 10.1186/s40168-015-0143-0                                    s41598-019-43875-3
+Choudhury, A. (2002). Distribution and conservation of the Gaur Bos gaurus in the              Griffiths, S. M., Antwis, R. E., Lenzi, L., Lucaci, A., Behringer, D. C., Butler, M. J. IV,
+    Indian subcontinent. Mamm. Rev. 32, 199–226. doi: 10.1046/j.1365-2907.2002.                    et al. (2019). Host genetics and geography influence microbiome composition
+    00107.x                                                                                        in the sponge Ircinia campana. J. Anim. Ecol. 88, 1684–1695. doi: 10.1111/1365-
+Clayton, J. B., Vangay, P., Huang, H., Ward, T., Hillmann, B. M., Al-                              2656.13065
+    Ghalith, G. A., et al. (2016). Captivity humanizes the primate microbiome.                 Hale, V. L., Tan, C. L., Niu, K., Yang, Y., Knight, R., Zhang, Q., et al. (2018). Diet
+    Proc. Natl. Acad. Sci. U.S.A. 113, 10376–10381. doi: 10.1073/pnas.15218                        versus phylogeny: a comparison of gut microbiota in captive colobine monkey
+    35113                                                                                          species. Microb. Ecol. 75, 515–527. doi: 10.1007/s00248-017-1041-8
+Cockburn, D. W., and Koropatkin, N. M. (2016). Polysaccharide degradation by                   Haleem, H., and Ilyas, O. (2018). Food and feeding habits of Gaur (Bos gaurus)
+    the intestinal microbiota and its influence on human health and disease. ıJ. Mol.              in Highlands of Central India: a case study at Pench Tiger Reserve, Madhya
+    Biol. 428, 3230–3252. doi: 10.1016/j.jmb.2016.06.021                                           Pradesh (India). Zool. Sci. 35, 57–67 doi: 10.2108/zs170097
+
+
+
+Frontiers in Microbiology | www.frontiersin.org                                           10                                                  February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                                 Consequences of Domestication on the Gut Microbiome
+
+
+
+Hird, S. M. (2017). Evolutionary biology needs wild microbiomes. Front. Microbiol.                 Mukherjee, A., Mukherjee, S., Dhakal, R., Mech, M., Longkumer, I., Haque,
+    8:725. doi: 10.3389/fmicb.2017.00725                                                              N., et al. (2018). High-density genotyping reveals genomic characterization,
+Jamir, S., and Khare, N. (2018). Food, feeding habits of Mithun (Bos frontalis) in                    population structure and genetic diversity of Indian Mithun (Bos frontalis). Sci.
+    protected area of Nagaland. Int. J. Curr. Microbiol. Appl. Sci. 7, 1416–1426.                     Rep. 8:10316 doi: 10.1038/s41598-018-28718-x
+    doi: 10.20546/ijcmas.2018.710.157                                                              Nadkarni, M. A., Martin, F. E., Jacques, N. A., and Hunter, N. (2002).
+Karl, J. P., Hatch, A. M., Arcidiacono, S. M., Pearce, S. C., Pantoja-Feliciano,                      Determination of bacterial load by real-time PCR using a broad-range
+    I. G., Doherty, L. A., et al. (2018). Effects of psychological, environmental and                 (universal) probe and primers set. Microbiology 148, 257–266. doi: 10.1099/
+    physical stressors on the gut microbiota. Front. Microbiol. 9:2013. doi: 10.3389/                 00221287-148-1-257
+    fmicb.2018.02013                                                                               Nagarajan, M., Prabhu, V. R., and Kamalakkannan, R. (2018). “Metagenomics:
+Kohl, K. D., Weiss, R. B., Dale, C., and Dearing, M. D. (2011). Diversity and novelty                 implications in oral health and disease,” in Metagenomics Perspectives, Methods,
+    of the gut microbial community of an herbivorous rodent (Neotoma bryanti).                        and Applications, ed. M. Nagarajan, (London: Academic Press), 179–195. doi:
+    Symbiosis 54:47. doi: 10.1007/s13199-011-0125-3                                                   10.1016/B978-0-08-102268-9.00009-4
+Kreisinger, J., Čížková, D., Vohánka, J., and Piálek, J. (2014). Gastrointestinal                 Nandi, R., and Sengupta, S. (1998). Microbial production of hydrogen: an overview.
+    microbiota of wild and inbred individuals of two house mouse subspecies                           Crit. Rev. Microbiol. 24, 61–84. doi: 10.1080/10408419891294181
+    assessed using high-throughput parallel pyrosequencing. Mol. Ecol. 23, 5048–                   Nayak, B. K., and Patra, A. K. (2015). Food and feeding habits of Indian Bison, Bos
+    5060. doi: 10.1111/mec.12909                                                                      gaurus (Smith, 1827) in Kuldiha Wildlife Sanctuary, Balasore, Odisha, India and
+Kuehbacher, T., Rehman, A., Lepage, P., Hellmig, S., Fölsch, U. R., Schreiber, S.,                    its conservation. ıInt. J. Biol. Sci. 4, 73–79.
+    et al. (2008). Intestinal TM7 bacterial phylogenies in active inflammatory bowel               Nupur, V. B., Tanuku, N. R., and Pinnaka, A. K. (2013). Albirhodobacter marinus
+    disease. J. Med. Microbiol. 57, 1569–1576. doi: 10.1099/jmm.0.47719-0                             gen. nov. sp. nov. a member of the family Rhodobacteraceae isolated from sea
+Langille, M. G., Zaneveld, J., Caporaso, J. G., McDonald, D., Knights, D., Reyes,                     shore water of visakhapatnam, India. Antonie Van Leeuwenhoek 103, 347–355.
+    J. A., et al. (2013). Predictive functional profiling of microbial communities                    doi: 10.1007/s10482-012-9814-z
+    using 16S rRNA marker gene sequences. Nat. Biotechnol. 31, 814–821. doi:                       Obregon-Tito, A. J., Tito, R. Y., Metcalf, J., Sankaranarayanan, K., Clemente,
+    10.1038/nbt.2676                                                                                  J. C., Ursell, L. K., et al. (2015). Subsistence strategies in traditional societies
+LeBlanc, J. G., Milani, C., de Giori, G. S., Sesma, F., van Sinderen, D., and                         distinguish gut microbiomes. Nat. Commun. 6:6505. doi: 10.1038/ncomms7505
+    Ventura, M. (2013). Bacteria as vitamin suppliers to their host: a gut microbiota              O’Donnell, M. M., Harris, H. M., Ross, R. P., and O’Toole, P. W. (2017). Core
+    perspective. Curr. Opin. Biotechnol. 249, 160–168. doi: 10.1016/j.copbio.2012.                    faecal microbiota of domesticated herbivorous ruminant, hindgut fermenters,
+    08.005                                                                                            and monogastric animals. Microbiologyopen 6:e00509.doi: 10.1002/mbo3.509
+Ley, R. E., Hamady, M., Lozupone, C., Turnbaugh, P. J., Ramey, R. R., Bircher,                     Prabhu, V. R., Arjun, M. S., Bhavana, K., Kamalakkannan, R., and Nagarajan, M.
+    J. S., et al. (2008). Evolution of mammals and their gut microbes. Science 320,                   (2019). Complete mitochondrial genome of Indian mithun, Bos frontalis and its
+    1647–1651. doi: 10.1126/science.1155725                                                           phylogenetic implications. Mol. Biol. Rep. 46, 2561–2566. doi: 10.1007/s11033-
+Li, F., Li, C., Chen, Y., Liu, J., Zhang, C., Irving, B., et al. (2019). Host genetics                019-04675-0
+    influence the rumen microbiota and heritable rumen microbial features                          Qu, K. X., He, Z. X., Nie, W. H., Zhang, J. C., Jin, X. D., Yang, G. R., et al. (2012).
+    associate with feed efficiency in cattle. Microbiome 7:92. doi: 10.1186/s40168-                   Karyotype analysis of mithun (Bos frontalis) and mithun bull x Brahman cow
+    019-0699-1                                                                                        hybrids. Genet. Mol. Res. 11, 131–140. doi: 10.4238/2012.January.19.1
+Li, Y., Hu, X., Yang, S., Zhou, J., Zhang, T., Qi, L., et al. (2017). Comparative analysis         Rampelli, S., Schnorr, S. L., Consolandi, C., Turroni, S., Severgnini, M., Peano,
+    of the gut microbiota composition between captive and wild forest musk deer.                      C., et al. (2015). Metagenome sequencing of the Hadza hunter-gatherer gut
+    Front. Microbiol. 8:1705. doi: 10.3389/fmicb.2017.01705                                           microbiota. Curr. Biol. 25, 1682–1693. doi: 10.1016/j.cub.2015.04.055
+Lozupone, C., Lladser, M. E., Knights, D., Stombaugh, J., and Knight, R. (2011).                   Robinson, M. D., McCarthy, D. J., and Smyth, G. K. (2010). edgeR: a Bioconductor
+    UniFrac: an effective distance metric for microbial community comparison.                         package for differential expression analysis of digital gene expression data.
+    ISME J. 5, 169–172. doi: 10.1038/ismej.2010.133                                                   Bioinformatics 26, 139–140. doi: 10.1093/bioinformatics/btp616
+Magoč, T., and Salzberg, S. L. (2011). FLASH: fast length adjustment of short reads               Rosenfeld, C. S. (2017). Gut dysbiosis in animals due to environmental chemical
+    to improve genome assemblies. Bioinformatics 27, 2957–2963. doi: 10.1093/                         exposures. Front. Cell. Infect. Microbiol. 7:396. doi: 10.3389/fcimb.2017.00396
+    bioinformatics/btr507                                                                          Sañudo-Wilhelmy, S. A., Gómez-Consarnau, L., Suffridge, C., and Webb, E. A.
+Marcy, Y., Ouverney, C., Bik, E. M., Lösekann, T., Ivanova, N., Martin, H. G.,                        (2014). The role of B vitamins in marine biogeochemistry. Ann. Rev. Mar. Sci.
+    et al. (2007). Dissecting biological “dark matter” with single-cell genetic                       6, 339-367. doi: 10.1146/annurev-marine-120710-100912
+    analysis of rare and uncultivated TM7 microbes from the human mouth.                           Schmieder, R., and Edwards, R. (2011). Quality control and preprocessing
+    Proc. Natl. Acad. Sci. U.S.A. 104, 11889–11894. doi: 10.1073/pnas.07046                           of metagenomic datasets. Bioinformatics 27, 863–864. doi: 10.1093/
+    62104                                                                                             bioinformatics/btr026
+Martin, M. (2011). Cutadapt removes adapter sequences from high-throughput                         Schnorr, S. L., Candela, M., Rampelli, S., Centanni, M., Consolandi, C., Basaglia,
+    sequencing reads. EMBnet J. 17, 10–12. doi: 10.14806/ej.17.1.200                                  G., et al. (2014). Gut microbiome of the Hadza hunter-gatherers. Nat. Commun.
+Martínez, I., Stegen, J. C., Maldonado-Gómez, M. X., Eren, A. M., Siba, P. M.,                        5:3654. doi: 10.1038/ncomms4654
+    Greenhill, A. R., et al. (2015). The gut microbiota of rural papua new guineans:               Simoons, F. J. (1984). “Gayal or mithan,” in Evolution of Domesticated Animals, ed.
+    composition, diversity patterns, and ecological processes. Cell Rep. 11, 527–538.                 L. L. Mason, (London: Longman Publishing), 34–39.
+    doi: 10.1016/j.celrep.2015.03.049                                                              Valle Gottlieb, M. G., Closs, V. E., Junges, V. M., and Schwanke, C. H. A. (2017).
+Martínez-Mota, R., Kohl, K. D., Orr, T. J., and Dearing, M. D. (2020). Natural diets                  Impact of human aging and modern lifestyle on gut microbiota. Crit. Rev. Food
+    promote retention of the native gut microbiota in captive rodents. ISME J. 14,                    Sci. Nutr. 58, 1557–1564. doi: 10.1080/10408398.2016.1269054
+    67–78. doi: 10.1038/s41396-019-0497-6                                                          Wang, M. S., Zeng, Y., Wang, X., Nie, W. H., Wang, J. H., Su, W. T., et al. (2017).
+McKenzie, V. J., Song, S. J., Delsuc, F., Prest, T. L., Oliverio, A. M., Korpita, T. M.,              Draft genome of the gayal, Bos frontalis. GigaScience 6:gix094. doi: 10.1093/
+    et al. (2017). The effects of captivity on the mammalian gut microbiome. Integr.                  gigascience/gix094
+    Comp. Biol. 57, 690–704. doi: 10.1093/icb/icx090                                               Wasimuddin, Menke, S., Melzheimer, J., Thalwitzer, S., Heinrich, S., Wachter, B.,
+McMurdie, P. J., and Holmes, S. (2013). phyloseq: an R package for reproducible                       et al. (2017). Gut microbiomes of free-ranging and captive Namibian cheetahs:
+    interactive analysis and graphics of microbiome census data. PloS One 8:e61217.                   diversity, putative functions and occurrence of potential pathogens. Mol. Ecol.
+    doi: 10.1371/journal.pone.0061217                                                                 26, 5515–5527. doi: 10.1111/mec.14278
+Metcalf, J. L., Song, S. J., Morton, J. T., Weiss, S., Seguin-Orlando, A., Joly, F., et al.        Weese, J. S., Shury, T., and Jelinski, M. D. (2014). The fecal microbiota of semi-
+    (2017). Evaluating the impact of domestication and captivity on the horse gut                     free-ranging wood bison (Bison bison athabascae). BMC Vet. Res. 10:120. doi:
+    microbiome. Sci. Rep. 7:15497. doi: 10.1038/s41598-017-15375-9                                    10.1186/1746-6148-10-120
+Mondal, M., Baruah, K. K., and Rajkhowa, C. (2014). Mithun: an animal of Indian                    Williams, M. M., Domingo, J. W. S., Meckes, M. C., Kelty, C. A., and Rochon,
+    pride. Livest. Res. Rural Dev. 26, 6. doi: 10.1016/j.theriogenology.2017.04.049                   H. S. (2004). Phylogenetic diversity of drinking water bacteria in a distribution
+
+
+
+
+Frontiers in Microbiology | www.frontiersin.org                                               11                                                February 2020 | Volume 11 | Article 133
+Prabhu et al.                                                                                                       Consequences of Domestication on the Gut Microbiome
+
+
+
+  system simulator. J. Appl. Microbiol. 96, 954–964. doi: 10.1111/j.1365-2672.           Conflict of Interest: The authors declare that the research was conducted in the
+  2004.02229.x                                                                           absence of any commercial or financial relationships that could be construed as a
+Wlodarska, M., Willing, B. P., Bravo, D. M., and Finlay, B. B.                           potential conflict of interest.
+  (2015). Phytonutrient diet supplementation promotes beneficial
+  Clostridia species and intestinal mucus secretion resulting in                         Copyright © 2020 Prabhu, Wasimuddin, Kamalakkannan, Arjun and Nagarajan.
+  protection against enteric infection. Sci. Rep. 5:9253. doi: 10.1038/srep              This is an open-access article distributed under the terms of the Creative Commons
+  09253                                                                                  Attribution License (CC BY). The use, distribution or reproduction in other forums
+Yuan, M. L., Dean, S. H., Longo, A. V., Rothermel, B. B., Tuberville, T. D., and         is permitted, provided the original author(s) and the copyright owner(s) are credited
+  Zamudio, K. R. (2015). Kinship, inbreeding and fine−scale spatial structure            and that the original publication in this journal is cited, in accordance with accepted
+  influence gut microbiota in a hindgut-fermenting tortoise. Mol. Ecol. 24, 2521–        academic practice. No use, distribution or reproduction is permitted which does not
+  2536. doi: 10.1111/mec.13169                                                           comply with these terms.
+
+
+
+
+Frontiers in Microbiology | www.frontiersin.org                                     12                                                February 2020 | Volume 11 | Article 133
+

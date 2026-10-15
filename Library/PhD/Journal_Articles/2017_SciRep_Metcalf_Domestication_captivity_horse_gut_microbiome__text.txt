@@ -1,0 +1,545 @@
+                                                                                                          www.nature.com/scientificreports
+
+
+
+
+                         OPEN         Evaluating the impact of
+                                      domestication and captivity on the
+                                      horse gut microbiome
+Received: 15 June 2017                Jessica L. Metcalf 1, Se Jin Song 2,3, James T. Morton2,4, Sophie Weiss5, Andaine Seguin-
+Accepted: 26 October 2017             Orlando6,7, Frédéric Joly8, Claudia Feh8, Pierre Taberlet9, Eric Coissac9, Amnon Amir 2, Eske
+Published: xx xx xxxx                 Willerslev7, Rob Knight 2,4,10, Valerie McKenzie3 & Ludovic Orlando7,11
+                                      The mammal gut microbiome, which includes host microbes and their respective genes, is now
+                                      recognized as an essential second genome that provides critical functions to the host. In humans,
+                                      studies have revealed that lifestyle strongly influences the composition and diversity of the
+                                      gastrointestinal microbiome. We hypothesized that these trends in humans may be paralleled in
+                                      mammals subjected to anthropogenic forces such as domestication and captivity, in which diets and
+                                      natural life histories are often greatly modified. We investigated fecal microbiomes of Przewalski’s
+                                      horse (PH; Equus ferus przewalskii), the only horses alive today not successfully domesticated by
+                                      humans, and herded, domestic horse (E. f. caballus) living in adjacent natural grasslands. We discovered
+                                      PH fecal microbiomes hosted a distinct and more diverse community of bacteria compared to domestic
+                                      horses, which is likely partly explained by different plant diets as revealed by trnL maker data. Within
+                                      the PH population, four individuals were born in captivity in European zoos and hosted a strikingly low
+                                      diversity of fecal microbiota compared to individuals born in natural reserves in France and Mongolia.
+                                      These results suggest that anthropogenic forces can dramatically reshape equid gastrointestinal
+                                      microbiomes, which has broader implications for the conservation management of endangered
+                                      mammals.
+
+
+                                      The gut microbiota of mammals provides the host with important functions, such as training the immune
+                                      system early in life, metabolism, and synthesis of vitamins. This essential relationship between mammals and
+                                      their microbes is the result of millions of years of co-evolution1. Therefore, disruptions between mammals
+                                      and their microbial partners likely have major consequences for host health. In humans, the transition from
+                                      hunter-gathering to farming and later to urban lifestyles included major dietary shifts, increased exposure to
+                                      indoor environments, and the introduction of antibiotics and possibility of cesarean birth. These transitions are
+                                      associated with a distinct and less diverse gut microbiome2–6 that has been implicated in the rise of immuno-
+                                      logic and metabolic diseases7–9. A disruption of tightly evolved host-microbe relationships may be evident in
+                                      non-human mammals as well, particularly those exposed to major diet and life history changes. We hypothesize
+                                      that anthropogenic forces on mammals such as domestication and captivity in zoos may have reshaped mammal
+                                      gut microbiomes. Domestication of animals is associated with modifications of species movement, feeding, pro-
+                                      tection, environment, and breeding, particularly to control behavior10. Captivity of mammals in zoos results in
+
+                                      1
+                                        Department of Animal Sciences, Colorado State University, Fort Collins, CO, USA. 2Department of Pediatrics,
+                                      University of California San Diego, San Diego, CA, USA. 3Department of Ecology and Evolutionary Biology,
+                                      University of Colorado, Boulder, USA. 4Department of Computer Science and Engineering, University of California
+                                      San Diego, La Jolla, California, USA. 5Department of Chemical and Biological Engineering, University of Colorado
+                                      at Boulder, Boulder, CO 80309, Colorado, USA. 6National High-Throughput DNA Sequencing Center, University of
+                                      Copenhagen, Øster Farimagsgade 2D entrance E, 1353 K, Copenhagen, Denmark. 7Centre for GeoGenetics, Natural
+                                      History Museum of Denmark, University of Copenhagen, Øster Voldade 5-7, 1350 K, Copenhagen, Denmark.
+                                      8
+                                        Association pour le cheval de Przewalski: TAKH, Station biologique de la Tour du Valat, 13200, Arles, France.
+                                      9
+                                       Laboratoire d’Ecologie Alpine (LECA), Centre National de la Recherche Scientifique and Université Grenoble-Alpes,
+                                      Grenoble, France. 10Center for Microbiome Innovation, University of California San Diego, La Jolla, California, USA.
+                                      11
+                                         Laboratoire d’Anthropobiologie Moléculaire et d’Imagerie de Synthèse (AMIS), CNRS UMR 5288, Université de
+                                      Toulouse, Université Paul Sabatier, 31000, Toulouse, France. Correspondence and requests for materials should be
+                                      addressed to L.O. (email: ludovic.orlando@univ-tlse3.fr)
+
+
+        Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                  1
+www.nature.com/scientificreports/
+
+
+                              similar lifestyle modifications as domestication, but on shorter timescales and often with more extreme changes
+                              such as highly restricted diets, small habitat sizes, reduced social interactions, and higher exposures to antibiotics.
+                              Similar to humans, it is possible that these modifications will result in a distinct and less diverse gut microbiota in
+                              domesticated and captive mammals compared to wild conspecifics.
+                                  We investigated the effects of domestication and captivity on the fecal microbiomes, as a proxy for the gastro-
+                              intestinal microbiome, of a unique pair of horse populations living in Mongolia. PH, which were never success-
+                              fully domesticated, are enclosed by a fence to separate them from herded, domestic horse (Figure S1). Twenty-two
+                              individuals of PH were reintroduced in 2004 and 2005 to the 140 km2 reserve in Seer, Mongolia, and the popu-
+                              lation has grown to 59 individuals. Translocated animals originated from a 400 ha reserve in Villaret, France as
+                              well as the Prague zoo in the Czech Republic and the Kosice Zoo in Slovakia. Domestic horses live within a short
+                              range of the reserve on the Khomyn Tal plateau, which includes similar grazing vegetation as the Seer PH reserve
+                              (Figure S1).
+                                  Adult mammal gut microbiomes are largely constrained by host phylogeny11,12, but also influenced by diet11,12,
+                              cohabitation13, and host kinship to a lesser extent14. We acknowledge that care should be taken when comparing
+                              trends across mammals with very different digestive physiologies. However, we suspect that forces shaping gut
+                              microbiomes may be similar across different gastrointestinal physiologies because the gut microbiome serves the
+                              same basic function across mammals - providing the host with expanded metabolic capabilities such as addi-
+                              tional energy and nutrient extraction from their diet11. Therefore, we hypothesized that PH and domesticated
+                              horse may differ in their gut microbiomes reflecting their divergence time of approximately 45,000 years ago15,16.
+                              Alternatively, because pedigree records and whole-genome sequence data show that all 2,100 PH individuals
+                              living today descend from approximately 12–16 founders including several domestic Mongolian mares15,17–19,
+                              PH may not host a distinct gut microbiome. We also hypothesized that the gut microbiomes of domesticated
+                              horses may be less phylogenetically diverse compared to PH, following microbiome diversity trends associated
+                              with humans living traditional versus urban lifestyles2,4,6. Alternatively, PH microbiomes may be less diverse due
+                              to extreme host genetic bottlenecks since the second half of the 19th century15. Additionally, we hypothesized
+                              that the two horse populations likely consumed a fairly similar plant diet because of their close proximity and
+                              similar forage environment. However, it is also possible that the two groups of horses consume different plant
+                              diets, which would likely contribute to differences in their fecal microbiomes. Finally, within the PH population,
+                              we hypothesized that horses born in zoo environments may be exposed to a different and less diverse suite of
+                              microbes20 that may persist even after reintroductions into reserves.
+                                  To test these hypotheses, we characterized fecal microbiomes via 16S rRNA amplicon sequencing of 44 PH
+                              and 28 domestic horses. In horses, fecal microbiomes are highly similar to the microbiome of the dorsal colon,
+                              but include many of the microbial taxa present in the ventral colon and cecum21, in which the bulk of fiber fer-
+                              mentation takes place. Therefore, we conclude that horse feces are an excellent, non-invasive means to assess the
+                              microbial fermentation communities in the large intestine of the horse. Additionally, we investigated whether
+                              horse populations were eating similar plant diets by amplicon sequencing of the P6 loop of the chloroplast trnL
+                              intron22 from the same fecal DNA extracts.
+
+                              Results and Discussion
+                              As in comparative studies of fecal microbiomes from human populations6, age had the most striking effect on
+                              horse fecal microbiome composition and diversity (Fig. 1, Figure S2). In horses >1 year in age, fecal microbi-
+                              omes of both horse populations were dominated by taxa in the groups Bacteroidales, Treponema, Bacteroidetes,
+                              Fibrobacter, and Lachnospiraceae (Figure S3). The PH population included five pre-weaned newborn foals, which
+                              had a less phylogenetically diverse (Fig. 1a), and compositionally distinct (Figure S3) fecal microbial community
+                              compared to PHs over the age of 1 year. Two of the five PH foals had fecal microbiomes with very high abundance
+                              of Bacteroides (Figure S3), which are typically in high abundance before weaning in mammals23. The correla-
+                              tion of fecal microbial diversity present within the PH population and age remained significant even with foals
+                              excluded (Fig. 1b).
+                                  PH fecal microbiomes differ in composition and are more diverse compared to domesticated horses (Fig. 2).
+                              The two horse populations’ fecal microbiomes were phylogenetically distinct (Fig. 2a), driven by different ratios
+                              of taxa in the Orders Clostridiales, Bacteroidales, Erysipelotrichales, and Spirochaetales (Fig. 2b). An Analysis of
+                              Composition of Microbiomes (ANCOM) revealed that PH fecal microbiomes had a significantly higher abun-
+                              dance of the Clostridia genus Phascolarctobacterium (Table S1), which is associated with the succinate pathway
+                              for producing the short chain fatty acid propionate24. Furthermore, PH fecal microbiomes harbored a signifi-
+                              cantly higher relative abundance of Archeal methanogen Methanocorpusculum. While these differences may be
+                              suggestive of PH and domestic horse gut microbiomes utilizing different gut metabolism pathways, we also found
+                              that individuals from the two horse lineages consumed a similar level of plant diversity, yet differing composi-
+                              tions of plant taxa, as indicated by trnL gene maker molecular operational taxonomic units (MOTU) (Fig. 2c,
+                              Figure S4).
+                                  Diet differences likely account for some of the differences in gut microbiota, as demonstrated by a significant
+                              but weak correlation via a Procrustes Analysis of 16S rRNA and trnL Principal Coordinate Analysis (PCoA) plots
+                              as well as a Mantel test on 16S rRNA and trnL distance matrices (Figure S5). Overall, the diet of PH contained
+                              many plant MOTUs that were either not detected or present at lower abundance in domestic horse (Table S2,
+                              Figure S6). This included MOTUs with taxonomy matching the thorny shrub family Elaeagnaceae such as sea
+                              buckthorn (Hippophae). Sea buckthorn has been demonstrated to be rich in vitamins, carotene, flavonoids, essen-
+                              tial oil, carbohydrates, organic acids, amino acids, and minerals25, and was originally named “hippo” (horse)
+                              “phaos” (glossy) because it was believed to give horses a shiny coat26. Also more abundant in PH were the grasses
+                              Stipa glareosa/gobica, locally known for their high palatability and protein content27, and trees of the genus Salix
+                              which is known, for some species, for its antioxidant, antimicrobial and cytotoxic properties28,29. These dietary
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                     2
+www.nature.com/scientificreports/
+
+
+
+
+                              Figure 1. Age is an important influence on horse fecal microbiomes. (a) Shannon diversity of PH foals vs PH
+                              greater than 1 year of age (p = 0.0206). The five newborn foals exhibited great variation in Shannon diversity
+                              compared to older PH individuals. (b) Correlation of Shannon diversity with PH age (Spearman rho = 0.45,
+                              p = 0.0061). The red line indicates regression and the blue line a Lowess fit.
+
+
+
+                              differences may be due to the fact that the rugged, ecologically diverse PH enclosure hosts 62% of the whole
+                              Khomyn Tal plant diversity, although accounting for only 5% of its area30. For example, sea buckthorn and Salix
+                              species were not observed in the range of the domestic horses. Grazing preferences and human influences on
+                              horse movements may be additional contributing factors and further research is required to assess the relative
+                              weights of all drivers.
+                                  PH individual fecal microbiomes had a significantly more diverse consortia of bacteria compared to domestic
+                              horses (Fig. 2a), although inter-individual variation was lower (Figure S7). It is possible that the distinct PH diet
+                              supports a higher diversity of gastrointestinal microorganisms. Another possibility is that gut diversity in horses
+                              was lost as a result of domestication, mirroring losses detected in humans transitioning to agricultural and urban
+                              lifestyles. Furthermore, we discovered that inter-individual variation was significantly lower in the PH population
+                              compared to the domestic population (Figure S7), which is similar to a trend discovered in gut microbiomes of
+                              a small human hunter-gatherer population in South America2. Whether this trend is due to a less diverse host
+                              genetic pool or due to similar diets within the small host population is unknown. Testing these various intriguing
+                              hypotheses would require comparisons of additional equine populations, as well as comparisons of other pairs of
+                              wild and domesticated animals.
+                                  PH fecal microbiomes are influenced by life history. The PH population in Seer Mongolia is composed of
+                              individuals born in several locations. Of the 39 non-foals, 20 were born in the Seer reserve itself, and 19 were relo-
+                              cated in 2004–2005 to the reserve after birth in Villaret, France (n = 15) and in 2011 from European zoos (N = 4).
+                              We discovered that place of birth was associated with significant although small differences in fecal microbi-
+                              ota, even after taking into account social group membership (r2 = 0.093, Pr(>F) = 0.001). In particular, the four
+                              PH individuals born in the European zoos appeared to harbor a distinct (Fig. 3a) and less diverse community
+                              of microbes (vs Villaret p = 0.016, vs Seer p = 0.33, Fig. 3b). In contrast, the animals born in Villaret, a nature
+                              reserve, harbor a community that is more similar in composition to those born in Seer. We first considered that
+                              these trends in fecal microbiome diversity may be related to diet diversity. However, fecal microbial diversity was
+                              only weakly correlated with the plant diversity found in their feces (Spearman rho = 0.075, p = 0.05), suggesting
+                              that current diet diversity may not necessarily equate to a diverse gut community. Furthermore, diversity of diet
+                              was not associated with place of birth (Figure S8). Therefore, we hypothesize that birth environment is another
+                              factor important in shaping gut microbiomes of PHs. We may be witnessing potential lasting founder effects of
+                              colonization by microbes in early life. In a similar vein, human infants born in differing environments (cesarean
+                              vs vaginal delivery) assemble different starting gut microbiomes, with differences persisting for over a year in
+                              some cases31,32.
+                                  PHs are social animals, with families consisting of a single dominant stallion bonding with adult females
+                              over many years, and their common offspring who stay in their natal group often beyond puberty. We compared
+                              fecal microbiomes collected from PH individuals (foals excluded) and found that social structure has a signifi-
+                              cant effect on the composition of horse fecal microbiomes (r2 = 0.13, Pr(>F) = 0.005). To remove the potential
+                              influence of relatedness within social group, we also included a test with only reproductive adults (r2 = 0.14,
+                              Pr(>F) = 0.058). Similar to fecal microbiome taxa differentiating host lineages, taxa in Orders Clostridiales,
+                              Bacteroidales, Erysipelotrichales, and Spirochaetales differed among social groups (Fig. 3c). Fecal microbiome
+                              similarities within social groups could be due to a shared similar diet as individuals belonging to the same social
+                              groups tend to graze together and tend to share a more similar diet profile than expected by chance (r2 = 0.18,
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                    3
+www.nature.com/scientificreports/
+
+
+
+
+                              Figure 2. Diversity and composition of PH and domesticated horse fecal microbiomes and diets (foals
+                              excluded). (a) PCoA plot based on 16S rRNA amplicon unweighted UniFrac distances (host population;
+                              r2 = 0.12, Pr(>F) = 0.001), and box plots showing 16S rRNA Shannon diversity of PH and domesticated horse
+                              individuals (p = 0.0356). (b) Principal balances were constructed to quantify the microbial community shifts
+                              with respect to horse lineage. The balance representing the microbial differences between PH and domestic
+                              horse defines a partition of microbes that are associated with each lineage. Specifically, these results revealed
+                              2599 PH-associated microbial taxa strongly associated with PHs and 803 with domesticated horses with an
+                              uncorrected p-value of 7.40 × 10−21. (c) PCoA plot based on trnL Bray Curtis distances (host population;
+                              r2 = 0.14, Pr(>F) = 0.001), and box plots showing trnL Shannon diversity (p = 0.3283).
+
+
+
+                              Pr(>F) = 0.001). In this study, we cannot thus disentangle the effects of diet and social contacts. However, in
+                              wild baboon populations, Tung et al.33 demonstrated that rates of social interactions influenced the taxonomic
+                              structure of gut microbiomes when controlling for diet, kinship, and shared environments. Therefore, it is likely
+                              that herd social structure is important for shaping gastrointestinal microbiomes of PHs, and other social mam-
+                              mals. Disruption of social interactions is one of several ways in which anthropogenic forces such as captivity may
+                              influence mammal gut microbiomes.
+                                  Finally, we investigated the influence of horse relatedness on shaping PH fecal microbiomes, and discovered
+                              a significant correlation between kinship (most similar = 1) and microbiome composition (most similar = 0)
+                              (Mantel r = −0.34, p = 0.002). We focused on reproductive adults for these correlations to remove the influence
+                              of social group in kinship, which for reproductive adults are not correlated (r2 = 0.12, Pr(>F) = 0.54). However,
+                              we are limited in disentangling all possible confounding variables, such birth location, by the small sample size
+                              in this data set.
+                                  We are only beginning to understand the consequences of disrupting relationships between mammals and
+                              their microbial partners that have evolved over tens of millions of years. Domestication, as already shown for cap-
+                              tivity34, may result in disruptions of gut microbial communities, especially in cases with diet shifts and restricted
+                              exposure to outdoor environments. This is particularly important for conservation managers as they urgently try
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                    4
+www.nature.com/scientificreports/
+
+
+
+
+                              Figure 3. Life history shapes PH microbiomes. (a) PCoA plot of an unweighted UniFrac distance matrix of
+                              PH 16S rRNA data. Fecal microbiome samples representing horses born in European zoos are shown as large
+                              blue spheres. (b) Shannon diversity by location of birth with individual data points colored by social group.
+                              Zoo-born individuals’ fecal microbiomes were significantly lower alpha diversity than individuals born in a
+                              reserve in Vilaret, France. The lowest diversity sample (Agaric social group, born in Vilaret), is from a 19-year-
+                              old individual, the second oldest in the data set. (c) Principal balances were constructed to determine whether
+                              particular consortia of fecal microbes associated with PH individuals in the same social group. A notable
+                              difference was detected between the Bolero (818 associated) and Matyas social groups (421 associated) with an
+                              uncorrected p-value of 8.8 × 10−04.
+
+
+
+                              to slow the Earth’s sixth major extinction in the wild. Therefore, it is critical to document the variables influencing
+                              the structure and diversity of microbiomes in wildlife populations with an eventual goal of considering microbi-
+                              ome health when managing endangered populations. Our findings also highlight the importance of life history
+                              in shaping the horse gastrointestinal microbiome. Importantly, a legacy of captivity may persist in zoo-born indi-
+                              viduals, which we discovered harbored a much lower gut diversity than reserve-born individuals, with potential
+                              long-term survival consequences that may impact the outcome of reintroduction programs. Additional research
+                              on other zoo-born, re-introduced mammals is warranted. Finally, although some domesticated livestock have
+                              extinct wild ancestors (e.g. cattle), many still exist and can be studied. We suggest this could be a fruitful endeavor
+                              with possible health implications for the agricultural industry.
+
+                              Methods
+                              Sample collection.         The PH population in Seer, Mongolia is intensely observed daily by the rangers of the
+                              Association TAKH. As a result, each horse is identifiable and associated with detailed life history data, includ-
+                              ing pedigree, age, social structure, health, and years of daily behavioral observations in the field (Table S3).
+                              Relatedness coefficients (Table S4) were calculated based on the known pedigree of each individual PH as
+                              reported in the international PH studbook, and using the tabular method35.
+                                   Fresh fecal samples were collected from PH over seven days using binoculars to associate each fecal sam-
+                              ple to an individual horse. Each horse had 1–4 samples collected over 1–3 days between 6/2/2014–6/9/2014.
+                              Each fecal sample collected was geolocated using a GPS device (Table S5) and subsampled for storage in both
+                              RNAlater and 95% ethanol, within 2–38 minutes after defecation (median = 7 minutes). In many cases, technical
+                              replicates of fecal samples were collected by subsampling feces for storage in multiple RNAlater and 95% ethanol
+                              aliquots (Table S5). Samples were stored at + 4 C in a transportable coolbox within 4–93 minutes post-sampling
+                              (median = 24 minutes) (Table S5). The same sampling procedure was applied to domestic horses living within
+                              a short range of the Seer reserve and on the Khomyn Tal plateau, except that (i) sampling lasted over two days,
+                              (ii) sampling was performed within 1–80 minutes after defecation (median = 18 minutes), and (iii) samples were
+                              stored at + 4 C within 1–74 minutes post-sampling (median = 16 minutes) (Table S5). We also report horse spa-
+                              tial proximities that were estimated by recording the horses’ nearest neighbor(s) (nnjj1, nnjj2, nnjj3, Table S3)
+
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                     5
+www.nature.com/scientificreports/
+
+
+                              within 2 hours of daily observations from January 1st to June 10th 2014, disregarding animals involved in less than
+                              100 hours of observations, and normalizing by the total number of observations available per individual.
+                                 All methods were carried out in accordance with relevant guidelines and regulations. Because fecal material
+                              was collected without interacting with horses directly, approval for experimental protocols on vertebrate animals
+                              was not required. A CITES permit for the export of fecal material was granted (Certificate No. 1000543).
+
+                              DNA extraction. Fecal samples were initially transported from Seer, Mongolia to Centre for GeoGenetics
+                              in Copenhagen, Denmark. Subsequently they were shipped to University of Colorado Boulder, where DNA was
+                              extracted using the PowerSoil-htp 96 Well Soil DNA Isolation Kit following Earth Microbiome Project (EMP)
+                              standard protocols (http://www.earthmicrobiome.org/protocols-and-standards/dna-extraction-protocol/). This
+                              DNA extraction method is standard for both the Human Microbiome Project (https://www.hmpdacc.org/hmp/
+                              doc/HMP_MOP_Version12_0_072910.pdf) and the EMP, and has been demonstrated as robust for recovering
+                              microbial DNA from fecal samples36.
+                                  16S rRNA amplicon data generation. Subsequently, we amplified the V4 region of the 16S rRNA gene with
+                              the 515 f/806r primer set that included golay error-correcting barcodes on the forward primer per EMP protocols
+                              (http://www.earthmicrobiome.org/protocols-and-standards/16s/). Amplicons were sequenced on a HiSeq 2500
+                              on rapid run mode at the University of California San Diego Institute for Genomic Medicine Genomics Center.
+                              Forward sequence reads (~125 nucleotides) were demultiplexed using QIIME version 1.937. The forward read
+                              sequences (125 bp) were clustered using a sub-operational-taxonomic-unit (sOTU) approach, which uses error
+                              profiles to improve accuracy and specificity of sequences (i.e. correctly identify true single nucleotide polymor-
+                              phisms versus Illumina platform sequencing errors that occur at a rate of 0.1% per nucleotide)38. sOTUs present
+                              in the data set less than 25 times (~0.0005) were filtered out, along with sequences identified as chloroplast and
+                              mitochondria. Samples were then rarified to 30,000 sequences per sample for downstream analyses.
+
+                              Diet data generation. We used the DNA extracts prepared for 16S rRNA sequencing to investigate fecal
+                              plant DNA content. We utilized a metabarcoding approach in which the P6 loop of the trnL (UAA) intron of
+                              chloroplast DNA (primers g and h; Taberlet et al.)22 was targeted by PCR, following the procedures described
+                              in Valentini et al. (2009) and performing PCR amplifications in four replicates. PCR amplifications were per-
+                                                                                                ®
+                              formed on 384 wells plates and contained 1x AmpliTaq Gold 360 Mastermix (Life Technologies), 0.5 µM of
+                              each primer, 0.0032 mg bovine serum albumin (BSA, Roche Diagnostics) and 2 µL DNA extract, in 20 µL reac-
+                              tion volume. Thermocycling conditions had an initial denaturation step of 10 minutes at 95 °C, followed by 40
+                              cycles of 30 seconds at 95 °C, 30 seconds at 50 °C, and 60 seconds at 72 °C. Each reaction was tagged by a unique
+                              combination of primers39 containing each one index of 8 nucleotides (with at least 5 differences among them),
+                              allowing sequence-demultiplexing after sequencing. PCR products were purified using the MinElute PCR purifi-
+                              cation kit (QIAGEN GmbH), and finally mixed together using the same volume per reaction. Library preparation
+                              and sequencing were performed at Fasteris facilities (Geneva, Switzerland). Libraries were prepared using the
+                              MetaFast protocol (www.fasteris.com/metafast) and a pair-end sequencing (2 × 125 bp) was carried out using
+                              an Illumina HiSeq 2500 sequencer (Illumina, San Diego, CA, USA) using the HiSeq SBS Kit v4 (Illumina, San
+                              Diego, CA, USA) following the manufacturer’s instructions. Sequence demultiplexing, trimming and filtering
+                              was performed using obitools22,39,40, removing trimmed sequences shorter than 10 bp and represented by less
+                              than 100 sequence reads over the whole data set. MOTU identification was done using the ecoTag algorithm40, the
+                              reference database was constituted from the EMBL Nucleotide Sequence database release 12641 using ecoPCR42.
+
+                              Quantification and Statistical Analysis.            Diversity estimates and statistical approaches. We estimated
+                              alpha diversity for 16S rRNA and trnL data using the Shannon diversity index. We tested for significant effects of
+                              categorical metadata for alpha diversity using a Kruskal-Wallis test and report a Bonferroni corrected p-value. We
+                              tested Spearman correlations between numerical metadata/data categories and report a Rho and p-value using R
+                              software43. Beta diversity was assessed for 16S rRNA data using the unweighted UniFrac phylogenetic metric44,45
+                              and for trnL data using the Bray Curtis metric. Principal coordinates analysis (PCoA) was run on the resulting
+                              distance matrices and the resulting coordinates were visualized using Emperor 0.9.546. We tested for significant
+                              differences between categories for beta diversity using a PERMANOVA (Adonis) with a p-value based on 999
+                              permutations (R, vegan package)43. We tested for correlations between distance matrices (e.g. 16S rRNA and
+                              trnL) using a mantel test and report a mantel r and a p-value based on 999 permutations. We compared PCoA
+                              plots using a Procrustes analysis, which transforms two principal coordinates (PCs) by rotating, scaling, and
+                              translating to minimize distance between matching samples. We report an M2 value, which is an estimate of dis-
+                              tance between matched points, and a p-value calculated by shuffling identifiers in one PC 999 times and recalcu-
+                              lating M2 values. These analyses were run using QIIME 1.937. We compared within and between horse population
+                              beta diversity distances using a two-sided Student’s two-sample t-test and report a Bonferroni-corrected p-values
+                              calculate using 999 permutations with QIIME 1.937.
+                                  Principal balances47 were constructed to quantify the microbial community shifts with respect to horse line-
+                              age, age and social group. The principal balances were constructed from applying the isometric log-ratio trans-
+                              form to a tree generated from Ward hierarchical clustering of the microbial abundances. Proportionality was used
+                              to define a distance metric to perform the hierarchically clustering, given by the following equation.
+                                                                                              xi 
+                                                                               d(xi, xj) = ln 
+                                                                                              xj 
+                                                                                              
+                              where xi, xj refers the proportions of microbes i and j.
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                 6
+www.nature.com/scientificreports/
+
+
+                                  Using this procedure can construct a tree where highly correlated microbes are clustered together in a greedy
+                              fashion. With these balances, a linear regression was used to correlate the balances against horse lineage, age and
+                              social group48.
+                                  The Analysis of Composition of Microbiomes (ANCOM) procedure compares the relative abundance of a
+                              taxon between two ecosystems by computing Aitchison’s49 log-ratio of abundance of each taxon relative to the
+                              abundance of all remaining taxa one at a time. Thus, if there are “m” taxa, then for each taxon it performs “m-1”
+                              tests and the significance of each test is determined using the Benjamini-Hochberg procedure that controls for
+                              FDR at 0.05. To deal with the zero counts, we used an arbitrary pseudocount of 1. For a more detailed description
+                              of ANCOM we refer the reader to Mandal et al.50.
+
+                              Assessing potential technical artefacts. We investigated potential technical artefacts related to collect-
+                              ing samples in a remote field site that may influence microbiome diversity. These technical variables include
+                              method of sample preservation (PH and domestic), sample variation over days (PH), delay between defecation
+                              and sampling (PH), and delay between sampling and cooling (PH).
+                                  Fecal microbial communities can change during storage, depending on conditions such as preservative and
+                              temperature51. This poses significant challenges for microbiome studies that require remote field campaigns for
+                              sample collection. Based on previous research51, we chose two robust preservatives, RNAlater and 95% ethanol
+                              for storage of fecal samples to help reduce microbial community change during sample storage and transport. We
+                              compared fecal microbial and plant community composition and diversity in each preservation type (Figures S2
+                              and S4).
+                                  Because the preservation methods of RNAlater and 95% ethanol significantly affected microbiome composi-
+                              tion and diversity (Figures S2 and S4), data was split based on preservation method for further analyses. For the
+                              main text set analyses, we utilized data generated from samples stored in RNAlater because they included a higher
+                              diversity of both microbes and plant DNA.
+                                  We next investigated the effect of delay between defecation (delay1) and sampling and between sampling and
+                              cooling (delay2) discovered that neither delay significantly affected microbiome compositions when individual
+                              horse is controlled (RNAlater: delay1- F1,65 = 0.99, r2 = 0.01, p = 0.4265, delay2 - F1,65 = 0.87, r2 = 0.01, p = 0.7485;
+                              ethanol: delay1- F1,15 = 0.99, r2 = 0.04, p = 0.4926, delay2 - F1,15 = 0.96, r2 = 0.04, p = 0.5275).
+                                  Finally, we tested microbiome variability within PH by sampling feces from the same individuals over multi-
+                              ple days. We reduced the ethanol-preserved and RNAlater-preserved sample sets to include only samples from
+                              individuals with replicate samples. We then calculated distances within fecal sample replicates and across multiple
+                              days. A PERMANOVA on unweighted UniFrac distances for replicate samples stored in RNAlater revealed that
+                              individual horse was highly significant (F29,65 = 2.55, r2 = 0.67, p < 0.0001) and day of sampling less so when con-
+                              trolling for individual horse (F6,65 = 2.55, r2 = 0.06, p = 0.0334). For ethanol-preserved samples with replicates,
+                              individual horse was highly significant (F7,15 = 2.71, r2 = 0.69, p < 0.0001) and day of sampling was not significant
+                              when controlling for individual horse (F3,15 = 1.12, r2 = 0.12, p = 0.2103), although we note our power is lower in
+                              the ethanol group (n = 16, vs n = 66 in the RNAlater group).
+                                  To generate a single representative sample for each individual PH, sOTUs were summed using the QIIME
+                              script collapse_samples.py. We focus analyses of the sample set preserved in RNAlater as noted above.
+
+                              Data Availability.    16S rRNA raw sequence data have been deposited in QIITA study under accession 10171
+                              and EBI under accession ERP016897. trnL data have been deposited in Dryad Digital Repository http://datadryad.
+                              org/resource/doi:10.5061/dryad.kc7h9.
+
+                              References
+                               1. McFall-Ngai, M. et al. Animals in a bacterial world, a new imperative for the life sciences. Proceedings of the National Academy of
+                                  Sciences of the United States of America 110, 3229–3236, https://doi.org/10.1073/pnas.1218525110 (2013).
+                               2. Clemente, J. C. et al. The microbiome of uncontacted Amerindians. Science advances 1, https://doi.org/10.1126/sciadv.1500183
+                                  (2015).
+                               3. Martinez, I. et al. The gut microbiota of rural papua new guineans: composition, diversity patterns, and ecological processes. Cell
+                                  reports 11, 527–538, https://doi.org/10.1016/j.celrep.2015.03.049 (2015).
+                               4. Obregon-Tito, A. J. et al. Subsistence strategies in traditional societies distinguish gut microbiomes. Nat Commun 6, 6505, https://
+                                  doi.org/10.1038/ncomms7505 (2015).
+                               5. Schnorr, S. L. et al. Gut microbiome of the Hadza hunter-gatherers. Nat Commun 5, 3654, https://doi.org/10.1038/ncomms4654
+                                  (2014).
+                               6. Yatsunenko, T. et al. Human gut microbiome viewed across age and geography. Nature 486, 222–227, https://doi.org/10.1038/
+                                  nature11053 (2012).
+                               7. Ley, R. E., Turnbaugh, P. J., Klein, S. & Gordon, J. I. Microbial ecology - Human gut microbes associated with obesity. Nature 444,
+                                  1022–1023, https://doi.org/10.1038/nature4441022a (2006).
+                               8. Cox, L. M. et al. Altering the intestinal microbiota during a critical developmental window has lasting metabolic consequences. Cell
+                                  158, 705–721, https://doi.org/10.1016/j.cell.2014.05.052 (2014).
+                               9. Kamada, N., Seo, S. U., Chen, G. Y. & Nunez, G. Role of the gut microbiota in immunity and inflammatory disease. Nat Rev Immunol
+                                  13, 321–335, https://doi.org/10.1038/nri3430 (2013).
+                              10. Zeder, M. A. The Domestication of Animals. Journal of Anthropological Research 68, 161–190 (2012).
+                              11. Ley, R. E. et al. Evolution of mammals and their gut microbes. Science 320, 1647–1651, https://doi.org/10.1126/science.1155725
+                                  (2008).
+                              12. Muegge, B. D. et al. Diet Drives Convergence in Gut Microbiome Functions Across Mammalian Phylogeny and Within Humans.
+                                  Science 332, 970–974, https://doi.org/10.1126/science.1198719 (2011).
+                              13. Song, S. J. et al. Cohabiting family members share microbiota with one another and with their dogs. Elife 2, e00458, https://doi.
+                                  org/10.7554/eLife.00458 (2013).
+                              14. Goodrich, J. K. et al. Human genetics shape the gut microbiome. Cell 159, 789–799, https://doi.org/10.1016/j.cell.2014.09.053
+                                  (2014).
+
+
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                                      7
+www.nature.com/scientificreports/
+
+
+                              15. Der Sarkissian, C. et al. Evolutionary Genomics and Conservation of the Endangered Przewalski’s Horse. Current biology: CB 25,
+                                  2577–2583, https://doi.org/10.1016/j.cub.2015.08.032 (2015).
+                              16. Orlando, L. et al. Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse. Nature 499, 74–78,
+                                  https://doi.org/10.1038/nature12323 (2013).
+                              17. Volf, J., Kus, E. & Prokopova, L. General Studbook of the Przewalski Horse. (Zoological Garden Prague, 1991).
+                              18. Zimmermann, W. International Przewalski’s Horse Studbook (Equus ferus przewalskii). ((Cologne Zoo), 2014).
+                              19. Benirschke, K., Malouf, N., Low, R. J. & Heck, H. Chromosome Complement: Differences between Equus Caballus and Equus
+                                  Przewalskii, Poliakoff. Science 148, 382–383 (1965).
+                              20. Hyde, E. R. et al. The Oral and Skin Microbiomes of Captive Komodo Dragons Are Significantly Shared with Their Habitat.
+                                  mSystems 1, https://doi.org/10.1128/mSystems.00046-16 (2016).
+                              21. Reed, K. J. et al. Can fecal samples be used to inform about microbial communities of the equine hindgut? Journal of Equine
+                                  Veterinary Science 52, 52–53, https://doi.org/10.1016/j.jevs.2017.03.041 (2017).
+                              22. Taberlet, P. et al. Power and limitations of the chloroplast trnL (UAA) intron for plant DNA barcoding. Nucleic Acids Research 35,
+                                  https://doi.org/10.1093/nar/gkl938 (2007).
+                              23. Frese, S. A., Parker, K., Calvert, C. C. & Mills, D. A. Diet shapes the gut microbiome of pigs during nursing and weaning. Microbiome
+                                  3, https://doi.org/10.1186/s40168-015-0091-8 (2015).
+                              24. Louis, P., Hold, G. L. & Flint, H. J. The gut microbiota, bacterial metabolites and colorectal cancer. Nature Reviews Microbiology 12,
+                                  661–672, https://doi.org/10.1038/nrmicro3344 (2014).
+                              25. Sabir, S. M., Maqsood, H., Hayat, I., Khan, M. Q. & Khaliq, A. Elemental and nutritional analysis of sea buckthorn (Hippophae
+                                  rhamnoides ssp. turkestanica) Berries of Pakistani origin. J Med Food 8, 518–522, https://doi.org/10.1089/jmf.2005.8.518 (2005).
+                              26. Krejcarova, J., Strakova, E., Suchy, P., Herzig, I. & Karaskova, K. Sea buckthorn (Hippophae rhamnoides L.) as a potential source of
+                                  nutraceutics and its therapeutic possibilities - a review. Acta Vet Brno 84, 257–268, https://doi.org/10.2754/avb201584030257
+                                  (2015).
+                              27. S, J. Forage plants of Mongolia. (Admon Press, 2003).
+                              28. Alam, M. S., Kaur, G., Jabbar, Z., Javed, K. & Athar, M. Evaluation of antioxidant activity of Salix caprea flowers. Phytother Res 20,
+                                  479–483, https://doi.org/10.1002/ptr.1882 (2006).
+                              29. Sulaiman, G. H., Hussien, N. N., Marzoog, T. R. & Awad, H. A. Phenolic content, antioxidant, antimicrobial and cytotoxic activities
+                                  of ethanolic extract of salix alba. American Journal of Biochemistry and Biotechnology 9, 41–46 (2013).
+                              30. Joly, F., Saïdi, S., Begz, T. & Feh, C. Key resource areas of an arid grazing system of the Mongolian Gobi. Mongolian Journal of
+                                  Biological Sciences 10, 13–24 (2012).
+                              31. Dominguez-Bello, M. G. et al. Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body
+                                  habitats in newborns. Proceedings of the National Academy of Sciences of the United States of America 107, 11971–11975, https://doi.
+                                  org/10.1073/pnas.1002601107 (2010).
+                              32. Dominguez-Bello, M. G. et al. Partial restoration of the microbiota of cesarean-born infants via vaginal microbial transfer. Nat Med
+                                  22, 250–253, https://doi.org/10.1038/nm.4039 (2016).
+                              33. Tung, J. et al. Social networks predict gut microbiome composition in wild baboons. Elife 4, https://doi.org/10.7554/eLife.05224
+                                  (2015).
+                              34. McKenzie, V. et al. The Effects of Captivity on the Mammalian Gut Microbiome. Integrative and Comparative Biology, https://doi.
+                                  org/10.1093/icb/icx090 (2017).
+                              35. Henderson, C. R. Use of an Average Numerator Relationship Matrix for Multiple-Sire Joining. J Anim Sci 66, 1614–1621 (1988).
+                              36. Mackenzie, B. W., Waite, D. W. & Taylor, M. W. Evaluating variation in human gut microbiota profiles due to DNA extraction
+                                  method and inter-subject differences. Front Microbiol 6, https://doi.org/10.3389/fmicb.2015.00130 (2015).
+                              37. Caporaso, J. G. et al. QIIME allows analysis of high-throughput community sequencing data. Nature Methods 7, 335–336, https://
+                                  doi.org/10.1038/nmeth.f.303 (2010).
+                              38. Bates, S. T. et al. Meeting Report: Fungal ITS Workshop (October 2012). Standards in Genomic Sciences 8, 118–123 (2013).
+                              39. Valentini, A. et al. New perspectives in diet analysis based on DNA barcoding and parallel pyrosequencing: the trnL approach. Mol
+                                  Ecol Resour 9, 51–60, https://doi.org/10.1111/j.1755-0998.2008.02352.x (2009).
+                              40. Boyer, F. et al. obitools: a unix-inspired software package for DNA metabarcoding. Mol Ecol Resour 16, 176–182, https://doi.
+                                  org/10.1111/1755-0998.12428 (2016).
+                              41. Kanz, C. et al. The EMBL Nucleotide Sequence Database. Nucleic Acids Res 33, D29–33, https://doi.org/10.1093/nar/gki098 (2005).
+                              42. Ficetola, G. F. et al. An in silico approach for the evaluation of DNA barcodes. BMC Genomics 11, 434, https://doi.org/10.1186/1471-
+                                  2164-11-434 (2010).
+                              43. R: a language and environment for statistical computing (R Foundation for Statistical Computing, 2011).
+                              44. Lozupone, C. & Knight, R. UniFrac: a new phylogenetic method for comparing microbial communities. Applied and Environmental
+                                  Microbiology 71, 8228–8235, https://doi.org/10.1128/aem.71.12.8228-8235.2005 (2005).
+                              45. Hamady, M., Lozupone, C. & Knight, R. Fast UniFrac: facilitating high-throughput phylogenetic analyses of microbial communities
+                                  including analysis of pyrosequencing and PhyloChip data. Isme Journal 4, 17–27, https://doi.org/10.1038/ismej.2009.97 (2010).
+                              46. Vazquez-Baeza, Y., Pirrung, M., Gonzalez, A. & Knight, R. EMPeror: a tool for visualizing high-throughput microbial community
+                                  data. GigaScience 2, 16, https://doi.org/10.1186/2047-217X-2-16 (2013).
+                              47. Pawlowsky-Glahn, V., Egozcue, J. J. & Tolosana-Delgado, R. In Codawork “11 (eds J. J. Egozcue, R. Tolosana-Delgado & M. I. Ortego)
+                                  (Girona, Spain, 2011).
+                              48. Morton, J. T. et al. Balance Trees Reveal Microbial NicheDifferentiation. mSystems 2, https://doi.org/10.1128/mSystems.00162-16
+                                  (2017).
+                              49. Aitchison, J. The Statistical Analysis of Compositional Data. Journal of the Royal Statistical Society. Series B (Methodological) 44,
+                                  139–177 (1982).
+                              50. Mandal, S. et al. Analysis of composition of microbiomes: a novel method for studying microbial composition. Microbial Ecology in
+                                  Health and Disease 26, 10.3402/mehd.v3426.27663, doi:10.3402/mehd.v26.27663 (2015).
+                              51. Song, S. J. et al. Preservation Methods Differ in Fecal Microbiome Stability, Affecting Suitability forField Studies. mSystems 1, https://
+                                  doi.org/10.1128/mSystems.00021-16 (2016).
+
+                              Acknowledgements
+                              We thank the staff of “Association pour le Cheval de Przewalski: TAKH” for infrastructure and technical support
+                              at Seer. This project was supported by the John Templeton Foundation (PI’s McKenzie and Knight); and the W.M.
+                              Keck Foundation via the Earth Microbiome Project; the Danish National Research Foundation (Grant DNRF94);
+                              Initiative d’Excellence Chaires d’attractivité, Université de Toulouse (OURASI), and; the European Research
+                              Council (ERC-CoG-2015-681605). J.T.M. was funded by NSF grant GRFP DGE-1144086.
+
+
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                                            8
+www.nature.com/scientificreports/
+
+
+                              Author Contributions
+                              J.L.M., S.S., C.F., and L.O. conceived the project; L.O., A.S.O., and C.F. designed and executed the field component
+                              of the project; J.L.M., S.S., V.M., and R.K. performed research and obtained funding for DNA extraction and 16S
+                              rRNA data generation, and L.O., P.T. and E.C. for diet data; J.T.M., S.W., S.S., A.A., E.C., L.O., and J.L.M. analyzed
+                              data and generated figures, F.J. interpreted diet data and analyzed data on P.H. spatial proximities, J.L.M., S.S.,
+                              V.M., E.W., and L.O. wrote the paper with input from all co-authors.
+
+                              Additional Information
+                              Supplementary information accompanies this paper at https://doi.org/10.1038/s41598-017-15375-9.
+                              Competing Interests: The authors declare that they have no competing interests.
+                              Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+                              institutional affiliations.
+                                            Open Access This article is licensed under a Creative Commons Attribution 4.0 International
+                                            License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+                              format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-
+                              ative Commons license, and indicate if changes were made. The images or other third party material in this
+                              article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the
+                              material. If material is not included in the article’s Creative Commons license and your intended use is not per-
+                              mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the
+                              copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+                              © The Author(s) 2017
+
+
+
+
+Scientific Reports | 7: 15497 | DOI:10.1038/s41598-017-15375-9                                                                                    9
+

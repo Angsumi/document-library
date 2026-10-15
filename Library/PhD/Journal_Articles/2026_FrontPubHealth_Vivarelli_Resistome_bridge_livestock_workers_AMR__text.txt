@@ -1,0 +1,1206 @@
+                                                                                                                  TYPE Review
+                                                                                                                  PUBLISHED 29 January 2026
+                                                                                                                  DOI 10.3389/fpubh.2026.1746385
+
+
+
+
+                                                The resistome bridge between
+OPEN ACCESS                                     livestock and workers: novel
+                                                frameworks for early detection
+EDITED BY
+Maria Isabel Nogueira Di Azevedo,
+IMPG - UFRJ, Brazil
+
+REVIEWED BY
+Johan Dicksved,
+                                                and monitoring of antimicrobial
+Swedish University of Agricultural Sciences,
+Sweden
+Elisa Pires Coltro,
+                                                resistance
+Federal University of Rio de Janeiro, Brazil
+
+*CORRESPONDENCE                                 Silvia Vivarelli 1*, Claudia De Francesco 1, Emilia Paba 2,
+Silvia Vivarelli                                Federica Giambò 1 and Concettina Fenga 1
+   silvia.vivarelli@unime.it
+
+RECEIVED 14 November 2025
+                                                1
+                                                 Section of Occupational Medicine, Department of Biomedical and Dental Sciences, Morphological
+REVISED 23 December 2025
+                                                and Functional Imaging, University of Messina, Messina, Italy, 2Department of Occupational and
+ACCEPTED 13 January 2026
+                                                Environmental Medicine, Epidemiology and Hygiene, Italian Workers’ Compensation Authority (INAIL),
+PUBLISHED 29 January 2026
+                                                Rome, Italy
+
+CITATION
+Vivarelli S, De Francesco C, Paba E,            Antimicrobial resistance (AMR) poses a critical threat to global health, driven by the
+Giambò F and Fenga C (2026) The resistome
+bridge between livestock and workers: novel     extensive use of antibiotics in both human medicine and livestock production. In
+frameworks for early detection and              the context of the One Health framework, this review investigates the role of the
+monitoring of antimicrobial resistance.         gut microbiome and resistome, which represents the collection of antimicrobial
+Front. Public Health 14:1746385.
+doi: 10.3389/fpubh.2026.1746385                 resistance genes (ARGs), within livestock and among occupationally exposed workers.
+                                                Intensive farming practices often involve routine, subtherapeutic antibiotic use,
+COPYRIGHT
+© 2026 Vivarelli, De Francesco, Paba, Giambò    fostering antibiotic-resistant bacteria (ARB) in the gastrointestinal tract of animals.
+and Fenga. This is an open-access article       These ARB and ARGs are excreted into the environment, contributing to resistance
+distributed under the terms of the Creative
+                                                spread through mobile genetic elements. From a Planetary Health perspective,
+Commons Attribution License (CC BY). The
+use, distribution or reproduction in other      this environmental dissemination reflects how human-driven livestock practices
+forums is permitted, provided the original      can perturb ecosystems, creating global health risks that link animal, human, and
+author(s) and the copyright owner(s) are
+                                                environmental well-being. Human exposure, particularly among farm workers and
+credited and that the original publication in
+this journal is cited, in accordance with       veterinarians, raises significant concerns about zoonotic transmission of pathogens
+accepted academic practice. No use,             and, potentially, ARB. Novel advances in metagenomic and metatranscriptomic
+distribution or reproduction is permitted
+                                                technologies enhanced our understanding of gut microbial communities and
+which does not comply with these terms.
+                                                their resistomes, revealing overlaps in ARG profiles between animals and livestock
+                                                workers. These technologies also support the development of novel microbiome-
+                                                targeted strategies, including prebiotics, probiotics, food supplementation and
+                                                workplace-improvement strategies, aimed at reducing antimicrobial use and
+                                                restoring healthy microbiome balance. The review also highlights the importance
+                                                of integrated surveillance and cross-sectoral collaboration to monitor and control
+                                                AMR transmission. Understanding the ecological dynamics of the gut resistome in
+                                                livestock systems is essential for designing effective interventions that safeguard
+                                                both animal and human health.
+
+                                                KEYWORDS
+
+                                                antimicrobial resistance, gut microbiome, livestock farming, one health, resistome
+
+
+
+
+                                                1 Introduction
+                                                     Antimicrobial resistance (AMR) represents a crucial global health threat and a pressing
+                                                One Health challenge, with profound implications for humans, animals, and environment (1).
+                                                The widespread and often indiscriminate use of antibiotics, both in human medicine and
+                                                livestock production, has accelerated the emergence of antibiotic-resistant bacteria (ARB) and
+
+
+Frontiers in Public Health                                           01                                                             frontiersin.org
+Vivarelli et al.                                                                                                             10.3389/fpubh.2026.1746385
+
+
+
+
+resistance genes (ARGs), undermining the efficacy of essential                   humans (9). Therefore, it is crucial to investigate studies addressing
+antimicrobial therapies (2).                                                     these interactions.
+    In particular, livestock farming represents a major driver of                     What is currently known about the relationship between gut
+ARB spreading due to the routine use of antibiotics not only for                 microbial communities and ARGs in these settings? What insights do
+animal treatment, but also for prophylaxis and growth promotion.                 metagenomic studies provide into the composition of the intestinal
+In high-intensity animal farming systems, antibiotics are frequently             resistome, and to what extent are resistome signatures shared between
+administered via feed or water, even in the absence of clinical                  animals and humans? Finally, how can integrated surveillance and
+disease (3). A significant proportion of these compounds is                      microbiome-based approaches within the One Health framework help
+excreted unmetabolized, introducing both active residues and                     contain the spread of AMR and mitigate the risk of zoonotic
+resistant microorganisms into the environment through manure.                    transmission? This review aims to explore these key questions within
+This creates potential reservoirs of ARGs in both soil and water                 livestock farming and among occupationally exposed workers.
+systems, facilitating their spread via horizontal gene transfer
+through mobile genetic elements (MGEs) such as plasmids,
+transposons, and integrons. As a result, the gastrointestinal tract              2 Methods
+of livestock has become a well-recognized reservoir for ARB,
+shaped by both antibiotic exposure and environmental                                  A keyword search was carried out in PubMed, Web of Science and
+pressures (4).                                                                   Scopus databases. Keywords have been grouped in four different
+    Within livestock systems, the consequences of AMR spreading are              topics (i.e., Husbandry; Animals; Antimicrobial resistance;
+not confined to animal health or productivity. Human populations,                Microbiome). To perform the search, keywords within each topic were
+particularly those occupationally exposed such as farm workers or                combined using the “OR” or “AND” operator. Search terms are
+veterinarians, are at elevated risk of encountering ARB and ARGs                 summarized in Table 1. Furthermore, a MEDLINE search has been
+through direct contact with animals, fecal matter, contaminated                  conducted using the Medical Subject Headings (MeSH), reported in
+surfaces, and airborne particles. In turn, these exposed subjects can            Table 2. Papers published between 2014 and 2025 were considered.
+become a source of risk for other workers, as well as the general                     As illustrated in the flow chart in Figure 1, the initial database
+population (5).                                                                  search yielded a total of 3,219 records. After the removal of 2,441
+    These interactions raise concerns not only about environmental               duplicates, 770 records were screened. Of these, 659 articles were
+dissemination of resistance, but also about zoonotic transmission,               excluded for the following reasons: they were not published in English,
+based on the direct transfer of antibiotic-resistant pathogens from              full texts were unavailable, they were preprints, or they did not meet
+animals to humans. Pathogens such as Escherichia coli, Salmonella                the predefined criteria in terms of relevance to the selected topics (i.e.,
+enterica, Campylobacter jejuni, and Staphylococcus aureus have been              Husbandry; Animals; Antimicrobial Resistance; Microbiome).
+shown to carry transferable ARGs and they are capable of crossing the            Ultimately, 126 records were included in the final review. Among
+animal-human barrier, often leading to infections in humans that are             these, 21 were used in the qualitative analysis and specifically concern
+increasingly difficult to treat. The dual role of these organisms as both        research studies presented in sessions 3.4 and 3.5, which focus,
+zoonotic agents and ARG-vectors highlights the compounded threat                 respectively, on gut microbiome and resistome analyses in livestock,
+they pose to public health (6).                                                  and the impact of occupational exposure on the human gut
+    This interconnectedness of AMR transmission across species and               microbiome and resistome.
+environments is central to the One Health framework, which
+emphasizes the inextricable links between human, animal, and
+environmental well-being. Within this paradigm, AMR is understood                3 Results and discussion
+not as a series of isolated events, but as a system-wide phenomenon
+shaped by microbial ecology, antimicrobial usage patterns, and                   3.1 Antimicrobials use in livestock industry
+interspecies interactions. From a Planetary Health perspective, the              and health consequences
+spread of AMR in livestock systems exemplifies how human-driven
+practices can disrupt ecosystem integrity, contaminating soil and                     Antimicrobial drugs have long been considered as the cornerstone
+water microbiomes, hence contributing to a global health threat that             of modern medicine, revolutionizing the treatment of bacterial
+transcends local environments (7).                                               infections and drastically reducing mortality, particularly in vulnerable
+    Recent advances in high-throughput sequencing and                            populations (10). Their role extends beyond curing infections to
+metagenomics have provided powerful tools for investigating the                  enable critical medical procedures. Within our era of advanced
+microbial communities and AMR profiles within all different kind of              medicine, where robotic surgeries and immunosuppressive therapies
+ecosystems. In this context, the gut microbiome, a complex and                   are commonplace, antibiotics continue to safeguard patients from
+dynamic microbial consortium, not only supports host’s nutrient                  potentially lethal post-procedural infections. However, this very
+metabolism and immune function but also acts as source of ARGs.                  reliance has contributed to one of the severest public health crises of
+Metagenomics and metatranscriptomics allow for the comprehensive                 our time, the AMR (11).
+characterization of the whole gut resistome, which represents the full                ARB are able to evolve mechanisms to survive exposure to
+complement of ARGs within gastro-intestinal microbial community,                 antibiotics that would normally inhibit or kill them. Multidrug
+without reliance on culture-based methods (8). Importantly, the                  resistance (MDR), where bacteria resist multiple classes of antibiotics,
+presence of ARB within the intestine can shape the composition and               is increasingly common and is primarily driven by the overuse and
+diversity of the gut microbiome, sometimes leading to dysbiosis in               misuse of these active molecules (12). This includes improper dosing,
+
+
+Frontiers in Public Health                                                  02                                                               frontiersin.org
+Vivarelli et al.                                                                                                                      10.3389/fpubh.2026.1746385
+
+
+
+
+TABLE 1 Summary of keywords used in the search.                                     TABLE 2 Summary of medical subject headings (MeSH) terms used in the
+                                                                                    search.
+ Husbandry          Animals     Antimicrobial           Microbiome
+                                resistance                                           Keywords        Husbandry/           Antimicrobial          Microbiome
+                                                                                                     Animals              resistance
+ Livestock          Pigs        Antimicrobial           Microbiome
+                                                                                     MeSH heading    Animal               Drug resistance,       Microbiota
+ Farming            Porcine     Antimicrobial           Gut microbiome
+                                                                                                     husbandry            bacterial (D024881)    (D064307),
+                                resistance
+                                                                                                     (D000822)                                   gastrointestinal
+ Farm               Swine       AMR (antimicrobial      Intestinal
+                                                                                                                                                 microbiome
+                                resistance)             microbiome
+                                                                                                                                                 (D000069196),
+ Agriculture        Cows        Antibiotic resistance   Rumen microbiome                                                                         metagenome
+ Barn               Cattle      Drug resistance         Gut flora                                                                                (D054892)
+
+ Stalls             Bovine      Resistant bacteria      Microbial                    Entry terms/    Includes             Includes beta-         Includes microbial
+                                                        community                    scope           breeding, feeding,   lactam resistance,     community,
+                                                                                                     care, housing        ESBLs, multi-drug      community
+ Cage               Calves      Resistant genes         Microbiota
+                                                                                                     animals              bacterial resistance   structure, gut/
+ Backyard           Goats       Multidrug resistance    Intestinal flora
+                                                                                                                                                 intestinal flora
+ Grazing            Sheep       Antibiotic-resistant    Metagenome
+                                                                                     Subheadings/    Classification;      Genetics; drug         Drug effects;
+                                bacteria
+                                                                                     qualifiers      methods;             effects;               genetics;
+ Intensive          Ovine       ARGs (antibiotic        Metagenomics                                 standards;           immunology;            immunology;
+ farming                        resistance genes)                                                    statistics           physiology             physiology
+ Animal             Chickens    Mobile genetic          Metatranscriptome            Hierarchical    J01.040.090          G06.099.225;           G06.591;
+ husbandry                      elements                                             tree                                 G06.225.347            G06.591.375;
+ Feedlot            Poultry     Horizontal gene         Metatranscriptomics                                                                      G05.360.340.550
+                                transfer
+
+ Dairy farm         Broilers    Resistance              Resistome
+                                transmission                                        routes such as food handling, consumption of raw or undercooked
+ Slaughterhouse     Layers      Beta-lactam             Gut resistome               animal products, as well as through direct contact with farm
+                                resistance                                          environments. Such gene transfer, mediated by MGEs like plasmids,
+                                                                                    transposons, and integrons, plays a critical role in the rapid and
+ Housing system     Hens        Colistin resistance     Microbial diversity
+                                                                                    widespread emergence of resistant bacterial strains (15).
+ Pasture            Avian       Vancomycin              Microbial
+                                                                                        This issue first gained attention in the United Kingdom in the
+                    species     resistance              composition
+                                                                                    1960s when the Swann Commission reported a connection between
+ Enclosure          Livestock   Extended-spectrum       Taxonomic profiling         antibiotic use as growth promoters and the emergence of multidrug-
+                    species     beta-lactamases                                     resistant bacteria (16). As a result, the Commission recommended
+                                (ESBLs)                                             banning antibiotics relevant to human medicine for use in food-
+ Manure             Farm                                Functional profiling        producing animals. Building on this, the European Union took
+ management         animals                                                         significant action in 1999 by banning four antibiotic classes for growth
+ Stocking density                                       Shotgun sequencing
+                                                                                    promotion, and later expanded the ban to all antibiotic growth
+                                                                                    promoters by 2006 (17).
+ Animal                                                 16S rRNA
+                                                                                        These legislative changes helped to moderate the issue. However,
+ production                                             sequencing
+                                                                                    the transition away from antimicrobial drugs misuse has not been
+                                                                                    without challenges. Early studies from countries like Sweden and
+incomplete courses of treatment, and the use of antibiotics without                 Denmark, which were early adopters of bans on antibiotic growth
+prescription, which are practices especially prevalent in countries with            promoters, noted initial increases in animal health issues, especially
+weak regulatory oversight. The situation is exacerbated by the                      for the gastro-intestinal system, such as diarrhea or mucositis in
+widespread and often indiscriminate use of antibiotics not only for                 animals (18). Some producers also turned to high-dose zinc oxide as
+human applications, but also in veterinary medicine, agriculture, and               a dietary alternative to support gut health during the transition;
+livestock production. In many countries, antibiotics are routinely                  however, this practice has now been banned in the EU due to
+added to animal feed to promote growth and prevent disease, even in                 environmental and antimicrobial-resistance concerns (19). These
+the absence of clinical symptoms (13).                                              problems were ultimately addressed through improved livestock
+     Up to 75% of these veterinary antibiotics is not metabolized by                housing, hygiene, and overall farm management, indicating that
+animals and is instead excreted into the environment through urine                  non-antibiotic interventions can possibly mitigate the negative effects
+and feces. This waste, often used as fertilizer, introduces antibiotic              of antibiotic withdrawal (20).
+residues and ARB into soil and water systems, thereby contaminating                     In recent years, the European Union has reinforced its
+food crops and groundwater (14). This environmental dissemination                   commitment to tackling AMR through comprehensive legislative and
+facilitates the transfer of ARGs between bacteria, including those                  policy frameworks that emphasize a One Health approach. The 2017
+pathogenic to humans and associated with zoonoses, through various                  EU Action Plan on AMR and its 2022 update within the Farm to Fork
+
+
+Frontiers in Public Health                                                     03                                                                    frontiersin.org
+Vivarelli et al.                                                                                                                   10.3389/fpubh.2026.1746385
+
+
+
+
+     FIGURE 1
+     Study selection flow diagram. The diagram illustrates the process of study selection, including the number of records identified, screened, and finally
+     included in the review. A total of 21 studies were included in the quantitative analysis.
+
+
+
+
+strategy have promoted integrated surveillance, responsible                          resistant bacteria, suggesting that production environment plays a role
+antimicrobial use in agriculture, and enhanced research into ARGs                    in resistance patterns. Similarly, animals in denser living conditions
+and the resistome (21). Regulation (EU) 2019/6 on veterinary                         exhibited higher resistance levels, reinforcing the importance of good
+medicinal products further restricts prophylactic antibiotic use in                  management practices in reducing the need for antimicrobial
+animals, supporting microbiome-friendly practices (22).                              treatments (28, 29).
+    In this context, Italy has aligned its national strategies with EU                    AMR in livestock extends beyond animal health and productivity,
+directives, increasingly recognizing the importance of occupational                  posing significant social and economic challenges that affect human
+and environmental exposure pathways (23). The Italian National                       health as well as the environment. While AMR threatens the efficacy
+Institute for Insurance against Accidents at Work (INAIL) plays a                    of curing infections in animals, its consequences ripple outward,
+crucial role in this area by funding and coordinating research focused               influencing the broader public health landscape and ecological
+on the occupational risks associated with AMR, including studies of                  balance (16). Assessing the full scope of antimicrobial use and the
+microbiota and resistome alterations in workers exposed to livestock                 burden of AMR in livestock is particularly complex due to the lack of
+environments (24–27).                                                                standardized methodologies and the diverse nature of the data
+    Housing conditions and animal management have a significant                      required. Despite these challenges, quantifying the impact of AMR is
+influence on the spread of antibiotic resistance. Studies have shown                 crucial. In the framework of the One Health approach, understanding
+that pigs raised in different types of housing had varying levels of                 and addressing both social and economic burden of AMR becomes an
+
+
+Frontiers in Public Health                                                      04                                                                 frontiersin.org
+Vivarelli et al.                                                                                                           10.3389/fpubh.2026.1746385
+
+
+
+
+essential priority for sustainable animal breeding and global health            cells, thereby reducing the intracellular concentration of the drugs.
+security (30).                                                                  Efflux pumps are classified based on their energy source: primary
+                                                                                active transport, which uses ATP hydrolysis, and secondary active
+                                                                                transport, which relies on ion gradients (40). The ATP-binding
+3.2 Molecular mechanisms driving AMR                                            cassette (ABC) transporters are well-studied examples of primary
+gene propagation                                                                transporters, while families like the major facilitator superfamily
+                                                                                (MFS), multidrug and toxic compound extrusion (MATE), and
+     The antimicrobial resistance genes (ARGs) themselves can be                resistance-nodulation-cell division (RND) superfamily represent
+highly specialized or broad in function. For instance, chromosomal              secondary active systems (41). These efflux mechanisms are not only
+mutations may target specific antibiotics (such as fluoroquinolones)            essential for bacterial survival but also contribute to MDR in
+by altering drug-binding sites on bacterial enzymes. Other mutations            clinically important pathogens such as methicillin-resistant S. aureus
+lead to the overproduction of efflux pumps, which expel a variety of            and Mycobacterium tuberculosis (42).
+antibiotics from bacterial cells, thus creating resistance to multiple               The growing concern over AMR has been increasingly tied to
+drug classes simultaneously (31). These mechanisms are further                  the role of farm animals as significant reservoirs of ARB and ARGs.
+complicated by the presence of MGEs, which enable bacteria to                   Numerous studies have documented that close contact with
+acquire resistance from unrelated species in a matter of hours, making          livestock, such as pigs, poultry, and cattle, can facilitate the
+AMR a global and cross-sectoral issue (32).                                     transmission of resistant bacterial strains like Salmonella
+     These resistance mechanisms can spread either vertically, through          typhimurium, E. coli, K. pneumoniae, and S. aureus to humans (43).
+bacterial replication, or horizontally, through ARG transfer between            This transfer can occur directly, through physical interaction with
+bacteria. Among the primary ways bacteria develop resistance are                animals or humans carrying resistant strains, or indirectly, through
+active drug efflux, decreased drug permeability, enzymatic drug                 contaminated food products, polluted agricultural environments,
+inactivation, and modification of drug targets (33).                            and water sources associated with farm operations. Farm workers
+     One of the most well-documented enzymatic mechanisms of                    and veterinarians are particularly vulnerable due to their frequent
+resistance is through β-lactamases, which are enzymes that hydrolyze            contact with animals. A growing number of studies have shown that
+the β-lactam ring found in penicillin and related antibiotics. These            farm workers have higher rates of colonization with ARB than the
+enzymes render the antibiotics ineffective and are widely present in            general population (44).
+the ESKAPE group of pathogens, which include Enterococcus faecium,                   Molecular studies revealed genetic similarities between resistant
+S. aureus, Klebsiella pneumoniae, Acinetobacter baumannii,                      strains in humans and animals, supporting the hypothesis of cross-
+Pseudomonas aeruginosa, and E. coli (34). These pathogens are                   species transmission. For instance, strains of K. pneumoniae associated
+particularly concerning due to their clinical importance and high               with urinary tract infections in humans have been genetically linked
+resistance rates. Historically, resistance began to emerge shortly after        to bacteria found in retail meat, while a methicillin-resistant lineage
+the introduction of penicillin, leading to the appearance of                    of S. aureus appears to have originated in humans, acquired resistance
+β-lactamases like TEM-1, SHV-1, and TEM-2. While structurally                   traits in animals, and then re-entered the human population (45, 46).
+similar, these enzymes differ in prevalence and effectiveness, but are          Experiments have confirmed such transmission pathways, including
+generally inhibited by β-lactamase inhibitors such as clavulanic acid,          a foundational study where E. coli carrying MDR plasmids were
+sulbactam, and tazobactam (35).                                                 spread among chickens and eventually appeared in human samples
+     The development of extended-spectrum β-lactamases (ESBLs)                  from farm personnel (47). These findings underscore the risks of
+marked another phase of resistance evolution. These enzymes, which              antibiotic use in animal husbandry, especially as growth promoters,
+arose from point mutations in earlier β-lactamases, can hydrolyze a             which creates selective pressure for resistant phenotypes (48).
+wide range of cephalosporins, posing a significant challenge to                      Epidemiological research further demonstrates the zoonotic
+treatment (36). Additionally, resistance mechanisms such as enzymatic           dimension of AMR. For instance, mcr-1 genes, which confer resistance
+hydrolysis are also found against other classes of antibiotics like             to colistin (a last-resort antibiotic), were found in both livestock and
+macrolides, rifampicin, and fosfomycin. Enzymes like esterases,                 farmers, showing direct zoonotic transmission of high-risk ARGs (49,
+ADP-ribosyltransferases, and chloramphenicol acetyltransferase                  50). Also, farmworkers and their household members were found to
+modify or degrade these drugs, preventing their binding to ribosomal            harbor high rates of ESBL-producing E. coli and K. pneumoniae, with
+targets and thereby neutralizing their effects (37).                            shared resistance genes, indicating that close human-animal
+     Furthermore, bacteria can develop resistance to antibiotics by             interaction plays a critical role in the transmission of resistant
+modifying the target sites of drugs. A well-known example is the                organisms (51).
+methylation of 23S rRNA in the 50S ribosomal subunit, which leads                    Beyond direct contact, the high density of livestock in intensive
+to resistance against macrolides, lincosamides, and streptogramin B             farming systems facilitates the propagation of ARB. Antibiotics are
+(38). Changes in ribosomal proteins L4 and L22 or mutations in 16S              excreted largely unmetabolized into the environment, contaminating
+rRNA also confer resistance to macrolides and aminoglycosides,                  soil and water, and sustaining ARGs within microbial communities in
+respectively. These alterations reduce the ability of the active                these ecosystems (52). This environmental contamination acts as a
+antimicrobial molecule to bind effectively its target without                   reservoir for resistance that can be transferred horizontally between
+compromising the bacterial function, allowing the pathogen to survive           bacterial species (53). This complex ecology of resistance is
+antibiotic treatment (39).                                                      exacerbated by long-term and widespread antibiotic use in livestock
+     Efflux pumps represent another major resistance strategy. These            activities, which significantly influences the diversity and abundance
+are membrane proteins that actively expel antibiotics out of bacterial          of ARGs within animal intestinal microbiomes (54).
+
+
+Frontiers in Public Health                                                 05                                                             frontiersin.org
+Vivarelli et al.                                                                                                          10.3389/fpubh.2026.1746385
+
+
+
+
+3.3 The role of gut microbiome and                                              Metagenomic analyses have shown that ARGs can be transferred
+metagenomics in tackling AMR                                                    between commensal and pathogenic bacteria through horizontal gene
+                                                                                transfer mechanisms such as conjugation, transformation,
+     The implications of ARGs spreading are dreadful. According to              transduction, and vesiduction (70). This capability for gene exchange
+the European Commission, AMR costs the EU alone over €1.5 billion               allows resistance traits to spread rapidly, even across taxonomically
+annually in healthcare expenses and productivity losses. If left                unrelated species, bypassing traditional barriers to gene flow (71).
+unaddressed, we may face a “post-antibiotic era” where common                        The utility of metagenomic approaches lies in their ability to
+infections once again become untreatable (55). Veterinary medicine              detect ARGs directly from complex microbial communities, offering
+is also at risk, as the rise in ARB limits treatment options for animal         insights into how antibiotic use selects for and amplifies AMR in the
+diseases and endangers animal welfare (17). Alarmingly, some of the             gut microbiome (72). Several studies demonstrated that antibiotic
+most potent last-resort antibiotics, like colistin and tigecycline, have        exposure significantly alters gut microbial composition, often reducing
+been extensively used in animal agriculture, accelerating the                   diversity and enabling ARB to dominate (73). Furthermore, these
+development of AMR (56).                                                        shifts facilitate the accumulation and persistence of ARGs, which can
+     To fight this crisis, researchers are increasingly turning to              be transmitted through direct contact, environmental exposure, or
+metagenomic approaches, particularly the analysis of gut microbiomes            consumption of contaminated food products (74).
+in both humans and animals. These studies provide a comprehensive                    Importantly, metagenomic studies not only uncover the
+view of microbial communities, allowing scientists to trace the origins         mechanisms of AMR but also reveal the dynamics of gut microbial
+and pathways of AMR transmission (57). Such insights are crucial for            community composition in response to either acute or chronic
+designing targeted interventions and monitoring the effectiveness of            antibiotic exposure. For example, antibiotic-induced dysbiosis often
+antibiotic stewardship programs. Indeed, metagenomic studies enable             results in a reduction in beneficial short-chain fatty acid (SCFA)-
+researchers to comprehensively examine the gut resistome, which is              producing bacteria, an increase in gut pH, and a competitive advantage
+defined as the collection of all ARGs within a microbial community              for Gram-negative MDR bacteria (75). This disruption enhances the
+(58). This technology allows to identify and characterize ARGs                  likelihood of resistant pathogen colonization and persistence, a trend
+without the need for culturing individual microbes (59).                        observable across human populations, as well as animal models (76).
+     As widely described elsewhere, diet strongly shapes both the gut                Metagenomic investigations have also evidenced the role of
+microbiome and resistome, influencing microbial composition and                 environmental and lifestyle factors (including diet, age, disease, and
+the selective pressures that drive antimicrobial resistance (60). For           geographic location) in shaping the gut resistome (77). For instance,
+instance, animal-rich diets can shift microbial communities, increase           animals exposed to antibiotics in feed or water show increased ARG
+secondary bile acids linked to inflammatory and metabolic disorders,            prevalence, which metagenomic tools can accurately quantify. Studies
+and generate distinct responses depending on fat type (61–63). While            have found that animals fed with antibiotics like amoxicillin,
+nutrients such as tryptophan are converted into immunomodulatory                thiamphenicol, or chlortetracycline exhibit significantly enriched
+metabolites like indole (64). Fermented dairy products may also                 ARG profiles in their gut microbiota (69). Heavy metals like copper
+deliver beneficial microbes and prebiotics that support Bifidobacterium         and zinc, used as feed additives, also co-select for ARGs through
+and Lactobacillus, highlighting the diverse microbiota-mediated                 mechanisms of co-resistance or cross-resistance, contributing to the
+effects of animal-derived foods (65). Beyond nutrition, intestinal              complexity of gut resistome evolution (78).
+microbiomes of livestock and humans are interconnected across                        One of the key strengths of metagenomic methods is their
+biological, ecological, as well as occupational dimensions. Phylogenetic        application within the One Health framework, which emphasizes the
+studies reveal substantial microbial overlap between livestock and              interconnectedness of human, animal, and environmental health.
+humans, particularly among individuals occupationally exposed to                Metagenomics allows to trace ARGs across these domains, revealing
+farm animals (66). Pivotally, workers in farming production exhibit             shared resistance genes among microbiomes from different hosts and
+higher fecal abundance of ARGs, reflecting horizontal gene transfer             ecosystems, from humans to animals to environment (79). This insight
+across species boundaries (67). This microbial exchange also has                is crucial for understanding how anthropic activities might drive the
+zoonotic implications: for instance, Plasmodium infections, while               selection and spread of AMR across biological and geographical
+vector-borne, are known to reshape host gut microbiota, altering                boundaries.
+disease susceptibility and immune outcomes (68).                                     Finally, metagenomic studies have linked gut resistomes to various
+     Within the gastrointestinal tracts, both livestock and workers             human health conditions beyond infections and zoonoses (80).
+might experience intestinal microbiome alterations. In livestock, the           Elevated ARG abundance has been associated with chronic diseases
+presence of ARB and ARGs can drive dysbiosis, which is characterized            such as diabetes, cirrhosis, kidney disease, and even neurological
+not only by increased levels of facultative anaerobes and opportunistic         disorders like autism spectrum disorder (81). These findings suggest
+taxa, but also by elevated ARGs able to confer resistance to                    that ARGs not only reflect antibiotic exposure, but it may also
+tetracyclines, macrolides, and β-lactams. In contrast, livestock workers        influence overall host physio-pathology in profound ways (82).
+often exhibit a livestock-like microbiome profile, marked by a rise in
+Proteobacteria, a reduction in Bacteroidetes, and the presence of
+ARGs shared with animals, including those encoding resistance to                3.4 Gut microbiome analyses reveal
+tetracyclines, β-lactamases, macrolides, and aminoglycosides (69). A            mechanisms AMR spread in livestock
+summary of this intricate interrelation is shown in Figure 2.
+     For all these reasons the role of livestock gut microbiome as a                Recent integrative research into the gut microbiomes and
+reservoir for ARGs has emerged as a major public health concern.                resistomes of livestock systems revealed a complex host- and
+
+
+Frontiers in Public Health                                                 06                                                            frontiersin.org
+Vivarelli et al.                                                                                                                10.3389/fpubh.2026.1746385
+
+
+
+
+     FIGURE 2
+     Cyclical transmission of antimicrobial-resistant bacteria (ARB) and antimicrobial resistance genes (ARGs) between livestock animals and occupationally
+     exposed workers within a shared environment. The transmission of ARB and ARGs from livestock to workers may happen via direct contact,
+     environmental exposure (e.g., contaminated surfaces, manure, and airborne particulates), and zoonotic pathways. Workers may contribute to the
+     antimicrobial resistance (AMR) dissemination back to livestock through the use of antibiotics in feed, water, or veterinary antimicrobial therapies.
+
+
+
+
+environment-dependent landscape of AMR, shaped by microbial                         ARGs, especially against tetracyclines and macrolides, persisted or
+ecology, host genetics, antibiotic use, and horizontal gene transfer                even increased. Maternal colostrum was identified as a reservoir for
+(Table 3).                                                                          early-life ARGs, including E. coli strains carrying them, supporting the
+    For     instance,    genome-resolved        metagenomic      and                vertical transmission hypothesis. Co-selection via co-occurring metal
+metatranscriptomic analyses by Vieira Sabino et al. demonstrated the                and biocide resistance genes was also observed, reinforcing the role of
+dominance of Firmicutes, Proteobacteria, Bacteroidetes, and                         non-antibiotic selective pressures within resistome maintenance
+Actinobacteria in ruminant microbiomes. Also, the authors found that                mechanism (84).
+tetracycline resistance genes, particularly tetW, were selected and                     Besides, Rovira et al. characterized resistome variation across
+maintained within the population, and were carried by novel                         conventional and antibiotic-free cattle production systems analyzing
+integrative conjugative elements, capable of transferring resistance                128 samples from feces, soil, and wastewater. Microbiome
+genes between bacteria (83). Functional assays and transcriptomics                  composition varied significantly by matrix type, while resistome
+confirmed active expression of resistance genes, implicating the                    profiles were more closely linked to antibiotic usage. Environmental
+rumen as a functionally active resistome reservoir. Among all gastro-               samples from conventional systems showed higher ARG richness
+intestinal microorganisms, Enterobacteriaceae exhibited the highest                 and abundance, especially for tetracyclines and macrolides, whereas
+ARG density, with Bacteroides and Enterococcus contributing to                      β-lactam resistance genes predominated in dairy cattle gut resistome
+taxonomic resistome heterogeneity (83).                                             (85). Soil resistomes exhibited unique ARG profiles and were less
+    Longitudinal profiling by Liu et al. in neonatal dairy calves                   affected by antibiotic use, suggesting that environmental
+revealed rapid gut microbial shaping and dynamic resistome                          compartments may act as independent ARG sources. Moreover,
+restructuring during early life, with a shift from E. coli-dominated                weak correlations between microbial community structure and
+communities to obligate anaerobes such as Ruminococcaceae and                       resistome composition emphasize the central role of selective
+Lachnospiraceae as the diet transitioned from colostrum to solid feed               pressure over community composition in shaping ARG
+(84). Although overall ARG abundance declined with age, certain                     diversity (85).
+
+
+Frontiers in Public Health                                                     07                                                                frontiersin.org
+Vivarelli et al.                                                                                                                                 10.3389/fpubh.2026.1746385
+
+
+
+
+TABLE 3 Summary of livestock gut microbiome and resistome findings across animal studies.
+
+ Animal (type, number)               Specimen (type,                     Microbiome outcomes                    Resistome outcomes                               DOI
+                                     number)
+ Ruminants (dairy and beef cattle,   Rumen contents (435 genome          Dominant bacterial phyla:              High prevalence of tetracycline                   (83)
+ sheep; number not specified)        assemblies)                         Firmicutes, Proteobacteria,            resistance genes; active ARG expression
+                                                                         Bacteroidetes, Actinobacteria;         confirmed; MGEs implicated
+                                                                         Enterobacteriaceae exhibited the
+                                                                         highest ARG density
+
+ Dairy calves (n = 22)               Feces (n = 484), maternal           Early dominance of                     329 unique ARGs spanning 17 antibiotic            (84)
+                                     colostrum                           Enterobacteriaceae and anaerobic       classes; age-related decline in overall
+                                                                         taxa (Ruminococcaceae,                 ARG abundance; persistent tetracycline
+                                                                         Lachnospiraceae, Bacteroidaceae)       and macrolide ARGs; vertical ARG
+                                                                         reflecting dietary progression         transmission via colostrum
+
+ Cattle (number not specified)       Feces, soil, and wastewater         Fecal microbiota dominated by          Detected 440 ARGs across 16 antibiotic            (85)
+                                     (n = 128)                           Bacteroidetes and Firmicutes; soil     classes; higher ARG abundance in
+                                                                         by Actinobacteria and                  conventional systems; tetracycline and
+                                                                         Proteobacteria; wastewater by          macrolide genes dominant in feces;
+                                                                         Proteobacteria                         β-lactam genes enriched in dairy cattle;
+                                                                                                                resistome diversity weakly linked to
+                                                                                                                microbiome composition
+
+ Piglets (n = 19 for                 Ileal and colonic contents          Overall microbial diversity stable;    Identified 1,021 ARGs across 39                   (86)
+ transcriptomics; n = 47 for         (n = 47)                            increased abundance of B. fragilis     antibiotic classes; moderate enrichment
+ metagenomics)                                                           observed post-antibiotic exposure      of ARGs corresponding to administered
+                                                                                                                antibiotics (chlortetracycline,
+                                                                                                                virginiamycin); modest increase in
+                                                                                                                MGEs; targeted selection without global
+                                                                                                                resistome restructuring
+
+ Pigs (n = 467, pooled from 38       Feces, soil, and slurry (n = 105)   Stronger microbiome-resistome          Greater resistome abundance and                   (87)
+ farms)                                                                  correlation in high-antibiotic-use     diversity in environmental matrices
+                                                                         systems; industrial systems showed     (slurry, soil) vs. feces; tetracycline ARGs
+                                                                         distinct microbial profiles            highly diverse; β-lactam ARGs clonally
+                                                                                                                expanded; plasmids and integrons
+                                                                                                                enriched in intensive systems
+
+ Holstein dairy cows (n = 416)       Rumen contents (across 14           Taxonomic structure spanning 15        Detected 998 distinct ARGs; major                 (88)
+                                     farms)                              bacterial phyla; core microbiome       mechanisms included efflux pumps and
+                                                                         associated with macrolide and          tetracycline resistance proteins; strong
+                                                                         tetracycline resistance                phage-ARG associations; resistome
+                                                                                                                composition partially heritable via host
+                                                                                                                genetics
+
+ Dairy ruminants (n = 31: 16         Rumen contents (n = 31)             Buffaloes exhibited higher bacterial   505 ARGs identified; buffaloes exhibited          (89)
+ cows, 15 buffaloes)                                                     richness; enriched in P. ruminicola    greater ARG diversity and abundance;
+                                                                         and L. amylovorus; increased           predominant resistance mechanisms
+                                                                         carbohydrate-active enzyme gene        included efflux, enzymatic inactivation,
+                                                                         content                                and target replacement
+
+ Pigs (n = 30), Poultry (n = 60)     Feces (samples from Ghana and       Microbiome structure shaped by         Ghanaian poultry had highest ARG                  (90)
+                                     9 European countries)               host species and geography;            abundance (dominated by tetracycline
+                                                                         Ghanaian poultry enriched in           genes); European livestock had higher
+                                                                         Subdoligranulum, Streptococcus,        macrolide, β-lactam, and trimethoprim
+                                                                         Olsenella                              resistance; aminoglycoside resistance
+                                                                                                                enriched in Ghanaian pigs
+
+
+
+
+    Through the use of a controlled piglet model, Hu et al. evaluated                      barrier function (86). Despite no significant change in overall
+the effects of low-dose chlortetracycline and virginiamycin exposure.                      resistome diversity or abundance, specific ARGs (particularly those
+While global gut microbial diversity remained stable, transcriptomics                      targeting widely-administered antibiotics) were found enriched, and
+indicated a reduction in gut inflammation and enhanced epithelial                          MGEs slightly increased. These findings illustrate that even low-dose
+
+
+Frontiers in Public Health                                                            08                                                                       frontiersin.org
+Vivarelli et al.                                                                                                           10.3389/fpubh.2026.1746385
+
+
+
+
+antibiotics can selectively amplify particular ARGs without major               better address ARG emergence and spread across livestock
+shifts in the resistome structure (86).                                         systems (91).
+     Additionally, Mencía-Ares et al. compared pigs raised in intensive
+industrial systems versus extensive Iberian farming, identifying higher
+resistome abundance and diversity in high-antibiotic-use                        3.5 Occupational livestock exposure
+environments, particularly within environmental matrices, such as               shapes human gut microbiome and
+slurry and soil (87). Tetracycline ARG diversity and β-lactam ARG               resistome
+abundance were elevated in intensive systems, reflecting intensified
+selective pressures. Key ARG hosts were found in feces, including                    Over the past decade, an increasing body of research explored
+Streptococcaceae, Bacteroidaceae, and Enterobacteriaceae, with                  how occupational exposure to livestock and farming environments
+enriched plasmids and integrons supporting increased horizontal gene            affects the human gut microbiome and resistome, highlighting the
+transfer. Strong associations between antimicrobial use and ARG                 complex interplay between microbial communities, ARGs, and
+prevalence further underscore the role of management practices in               human health (Table 4).
+shaping resistome complexity (87).                                                   These studies, spanning diverse geographic regions and animal
+     Also, López-Catalina et al. conducted a high-resolution resistome          production systems, collectively reveal heterogeneous impacts of
+survey in Holstein dairy cows, revealing a total of 998 ARGs across 15          farming on gut microbiome composition, ARG prevalence, and
+microbial phyla. The core resistome was dominated by macrolide and              potential risks for both workers and work-surrounding communities.
+tetracycline resistance genes, with efflux pump mechanisms                      One of the earlier comprehensive investigations conducted in China,
+accounting for a significant portion of ARG abundance (88). Extensive           compared stool-derived microbiome from 6 swine treated with
+ARG co-occurrence networks and associations with bacteriophages                 tetracycline and sulfonamide antibiotics, 6 farm workers, and 6 local
+highlighted phage-mediated horizontal gene transfer as a major                  villagers with no recent livestock contact (92). This study found that
+dissemination route. Host genetic influences on resistome composition           the gut microbiome composition differed between groups. Notably,
+were also detected, and the persistence of ARGs against discontinued            farm workers exhibited signs of gut dysbiosis, including lower
+antibiotics indicated co-selection independent of current antimicrobial         microbial diversity and richness compared with villagers, with their
+utilization (88).                                                               microbiota more closely resembling that of swine. Specifically, both
+     In a comparative study analyzing dairy cows and buffaloes, Sun et          swine and workers showed increased Proteobacteria and decreased
+al. demonstrated species-specific resistome and microbiome profiles.            Bacteroidetes relative to villagers, along with elevated
+In particular, buffaloes exhibited higher bacterial loads and greater           Enterobacteriaceae, Clostridiaceae, and Lachnospiraceae (92). The
+ARG diversity, including several unique ARGs not observed in cows.              resistome analysis revealed that swine ARG profiles matched
+For instance, the tcmA gene, associated with tetracenomycin                     administered antibiotics (e.g., tetracycline, lincomycin, sulfanilamide),
+resistance, was particularly enriched and co-expressed with                     while human resistomes were broader, but with limited direct ARG
+Lactobacillus spp., suggesting a link between host physiology and ARG           transfer between swine and workers. These findings suggested that
+prevalence (89). Dominant resistance mechanisms included efflux,                occupational exposure shifts the human gut microbiome toward
+target modification, and enzymatic inactivation, emphasizing the role           swine-like communities. However, the assumption of systematic ARG
+of host species in structuring resistome architecture (89).                     transmission through direct contact remains challenging to proof (92).
+     Furthermore, Jensen et al. extended the geographical scope of                   A longitudinal study of 14 veterinary students undergoing farm
+resistome analyses by comparing livestock from Ghana and nine                   exposure and comparisons with 5 full-time farm workers and 196
+European countries. Ghanaian poultry harbored the most diverse and              healthy non-exposed urban controls in China further illustrated
+abundant ARGs, especially tetracycline resistance genes, while                  dynamic microbiome and resistome shifts (93). Within 1 month of
+Ghanaian pigs exhibited lower ARG levels than their European                    farm exposure, students’ gut microbiota shifted significantly, with
+counterparts (90). Multivariate analyses confirmed host species as the          decreased Bacteroidetes and increased Proteobacteria (notably
+primary determinant of resistome and microbiome composition,                    Gammaproteobacteria), although overall alpha diversity remained
+with farming practices exerting a more pronounced effect in poultry             stable. Specific genera such as Faecalibacterium, Collinsella, and
+than in pigs. Overall, differences in ARG profiles across regions               Blautia show variability in their abundance, with partial recovery
+reflected both biogeographic and management influences on AMR                   observed post-exposure (93). Also, changes in the resistome were
+ecology (90).                                                                   extensive, detecting a total of 1924 ARGs in the human gut, including
+     Collectively, these studies reveal that the both gut microbiome            β-lactamases, aminoglycoside resistance genes, and chloramphenicol
+composition and abundance, as well as gut resistome in livestock are            acetyltransferases. Although overall ARG abundance remained stable
+shaped by a confluence of factors including: host species, age,                 within the different populations, subtle increases in β-lactamases and
+antibiotic exposure, production system, and environmental context.              tetracycline resistance were noted in the students’ gut resistome
+Also, horizontal gene transfer via MGEs (such as plasmids, integrons,           during or after swine farm stays (93). Importantly, approximately 40%
+and bacteriophages) emerges as a central mechanism in ARG                       of new gut genes overlapped with the farm environment (dust, swine
+dissemination. Pivotally, the persistence observed in certain studies of        feces, sewage, soil), and clonal bacterial transmission was
+ARGs unrelated to current antibiotic use highlights the importance of           demonstrated, including the detection of ARB carrying ARGs
+co-selection and ecological maintenance. This body of evidence                  alongside virulence and biocide resistance genes. Also, some ARGs
+suggests the need for a systems-level approach to AMR surveillance              persisted in student’s human guts for 6–9 months after exposure,
+and mitigation, integrating microbial ecology, host genetics, and               highlighting occupational risks and the environmental role in ARG
+environmental reservoirs within One Health frameworks, in order to              dissemination and persistence (93).
+
+
+Frontiers in Public Health                                                 09                                                             frontiersin.org
+                             TABLE 4 Comparative studies on gut microbiomes and resistomes in livestock-exposed workers.
+Frontiers in Public Health
+
+
+
+
+                                                                                                                                                                                                                                                                 Vivarelli et al.
+                              Human                        Animal population               Environmental                Study type        Gut microbiome                 Gut resistome                   Exposure effect             Country        DOI
+                              population (type,            (type, specimen, N)             samples (type, N)                              composition                    composition                     on human
+                              specimen, N)                                                                                                                                                               samples?
+                              Farm workers (feces, 6),     Swine (feces, 6)                None                         Cross-sectional   Workers gut dysbiosis, lower   Swine resistome matched         Occupational exposure       China           (92)
+                              local villagers (feces, 6)                                                                                  diversity than villagers;      antibiotics used; human         shifts microbiome toward
+                                                                                                                                          workers’ microbiota            resistome broader, limited      swine-like, limited ARG
+                                                                                                                                          resembled swine                ARG transfer                    transfer
+                                                                                                                                          (↑Proteobacteria,
+                                                                                                                                          ↓Bacteroidetes)
+
+                              Vet students (feces, 14),    Swine (feces)                   Dust, swine feces, sewage,   Longitudinal      Shift in workers:              1924 ARGs detected; subtle      Exposure caused dynamic     China           (93)
+                              farm workers (feces, 5),                                     soil                         (9 months)        ↓Bacteroidetes,                increase in β-lactamases,       microbiome and resistome
+                              urban controls (feces,                                                                                      ↑Proteobacteria, some          tetracycline resistance; ARGs   shifts, some ARG
+                              196)                                                                                                        recovery post-exposure         overlap with environment;       persistence
+                                                                                                                                                                         clonal transmission
+
+                              Women exposed (feces,        Broiler chickens (feces)        None                         Longitudinal      Not detailed                   Chickens had 23 AMR             Exposure associated with    Uganda          (94)
+                              5), non-exposed (feces,                                                                   (12 months)                                      genes; humans shared ESBL       AMR pattern similarity;
+                              6)                                                                                                                                         genes; AMR pattern              directionality unclear
+                                                                                                                                                                         similarity higher in exposed
+                                                                                                                                                                         women
+10
+
+
+
+
+                              Farmers (feces, 33),         Broiler and pig farms (feces,   Indoor farm dust (96)        Cross-sectional   Farm dust microbiome           Dust had higher ARG             Dust is ARG reservoir but   Europe (9       (95)
+                              controls (feces, 46)         96)                                                                            distinct from feces/human;     diversity than feces/human      no major changes in         countries)
+                                                                                                                                          farmers gut microbiome         stool; dust ARGs overlapped     farmers gut resistome
+                                                                                                                                          stable                         feces but farmers gut
+                                                                                                                                                                         resistome stable
+
+                              Workers (pig/broiler/        Pig, broiler (feces)            None                         Cross-sectional   Gut microbiomes varied         Pig-exposed workers had         Occupational exposure       Netherlands     (96)
+                              slaughterhouse, feces,                                                                                      with livestock exposure; pig   higher ARG loads                elevated ARG carriage
+                              194), controls (feces, 46)                                                                                  slaughterhouse workers had     (tetracycline, β-lactam,        independently of
+                                                                                                                                          reduced diversity              macrolide); resistome linked    antibiotic use
+                                                                                                                                                                         to exposure intensity
+
+                              Farmers (feces), controls    Swine (feces)                   None                         Cross-sectional   Farmers’ gut microbiota        Metabolome stable despite       Exposure partially          Malaysia        (97)
+                              (feces)                                                                                                     intermediate between swine     microbiome shifts; butyrate     converged microbiota but
+                                                                                                                                          and controls; Firmicutes/      elevated in swine; no major     metabolome stable
+
+
+
+
+                                                                                                                                                                                                                                                                 10.3389/fpubh.2026.1746385
+                                                                                                                                          Bacteroidetes dominant         metabolic change
+
+                              Live poultry market          Chickens (feces, pooled 135     Environmental samples from   Cross-sectional   Workers’ gut microbiota        Workers had elevated ARG        Occupational exposure       China           (98)
+                              workers (feces, 18),         samples)                        farms and markets                              distinct from controls;        diversity (188 ARG types),      reshapes microbial
+frontiersin.org
+
+
+
+
+                              controls (feces, 18)                                                                                        chicken gut dominated by       including mobile colistin       communities, elevates
+                                                                                                                                          Firmicutes, Bacteroidetes,     resistance genes                ARG diversity
+                                                                                                                                          Proteobacteria
+
+                                                                                                                                                                                                                                                   (Continued)
+                             TABLE 4 (Continued)
+Frontiers in Public Health
+
+
+
+
+                                                                                                                                                                                                                                                                   Vivarelli et al.
+                              Human                         Animal population                 Environmental                   Study type        Gut microbiome                 Gut resistome                  Exposure effect              Country         DOI
+                              population (type,             (type, specimen, N)               samples (type, N)                                 composition                    composition                    on human
+                              specimen, N)                                                                                                                                                                    samples?
+                              High exposure (wet            Poultry (cecal samples, 10)       Wastewater (10)                 Cross-sectional   Human gut microbiomes          Poultry/wastewater had high    Poultry exposure did not     Bangladesh      (99)
+                              market, backyard poultry,                                                                                         stable; dominated by           ARG diversity; wastewater      significantly affect human
+                              feces, 8), low exposure                                                                                           anaerobic commensals           major ARG reservoir;           ARG carriage
+                              (feces, 12)                                                                                                       (Prevotella)                   minimal direct ARG transfer
+                                                                                                                                                                               to humans
+
+                              Humans (healthy + C.          Swine, cattle, chickens (feces,   None                            Cross-sectional   Host-specific microbiomes;     ARG abundance higher in        Poultry exposure linked to   South Korea     (100)
+                              difficile infected, feces,    108)                                                                                patients had distinct taxa     patients; shared ARGs          resistome reshaping and
+                              87)                                                                                                               from healthy; livestock had    between poultry and humans     ARG dissemination
+                                                                                                                                                own signatures                 indicate cross-species
+                                                                                                                                                                               transmission
+
+                              Swine farming village         Swine (feces)                     Soil, air, groundwater, river   Cross-sectional   Increased diversity and        376 ARGs detected; 144         Exposure significantly       China           (101)
+                              residents (feces, 36),                                          water                                             dysbiosis markers in exposed   unique to exposed; ARGs        alters microbiome and
+                              non-exposed villagers                                                                                             residents; ↑Proteobacteria     linked to swine feces (31%)    expands resistome via
+                              (feces, 18)                                                                                                       (K. pneumoniae, E. coli)       and airborne sources           environment
+                                                                                                                                                                               (20.5%)
+
+                              Dairy workers (feces, 10),    None                              None                            Cross-sectional   Similar gut microbiome taxa    Dairy workers had higher       Subtle occupational          United States   (102)
+11
+
+
+
+
+                              non-farming controls                                                                                              across groups; dairy workers   tetracycline and cephamycin    impacts on resistome,
+                              (feces, 6), HMP reference                                                                                         had lower functional           resistance genes; no overall   especially specific ARG
+                              (47)                                                                                                              richness                       ARG abundance difference       classes
+
+                              Dairy farmers (feces, 66),    Dairy cows (feces, 166)           None                            Longitudinal      Farmers gut similar to         >2,000 novel ARGs from         Occupational exposure        United States   (103)
+                              controls (feces, 60)                                                                            (13 months)       controls but some livestock-   cows; farmers harbored         influences resistome and
+                                                                                                                                                associated taxa enriched       distinct ARGs shared with      functional microbiome
+                                                                                                                                                                               livestock; seasonal ARG        capacity
+                                                                                                                                                                               fluctuations
+
+                              Various human groups          Poultry (feces, 24), Swine        Soil (10), surface water (9),   Cross-sectional   Human gut dominated by         Food and environment had       Occupation, diet, habitat    China           (104)
+                              (feces, total 504): vegans,   (feces, 20)                       wastewater (4), flies (20),                       Bacillota and Bacteroidota;    higher ARG burden; shared      shape microbiome and
+                              students, workers,                                              food (51)                                         environment enriched with      ARG lineages across sources;   resistome; environment
+                              farmers, omnivores,                                                                                               Pseudomonadota                 occupational and diet          and vectors critical ARG
+                              abstainers                                                                                                                                       influence                      sources
+
+
+
+
+                                                                                                                                                                                                                                                                   10.3389/fpubh.2026.1746385
+frontiersin.org
+Vivarelli et al.                                                                                                         10.3389/fpubh.2026.1746385
+
+
+
+
+     Similar patterns regarding resistome outcomes emerged from a              gut bacteriome compared to other groups, with shifts in key genera
+Ugandan study investigating women exposed to small-scale poultry               such as Prevotella and Bacteroides, indicating altered microbial
+farms (94). The study involved 5 exposed women who were exposed                richness (96). Regarding gut resistome, pig farmers and slaughterhouse
+to broiler and 6 non-exposed ones. Gut microbiome from chickens                workers showed significantly higher total ARG loads compared to
+carried a total of 23 AMR genes, including those for β-lactams,                broiler farmers and controls. This increase was especially evident for
+vancomycin, and tetracyclines, with vancomycin and carbapenemase               ARGs conferring resistance to tetracyclines, β-lactams, and
+genes exclusive to chickens (94). Human microbiota harbored diverse            macrolides, which dominated the resistome landscape. Although
+AMR genes, including tetracycline resistance genes (tetA, tetB), and           alpha diversity of ARGs was similar across groups, beta diversity
+shared β-lactamase ESBL genes, suggesting common resistance                    analyses highlighted distinct ARG profiles associated with both pig
+mechanisms. Intriguingly, women who had direct contact with the                and pork exposure. A total of 30 ARGs were significantly enriched in
+chickens showed more similarities in AMR gene patterns to the                  pig-exposed workers relative to controls, with many belonging to the
+chickens compared to those who did not have direct contact (94).               dominant resistance classes, reflecting a clear occupational signature.
+However, after a year, there was a tendency for increased similarity in        Importantly, resistome differences persisted after controlling for
+AMR patterns between humans in both groups and the chickens                    antimicrobial use and they were linked to factors such as job role and
+sampled. Due to the timing of sample collection, the directionality of         duration of animal contact, emphasizing exposure intensity as a
+AMR gene transmission between poultry and humans remained                      critical driver. Hence, this study underscored that occupational
+unclear, underscoring the complexity of environmental and                      exposure elevates ARG carriage independently of recent antibiotic
+community sources in their contribution to human resistome                     use (96).
+shaping (94).                                                                       Research from Malaysia showed that swine-exposed farmers had
+     In Europe, a large-scale study sampling several broiler and pig           gut microbiota profiles intermediate between swine and unexposed
+farms across nine countries demonstrated that airborne farm dust               controls, with alpha diversity highest in swine and lowest in controls
+harbors highly diverse microbiomes distinct from animal fecal and              (97). Bacteroidetes, Firmicutes, and Proteobacteria dominated across
+human gut microbiomes, with bacterial taxa reflective of the farm              groups, although the Firmicutes-to-Bacteroidetes ratio was highest in
+animal species (95). Samples collected included stool from farmers             swine, and Prevotella (particularly Prevotella copri) was the most
+(n = 33) and non-exposed controls (n = 46), as well as 96 animal feces         abundant genus. Despite these taxonomic shifts, the metabolome
+and indoor farm dust. The bacterial communities in farm dust differed          remained stable, indicating functional resilience of the gut ecosystem.
+significantly from those in animal feces and human gut samples,                Butyrate levels were elevated in swine but showed no clear taxonomic
+containing taxa such as bacilli and clostridia in poultry farms and            association, suggesting a collective microbial contribution. Overall,
+Betaproteobacteria in pig farms, indicating a composite environmental          the study demonstrated that occupational swine contact led to partial
+origin including skin, feed, soil, and other animals beyond fecal              convergence of the gut microbiota of farmers toward swine-like
+sources. Despite occupational dust exposure, the gut microbiome of             profiles without major functional changes (97).
+farmers remained largely stable and distinct from environmental                     A study focused on live poultry markets in China analyzed fecal
+samples, suggesting limited impact on the human gut bacterial                  samples from 18 workers, 18 non-exposed human controls, alongside
+community (95). Regarding gut resistome composition, farm dust was             with 135 pooled chicken fecal samples (representing over 1,200
+identified as a rich and diverse reservoir of ARGs, exceeding the              chickens), and environmental samples from farms and markets (98).
+diversity found in both animal feces and human stool samples. Many             In terms of gut microbiome composition, chicken gut microbiota was
+ARGs in dust overlapped with those in feces from the corresponding             predominantly composed of Firmicutes, Bacteroidetes, Proteobacteria,
+animal species, underscoring fecal shedding as a major contributor to          and Actinobacteria. Microbial richness strongly correlated with ARG
+the airborne resistome (95). However, dust also contained unique               diversity, highlighting the role of the microbiome in shaping resistome
+ARGs not detected in feces or human samples, including                         profiles (98). Notably, microbial and resistome diversity were
+chloramphenicol-florfenicol and β-lactamase ARGs, indicating                   significantly higher in live markets compared to commercial farms.
+additional environmental sources. The resistome composition in dust            Geographic variation was also observed, suggesting local farming and
+correlated strongly with bacterial community structure and it was              trade practices influence microbial and resistome dynamics.
+positively associated with farm antimicrobial use, though this                 Importantly, live market workers displayed distinct gut microbiota
+relationship was mainly mediated through fecal ARG abundance (95).             compositions relative to controls living in the same region, with
+Despite the presence of this environmental resistome reservoir, the gut        occupational exposure implicated in reshaping intestinal microbial
+resistome of farmers showed no significant shifts related to dust              communities. Also, workers exhibited elevated ARG diversity with
+exposure, clustering distinctly from environmental samples and                 188 unique ARG types, including mobile colistin resistance genes
+sharing fewer ARGs with dust or animal feces (95).                             present in both chickens and humans. The frequent co-occurrence of
+     A related study in the Netherlands involving 194 workers                  ARGs and MGEs highlighted live poultry markets as critical hotspots
+(including pig farmers, broiler farmers, slaughterhouse workers) and           for zoonotic ARG transmission, including resistance to last-resort
+46 non-exposed controls, revealed that gut microbiomes varied                  antibiotics like colistin (98).
+significantly with livestock exposure (96). In terms of gut microbiome              A more recent study in Bangladesh conducted a detailed
+composition, dominant bacterial phyla such as Bacteroidetes,                   metagenomic analysis of fecal samples from 8 high exposed subjects
+Firmicutes, and Actinobacteria were consistently present across all            (i.e., wet market workers and backyard poultry owners) and 12 low
+groups. However, the relative abundance and diversity of specific              exposed subjects (i.e., food vendors, and non-poultry rural
+genera varied significantly depending on livestock exposure. Notably,          households), 10 poultry cecal samples and 10 wastewater samples
+pig slaughterhouse workers exhibited reduced alpha diversity of their          (99). The research revealed that while human gut microbiomes
+
+
+Frontiers in Public Health                                                12                                                            frontiersin.org
+Vivarelli et al.                                                                                                         10.3389/fpubh.2026.1746385
+
+
+
+
+remained stable and dominated by anaerobic commensals (i.e.,                    potential health risks in farming communities. Overall, this study
+Prevotella), poultry exposure did not significantly affect human ARG            reveals that swine farming significantly alters the human gut
+carriage. Poultry and wastewater samples harbored high ARG                      microbiome and expands the gut resistome through environmental
+diversity, with wastewater identified as a major environmental                  exposure, particularly via air and animal waste (101).
+reservoir and amplifier of clinically relevant ARGs such as ESBLs and                In dairy farming contexts, a further US study compared gut
+carbapenemases (99). This indicates minimal direct ARG transfer                 microbiome from stool samples from 10 dairy workers and 6
+from poultry to humans in this context but highlights the critical role         non-farming controls, with 47 additional samples from the Human
+of wastewater in ARG dissemination. Indeed, the human fecal                     Microbiome Project (HMP) serving as a reference cohort (102). In
+resistome did not significantly differ between individuals with high            terms of gut microbiome composition, both dairy workers and
+versus low occupational poultry exposure, indicating that direct ARG            controls exhibited similar taxonomic profiles dominated by the phyla
+transmission from poultry to humans under the studied conditions                Firmicutes, Bacteroidetes, and Actinobacteria, which are commonly
+was limited (99).                                                               associated with a healthy human gut. However, gene-level analyses
+     In a comparative Korean study, assessing fecal samples from 87             revealed that dairy workers harbored lower functional genomic
+humans (healthy and Clostridioides difficile infection patients) and 108        richness, indicating a potential occupational impact on the metabolic
+livestock (swine, cattle, chickens), distinct microbial communities             or functional potential of the gut microbiota, despite taxonomic
+were found to be host-specific (100). In details, healthy individuals           similarity (102). While no overall ARG abundance differences were
+were characterized by predominance of Bifidobacterium,                          observed, dairy workers showed relatively higher tetracycline and
+Ruminococcus, and Bacteroides. Patients with C. difficile infection             cephamycin resistance genes, found in both commensal and potential
+showed higher levels of Enterococcus, Lactobacillus, and Bacteroides.           pathogenic bacteria, suggesting subtle occupational impacts
+Interestingly, swine guts were dominated by Prevotella, Lactobacillus,          potentially linked to antibiotic use in livestock. Importantly, the
+and Subdoligranulum, whereas cattle harbored mainly                             presence of ARGs in commensal bacteria further highlights the gut as
+Peptostreptococcus, Butyrivibrio, and Treponema, and, finally, chicken          a potential reservoir for AMR (102).
+gut microbiota was enriched in Bacteroides, Alistipes, and Barnesiella               A longitudinal 13 months-long American study systematically
+(100). Regarding the resistome, ARG abundance was more than four                investigated the effects of occupational exposure to livestock on gut
+times higher in C. difficile patients than in healthy individuals, and          microbiome samples from 66 dairy farmers, 60 matched controls, and
+chickens showed ARG diversity comparable to infected patients.                  166 cows across 37 dairy farms (103). The study revealed that dairy
+Shared ARGs such as β-lactamase and quinolone resistance genes                  farmers’ nasal microbiomes were more diverse and closely resembled
+suggested cross-species transmission, implicating occupational or               those of cows, while gut microbiome differences were subtle but
+environmental poultry exposure as vectors facilitating ARG                      included acquisition of livestock-associated species and functional
+dissemination to humans with consistent gut resistome                           pathways. Intriguingly, cows exhibited substantially higher gut
+reshaping (100).                                                                microbial diversity overall, but farmers’ gut microbiomes showed
+     A Chinese study demonstrated that human residents exposed to               enrichment in health-associated Firmicutes such as Coprococcus
+swine farming had significant changes in microbiome and resistome.              eutactus and Roseburia faecis, which are known butyrate producers
+In details, the analysis encompassed human gut samples from 36                  (103). Although broad taxonomic structure remained similar between
+swine farming village residents and 18 non-exposed subjects form                farmers and non-farmers, lineage-resolved analyses revealed that
+a non-farming village, alongside environmental specimens from                   certain microbial taxa, including Prevotella, Treponema, Romboutsia,
+soil, air, groundwater, river water, and swine feces, integrating               and Bifidobacterium, were significantly enriched in both cows and
+microbial community profiling with resistome characterization                   farmers. These taxa were also observed in the nasal microbiomes of
+(101). Compared to non-exposed subjects, the swine farmers                      both species, indicating interspecies microbial sharing potentially
+microbiomes showed increased microbial diversity alongside                      facilitated by close environmental contact (103). The resistome
+markers of dysbiosis, including a reduced Gut Microbiome Health                 analysis identified over 2,000 novel ARGs predominantly from cows,
+Index (GMHI) and an elevated presence of potentially pathogenic                 with farmers harboring distinct ARGs shared with livestock, especially
+taxa (101). Notably, there was a significant enrichment of                      those conferring resistance to lincosamides, macrolides, phenicols,
+Proteobacteria (particularly K. pneumoniae and E. coli), as well as             and tetracyclines. Moreover, seasonal increases in certain ARGs
+increased abundances of bacterial families such as                              among farmers suggested ongoing cross-species ARG transfer and
+Enterobacteriaceae, Rikenellaceae, and Eggerthellaceae. These shifts            occupational exposure profoundly shaping both nasal and gut
+suggest that proximity to swine farming and associated occupational             microbiomes. Collectively, the findings indicate that occupational
+or environmental exposure contribute to perturbations in gut                    exposure to livestock, while having limited impact on broad
+microbial ecology (101). The gut resistome analysis revealed a total            taxonomic diversity in the gut, significantly influences functional
+of 376 ARGs were detected, with 144 unique to the farming village               capacities and resistome content at a higher resolution (103).
+residents (i.e., enriched resistance to β-lactams, macrolides,                       To investigate gut microbial and resistome patterns, transmission
+fluoroquinolones, tetracyclines, and cephalosporins) often                      vectors, and reservoirs, a large Chinese study analyzed 592 samples
+co-occurred with MGEs such as plasmids and integrons, which                     from human and animal feces, food, soil, water, and flies (104).
+facilitate the horizontal transfer of resistance (101). Resistome               Human fecal samples included individuals with different occupations
+attribution analysis indicated that approximately 31% of the                    and diets: vegan communes (n = 68), boarding students (n = 48), food
+resistome was linked to swine feces and 20.5% to airborne sources               processing workers (n = 50), livestock farmers (n = 50), omnivores
+contributions, underscoring the significant role of environmental               (n = 49), vegetarians (n = 49), pork abstainers (n = 50), chicken
+and airborne ARG transmission in elevating ARG exposure and                     abstainers (n = 46), and aquatic product abstainers (n = 44).
+
+
+Frontiers in Public Health                                                 13                                                           frontiersin.org
+Vivarelli et al.                                                                                                         10.3389/fpubh.2026.1746385
+
+
+
+
+Environmental samples (n = 87) included soil (n = 10), surface water            may facilitate the proliferation of ARB and promote horizontal gene
+(n = 9), wastewater (n = 4), flies (n = 20), poultry feces (n = 24), and        transfer of ARGs among diverse species, thereby serving as a key
+swine feces (n = 20). Food samples (n = 51) comprised pork (n = 13),            reservoir for the emergence, amplification, and transmission of AMR
+chicken (n = 11), and vegetables/fruits (n = 27) (104). For what                within and between hosts.
+concerns gut microbiome composition, human gut microbiomes were                      Secondly, the current metagenomic data presented here
+dominated by Bacillota (Firmicutes) and Bacteroidota (Bacteroidetes),           highlighted a tightly interconnected ecological relationship between
+while food and environmental samples were enriched with                         gut microbial communities and resistome profiles across both animal
+Pseudomonadota (Proteobacteria). Notably, food and environmental                and human hosts. Dominated by phyla such as Firmicutes,
+samples carried a higher ARG burden than human guts. E. coli played             Bacteroidetes, and Proteobacteria, the gut microbiota not only shapes
+a central role in ARG dissemination, with extensive plasmid- and                the composition of the intestinal resistome but is itself modulated by
+phage-mediated ARG mobility observed. Carbapenemase genes,                      it, reflecting bidirectional interactions. These dynamics reveal how
+conferring resistance to critical antibiotics, were widespread in all           antimicrobial usage, host species differences, and environmental
+samples. Livestock farmers, in particular, harbored a higher load of            contexts collectively influence AMR patterns. Notably, while ARG
+phenicol resistance genes, suggesting occupational exposure as a                profiles are frequently host-specific, emerging evidence points to
+critical factor in shaping the gut resistome (104). In contrast,                partial resistome overlap between humans and animals, especially in
+individuals abstaining from pork exhibited lower levels of glycopeptide         high-exposure occupational settings, indicating plausible routes for
+resistance genes, indicating dietary influence. Strain-level analyses           cross-species ARG transmission.
+revealed shared lineages of E. coli, K. pneumoniae, and Clostridium                  Despite these advances, methodological challenges within
+perfringens between humans and other sources, further substantiating            metagenomics techniques remain. Sequencing platform choice,
+the potential for cross-host and environmental transmission of                  coverage depth, and bioinformatic pipelines affect ARG detection and
+antibiotic-resistant bacteria (104). The study highlighted the human            quantification (107). Reference databases may be incomplete or
+gut as a key ARG reservoir and transmission hub within a broader                biased, and short-read sequencing can limit resolution of MGEs or
+ecological network, with flies acting as vectors, reflecting complex            accurate ARG-host assignment (108). Functional metagenomics and
+environmental and dietary exposures driving ARG transmission. It                long-read sequencing can mitigate some limitations but involve trade-
+further corroborated the role of occupation, but also diet, and habitat         offs in cost and throughput (109, 110). Recognizing these constraints
+in shaping both the gut microbiome and resistome, with important                is crucial for accurate interpretation and effective AMR surveillance.
+implications for AMR surveillance and intervention strategies (104).                 To reduce AMR consolidation, mitigation strategies aligned with
+     Collectively, these studies illustrate a complex landscape where           One Health show promise (111–113). Alternatives to antimicrobial
+occupational exposure to livestock and farming environments can                 growth promoters, including phytogenic feed additives, selected
+alter human gut microbiomes, increase ARG diversity, and facilitate             probiotics, prebiotics, and enhanced husbandry practices, can
+microbial and ARG transmission. However, direct ARG transfer is                 modulate gut microbiota and reduce resistome burden (114–120).
+often subtle and context-dependent, influenced by environmental                 Environmental interventions, such as manure composting, further
+reservoirs such as dust, wastewater, and air, as well as factors like           lower ARG abundance and limit dissemination (121–124). Indeed,
+animal species, farming practices, and regional antibiotic use (105).           effective AMR control requires integrated approaches combining
+The findings emphasize the importance of integrated One Health                  antimicrobial stewardship, microbiome-based interventions, and
+surveillance encompassing humans, animals, and environmental                    improved environmental management (91).
+sources to better understand and mitigate antibiotic resistance risks                On these bases, the One Health paradigm is quickly evolving
+associated with agricultural exposures (7).                                     toward integration with Planetary Health, emphasizing the
+                                                                                interdependence of human, animal, and ecosystem health. Modern
+                                                                                One Health recognizes that sustainable health outcomes depend on
+4 Conclusion                                                                    coordinated action across sectors and disciplines, addressing not only
+                                                                                AMR and zoonoses but also climate change, food and water security,
+    AMR remains a critical global health challenge, with livestock              and ecosystem integrity (125).
+production systems acting as major reservoirs and transmission hubs                  In conclusion, addressing AMR requires integrated One Health-
+for resistant microorganisms. Accumulating evidence robustly                    Planetary Health frameworks that monitor microbiomes, resistomes,
+supports the central role of the gut microbiome in the emergence,               and exposure pathways across humans, animals, and the environment
+persistence, and dissemination of ARGs both within animal                       (72). Targeted occupational interventions, improved sanitation,
+populations and across species barriers. Moreover, current advances             personal protective equipment, longitudinal monitoring of gut
+in metagenomic technologies have significantly deepened our                     resistomes, and strengthened biosecurity are critical measures.
+understanding of these complex microbial ecosystems, elucidating the            Beyond veterinary or public health considerations, AMR management
+mechanisms driving AMR spread and underscoring the public health                is a planetary imperative, demanding sustainable, collaborative action
+risks posed by occupational exposure to livestock environments (106).           to safeguard the health of people, animals, and ecosystems (126).
+    This review has addressed pivotal questions at the intersection of
+gut microbiome dynamics, AMR development, and their broader
+implications for livestock farming and occupational health. Firstly, the        Author contributions
+gut warrants focused attention due to its well-established function as
+a hotspot for microbial communities and AMR genes. Depending on                     SV: Writing – review & editing, Methodology, Visualization,
+host health and environmental factors, gut microbial composition                Investigation, Conceptualization, Data curation, Validation,
+
+
+Frontiers in Public Health                                                 14                                                           frontiersin.org
+Vivarelli et al.                                                                                                                                          10.3389/fpubh.2026.1746385
+
+
+
+
+Writing – original draft. CDF: Investigation, Visualization, Writing –                              Conflict of interest
+review & editing, Data curation, Writing – original draft, Validation.
+EP: Validation, Writing – review & editing, Visualization. FG:                                          The author(s) declared that this work was conducted in the
+Writing – review & editing, Validation, Visualization. CF: Project                                  absence of any commercial or financial relationships that could be
+administration, Conceptualization, Methodology, Funding                                             construed as a potential conflict of interest.
+acquisition, Writing – review & editing, Writing – original draft.
+
+                                                                                                    Generative AI statement
+Funding                                                                                                 The author(s) declared that Generative AI was not used in the
+                                                                                                    creation of this manuscript.
+    The author(s) declared that financial support was received for this                                 Any alternative text (alt text) provided alongside figures in this
+work and/or its publication. This work was supported by the BRIC                                    article has been generated by Frontiers with the support of artificial
+INAIL 2022 ID10 grant from the Italian Workers’ Compensation                                        intelligence and reasonable efforts have been made to ensure accuracy,
+Authority (INAIL), “Defining the Impact of the Work Environment                                     including review by the authors wherever possible. If you identify any
+on the Gut Microbiome of Workers in Pig Farming Companies                                           issues, please contact us.
+through a Combination of Culture-Based and Metagenomic
+Approaches,” Project Code: F83C22002680005.
+                                                                                                    Publisher’s note
+Acknowledgments                                                                                         All claims expressed in this article are solely those of the authors
+                                                                                                    and do not necessarily represent those of their affiliated organizations,
+   Figure 2 include elements adapted from Servier Medical Art (https://                             or those of the publisher, the editors and the reviewers. Any product
+smart.servier.com), licensed under Creative Commons Attribution CC                                  that may be evaluated in this article, or claim that may be made by its
+BY 4.0 (https://creativecommons.org/licenses/by/4.0/).                                              manufacturer, is not guaranteed or endorsed by the publisher.
+
+
+
+References
+ 1. McEwen SA, Collignon PJ. Antimicrobial resistance: a one health perspective In:                   14. Izah SC, Nurmahanova A, Ogwu MC, Toktarbay Z, Umirbayeva Z, Ussen K, et al.
+Antimicrobial resistance in Bacteria from livestock and companion animals.                          Public health risks associated with antibiotic residues in poultry food products. J Agric
+Washington, DC: ASM Press (2018). 521–47.                                                           Food Res. (2025) 21:101815. doi: 10.1016/j.jafr.2025.101815
+  2. Antimicrobial resistance: a silent pandemic. Nat Commun. (2024) 15:6198. doi:                    15. Karabasil N, Mirković M, Vićić I, Perić I, Zlatković N, Luković B, et al.
+10.1038/s41467-024-50457-z                                                                          Antimicrobial resistance in diverse ecological niches—one health perspective and food
+                                                                                                    safety. Antibiotics. (2025) 14:443. doi: 10.3390/antibiotics14050443
+  3. Bava R, Castagna F, Lupia C, Poerio G, Liguori G, Lombardi R, et al. Antimicrobial
+resistance in livestock: a serious threat to public health. Antibiotics. (2024) 13:551. doi:          16. Babo Martins S, Sucena Afonso J, Fastl C, Huntington B, Rushton J. The burden of
+10.3390/antibiotics13060551                                                                         antimicrobial resistance in livestock: a framework to estimate its impact within the
+                                                                                                    global burden of animal diseases programme. One Heal. (2024) 19:100917. doi:
+  4. Silvestro S, Biondo C, Midiri A, Lucia B, Mancuso G. The role of livestock antibiotic
+                                                                                                    10.1016/j.onehlt.2024.100917
+use in microbiota dysbiosis and neuroinflammation. Antibiotics. (2025) 14:608. doi:
+10.3390/antibiotics14060608                                                                           17. Schmerold I, van Geijlswijk I, Gehring R. European regulations on the use of
+                                                                                                    antibiotics in veterinary medicine. Eur J Pharm Sci. (2023) 189:106473. doi: 10.1016/j.
+  5. Enshaie E, Nigam S, Patel S, Rai V. Livestock antibiotics use and antimicrobial
+                                                                                                    ejps.2023.106473
+resistance. Antibiotics. (2025) 14:621. doi: 10.3390/antibiotics14060621
+                                                                                                      18. Levy S. Reduced antibiotic use in livestock: how Denmark TackledResistance.
+   6. Meade E, Slattery MA, Garvey M. Antimicrobial resistance profile of zoonotic
+                                                                                                    Environ Health Perspect. (2014) 122:A160–5. doi: 10.1289/ehp.122-A160
+clinically relevant WHO priority pathogens. Pathogens. (2024) 13:1006. doi: 10.3390/
+pathogens13111006                                                                                     19. Dai F, Zhao F, Huang X, Jin M, Zhou Q, Lin T, et al. Effects of replacing zinc oxide
+                                                                                                    with different levels of zinc lactate on growth performance, serum indexes, intestinal
+  7. Velazquez-Meza ME, Galarde-López M, Carrillo-Quiróz B, Alpuche-Aranda CM.
+                                                                                                    health and gut microbiota in weaned piglets. Front Microbiol. (2025) 16. doi: 10.3389/
+Antimicrobial resistance: one health approach. Vet World. (2022) 15:743–9. doi:
+                                                                                                    fmicb.2025.1622700
+10.14202/vetworld.2022.743-749
+                                                                                                      20. Kongsted H, Loughlin ETM. Lowering antibiotic usage and phasing out
+  8. Anthony WE, Burnham C-AD, Dantas G, Kwon JH. The gut microbiome as a                           pharmaceutical zinc oxide in Danish pig herds: pig farmers’ and veterinarians’ experiences
+reservoir for antimicrobial resistance. J Infect Dis. (2021) 223:S209–13. doi: 10.1093/             and perceptions. Livest Sci. (2023) 273:105260. doi: 10.1016/j.livsci.2023.105260
+infdis/jiaa497
+                                                                                                      21. Beber CL, Aragrande M, Canali M. Policies and strategies to control antimicrobial
+  9. Lee K, Raguideau S, Sirén K, Asnicar F, Cumbo F, Hildebrand F, et al. Population-              resistance in livestock production: a comparative analysis of national action plans in
+level impacts of antibiotic usage on the human gut microbiome. Nat Commun. (2023)                   European Union member states. Health Policy. (2025) 152:105238. doi: 10.1016/j.
+14:1191. doi: 10.1038/s41467-023-36633-7                                                            healthpol.2024.105238
+  10. Muteeb G, Rehman MT, Shahwan M, Aatif M. Origin of antibiotics and antibiotic                   22. Simjee S, Ippolito G. European regulations on prevention use of antimicrobials
+resistance, and their impacts on drug development: a narrative review. Pharmaceuticals.             from January 2022. Braz J Vet Med. (2022) 44:e000822. doi: 10.29374/2527-2179.
+(2023) 16:1615. doi: 10.3390/ph16111615                                                             bjvm000822
+  11. Giamarellou H, Galani L, Karavasilis T, Ioannidis K, Karaiskos I. Antimicrobial                 23. Cangini A, Fortinguerra F, Di Filippo A, Pierantozzi A, Da Cas R, Villa F, et al.
+stewardship in the hospital setting: a narrative review. Antibiotics. (2023) 12:1557. doi:          Monitoring the community use of antibiotics in Italy within the National Action Plan
+10.3390/antibiotics12101557                                                                         on antimicrobial resistance. Br J Clin Pharmacol. (2021) 87:1033–42. doi: 10.1111/
+   12. Kumar NR, Balraj TA, Kempegowda SN, Prashant A. Multidrug-resistant Sepsis:                  bcp.14461
+a critical healthcare challenge. Antibiotics. (2024) 13:46. doi: 10.3390/antibiotics13010046
+                                                                                                      24. Pirolo M, Sieber RN, Moodley A, Visaggio D, Artuso I, Gioffrè A, et al. Local and
+  13. Matheou A, Abousetta A, Pascoe AP, Papakostopoulos D, Charalambous L, Panagi                  transboundary transmissions of methicillin-resistant Staphylococcus aureus sequence
+S, et al. Antibiotic use in livestock farming: a driver of multidrug resistance?                    type 398 through pig trading. Appl Environ Microbiol. (2020) 86. doi: 10.1128/
+Microorganisms. (2025) 13:779. doi: 10.3390/microorganisms13040779                                  AEM.00430-20
+
+
+
+
+Frontiers in Public Health                                                                     15                                                                           frontiersin.org
+Vivarelli et al.                                                                                                                                           10.3389/fpubh.2026.1746385
+
+
+
+
+  25. Franceschini G, Bottino M, Millet I, Martello E, Zaltron F, Favretto AR, et al.                 49. Nordhoff K, Scharlach M, Effelsberg N, Knorr C, Rocker D, Claussen K, et al.
+Assessment of the exposure of Turkey farmers to antimicrobial resistance associated                 Epidemiology and zoonotic transmission of mcr-positive and carbapenemase-producing
+with working practices. Vet Sci. (2019) 6. doi: 10.3390/vetsci6010013                               Enterobacterales on German Turkey farms. Front Microbiol. (2023) 14. doi: 10.3389/
+                                                                                                    fmicb.2023.1183984
+  26. Pirolo M, Visaggio D, Gioffrè A, Artuso I, Gherardi M, Pavia G, et al.
+Unidirectional animal-to-human transmission of methicillin-resistant Staphylococcus                    50. Trung NV, Matamoros S, Carrique-Mas JJ, Nghia NH, Nhung NT, Chieu TTB,
+aureus ST398 in pig farming; evidence from a surveillance study in southern Italy.                  et al. Zoonotic transmission of mcr-1 colistin resistance gene from small-scale poultry
+Antimicrob Resist Infect Control. (2019) 8:187. doi: 10.1186/s13756-019-0650-z                      farms, Vietnam. Emerg Infect Dis. (2017) 23:529–32. doi: 10.3201/eid2303.161553
+  27. Pirolo M, Gioffrè A, Visaggio D, Gherardi M, Pavia G, Samele P, et al. Prevalence,              51. Meijs AP, Gijsbers EF, Hengeveld PD, Dierikx CM, de Greeff SC, van Duijkeren E.
+molecular epidemiology, and antimicrobial resistance of methicillin-resistant                       ESBL/pAmpC-producing Escherichia coli and Klebsiella pneumoniae carriage among
+Staphylococcus aureus from swine in southern Italy. BMC Microbiol. (2019) 19:51. doi:               veterinary healthcare workers in the Netherlands. Antimicrob Resist Infect Control.
+10.1186/s12866-019-1422-x                                                                           (2021) 10:147. doi: 10.1186/s13756-021-01012-8
+  28. Jaleta M, Junker V, Kolte B, Börger M, Werner D, Dolsdorf C, et al. Improvements                52. La Rosa MC, Maugeri A, Favara G, La Mastra C, Magnano San Lio R, Barchitta
+of weaned pigs barn hygiene to reduce the spread of antimicrobial resistance. Front                 M, et al. The impact of wastewater on antimicrobial resistance: a scoping review of
+Microbiol. (2024) 15. doi: 10.3389/fmicb.2024.1393923                                               transmission pathways and contributing factors. Antibiotics. (2025) 14:131. doi: 10.3390/
+   29. Wisener LV, Sargeant JM, O’Sullivan TL, O’Connor AM, McEwen SA, Reist M,                     antibiotics14020131
+et al. Non-antibiotic approaches for disease prevention and control in nursery pigs: a               53. Larsson DGJ, Flach C-F. Antibiotic resistance in the environment. Nat Rev
+scoping review. Front Vet Sci. (2021) 8. doi: 10.3389/fvets.2021.620347                             Microbiol. (2022) 20:257–69. doi: 10.1038/s41579-021-00649-x
+  30. Naghavi M, Vollset SE, Ikuta KS, Swetschinski LR, Gray AP, Wool EE, et al. Global               54. Tao S, Chen H, Li N, Wang T, Liang W. The spread of antibiotic resistance genes in
+burden of bacterial antimicrobial resistance 1990–2021: a systematic analysis with                  vivo model. Can J Infect Dis Med Microbiol. (2022) 2022:1–11. doi: 10.1155/2022/3348695
+forecasts to 2050. Lancet. (2024) 404:1199–226. doi: 10.1016/S0140-6736(24)01867-1
+                                                                                                      55. Tacconelli E, Sifakis F, Harbarth S, Schrijver R, van Mourik M, Voss A, et al.
+  31. Xu W, Pan Z, Wu Y, An X-L, Wang W, Adamovich B, et al. A database on the                      Surveillance for control of antimicrobial resistance. Lancet Infect Dis. (2018) 18:e99–
+abundance of environmental antibiotic resistance genes. Sci Data. (2024) 11:250. doi:               e106. doi: 10.1016/S1473-3099(17)30485-1
+10.1038/s41597-024-03084-8
+                                                                                                      56. Singh R, Kim K. Environmental occurrence of antibiotic resistance, control
+  32. Allemailem K. Recent advances in understanding the molecular mechanisms of                    measures and challenges in finding therapeutic management. Emerg Contam. (2025)
+multidrug resistance and novel approaches of CRISPR/Cas9-based genome-editing to                    11:100440. doi: 10.1016/j.emcon.2024.100440
+combat this health emergency. Int J Nanomedicine. (2024) 19:1125–43. doi: 10.2147/
+IJN.S453566                                                                                           57. Fu Y, Dou Q, Smalla K, Wang Y, Johnson TA, Brandt KK, et al. Gut microbiota
+                                                                                                    research nexus: one health relationship between human, animal, and environmental
+  33. Belay WY, Getachew M, Tegegne BA, Teffera ZH, Dagne A, Zeleke TK, et al.
+                                                                                                    resistomes. mLife. (2023) 2:350–64. doi: 10.1002/mlf2.12101
+Mechanism of antibacterial resistance, strategies and next-generation antimicrobials to
+contain antimicrobial resistance: a review. Front Pharmacol. (2024) 15. doi: 10.3389/                 58. Singh S, Verma N, Taneja N. The human gut resistome. Indian J Med Res. (2019)
+fphar.2024.1444781                                                                                  150:345–58. doi: 10.4103/ijmr.IJMR_1979_17
+  34. Nasrollahian S, Graham JP, Halaji M. A review of the mechanisms that confer                     59. Li X, Brejnrod A, Thorsen J, Zachariasen T, Trivedi U, Russel J, et al. Differential
+antibiotic resistance in pathotypes of E. coli. Front Cell Infect Microbiol. (2024) 14. doi:        responses of the gut microbiome and resistome to antibiotic exposures in infants and
+10.3389/fcimb.2024.1387497                                                                          adults. Nat Commun. (2023) 14:8526. doi: 10.1038/s41467-023-44289-6
+   35. Tooke CL, Hinchliffe P, Bragginton EC, Colenso CK, Hirvonen VHA, Takebayashi                   60. Shen Y, Sun D, Chen K, Jiang J, Shao D, Yang L, et al. High-fat and low-fiber diet
+Y, et al. β-Lactamases and β-lactamase inhibitors in the 21st century. J Mol Biol. (2019)           elevates the gut resistome: a comparative metagenomic study. npj Biofilms Microbiomes.
+431:3472–500. doi: 10.1016/j.jmb.2019.04.002                                                        (2025) 11:156. doi: 10.1038/s41522-025-00799-3
+  36. Husna A, Rahman MM, Badruzzaman ATM, Sikder MH, Islam MR, Rahman MT,                            61. Singh RK, Chang H-W, Yan D, Lee KM, Ucmak D, Wong K, et al. Influence of diet
+et al. Extended-Spectrum β-lactamases (ESBL): challenges and opportunities.                         on the gut microbiome and implications for human health. J Transl Med. (2017) 15:73.
+Biomedicine. (2023) 11:2937. doi: 10.3390/biomedicines11112937                                      doi: 10.1186/s12967-017-1175-y
+  37. Wencewicz TA. Crossroads of antibiotic resistance and biosynthesis. J Mol Biol.                 62. Theis BF, Park JS, Kim JSA, Zeydabadinejad S, Vijay-Kumar M, Yeoh BS, et al. Gut
+(2019) 431:3370–99. doi: 10.1016/j.jmb.2019.06.033                                                  feelings: how microbes, diet, and host immunity shape disease. Biomedicine. (2025)
+  38. Ma C-X, Li Y, Liu W-T, Li Y, Zhao F, Lian X-T, et al. Synthetic macrolides                    13:1357. doi: 10.3390/biomedicines13061357
+overcoming MLSBK-resistant pathogens. Cell Discov. (2024) 10:75. doi: 10.1038/                        63. Sheffield S, Fiorotto ML, Davis TA. Nutritional importance of animal-sourced
+s41421-024-00702-y                                                                                  foods in a healthy diet. Front Nutr. (2024) 11. doi: 10.3389/fnut.2024.1424912
+ 39. Galgano M, Pellegrini F, Catalano E, Capozzi L, Del Sambro L, Sposato A, et al.                  64. Zhubi-Bakija F, Bajraktari G, Bytyçi I, Mikhailidis DP, Henein MY, Latkovskis G,
+Acquired bacterial resistance to antibiotics and resistance genes: from past to future.             et al. The impact of type of dietary protein, animal versus vegetable, in modifying
+Antibiotics. (2025) 14:222. doi: 10.3390/antibiotics14030222                                        cardiometabolic risk factors: a position paper from the international lipid expert panel
+   40. Kumawat M, Nabi B, Daswani M, Viquar I, Pal N, Sharma P, et al. Role of bacterial            (ILEP). Clin Nutr. (2021) 40:255–76. doi: 10.1016/j.clnu.2020.05.017
+efflux pump proteins in antibiotic resistance across microbial species. Microb Pathog.
+                                                                                                      65. Ayivi RD, Gyawali R, Krastanov A, Aljaloud SO, Worku M, Tahergorabi R, et al.
+(2023) 181:106182. doi: 10.1016/j.micpath.2023.106182
+                                                                                                    Lactic acid Bacteria: food safety and human health applications. Dairy. (2020) 1:202–32.
+  41. Du D, Wang-Kan X, Neuberger A, van Veen HW, Pos KM, Piddock LJV, et al.                       doi: 10.3390/dairy1030015
+Multidrug efflux pumps: structure, function and regulation. Nat Rev Microbiol. (2018)
+                                                                                                      66. Muloi DM, Caron A, Berkley JA, Hassell JM, Brito IL, King K, et al. Using the
+16:523–39. doi: 10.1038/s41579-018-0048-6
+                                                                                                    microbiota to study connectivity at human–animal interfaces. Trends Microbiol. (2025)
+  42. Zhang XC, Liu M, Lu G, Heng J. Thermodynamic secrets of multidrug resistance:                 33:1110–20. doi: 10.1016/j.tim.2025.05.006
+a new take on transport mechanisms of secondary active antiporters. Protein Sci. (2018)
+27:595–613. doi: 10.1002/pro.3355                                                                      67. Kador SM, Islam KT, Rubaiyat RN, Bhuiyan MIU, Chakrovarty T, Rahman MS,
+                                                                                                    et al. Abundance and transmission of antibiotic resistance and virulence genes through
+  43. Endale H, Mathewos M, Abdeta D. Potential causes of spread of antimicrobial                   mobile genetic elements in integrated chicken and fish farming system. Sci Rep. (2025)
+resistance and preventive measures in one health perspective-a review. Infect Drug Resist.          15:20953. doi: 10.1038/s41598-025-92921-w
+(2023) 16:7515–45. doi: 10.2147/IDR.S428837
+                                                                                                      68. Waide ML, Schmidt NW. The gut microbiome, immunity, and plasmodium
+  44. Graham DW, Bergeron G, Bourassa MW, Dickson J, Gomes F, Howe A, et al.                        severity. Curr Opin Microbiol. (2020) 58:56–61. doi: 10.1016/j.mib.2020.08.006
+Complexities in understanding antimicrobial resistance across domesticated animal,
+human, and environmental systems. Ann N Y Acad Sci. (2019) 1441:17–30. doi: 10.1111/                  69. Xu C, Kong L, Gao H, Cheng X, Wang X. A review of current bacterial resistance
+nyas.14036                                                                                          to antibiotics in food animals. Front Microbiol. (2022) 13. doi: 10.3389/fmicb.2022.822689
+
+   45. Dweba CC, Zishiri O, El Zowalaty M. Methicillin-resistant Staphylococcus aureus:               70. Davido B, Merrick B, Kuijper E, Benech N, Biehl LM, Corcione S. How can the gut
+livestock-associated, antimicrobial, and heavy metal resistance. Infect Drug Resist. (2018)         microbiome be targeted to fight multidrug-resistant organisms? Lancet Microbe. (2025)
+11:2497–509. doi: 10.2147/IDR.S175967                                                               6:101063. doi: 10.1016/j.lanmic.2024.101063
+  46. Davis GS, Waits K, Nordstrom L, Weaver B, Aziz M, Gauld L, et al. Intermingled                  71. McInnes RS, McCallum GE, Lamberte LE, van Schaik W. Horizontal transfer of
+Klebsiella pneumoniae populations between retail meats and human urinary tract                      antibiotic resistance genes in the human gut microbiome. Curr Opin Microbiol. (2020)
+infections. Clin Infect Dis. (2015) 61:892–9. doi: 10.1093/cid/civ428                               53:35–43. doi: 10.1016/j.mib.2020.02.002
+  47. Sonola VS, Katakweba AS, Misinzo G, Matee MIN. Occurrence of multi-drug-                        72. Pillay S, Calderón-Franco D, Urhan A, Abeel T. Metagenomic-based surveillance
+resistant Escherichia coli in chickens, humans, rodents and household soil in Karatu,               systems for antibiotic resistance in non-clinical settings. Front Microbiol. (2022) 13. doi:
+northern Tanzania. Antibiotics. (2021) 10:1137. doi: 10.3390/antibiotics10091137                    10.3389/fmicb.2022.1066995
+  48. Abou-Jaoudeh C, Andary J, Abou-Khalil R. Antibiotic residues in poultry products                73. Maciel-Guerra A, Baker M, Hu Y, Wang W, Zhang X, Rong J, et al. Dissecting
+and bacterial resistance: a review in developing countries. J Infect Public Health. (2024)          microbial communities and resistomes for interconnected humans, soil, and livestock.
+17:102592. doi: 10.1016/j.jiph.2024.102592                                                          ISME J. (2023) 17:21–35. doi: 10.1038/s41396-022-01315-7
+
+
+
+Frontiers in Public Health                                                                     16                                                                             frontiersin.org
+Vivarelli et al.                                                                                                                                         10.3389/fpubh.2026.1746385
+
+
+
+
+   74. Luchen CC, Chibuye M, Spijker R, Simuyandi M, Chisenga C, Bosomprah S, et al.               97. Tan SC, Chong CW, Yap IKS, Thong KL, Teh CSJ. Comparative assessment of
+Impact of antibiotics on gut microbiome composition and resistome in the first years of          faecal microbial composition and metabonome of swine, farmers and human control.
+life in low- to middle-income countries: a systematic review. PLoS Med. (2023)                   Sci Rep. (2020) 10:8997. doi: 10.1038/s41598-020-65891-4
+20:e1004235. doi: 10.1371/journal.pmed.1004235
+                                                                                                   98. Wang Y, Lyu N, Liu F, Liu WJ, Bi Y, Zhang Z, et al. More diversified antibiotic
+  75. Dongre DS, Saha UB, Saroj SD. Exploring the role of gut microbiota in antibiotic           resistance genes in chickens and workers of the live poultry markets. Environ Int. (2021)
+resistance and prevention. Ann Med. (2025) 57. doi: 10.1080/07853890.2025.2478317                153:106534. doi: 10.1016/j.envint.2021.106534
+  76. Ma Z, Zuo T, Frey N, Rangrez AY. A systematic framework for understanding the                99. Williams AD, Rousham E, Neal AL, Amin MB, Hobman JL, Stekel D, et al. Impact
+microbiome in human health and disease: from basic principles to clinical translation.           of contrasting poultry exposures on human, poultry, and wastewater antibiotic
+Signal Transduct Target Ther. (2024) 9:237. doi: 10.1038/s41392-024-01946-6                      resistomes in Bangladesh. Microbiol Spectr. (2023) 11. doi: 10.1128/spectrum.01763-23
+  77. Yang Y, Hernandez MC, Chitre S, Jobin C. Emerging roles of modern lifestyle                   100. Kim J, Cho Y, Lim S-K, Seo M-R, Sohn JW, Kim B, et al. Comparative analyses
+factors in microbiome stability and functionality. Curr Clin Microbiol Rep. (2025) 12:6.         of the faecal resistome against β-lactam and quinolone antibiotics in humans and
+doi: 10.1007/s40588-025-00242-3                                                                  livestock using metagenomic sequencing. Sci Rep. (2023) 13:20993. doi: 10.1038/
+                                                                                                 s41598-023-48221-2
+  78. Ma T, Zaheer R, McAllister TA, Guo W, Li F, Tu Y, et al. Expressions of resistome
+is linked to the key functions and stability of active rumen microbiome. Anim                      101. Gao F-Z, He L-Y, He L-X, Bai H, Zhang M, Chen Z-Y, et al. Swine farming shifted
+Microbiome. (2022) 4:38. doi: 10.1186/s42523-022-00189-6                                         the gut antibiotic resistome of local people. J Hazard Mater. (2024) 465:133082. doi:
+                                                                                                 10.1016/j.jhazmat.2023.133082
+  79. Napit R, Gurung A, Poudel A, Chaudhary A, Manandhar P, Sharma AN, et al.
+Metagenomic analysis of human, animal, and environmental samples identifies potential              102. Trinh P, Teichman S, Roberts MC, Rabinowitz PM, Willis AD. A cross-sectional
+emerging pathogens, profiles antibiotic resistance genes, and reveals horizontal gene            comparison of gut metagenomes between dairy workers and community controls. BMC
+transfer dynamics. Sci Rep. (2025) 15:12156. doi: 10.1038/s41598-025-90777-8                     Genomics. (2024) 25:708. doi: 10.1186/s12864-024-10562-1
+
+  80. Yu D, Meng X, de Vos WM, Wu H, Fang X, Maiti AK. Implications of gut                         103. Mahmud B, Vargas RC, Sukhum KV, Patel S, Liao J, Hall LR, et al. Longitudinal
+microbiota in complex human diseases. Int J Mol Sci. (2021) 22:12661. doi: 10.3390/              dynamics of farmer and livestock nasal and faecal microbiomes and resistomes. Nat
+ijms222312661                                                                                    Microbiol. (2024) 9:1007–20. doi: 10.1038/s41564-024-01639-4
+
+  81. Pan X, Zhou Z, Liu B, Wu Z. A novel therapeutic concern: antibiotic resistance                104. Feng Y, Lu X, Zhao J, Li H, Xu J, Li Z, et al. Regional antimicrobial resistance gene
+genes in common chronic diseases. Front Microbiol. (2022) 13. doi: 10.3389/                      flow among the one health sectors in China. Microbiome. (2025) 13:3. doi: 10.1186/
+fmicb.2022.1037389                                                                               s40168-024-01983-x
+
+  82. Forslund K, Sunagawa S, Coelho LP, Bork P. Metagenomic insights into the human               105. Caneschi A, Bardhi A, Barbarossa A, Zaghini A. The use of antibiotics and
+gut resistome and the forces that shape it. BioEssays. (2014) 36:316–29. doi: 10.1002/           antimicrobial resistance in veterinary medicine, a complex phenomenon: a narrative
+bies.201300143                                                                                   review. Antibiotics. (2023) 12:487. doi: 10.3390/antibiotics12030487
+                                                                                                   106. Almansour AM, Alhadlaq MA, Alzahrani KO, Mukhtar LE, Alharbi AL, Alajel
+ 83. Sabino YNV, Santana MF, Oyama LB, Santos FG, Moreira AJS, Huws SA, et al.
+                                                                                                 SM. The silent threat: antimicrobial-resistant pathogens in food-producing animals and
+Characterization of antibiotic resistance genes in the species of the rumen microbiota.
+                                                                                                 their impact on public health. Microorganisms. (2023) 11:2127. doi: 10.3390/
+Nat Commun. (2019) 10:5252. doi: 10.1038/s41467-019-13118-0
+                                                                                                 microorganisms11092127
+  84. Liu J, Taft DH, Maldonado-Gomez MX, Johnson D, Treiber ML, Lemay DG, et al.
+                                                                                                   107. Degregori S, Wang X, Kommala A, Schulhof N, Moradi S, MacDonald A, et al.
+The fecal resistome of dairy cattle is associated with diet during nursing. Nat Commun.
+                                                                                                 Comparative gut microbiome research through the lens of ecology: theoretical
+(2019) 10:4406. doi: 10.1038/s41467-019-12111-x
+                                                                                                 considerations and best practices. Biol Rev. (2025) 100:748–63. doi: 10.1111/brv.13161
+  85. Rovira P, McAllister T, Lakin SM, Cook SR, Doster E, Noyes NR, et al.                        108. Manzoor H, Li H, Kayani MUR. Identification of antibiotic resistance genes from
+Characterization of the microbial resistome in conventional and “raised without                  whole genome and metagenome sequencing datasets. One Health Advances. (2025) 3:14.
+antibiotics” beef and dairy production systems. Front Microbiol. (2019) 10. doi: 10.3389/        doi: 10.1186/s44280-025-00079-x
+fmicb.2019.01980
+                                                                                                   109. Sierra R, Roch M, Moraz M, Prados J, Vuilleumier N, Emonet S, et al.
+  86. Hu Q, Liu C, Zhang D, Wang R, Qin L, Xu Q, et al. Effects of low-dose antibiotics          Contributions of long-read sequencing for the detection of antimicrobial resistance.
+on gut immunity and antibiotic Resistomes in weaned piglets. Front Immunol. (2020)               Pathogens. (2024) 13:730. doi: 10.3390/pathogens13090730
+11. doi: 10.3389/fimmu.2020.00903
+                                                                                                   110. Kumar V, Singh A, Singh VS, Chaurasia R, Rao M, Sahu PK, et al. Functional
+  87. Mencía-Ares O, Cabrera-Rubio R, Cobo-Díaz JF, Álvarez-Ordóñez A, Gómez-                    metagenomics: a potential tool for mining of biomolecules from environmental samples.
+García M, Puente H, et al. Antimicrobial use and production system shape the fecal,              Ecol Genet Genom. (2025) 36:100369. doi: 10.1016/j.egg.2025.100369
+environmental, and slurry resistomes of pig farms. Microbiome. (2020) 8:164. doi:                  111. Cella E, Giovanetti M, Benedetti F, Scarpa F, Johnston C, Borsetti A, et al. Joining
+10.1186/s40168-020-00941-7                                                                       forces against antibiotic resistance: the one health solution. Pathogens. (2023) 12:1074.
+  88. López-Catalina A, Atxaerandio R, García-Rodríguez A, Goiri I, Gutierrez-Rivas              doi: 10.3390/pathogens12091074
+M, Jiménez-Montero JA, et al. Characterisation of the rumen resistome in Spanish dairy             112. Gupta R, Sharma S. Role of alternatives to antibiotics in mitigating the antimicrobial
+cattle. Anim Microbiome. (2021) 3:63. doi: 10.1186/s42523-021-00125-0                            resistance crisis. Indian J Med Res. (2022) 156:464–77. doi: 10.4103/ijmr.IJMR_3514_20
+  89. Sun H-Z, Peng K-L, Xue M-Y, Liu J-X. Metagenomics analysis revealed the                      113. Paul SS, Rama Rao SV, Hegde N, Williams NJ, Chatterjee RN, Raju MVLN, et al.
+distinctive ruminal microbiome and resistive profiles in dairy buffaloes. Anim                   Effects of dietary antimicrobial growth promoters on performance parameters and
+Microbiome. (2021) 3:44. doi: 10.1186/s42523-021-00103-6                                         abundance and diversity of broiler chicken gut microbiome and selection of antibiotic
+                                                                                                 resistance genes. Front Microbiol. (2022) 13. doi: 10.3389/fmicb.2022.905050
+  90. Jensen EEB, Sedor V, Eshun E, Njage P, Otani S, Aarestrup FM. The resistomes of
+rural and urban pigs and poultry in Ghana. mSystems. (2023) 8. doi: 10.1128/                       114. Koorakula R, Schiavinato M, Ghanbari M, Wegl G, Grabner N, Koestelbauer A, et al.
+msystems.00629-23                                                                                Metatranscriptomic analysis of the chicken gut Resistome response to in-feed antibiotics and
+                                                                                                 natural feed additives. Front Microbiol. (2022) 13. doi: 10.3389/fmicb.2022.833790
+  91. Lappan R, Chown SL, French M, Perlaza-Jiménez L, Macesic N, Davis M, et al.
+Towards integrated cross-sectoral surveillance of pathogens and antimicrobial                      115. Yu J, Zuo B, Li Q, Zhao F, Wang J, Huang W, et al. Dietary supplementation with
+resistance: needs, approaches, and considerations for linking surveillance to action.            Lactiplantibacillus plantarum P-8 improves the growth performance and gut microbiota
+Environ Int. (2024) 192:109046. doi: 10.1016/j.envint.2024.109046                                of weaned piglets. Microbiol Spectr. (2024) 12. doi: 10.1128/spectrum.02345-22
+  92. Sun J, Huang T, Chen C, Cao T-T, Cheng K, Liao X-P, et al. Comparison of Fecal               116. Kerek Á, Román IL, Szabó Á, Papp M, Bányai K, Kardos G, et al. Comprehensive
+microbial composition and antibiotic resistance genes from swine, farm workers and the           metagenomic analysis of veterinary probiotics in broiler chickens. Animals. (2024)
+surrounding villagers. Sci Rep. (2017) 7:4965. doi: 10.1038/s41598-017-04672-y                   14:1927. doi: 10.3390/ani14131927
+                                                                                                   117. Ortiz Sanjuán JM, Manzanilla EG, Cabrera-Rubio R, Crispie F, Cotter PD,
+   93. Sun J, Liao X-P, D’Souza AW, Boolchandani M, Li S-H, Cheng K, et al.
+                                                                                                 Garrido JJ, et al. Using shotgun sequencing to describe the changes induced by in-feed
+Environmental remodeling of human gut microbiota and antibiotic resistome in
+                                                                                                 zinc oxide and apramycin in the microbiomes of pigs one week postweaning. Microbiol
+livestock farms. Nat Commun. (2020) 11:1427. doi: 10.1038/s41467-020-15222-y
+                                                                                                 Spectr. (2022) 10. doi: 10.1128/spectrum.01597-22
+   94. Weil AA, Debela MD, Muyanja DM, Kakuhikire B, Baguma C, Bangsberg DR,                       118. Kithama M, Hassan YI, Yin X, Tang J, Clairmont L, Sienkiewicz O, et al. Shift of
+et al. Gut carriage of antimicrobial resistance genes in women exposed to small-scale            microbiota and modulation of resistome in the ceca of broiler chicken fed berry pomace
+poultry farms in rural Uganda: a feasibility study. PLoS One. (2020) 15:e0229699. doi:           alone or in combination of a multienzyme mixture. Microorganisms. (2025) 13:1044. doi:
+10.1371/journal.pone.0229699                                                                     10.3390/microorganisms13051044
+  95. Luiken REC, Van Gompel L, Bossers A, Munk P, Joosten P, Hansen RB, et al. Farm               119. Corrigan A, McCooey P, Taylor-Pickard J, Stockdale S, Murphy R. Breaking the cycle:
+dust resistomes and bacterial microbiomes in European poultry and pig farms. Environ             a yeast mannan-rich fraction beneficially modulates egg quality and the antimicrobial
+Int. (2020) 143:105971. doi: 10.1016/j.envint.2020.105971                                        Resistome associated with layer hen caecal microbiomes under commercial conditions.
+   96. Van Gompel L, Luiken REC, Hansen RB, Munk P, Bouwknegt M, Heres L, et al.                 Microorganisms. (2024) 12:1562. doi: 10.3390/microorganisms12081562
+Description and determinants of the faecal resistome and microbiome of farmers and                 120. Brinck JE, Lassen SB, Forouzandeh A, Pan T, Wang Y-Z, Monteiro A, et al.
+slaughterhouse workers: a metagenome-wide cross-sectional study. Environ Int. (2020)             Impacts of dietary copper on the swine gut microbiome and antibiotic resistome. Sci
+143:105939. doi: 10.1016/j.envint.2020.105939                                                    Total Environ. (2023) 857:159609. doi: 10.1016/j.scitotenv.2022.159609
+
+
+
+Frontiers in Public Health                                                                  17                                                                              frontiersin.org
+Vivarelli et al.                                                                                                                                          10.3389/fpubh.2026.1746385
+
+
+
+
+  121. Holman DB, Gzyl KE, Kommadath A. The gut microbiome and resistome of                            124. Lee C, Zaheer R, Munns K, Holman DB, Van Domselaar G, Zovoilis A, et al. Effect
+conventionally vs. pasture-raised pigs. Microb Genomics. (2023) 9. doi: 10.1099/                     of antimicrobial use in conventional versus natural cattle feedlots on the microbiome and
+mgen.0.001061                                                                                        Resistome. Microorganisms. (2023) 11:2982. doi: 10.3390/microorganisms11122982
+   122. Zalewska M, Błażejewska A, Czapko A, Popowska M. Pig manure treatment                           125. de Castañeda RR, Villers J, Guzmán CAF, Eslanloo T, de Paula N, Machalaba C,
+strategies for mitigating the spread of antibiotic resistance. Sci Rep. (2023) 13:11999. doi:        et al. One health and planetary health research: leveraging differences to grow together.
+10.1038/s41598-023-39204-4                                                                           Lancet Planet Heal. (2023) 7:e109–11. doi: 10.1016/S2542-5196(23)00002-5
+  123. Zhang Y, Wang N, Wan J, Jousset A, Jiang G, Wang X, et al. Exploring the                        126. Asaduzzaman M. Antimicrobial resistance: an urgent need for a planetary and
+antibiotic resistance genes removal dynamics in chicken manure by composting.                        ecosystem approach. Lancet Planet Heal. (2018) 2:e99–e100. doi: 10.1016/
+Bioresour Technol. (2024) 410:131309. doi: 10.1016/j.biortech.2024.131309                            S2542-5196(18)30019-6
+
+
+
+
+Frontiers in Public Health                                                                      18                                                                          frontiersin.org
+

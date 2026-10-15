@@ -1,0 +1,637 @@
+RESEARCH ARTICLE
+                                                                                                                                 www.advgenet.com
+
+
+Gut Microbiota Linked with Reduced Fear of Humans in Red
+Junglefowl Has Implications for Early Domestication
+Lara C. Puetz,* Tom O. Delmont, Ostaizka Aizpurua, Chunxue Guo, Guojie Zhang,
+Rebecca Katajamaa, Per Jensen, and M. Thomas P. Gilbert*
+
+                                                                                                       1. Introduction
+  Domestication of animals can lead to profound phenotypic modiﬁcations
+                                                                                                       Phenotypic plasticity is conventionally
+  within short evolutionary time periods, and for many species behavioral
+                                                                                                       viewed as being directly encoded by the
+  selection is likely at the forefront of this process. Animal studies have strongly                   genome, either due to conventional ge-
+  implicated that the gut microbiome plays a major role in host behavior and                           netic, or even epigenetic, variation. How-
+  cognition through the microbiome–gut–brain axis. Consequently, herein, it is                         ever, a growing body of evidence shows
+  hypothesized that host gut microbiota may be one of the earliest phenotypes                          that microorganisms residing in the gut
+  to change as wild animals were domesticated. Here, the gut microbiome                                of animals (their microbiota) may play a
+                                                                                                       crucial role on their adaptive capacity.[1]
+  community in two selected lines of red junglefowl that are selected for either                       The gut microbiota is a major actor in the
+  high or low fear of humans up to eight generations is examined. Microbiota                           nutrition, health, physiology, and behav-
+  proﬁles reveal taxonomic diﬀerences in gut bacteria known to produce                                 ior of complex animals,[2–7] and the close
+  neuroactive compounds between the two selection lines. Gut–brain module                              connection between hosts and their gut
+  analysis by means of genome-resolved metagenomics identiﬁes enrichment                               microbiota has led researchers to assert
+                                                                                                       that their combined activities represent
+  in the microbial synthesis and degradation potential of metabolites associated
+                                                                                                       both a shared target for natural selection
+  with fear extinction and reduces anxiety-like behaviors in low fear fowls. In                        and a driver of adaptive responses.[8–14]
+  contrast, high fear fowls are enriched in gut–brain modules from the butyrate                        Adapting to novel environments involves
+  and glutamate pathways, metabolites associated with fear conditioning.                               modiﬁcation of biological systems in an
+  Overall, the results identify diﬀerences in the composition and functional                           eﬀort to maintain ﬁtness in response
+  potential of the gut microbiota across selection lines that may provide                              to a stressing agent. Ample evidence
+                                                                                                       now portrays the gut microbiome
+  insights into the mechanistic explanations of the domestication process.                             as a dynamic biological system that
+
+
+
+L. C. Puetz, O. Aizpurua, M. T. P. Gilbert                                  C. Guo, G. Zhang
+Center for Evolutionary Hologenomics                                        China National GeneBank
+GLOBE Institute                                                             BGI-Shenzhen
+University of Copenhagen                                                    Shenzhen 518083, China
+Copenhagen 1353, Denmark                                                    G. Zhang
+E-mail: lara.puetz@science.ku.dk; tgilbert@sund.ku.dk                       Villum Center for Biodiversity Genomics, Section for Ecology and
+T. O. Delmont                                                               Evolution, Department of Biology
+Génomique Métabolique                                                       University of Copenhagen
+Genoscope                                                                   Copenhagen 2100, Denmark
+Institut François Jacob                                                     G. Zhang
+CEA                                                                         State Key Laboratory of Genetic Resources and Evolution
+CNRS                                                                        Kunming Institute of Zoology
+Univ Evry                                                                   Chinese Academy of Sciences
+Université Paris-Saclay                                                     Kunming 650223, China
+Evry 91057, France                                                          G. Zhang
+                                                                            Center for Excellence in Animal Evolution and Genetics
+                                                                            Chinese Academy of Sciences
+                                                                            Kunming 650223, China
+     The ORCID identiﬁcation number(s) for the author(s) of this article    R. Katajamaa, P. Jensen
+     can be found under https://doi.org/10.1002/ggn2.202100018              IFM Biology, AVIAN Behaviour Genomics and Physiology Group
+                                                                            Linköping University
+© 2021 The Authors. Advanced Genetics published by Wiley Periodicals        Linköping 58330, Sweden
+LLC. This is an open access article under the terms of the Creative
+Commons Attribution License, which permits use, distribution and            M. T. P. Gilbert
+reproduction in any medium, provided the original work is properly cited.   Department of Natural History, NTNU University Museum
+                                                                            Norwegian University of Science and Technology (NTNU)
+DOI: 10.1002/ggn2.202100018                                                 Trondheim 7491, Norway
+
+
+Advanced Genetics 2021, 2, 2100018             2100018 (1 of 12)                 © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                     26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                               www.advgenet.com
+
+responds to environmental changes and is able to adapt to novel      lent taxa (Figure S1, Supporting Information). Most of these dif-
+conditions.                                                          ferences were Firmicutes ASVs (n = 42), the most abundant phy-
+   Domestication is an evolutionary process of adaptation that       lum (Figure S1, Supporting Information). Order level diﬀerences
+can lead to profound phenotypic modiﬁcations in animals              identiﬁed that Clostridiales were signiﬁcantly more abundant in
+within short time periods. The central selective pressure is         the low fear selection line (Figure 1; Wald test, t value = 3.1,
+thought to be imposed through the new social environment,            p value = 0.003) and further analysis at the ASV level revealed
+and the initial exposure to humans is known to induce rapid          a signiﬁcant enrichment of ASVs belonging to the Ruminococ-
+behavioral change in wild animals during the early stages of         caceae (genera Subdoligranulum and UCG-014), Lachnospiraceae,
+the domestication process.[15] A reduction in acute fear and         Clostridiaceae_1, and Peptostreptococcaceae families within this or-
+long-term stress toward humans is a shared feature among             der, the latter two of which had ASVs exclusively found in this
+domesticated animals[16,17] and often a prerequisite to successful   line (Figure 2; Table S1, Supporting Information). Conversely, the
+breeding in captivity.[18] Contemporary research has strongly        Lactobacillales order was signiﬁcantly more abundant in the high
+implicated the gut microbiome in brain development, host be-         fear selection line (Figure 1; Wald test, t value = -3.7, p value =
+havior, and cognition, through its ability to produce and modify     0.0006), including many ASVs from the Lactobacillus genus, but
+metabolic, immunological, and neurochemical factors in the gut       additionally a Streptococcus sp. and several unknown ASVs from
+that can impact host physiology and the nervous system.[19,20]       this order (Figure 2; Table S1, Supporting Information).
+Consequently, we hypothesized that host gut microbiota may              Low fear fowls were also enriched in several Bacteroidetes
+be one of the earliest phenotypes to change as wild animals are      ASVs (Figure 2A; Table S1, Supporting Information). Further,
+domesticated.                                                        many ASVs were discriminant to the LF selection line including
+   To test this hypothesis, we examined the association of gut       ASVs from Actinobacteria (Rathayibacter and unknown genera),
+microbiome features with two selected lines of red junglefowl        Gammaproteobacteria (Pseudomonas and unknown genera), Ver-
+(the ancestors of domestic chickens) that were bred at the           rucomicrobia (Cerasicoccus sp.), and ﬁnally a Proteobacteria (He-
+University of Linköping (Sweden) solely for either high or low       licobacter sp.) (Figure 2B). Conversely, high fear fowls were en-
+fear of humans, over the course of eight generations. In this        riched in Synergistes and Sutterella ASVs, as well as several un-
+study, red junglefowl were reared under identical controlled         known ASVs from the Erysipelotrichales order (Figure 2).
+environments and housed in mixed group pens.[21–23] As such,
+we were able to uniquely assess whether the community com-
+position of the gastrointestinal microbiota diﬀered between the      2.2. Genome-Resolved Analysis of Red Junglefowl Fecal Samples
+two behavioral phenotypes without introducing the confounding        Yielded 194 Manually Curated Microbial Genomes
+eﬀects of environment, including diet, on microbial community
+structure. We additionally performed functional analysis of          Shotgun metagenomic sequencing of the 51 fecal samples
+genome-resolved metagenomes to assess the potential of the           yielded 6.1 billion high-quality short-reads, of which 19–91%
+microbiome to produce or degrade neuroactive compounds that          mapped to the chicken genome (Table S2a, Supporting Infor-
+may act as mediators of microbiota–gut–brain signaling.[24] In       mation). We then performed a comprehensive genome-resolved
+this exploratory study, we hypothesize that the gut microbiome       metagenomic survey of the microbial populations through
+proﬁles and their neuroactive potential are associated with red      coassembly of these data after host-derived reads were removed.
+junglefowl behavioral phenotypes, which may provide novel            Subsequent manual binning within the anvi’o[25] framework us-
+insights into the mechanistic explanations of the domestication      ing diﬀerential coverage across all samples resulted in 194 nonre-
+process.                                                             dundant metagenome-assembled genomes (MAGs) (Figure 3A;
+                                                                     Figure S3 and Table S2b, Supporting Information). Six samples,
+2. Results                                                           all males, had a sequencing depth of less than 10 million single-
+                                                                     end reads (<1 Gb) after quality control and were removed from
+2.1. Low Fear Red Junglefowl Are Consistently Depleted in            downstream analyses (as per recent recommendations[26] ) due
+Lactobacillales and Enriched in Clostridiales                        to the large amount of host DNA (>70%) minimizing micro-
+                                                                     bial signal. However, for this study, we note that each behavioral
+To facilitate the detection of low abundant taxa and create ﬁne-     phenotype was equally represented by the MAGs (HF: n = 22,
+scale community composition proﬁles of the gut microbiota of         LF: n = 23) (Figure S4, Supporting Information). The genomic
+the two red junglefowl behavioral phenotypes, a 16S rRNA gene        database revealed that two MAGs were aﬃliated to Archaea, while
+amplicon survey was ﬁrst performed on fecal samples represent-       all remaining MAGs (n = 192) were aﬃliated to known bacte-
+ing high (HF) and low (LF) fear individuals selected in the sixth    rial orders, including 40% identiﬁed at the species level (aver-
+(S6) and seventh (S7) generations (2016 collection year; n = 22)     age nucleotide identity >95%). We identiﬁed 15 bacteria phyla;
+and from the eighth generation (S8) (2018 collection year; n =       the most frequent MAGs being Firmicutes (n = 94 MAGs), fol-
+29). A total of 2582 amplicon sequence variants (ASVs) were          lowed by Bacteroidetes (n = 57), Actinobacteriota (n = 14), Pro-
+identiﬁed, 23 of which were diﬀerentially abundant between the       teobacteria (n = 13), Patescibacteria (n = 6), Tenericutes (n = 4),
+high and low fear behavioral phenotypes, and an additional 34        Cyanobacteria (n = 1), Fusobacteria (n = 1), Deferribacteres (n =
+ASVs were discriminant to either selection line in both sam-         1), Spirochaetes (n = 1), Synergistetes (n = 1) and Verrucomicro-
+pling years (Figure S1 and Table S1, Supporting Information). Al-    bia (n = 1) (Figure 3A). Complete taxonomic assignments using
+though many occurred within the rare biosphere, a noteworthy         the Genome Taxonomy Database Toolkit (GTDB-Tk)[27] are found
+number of diﬀerences occurred in abundant and highly preva-          in Table S2b (Supporting Information).
+
+
+Advanced Genetics 2021, 2, 2100018        2100018 (2 of 12)               © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                                26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                          www.advgenet.com
+
+
+
+
+Figure 1. Relative abundance of bacteria detected in fecal microbiota of red junglefowl selected for high fear and low fear towards humans. Relative
+abundance of order-level bacterial in 16S rRNA amplicon sequence variants detected in 23 high fear and 27 low fear red junglefowl fecal samples: A)
+Top 10 most abundant bacteria orders and diﬀerentially abundant. B) Clostridiales (Wald test, t value = 3.1, p value = 0.003) and C) Lactobacillales (Wald
+test, t value = –3.7, p value = 0.0006) orders between the high and low fear selection lines. D) Diﬀerential abundance of the class Clostridia (Wald test,
+t value = 3.3, p value = 0.002) observed in the metagenome-assembled-genomes (MAGs) detected in 22 high fear and 23 low fear red junglefowl fecal
+samples. Microbial community composition was modeled at the order and class level for B,C) the 16S and D) shotgun sequence data respectively by
+ﬁtting the beta-binomial regression model implemented in the “corncob” package in R. Diﬀerentially abundant taxa were considered signiﬁcant using
+the parametric Wald test with a controlled false discovery rate (p value cutoﬀ <0.05) ** p ≤ 0.01, *** p ≤ 0.001.
+
+
+
+   We subsequently modeled microbial abundance at the class                    2.3. Gut–Brain Modules Well-Represented in the Gut Microbiota
+level to reveal a signiﬁcant enrichment of Clostridia MAGs in low              of the Red Junglefowl
+fear individuals (Wald test, t value = 3.3, p value = 0.002), cor-
+roborating similar ﬁndings to the 16S amplicon data presented                  In order to describe the neuroactive potential of gut microbiota
+above (Figure 1D). Further, two MAGs were discriminant to the                  in relation to gut–brain interactions in the red junglefowl, we
+low fear selection line in both collection years and aﬃliated to He-           applied a module-based framework previously developed in
+licobacter magdeburgensis (similarly identiﬁed in the 16S sequence             human microbiome research.[24] This framework identiﬁes
+data; Figure 2B) and an unknown Limosilactobacillus population                 microbial pathways that metabolize molecules that have the
+within the Firmicutes (Figure 3). Conversely, Limosilactobacillus in-          potential to interact with the host nervous system. We found
+gluviei was signiﬁcantly enriched in the high fear fowls, and a                41 out of the 56 annotated gut–brain modules (GBMs) known
+Clostridiales MAG with no culture representatives (UBA9475 sp.                 to produce or degrade neuroactive compounds and these were
+003534045) were exclusively found in this line across both years               spread widely across the phylogenic range of the red junglefowl
+(Figure 3). All four MAGs were less than 2% redundant and near                 MAGs (Figure 3A). Several phylogenetic GBM hotspots (high
+complete (>92%) (Figure 3A).                                                   prevalence of GBMs) were observed in the Proteobacteria (all
+
+
+
+Advanced Genetics 2021, 2, 2100018              2100018 (3 of 12)                    © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                                26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                          www.advgenet.com
+
+
+
+
+Figure 2. Diﬀerential abundance of bacterial 16S ASVs between behavioral phenotypic groups of red junglefowl. A) Diﬀerences in the abundance of ASVs
+detected in 50 red junglefowl fecal samples, grouped by order-level taxonomic classiﬁcation, between high (n = 23) and low fear (n = 27) selection lines
+estimated with corncob using the Wald test with a controlled false discovery rate. ASVs enriched in either selection line were categorized by family-level
+classiﬁcation and annotated on the right y-axis. B) Discriminant number ASVs, exclusively found in either selection line, grouped by order and genus
+level classiﬁcations.
+
+
+
+Gammaproteobacteria) and Actinobacteria phyla, whereas MAGs                    2.4. Behavioral Selection Induces Shifts in the Functional
+aﬃliated to the Patescibacteria phylum, known for its streamlined              Potential of the Red Junglefowl Gut Microbiome
+genomes lacking several metabolic pathways, carried no more
+than one, if any, of the GBMs (Figure 3A). None of the GBMs                    To explore whether neuroactive compound metabolism could be
+were ubiquitous (present in >90% of the MAGs), which can in                    associated with behavioral selection, we assessed the detection of
+part be explained by the incomplete nature of MAGs, and nearly                 GBMs in MAGs that were signiﬁcantly enriched or discriminant
+half (n = 20) were rare (prevalence < 5% of the MAGs) (Figure 4).              to a behavioral phenotypic group. Based on the GBM framework
+Notably, propionate II synthesis was present in 22% of the red                 applied to all RJF samples, there were no signiﬁcant diﬀerences
+junglefowl MAGs (n = 194) yet rarely found in human reference                  in the overall diﬀerential abundance of GBMs (Figure 4C); how-
+genomes used to originally validate this framework (n = 532).[24]              ever, when applied to each of the four signiﬁcantly enriched or
+Additionally, we identiﬁed two modules, vitamin K synthesis                    discriminant MAGs, we identiﬁed nine associations with either
+II and acetate synthesis III, that were detected in fowl MAGs                  of the selection lines, three of which were GBMs rarely found
+but absent in humans. Serotonin, dopamine, acetylcholine,                      in the red junglefowl MAGs (present in <5% of all MAGs) (Fig-
+polyunsaturated fatty acids (PUFAs), and propionate I synthesis                ure 3B). Two of the three rare GBM associations were short-chain
+were absent in RJF MAGs in addition to glutamate I degradation.                fatty acids (SCFA), metabolites produced by gut bacteria, and sus-
+Most GBMs (n = 32; 78%) were present in over 50% of all RJF                    pected of playing key roles in the microbiota–gut–brain axis. In-
+samples and two were rare, namely kynurenine synthesis (2%)                    terestingly, high fear fowls were enriched in GBMs from the bu-
+and acetate synthesis II (8%) (Figure 4C).                                     tyrate pathway, namely butyrate synthesis I and II, the latter of
+
+
+
+Advanced Genetics 2021, 2, 2100018              2100018 (4 of 12)                    © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                            26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                      www.advgenet.com
+
+
+
+
+Figure 3. Gut–brain module (GBM) distribution in red junglefowl metagenome-assembled genomes (MAGs). A) Maximum-likelihood phylogenetic tree
+comprising 194 gut-associated MAGs identiﬁed in 45 red junglefowl fecal samples (HF: n = 22, LF: n = 23). The innermost circular layer represents
+the percent completion of each genome followed by the associated phylum in the second layer. The following middle layers represent the 41 gut–brain
+
+
+
+Advanced Genetics 2021, 2, 2100018            2100018 (5 of 12)                  © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                              26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                        www.advgenet.com
+
+which was found in only 3.1% of the MAGs, whereas the low                    tential role for this genus in red junglefowl fear phenotypes. Fur-
+fear selection line was enriched in the rare SCFA module from                thermore, this bacterial genus has been repeatedly implicated in
+the propionate pathway, propionate degradation I (Figure 3B).                enhanced fear memory retention in mammals.[37–39] Lactobacil-
+Four GBMs were additionally enriched in the low fear selection               lus rhamnosus JB-1, for example, has been associated with both
+line including two from the tryptophan/tryptophan derived path-              aggressor avoidance behaviors as well as enhanced fear memory
+ways, namely quinolinic acid and tryptophan synthesis, inositol              recall in mice.[37,38] These phenotypic changes in mice were ac-
+degradation, and ﬁnally the rare GBM menaquinone synthesis                   companied by gene expression proﬁles in the brain related to fear
+(vitamin K) II. Conversely, p-Cresol synthesis from the tyrosine             memory, impaired fear extinction, and stress responses.[37,38]
+pathway and glutamate synthesis II from the glutamate-derived                   In contrast to our observed association of Lactobacillus with
+pathway were GBMs associated with the high fear selection line               fear behavior, we observed that Clostridiales were enriched in
+(Figure 3B).                                                                 the low fear fowl and several unknown Clostridiales species
+                                                                             have been associated with reduced stress in Japanese quail.[40]
+                                                                             This observation is interesting in light of previous ﬁndings
+3. Discussion
+                                                                             associating these taxa with impaired fear memory in obese
+Here we demonstrate that despite having been subjected to rel-               mice, including members of the orders Lachnospiraceae and
+atively few generations of bidirectional selection for low or high           Ruminococcaceae.[41] Clostridiales are also known to promote host
+fear toward humans, signiﬁcant diﬀerences exist in the commu-                serotonin biosynthesis[42] and higher blood serotonin has been
+nity composition of the red jungle fowl gut microbiota. Recent               observed in the low fear red junglefowl males.[43] Although sero-
+studies have identiﬁed that ecological shifts during domestica-              tonin cannot cross the blood-brain barrier, peripheral serotonin
+tion, speciﬁcally changes in diet, can have major impacts on the             is important in neurodevelopment.[44,45] The gut microbiota has
+gut microbiota.[28–31] Although diet undoubtedly plays a signiﬁ-             been found to play a key role during neonatal neurodevelopment
+cant role in shaping the gut microbiome, the controlled environ-             in mice in which microbiota-derived signals induce learning-
+ments used in this study allow us to rule out diet as the driver of          related plasticity, including fear extinction learning, that persists
+phenotypic diﬀerences between selection lines during the early               into adulthood.[34] While Chu and co-workers[34] inferred that a
+stages of domestication in red junglefowl. We further posit that             more diverse gut microbiota was required for normal fear ex-
+diﬀerences in microbial community composition may reﬂect al-                 tinction behavior, it is possible that certain individuals within
+tered interactions within the microbiota–gut–brain axis.                     the community, such as the Clostridiales enriched in the low
+   During early domestication, one central selective pressure is             fear fowls here, may play a more signiﬁcant role in the fear ex-
+thought to be the new social environment (human encounters),                 tinction process. We additionally observed an increased abun-
+in which speciﬁc animals exhibiting excessive fear and stress                dance of Bacteroides and Parabacteroides in low fear fowls, both
+reactions toward humans would have been unlikely to thrive,                  of which are 𝛾- aminobutyric acid (GABA) producing bacteria.[46]
+thus reproduce. Experimental studies using germ-free mice have               GABA is an inhibitory neurotransmitter that can cross the blood-
+demonstrated that the presence of a functional gut microbiota                brain barrier,[47–49] although to what extent remains debatable,
+aﬀects synaptic plasticity[32] as well as fear memory retention[33]          and GABA signaling has been implicated in fear extinction
+and extinction in the host.[34] Further, shifts in community com-            learning.[50,51] Notably, increased abundance in Bacteroides and
+position of certain gut microbiota, namely an increase in Lacto-             Parabacteroides has not only been associated with decreased lev-
+bacillus and a decrease in Clostridium, have been identiﬁed to be            els of anxiety, distress, and irritability in healthy women but also
+highly correlated with host learning and memory in rats.[35] As              increased gray matter in the cerebellum,[52] an associated phe-
+such, these observations would suggest that gut microbiota may               notypic trait consistently observed in low fear red junglefowl.[53]
+have been capable of intensifying or reducing fear-like behaviors            Together these data suggest that gut microbiota signiﬁcantly en-
+and memory retention during the domestication of at least some               riched in low fear fowls may have the capacity to impair fear
+wild animals. As the potential bacterial species that could be re-           memory, promote fear extinction, or prevent anxiety-like behav-
+sponsible for these phenotypes, as well as the mechanisms un-                iors, all of which would be relevant to overcoming a fear response
+derlying their presentation, remain elusive, it is interesting that          toward humans during domestication.
+we found signiﬁcant order-level increases of Clostridiales and Bac-             To explore variation in neuroactive metabolic potential re-
+teroidales in the gut microbiota of red junglefowl in low fear an-           sulting from diﬀerences in gut microbiota between the two
+imals and signiﬁcant enrichment of Lactobacillales in high fear              behavioral selection lines, we applied a module-based analytical
+animals.                                                                     framework to our metagenomic data.[24] For the high fear jungle-
+   Increased prevalence of Lactobacillus in the gut microbiota of            fowl, our analysis of gut–brain modules revealed the increased
+our high fear selection animals is consistent with observations in           functional potential of butyrate synthesis I and II, p-Cresol
+phobic dogs undergoing intense states of fear,[36] supporting a po-          synthesis, and glutamate synthesis, suggesting a role for these
+
+
+modules (GBMs) detected in the collections of MAGs and categorized by functional association. Six MAGs were diﬀerentially abundant or exclusive
+to a behavioral phenotypic group and highlighted on the tree based on the enrichment in either the high fear (orange) or the low fear (blue) selection
+line. B) Detection of GBMs in the six diﬀerentially occurring MAGs highlighted in (A). The numbers in parentheses correspond to the frequency of the
+GBM found in all MAGs and values in bold were considered rare (present in <5% of the MAGs). Pathways and functions were annotated for each GBM
+along the bottom x-axis. GBMs exclusively present in MAGs enriched in the high fear group are highlighted in orange and those in the low fear group
+are highlighted in blue.
+
+
+
+
+Advanced Genetics 2021, 2, 2100018             2100018 (6 of 12)                   © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                            26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                      www.advgenet.com
+
+
+
+
+Figure 4. Comparison of gut–brain module (GBM) distribution in human and red junglefowl microbial genomes. GBM detection frequency in A) human
+gut-associated microbial reference genomes (n = 532) drawn from Valles-Colomer et al.[24] and previously used to validate the GBM framework and B)
+red junglefowl MAGs (n = 194) identiﬁed from fecal samples in the current study. Rare (<5% of genomes) and ubiquitous GBMs (>90% genomes)
+are highlighted, while others are in gray. GBMs found exclusively in red junglefowl MAGs are in bold. Figure modiﬁed from Valles-Colomer et al.[24]
+C) Heatmap of the log10 frequency of 41 GBMs detected in 45 fecal metagenomes of red junglefowl selected for high and low fear toward humans.
+Clustering of GBMs and metagenomes is based on GBM frequency (Euclidean distance and Ward linkage) and the data were visualized using anvi’o.
+
+
+
+Advanced Genetics 2021, 2, 2100018            2100018 (7 of 12)                  © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                         26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                   www.advgenet.com
+
+microbial-induced pathways in fear phenotypes. Butyrate can             tion may alter the physiology of the host through their contribu-
+cross the blood-brain barrier[54] and has been implicated in both       tion to metabolism and nutrient absorption, even without dietary
+neuronal plasticity and long-term fear memory formation via in-         changes.[4,5]
+creased histone acetylation in the brain.[55,56] Further, increased        Our results identiﬁed diﬀerences in the composition and func-
+levels of both p-Cresol and glutamate have been observed in the         tional potential of the gut microbiota across selection lines that
+gut, blood, urine, and feces of children with autism.[57,58] The        might provide insights into the mechanistic explanations of the
+microbial metabolite p-Cresol speciﬁcally has also been shown to        domestication process. While we do not attempt to address a
+induce autistic-like behaviors in at least various mammal species       causative role in the observed relationships, these ﬁndings pro-
+(similar data are lacking for birds), including enhanced fear and       vide the foundation for future studies. We also note that the
+anxiety-like behaviors.[59–62] Last, glutamate is the main excitatory   data generated here do not allow us to diﬀerentiate whether the
+neurotransmitter in the brain, and glutamatergic signaling plays        gut microbiota is under selection themselves or that they are re-
+an important role in fear conditioning in at least mammals[63,64]       sponding to selection on host traits, namely behavior. Stress and
+(as above, similar data are lacking for birds). Although glutamate      anxiety-like behaviors, for example, can induce change in the gut
+does not enter the brain across the blood-brain barrier,[65] the        microbiome[79–84] possibly through several mechanisms that al-
+level of glutamate in the blood is positively correlated with that      ter the physicochemical properties of the intestinal habitat.[85]
+in the brain,[66] suggesting that gut microbiota may play a role        Furthermore, a small, though a potentially not insigniﬁcant por-
+in modulating glutamatergic signaling in the brain. With regard         tion of the gut microbiome is almost certainly determined by host
+to the above (and indeed several subsequent) points, we note            genetics,[86] and it remains unresolved whether host genetic fac-
+that although many of the examples we provide here are from             tors also play a role in shaping the gut microbiome during the
+mammalian studies, as we are unaware that similar data exist            domestication process, although we hypothesize that it may well
+from avian studies, the deep evolutionary conservation of the           be plausible. Likely the behavioral phenotype selected on during
+gut–brain axis in vertebrate phylogeny[67] and the conserved            domestication reﬂects a convergence of microbial, host, and en-
+properties of some chemical signaling, such as GABAA receptor           vironmental factors. However, we hope our study can be used
+subunits among vertebrates,[68] suggest the potential to translate      to lay the groundwork for future experimental work, including
+these ﬁndings to the red junglefowl.                                    other layers of data such as host and microbiome transcriptome
+   For the low fear junglefowl line, our gut–brain module anal-         and metabolome information, as well as fecal transplant experi-
+ysis identiﬁed ﬁve enriched neuroactive compounds, including            ments, to describe the role of the gut microbiome in the domes-
+vitamin K2 synthesis and inositol and propionate degradation.           tication process and more broadly in ecoevolutionary dynamics.
+Circulating levels of propionate and vitamin K have been asso-
+ciated with fear extinction and reduced anxiety-like behaviors
+in rodents, respectively.[34,69] Furthermore, dietary inositol de-      4. Experimental Section
+creased fearfulness in chickens[70] and levels of inositol in the           Animals and Sample Collection: All experimental protocols performed
+brain have been associated with synaptic plasticity and episodic        on the red junglefowl were approved by Linköping Council for Ethical
+memory.[71,72] Although the mechanism by which the gut micro-           Licensing of Animal Experiments, ethical permit to Per Jensen, number
+biota inﬂuences the brain via the production and degradation of         14916-2018 (Linköping, Sweden). Animal handling experiments were con-
+these neuroactive compounds remains elusive, it is possible that        ducted in accordance with the approved guidelines. Gut microbiota were
+                                                                        sampled from adult red junglefowl (Gallus gallus) that were bidirectionally
+they have neuromodulatory eﬀects relevant to behavioral shifts
+                                                                        selected over eight generations based solely on their fear response toward
+observed during domestication.                                          humans in a long-term study at the Linköping University, Sweden. For a de-
+   We additionally found several associations of the gut micro-         tailed description of the breeding scheme and selection see refs. [21,22],
+bial community composition with other correlated phenotypes             and the housing conditions of animals speciﬁc to the three generations
+previously documented in the two red junglefowl selection lines.        used in this study see ref. [23]. Brieﬂy, the chickens originated from two
+When selecting solely on fearfulness toward humans, red jun-            unrelated zoo populations, Copenhagen Zoo (Denmark) and Götala Re-
+                                                                        search Station (Sweden), and were interbred for two generations to create
+glefowl displays a range of associated phenotypic changes in-
+                                                                        the initial outbred parental (P0) generation. The parental generation was
+cluding increased feeding eﬃciency, growth, and reproductive            then used to select for the most fearful (high fear; HF) and least fearful
+output in low fear relative to high fear animals.[21,22,43] Similar     (low fear; LF) individuals toward humans in subsequent generations us-
+shifts in microbial composition to those reported in this study         ing a standardized fear of human test when the birds were 12 weeks old.
+have been documented between chickens with high and low                 Red junglefowl from both high and low fear selection lines were hatched
+feed eﬃciency; namely, higher feeding eﬃciency associated with          and reared together under standardized conditions in mixed groups in the
+Clostridiales and propionate producing bacteria[73–75] and lower        same pens for a given generation and received food and water ad libitum.
+                                                                        The commercially available conventional chicken feed for red junglefowl
+feeding eﬃciency associated with Lactobacillus,[74–76] consistent       remained consistent among years.
+with low fear and high fear junglefowl phenotypes, respectively.            Fecal samples were collected and preserved in RNAlater stabilization
+Additionally, the potential synthesis of tryptophan was associ-         solution from HF and LF selection lines in the sixth (S6) and seventh (S7)
+ated with low fear fowls in the GBM analysis. Although the role         generations in the fall of 2016 (HF: n = 11, LF: n = 10) and from the eighth
+of bacterially derived tryptophan in host physiology remains un-        generation (S8) in the winter of 2018 (HF: n = 12, LF: n = 17).
+known, dietary tryptophan is known to improve reproductive ca-              DNA Extraction: Prior to DNA extraction, RNAlater was removed
+                                                                        with centrifugation (13 000 g for 10 min) and the pellet was washed twice
+pacity and growth performance in livestock[77] in addition to facil-
+                                                                        with 1 mL of PBS. DNA was extracted from approximately 150 mg of fecal
+itating a reduced stress response in animals,[78] consistent with       sample using the DNeasy PowerSoil Kit DNA (Qiagen, Venlo, NL) follow-
+what we see in the low fear fowls. Together these data suggest          ing the manufacturer’s protocol with several modiﬁcations. Samples were
+that community-level shifts in gut microbiota during domestica-         incubated for 10 min at 65 °C after adding Solution C1 and bead beaten
+
+
+
+Advanced Genetics 2021, 2, 2100018          2100018 (8 of 12)                 © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                               26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                         www.advgenet.com
+
+for 10 min at 30 Hz using a TissueLyser II (Qiagen, Hilden, Germany).            BAM ﬁles were used to generate a contigs depth of coverage ta-
+Puriﬁed DNA was incubated in Solution C6 for 15 min at 37 °C before the       ble with jgi_summarize_bam_contig_depths (MetaBAT2 v.2.12.1).[107] We
+ﬁnal elution spin. Four negative controls (i.e., all reagents except sample   then applied the automatic binning algorithm in CONCOCT[108] on this
+continued in the workﬂow from extraction to sequencing as any other ex-       coverage table to generate 10 large contig clusters to maximize ex-
+tracts) were included in order to check for potential reagent contamination   plained patterns while minimizing fragmentation error, as performed
+    Bacterial Community Composition from 16S rRNA Amplicon Sequencing:        elsewhere.[109,110] Subsequently, a manual binning and curation were per-
+A dual indexed PCR approach was used to target the V3-V4 variable re-         formed for each CONCOCT cluster following the contigs workﬂow imple-
+gion of the bacterial 16S rRNA gene (≈465 bp) for all fecal samples (n        mented in anvi’o v.6.2.[25] Brieﬂy, anvi’o was used to generate a contigs
+= 50) using the primer pair Bact-341F (5′-CCTAYGGG RBGCASCAG-3′)              database that identiﬁed open reading frames using Prodigal v.2.6.3[111]
+and Bact-806R (5′-GGACTACNNGGGTATCTAAT-3′) with Illumina Nextera              and single-copy core genes using HMMER v.3.2.1[112] against the collec-
+overhang adapters (Illumina Inc., San Diego, CA, USA).[87–90] PCR was         tion of built-in HMM proﬁles for bacteria and archaea. Gene-level taxon-
+performed in triplicates and pooled prior to indexing PCR for each indi-      omy was classiﬁed using Kaiju v.1.5.0,[113] with NCBI’s nonredundant pro-
+vidual in order to reduce PCR bias. Pooled libraries were sequenced on an     tein database, including fungi and microbial eukaryotes, and genes were
+Illumina MiSeq platform using 250PE. Full methodological details can be       further annotated with functions using the NCBI’s Clusters of Orthologous
+found in Supporting Information.                                              Groups (COG).[114] Anvi’o was then used to proﬁle each metagenomic
+    Illumina adapter and primer sequences were removed from the 16S           BAM ﬁle to estimate the coverage and detection statistics of contigs in
+metabarcoding sequence data using cutadapt v.2.6[91] and subsequently         the contigs database and combined mapping proﬁles into a merged pro-
+analyzed using the program DADA2 v.1.12.1[92] and R v.3.6.1[93] to infer      ﬁle database for all individuals. In addition, one imported an anvi’o collec-
+amplicon sequence variants (ASVs). Complete code was modiﬁed from             tion corresponding to the 10 CONCOCT clusters. Finally, each CONCOCT
+ref. [94]. Brieﬂy, forward and reverse reads were trimmed to 230 bp. The      cluster was manually binned and further reﬁned using the anvi’o interac-
+entire dataset was used to deﬁne an error rate at each base pair, and all     tive interface[115] taking into account sequence composition, diﬀerential
+sequences were denoised using the pooled approach to increase the likeli-     coverage, GC content, and taxonomic signal of the considered contigs.
+hood of resolving rare sequence variants. Forward and reverse reads were      MAGs with completeness >50% and redundancy <10% were retained for
+merged, and any pair without perfect overlap and <400 bp was removed          downstream analyses[116] (Genomic features of the MAGs can be found
+prior to chimeric sequence ﬁltering. Each ASV was annotated with the RDP      in Table S2b in the Supporting Information).
+Bayesian classiﬁer[95] against the SILVA database[96] to produce a 16S am-       The taxonomy of the ﬁnal list of MAGs was inferred using the Genome
+plicon taxa table. All subsequent analyses were done in R v.3.6.3 unless      Taxonomy Database Toolkit (GTDB-Tk)[27] version 95. However, NCBI tax-
+otherwise stated.[97] ASV data were preprocessed with the phyloseq pack-      onomy was used from the GTDB output to describe the phylum of MAGs
+age v.1.30.0,[98] and potential contaminants were assessed with the de-       in the results and discussion sections, in order to be in line with the liter-
+contam package v 1.6.0.[99] Only samples with >10000 reads and ASVs           ature.
+with more than three observations were included in downstream 16S data           MAGs were considered to be detected in a given sample when
+analysis.                                                                     >50% of their length was covered by reads to minimize nonspeciﬁc read
+    Metagenomic Shotgun Sequencing: Shotgun metagenome data were              recruitments.[110] The number of recruited reads below this cutoﬀ was set
+prepared with genomic DNA using various methods. Libraries were built         to 0 before determining vertical coverage, the number of bases covering
+on six samples using a NEBNext protocol, during which metagenomic             each genome divided by its length.
+DNA was fragmented to an average length of ≈350 bp using the Bioruptor           Gut–Brain Module (GBM) Detection: The red junglefowl shotgun
+XL (Diagenode, Inc.), with the proﬁle of eight cycles of 15 s of sonica-      metagenomic data were translated into neuroactive potential using a pre-
+tion and 90 s of rest. Sheared DNA was converted to BGIseq sequencing         viously described module-based reconstruction framework.[24] Brieﬂy, one
+technology compatible libraries using NEBNext library kit E6070L (New         searched for the presence of 56 gut–brain modules (GBMs), each corre-
+England Biolabs) and blunt-ended BGISEQ-500-compatible adapters AD1           sponding to a process of synthesis or degradation of a neuroactive com-
+and AD2.[100] For all other samples (n = 45) metagenomic data were            pound by the gut microbiota, in each of the red junglefowl MAGs (n =
+prepared using the BEST single-tube library preparation protocol[101] as      192). As module structure follows the Kyoto Encyclopedia of Genes and
+optimized to be BGISEQ-500 compatible.[100] Brieﬂy, genomic DNA was           Genomes (KEGG) database syntax, gene calls for each MAG were exported
+fragmented to 350 bp using an M220 Focused Ultrasonicator (Covaris,           from the contig database within anvi’o and functionally annotated with
+Woburn, MA). Sheared DNA was converted into BGISEQ-500 libraries fol-         KEGG identiﬁers using GhostKoala.[117] GBM coverage was calculated as
+lowing four steps: blunt end-repair, adapter ligation (2 𝜇L of 10 × 10-6      the number of pathway steps for which at least one of the orthologous
+m BGI 2.0 adapters), ﬁll-in reaction, and SPRI magnetic bead puriﬁca-         groups is found in a genome, divided by the total number of steps consti-
+tion (Sigma-Aldrich). Indexing PCR cycle numbers for all metagenomic li-      tuting the GBM using Omixer-RPM v.0.3.2 (https://github.com/raeslab/
+braries (4–14 cycles) were determined through qPCR library quantiﬁcation.     omixer-rpm). GBM presence in microbial MAGs was deﬁned with a de-
+Libraries were pooled equimolar over six lanes in 100bp or 150 bp paired-     tection threshold of at least 66% coverage, to provide tolerance to miss
+end mode on the BGISeq-500 platform aiming for a minimum of 50 million        annotations and missing data in incomplete genomes.[24] GBM detection
+reads per sample.                                                             was visualized with corrplot v.0.84[118] in the four diﬀerentially abundant
+    Assembly and Genome-Resolved Metagenomics: Prior to sequence as-          or discriminant red junglefowl MAGs to identify over/underrepresented
+sembly, all paired-end reads were demultiplexed and quality ﬁltered.          metabolic GBMs between the two behavioral selection lines.
+AdapterRemoval v.2.3.1[102] was used to trim unidentiﬁed bases and               Diﬀerential Abundance Estimates: Expected relative abundance of mi-
+adapter sequences from the ends of the reads. Host and human                  crobial taxa was modeled directly from read counts for 16S and shot-
+reads were removed using bwa-mem algorithm v.0.7.15[103] against              gun sequence data at diﬀerent taxonomic levels (phylum, class, order,
+the human (RefSeq: GCF_000001405.26) and red junglefowl (RefSeq:              family, genus, and ASVs) using a beta-binomial model controlling for
+GCF_000002315.4) reference genomes. Quality ﬁltered metagenomic               collection year and controlling for the eﬀect of selection and collection
+reads were then coassembled using MEGAHIT v.1.1.1 with k-mer sizes:           year on dispersion. The model was ﬁt using corncob v.0.1.0,[119] an r-
+77,87,97,107,127,137,147,157,167 and default parameters.[104] Contigs         based package designed speciﬁcally for marker gene compositional data,
+less than 2500 nt were removed from the resulting assembly output and         which uses sophisticated models to account for sequencing depth and
+corresponding header names were simpliﬁed using anvi’o v.6.2.[25] PCR         rare taxa in high-dimensional data and estimates abundance with uncer-
+duplicates were removed from the metagenomic reads used for coassem-          tainties to support hypothesis testing between selection lines. The Wald
+bly with seqkit v.0.8.0[105] and subsequently mapped to the assembled         test was used to test for diﬀerential taxon abundances between selection
+contigs using bwa-mem algorithm v.0.7.15 with default parameters.[103]        lines with a controlled false discovery rate (p-value cutoﬀ < 0.05).[120]
+Samtools v.1.9[106] was used to sort and index the output SAM ﬁles into       Graphical representations were performed in R using the package
+BAM ﬁles.                                                                     ggplot2 v.3.2.1.9000.[121]
+
+
+
+Advanced Genetics 2021, 2, 2100018              2100018 (9 of 12)                   © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                                    26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                             www.advgenet.com
+
+
+Supporting Information                                                              [8] I. Zilber-Rosenberg, E. Rosenberg, FEMS Microbiol. Rev. 2008, 32,
+                                                                                        723.
+Supporting Information is available from the Wiley Online Library or from           [9] E. Rosenberg, G. Sharon, I. Zilber-Rosenberg, Environ. Microbiol.
+the author.                                                                             2009, 11, 2959.
+                                                                                  [10] E. Rosenberg, G. Sharon, I. Atad, I. Zilber-Rosenberg, Environ. Mi-
+                                                                                        crobiol. Rep. 2010, 2, 500.
+Acknowledgements                                                                  [11] R. M. Stilling, S. R. Bordenstein, T. G. Dinan, J. F. Cryan, Front. Cell.
+                                                                                        Infect. Microbiol. 2014, 4, 147.
+The authors thank Jacob Agerbo Rasmussen for his assistance in labora-            [12] S. R. Bordenstein, K. R. Theis, PLoS Biol. 2015, 13, e1002226.
+tory work and Antton Alberdi for his thoughtful guidance in data process-         [13] C. A. Gaulke, H. K. Arnold, I. R. Humphreys, S. W. Kembel, J. P.
+ing. Photo credit of red junglefowl image for the table of contents to P.J.             O’Dwyer, T. J. Sharpton, MBio 2018, 9, e01348.
+The research was funded by The Danish National Research Foundation                [14] J. D. Shropshire, S. R. Bordenstein, MBio 2016, 7, e01785.
+(grant no. DNRF143 to M.T.P.G.) and the Swedish Research Council (VR)             [15] B. Geﬀroy, B. Sadoul, B. J. Putman, O. Berger-Tal, L. Z. Garam-
+(grant no 2015-05444 to P.J.).                                                          szegi, A. P. Møller, D. T. Blumstein, PLoS Biol. 2020, 18,
+                                                                                        e3000818.
+                                                                                  [16] A. S. Wilkins, R. W. Wrangham, W. T. Fitch, Genetics 2014, 197, 795.
+Conﬂict of Interest                                                               [17] M. R. Sánchez-Villagra, M. Geiger, R. A. Schneider, R. Soc. Open Sci.
+                                                                                        2021, 3, 160107.
+The authors declare no conﬂict of interest.                                       [18] L. Trut, I. Oskina, A. Kharlamova, BioEssays 2009, 31, 349.
+                                                                                  [19] J. F. Cryan, K. J. O’riordan, C. S. M. Cowan, K. V. Sandhu, T. F. S. Bas-
+                                                                                        tiaanssen, M. Boehme, M. G. Codagnone, S. Cussotto, C. Fulling,
+Data Availability Statement                                                             A. V. Golubeva, K. E. Guzzetta, M. Jaggar, C. M. Long-Smith, J. M.
+                                                                                        Lyte, J. A. Martin, A. Molinero-Perez, G. Moloney, E. Morelli, E. Mo-
+The bacterial 16S rRNA gene and shotgun metagenomic sequence data                       rillas, R. O’connor, J. S. Cruz-Pereira, V. L. Peterson, K. Rea, N. L.
+that support the ﬁndings of this study are openly available in European                 Ritz, E. Sherwin, S. Spichak, E. M. Teichman, M. Van De Wouw, A.
+Nucleotide Archive (ENA) at https://www.ebi.ac.uk/ena/, study accession                 P. Ventura-Silva, S. E. Wallace-Fitzsimons, et al., Physiol. Rev. 2019,
+number PRJEB46806.                                                                      99, 1877.
+                                                                                  [20] L. H. Morais, H. L. Schreiber, S. K. Mazmanian, Nat. Rev. Microbiol.
+                                                                                        2021, 19, 241.
+Peer Review                                                                       [21] B. Agnvall, A. Ali, S. Olby, P. Jensen, Animal 2014, 8, 1498. .
+                                                                                  [22] B. Agnvall, M. Jöngren, E. Strandberg, P. Jensen, PLoS One 2012, 7,
+The peer review history for this article is available in the Supporting Infor-          e35162.
+mation for this article.                                                          [23] R. Katajamaa, L. H. Larsson, P. Lundberg, I. Sörensen, P. Jensen,
+                                                                                        PLoS One 2018, 13, e0204303.
+                                                                                  [24] M. Valles-Colomer, G. Falony, Y. Darzi, E. F. Tigchelaar, J. Wang, R.
+Keywords                                                                                Y. Tito, C. Schiweck, A. Kurilshikov, M. Joossens, C. Wijmenga, S.
+                                                                                        Claes, L. Van Oudenhove, A. Zhernakova, S. Vieira-Silva, J. Raes,
+behavioral selection, early domestication, fear, gut microbiota, metage-                Nat. Microbiol. 2019, 4, 623.
+nomics                                                                            [25] A. M. Eren, Ö. C. Esen, C. Quince, J. H. Vineis, H. G. Morrison, M.
+                                                                                        L. Sogin, T. O. Delmont, PeerJ 2015, 3, e1319.
+                                                 Received: August 6, 2021         [26] C. Quince, A. W. Walker, J. T. Simpson, N. J. Loman, N. Segata, Nat.
+                                                 Revised: October 4, 2021               Biotechnol. 2017, 35, 833.
+                                       Published online: December 9, 2021         [27] P.-A. Chaumeil, A. J. Mussig, P. Hugenholtz, D. H. Parks, Bioinfor-
+                                                                                        matics 2020, 36, 1925.
+                                                                                  [28] J. L. Metcalf, S. J. Song, J. T. Morton, S. Weiss, A. Seguin-Orlando, F.
+                                                                                        Joly, C. Feh, P. Taberlet, E. Coissac, A. Amir, E. Willerslev, R. Knight,
+  [1] A. Alberdi, O. Aizpurua, K. Bohmann, M. L. Zepeda-Mendoza, M. T.                  V. Mckenzie, L. Orlando, Sci. Rep. 2017, 7, 15497.
+      P. Gilbert, Trends Ecol. Evol. 2016, 31, 689.                               [29] A. T. Reese, K. S. Chadaideh, C. E. Diggins, L. D. Schell, M. Beckel,
+  [2] J. F. Cryan, T. G. Dinan, Nat. Rev. Neurosci. 2012, 13, 701.                      P. Callahan, R. Ryan, M. E. Thompson, R. N. Carmody, eLife 2021,
+  [3] V. O. Ezenwa, N. M. Gerardo, D. W. Inouye, M. Medina, J. B. Xavier,               10, e60197.
+      Science 2012, 338, 198.                                                     [30] G. Alessandri, C. Milani, L. Mancabelli, M. Mangifesta, G. A. Lugli,
+  [4] F. Warnecke, P. Luginbühl, N. Ivanova, M. Ghassemian, T. H.                       A. Viappiani, S. Duranti, F. Turroni, M. C. Ossiprandi, D. Van Sin-
+      Richardson, J. T. Stege, M. Cayouette, A. C. Mchardy, G. Djordje-                 deren, M. Ventura, FEMS Microbiol. Ecol. 2019, 95.
+      vic, N. Aboushadi, R. Sorek, S. G. Tringe, M. Podar, H. G. Martin,          [31] S. Rampelli, S. Turroni, F. Debandi, A. Alberdi, S. L. Schnorr, C. A.
+      V. Kunin, D. Dalevi, J. Madejska, E. Kirton, D. Platt, E. Szeto, A.               Hofman, A. Taddia, R. Helg, E. Biagi, P. Brigidi, F. D’Amico, M. Cat-
+      Salamov, K. Barry, N. Mikhailova, N. C. Kyrpides, E. G. Matson, E.                tani, M. Candela iScience. 2021, 24, 102816.
+      A. Ottesen, X. Zhang, M. Hernández, C. Murillo, L. G. Acosta, et al.,       [32] R. D. Heijtz, S. Wang, F. Anuar, Y. Qian, B. Bjorkholm, A. Samuels-
+      Nature 2007, 450, 560.                                                            son, M. L. Hibberd, H. Forssberg, S. Pettersson, Proc. Natl. Acad.
+  [5] K. D. Kohl, H. V. Carey, J. Exp. Biol. 2016, 219, 3496.                           Sci. USA 2011, 108, 3047.
+  [6] K. D. Kohl, A. Stengel, M. D. Dearing, Environ. Microbiol. 2016, 18,        [33] A. E. Hoban, R. M. Stilling, G. Moloney, F. Shanahan, T. G. Dinan,
+      1720.                                                                             G. Clarke, J. F. Cryan, Mol. Psychiatry 2018, 23, 1134.
+  [7] Y. Yang, M. B. Torchinsky, M. Gobert, H. Xiong, M. Xu, J. L. Linehan,       [34] C. Chu, M. H. Murdock, D. Jing, T. H. Won, H. Chung, A. M. Kressel,
+      F. Alonzo, C. Ng, A. Chen, X. Lin, A. Sczesnak, J.-J. Liao, V. J. Torres,         T. Tsaava, M. E. Addorisio, G. G. Putzel, L. Zhou, N. J. Bessman, R.
+      M. K. Jenkins, J. J. Lafaille, D. R. Littman, Nature 2014, 510, 152.              Yang, S. Moriyama, C. N. Parkhurst, A. Li, H. C. Meyer, F. Teng, S. S.
+
+
+
+
+Advanced Genetics 2021, 2, 2100018                2100018 (10 of 12)                   © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                                 26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                           www.advgenet.com
+
+      Chavan, K. J. Tracey, A. Regev, F. C. Schroeder, F. S. Lee, C. Liston,     [62] P. Bermudez-Martin, J. A. J. Becker, N. Caramello, S. P. Fernandez,
+      D. Artis, Nature 2019, 574, 543.                                                R. Costa-Campos, J. Canaguier, S. Barbosa, L. Martinez-Gili, A. Myri-
+ [35] M. Morshedi, M. Saghaﬁ-Asl, E.-S. Hosseinifard, J. Transl. Med.                 dakis, M.-E. Dumas, A. Bruneau, C. Cherbuy, P. Langella, J. Callebert,
+      2020, 18, 18.                                                                   J.-M. Launay, J. Chabry, J. Barik, J. Le Merrer, N. Glaichenhaus, L.
+ [36] E. Mondo, M. Barone, M. Soverini, F. D’amico, M. Cocchi, C.                     Davidovic, Microbiome. 2021, https://doi.org/10.1186/s40168-021-
+      Petrulli, M. Mattioli, G. Marliani, M. Candela, P. A. Accorsi, Heliyon          01103-z
+      2020, 6, e03311.                                                           [63] M. Julio-Pieper, R. M. O’Connor, T. G. Dinan, J. F. Cryan, Eur. J. Phar-
+ [37] Y. Liu, K. Steinhausen, A. Bharwani, M. F. Mian, K.-A. McVey                    macol. 2013, 698, 19.
+      Neufeld, P. Forsythe, Sci. Rep. 2020, 10, 13485.                           [64] A. L. Mahan, K. J. Ressler, Trends Neurosci. 2012, 35, 24.
+ [38] J. A. Bravo, P. Forsythe, M. V. Chew, E. Escaravage, H. M. Savignac,       [65] R. A. Hawkins, Am. J. Clin. Nutr. 2009, 90, 867S.
+      T. G. Dinan, J. Bienenstock, J. F. Cryan, Proc. Natl. Acad. Sci. USA       [66] G. Alfredsson, F.-A. Wiesel, A. Tylec, Biol. Psychiatry 1988, 23, 689.
+      2011, 108, 16050.                                                          [67] R. J. Denver, Ann. N. Y. Acad. Sci. 2009, 1163, 1.
+ [39] M. Van De Wouw, A. M. Walsh, F. Crispie, L. Van Leuven, J. M. Lyte,        [68] K. Sadamitsu, L. Shigemitsu, M. Suzuki, D. Ito, M. Kashima, H. Hi-
+      M. Boehme, G. Clarke, T. G. Dinan, P. D. Cotter, J. F. Cryan, Micro-            rata, Sci. Rep. 2021, 11, 6242.
+      biome 2020, 8, 67.                                                         [69] S. M. Gancheva, M. D. Zhelyazkova-Savova, Folia Med. 2016, 58,
+ [40] J. M. Lyte, J. Keane, J. Eckenberger, N. Anthony, S. Shrestha, D.               264.
+      Marasini, K. M. Daniels, V. Caputi, A. M. Donoghue, M. Lyte, Mi-           [70] E. Herwig, H. L. Classen, C. L. Walk, M. Bedford, K. Schwean-
+      crobiome 2021, 9, 38.                                                           Lardner, Animals 2019, 9, 938.
+ [41] A. J. Bruce-Keller, J. M. Salbaum, M. Luo, E. Blanchard, C. M. Taylor,     [71] K. D. Baker, T. M. Edwards, N. S. Rickard, Neurosci. Biobehav. Rev.
+      D. A. Welsh, H.-R. Berthoud, Biol. Psychiatry 2015, 77, 607.                    2013, 37, 1211.
+ [42] J. M. Yano, K. Yu, G. P. Donaldson, G. G. Shastri, P. Ann, L. Ma, C.       [72] S. J. Schreiner, T. Kirchner, M. Wyss, J. M. G. Van Bergen, F. C.
+      R. Nagler, R. F. Ismagilov, S. K. Mazmanian, E. Y. Hsiao, Cell 2015,            Quevenco, S. C. Steininger, E. Y. Griﬃth, I. Meier, L. Michels, A.
+      161, 264.                                                                       F. Gietl, S. E. Leh, A. M. Brickman, C. Hock, R. M. Nitsch, K. P.
+ [43] B. Agnvall, R. Katajamaa, J. Altimiras, P. Jensen, Biol. Lett. 2015, 11,        Pruessmann, A. Henning, P. G. Unschuld, Neurobiol. Aging 2016, 48,
+      20150509.                                                                       195.
+ [44] F. Cote, C. Fligny, E. Bayard, J.-M. Launay, M. D. Gershon, J. Mallet,     [73] D. Stanley, S. E. Denman, R. J. Hughes, M. S. Geier, T. M. Crowley,
+      G. Vodjdani, Proc. Natl. Acad. Sci. USA 2007, 104, 329.                         H. Chen, V. R. Haring, R. J. Moore, Appl. Microbiol. Biotechnol. 2012,
+ [45] A. Bonnin, N. Goeden, K. Chen, M. L. Wilson, J. King, J. C. Shih, R.            96, 1361.
+      D. Blakely, E. S. Deneris, P. Levitt, Nature 2011, 472, 347.               [74] K. M. Singh, T. Shah, S. Deshpande, S. J. Jakhesara, P. G. Koringa,
+ [46] P. Strandwitz, K. H. Kim, D. Terekhova, J. K. Liu, A. Sharma, J. Lever-         D. N. Rank, C. G. Joshi, Mol. Biol. Rep. 2012, 39, 10595.
+      ing, D. Mcdonald, D. Dietrich, T. R. Ramadhar, A. Lekbua, N. Mroue,        [75] B. S. Lumpkins, A. B. Batal, M. D. Lee, Poult. Sci. 2010, 89, 1614.
+      C. Liston, E. J. Stewart, M. J. Dubin, K. Zengler, R. Knight, J. A.        [76] S. Mignon-Grasteau, A. Narcy, N. Rideau, C. Chantry-Darmon, M.-
+      Gilbert, J. Clardy, K. Lewis, Nat. Microbiol. 2019, 4, 396.                     Y. Boscher, N. Sellier, M. Chabault, B. Konsak-Ilievski, E. Le Bihan-
+ [47] H. Takanaga, S. Ohtsuki, K.-I. Hosoya, T. Terasaki, J. Cereb. Blood             Duval, I. Gabriel, PLoS One 2015, 10, e0135488.
+      Flow Metab. 2001, 21, 1232.                                                [77] M. Bai, H. Liu, K. Xu, A. O. Oso, X. Wu, G. Liu, M. C. B. Tossou, N.
+ [48] N. Shyamaladevi, A. Jayakumar, R. Sujatha, V. Paul, E. Subramanian,             A. Al-Dhabi, V. Duraipandiyan, Q. Xi, Y. Yin, Amino Acids 2017, 49,
+      Brain Res. Bull. 2002, 57, 231.                                                 67.
+ [49] H. Al-Sarraf, Dev. Brain Res. 2002, 139, 121.                              [78] S. J. Koopmans, F. J. van der Staay, N. Le Floc’h, R. Dekker, J. T. M.
+ [50] I. Akirav, H. Raizel, M. Maroun, Eur. J. Neurosci. 2006, 23, 758.               van Diepen, A. J. M. Jansman, J. Anim. Sci. 2012, 90, 241.
+ [51] J. M. Adkins, J. Lynch, M. Gray, A. M. Jasnow, Psychopharmacology          [79] G. W. Tannock, D. C. Savage, Infect. Immun. 1974, 9, 591.
+      2021, 238, 2059.                                                           [80] M. T. Bailey, G. R. Lubach, C. L. Coe, J. Pediatr. Gastroenterol. Nutr.
+ [52] K. Tillisch, E. A. Mayer, A. Gupta, Z. Gill, R. Brazeilles, B. Le Nevé,         2004, 38, 414.
+      J. E. T. Van Hylckama Vlieg, D. Guyonnet, M. Derrien, J. S. Labus,         [81] S. M. O’mahony, J. R. Marchesi, P. Scully, C. Codling, A.-M. Ceolho,
+      Psychosom. Med. 2017, 79, 905.                                                  E. M. M. Quigley, J. F. Cryan, T. G. Dinan, Biol. Psychiatry 2009, 65,
+ [53] B. Agnvall, J. Bélteky, P. Jensen, Sci. Rep. 2017, 7, 3306.                     263.
+ [54] R. M. Stilling, M. van de Wouw, G. Clarke, C. Stanton, T. G. Dinan,        [82] M. T. Bailey, S. E. Dowd, J. D. Galley, A. R. Hufnagle, R. G. Allen, M.
+      J. F. Cryan, Neurochem. Int. 2016, 99, 110.                                     Lyte, Brain, Behav., Immun. 2011, 25, 397.
+ [55] A. Fischer, F. Sananbenesi, X. Wang, M. Dobbin, L.-H. Tsai, Nature         [83] A. V. Golubeva, S. Crampton, L. Desbonnet, D. Edge, O. O’sullivan,
+      2007, 447, 178.                                                                 K. W. Lomasney, A. V. Zhdanov, F. Crispie, R. D. Moloney, Y.
+ [56] J. M. Levenson, K. J. O’Riordan, K. D. Brown, M. A. Trinh, D. L.                E. Borre, P. D. Cotter, N. P. Hyland, K. D. O’halloran, T. G. Di-
+      Molfese, J. D. Sweatt, J. Biol. Chem. 2004, 279, 40545.                         nan, G. W. O’keeﬀe, J. F. Cryan, Psychoneuroendocrinology 2015,
+ [57] C. Shimmura, S. Suda, K. J. Tsuchiya, K. Hashimoto, K. Ohno,                    60, 58.
+      H. Matsuzaki, K. Iwata, K. Matsumoto, T. Wakuda, Y. Kameno, K.             [84] T. C. Fung, H. E. Vuong, C. D. G. Luna, G. N. Pronovost, A. A. Alek-
+      Suzuki, M. Tsujii, K. Nakamura, N. Takei, N. Mori, PLoS One 2011,               sandrova, N. G. Riley, A. Vavilina, J. Mcginn, T. Rendon, L. R. Forrest,
+      6, e25340.                                                                      E. Y. Hsiao, Nat. Microbiol. 2019, 4, 2064.
+ [58] M. De Angelis, M. Piccolo, L. Vannini, S. Siragusa, A. De Giacomo,         [85] S. M. Collins, M. Surette, P. Bercik, Nat. Rev. Microbiol. 2012, 10,
+      D. I. Serrazzanetti, F. Cristofori, M. E. Guerzoni, M. Gobbetti, R.             735.
+      Francavilla, PLoS One 2013, 8, e76993.                                     [86] J. K. Goodrich, J. L. Waters, A. C. Poole, J. L. Sutter, O. Koren, R.
+ [59] S. Gabriele, R. Sacco, L. Altieri, C. Neri, A. Urbani, C. Bravaccio, M.         Blekhman, M. Beaumont, W. Van Treuren, R. Knight, J. T. Bell, T. D.
+      P. Riccio, M. R. Iovene, F. Bombace, L. De Magistris, A. M. Persico,            Spector, A. G. Clark, R. E. Ley, Cell 2014, 159, 789.
+      Autism Res. 2016, 9, 752.                                                  [87] J. J. Kozich, S. L. Westcott, N. T. Baxter, S. K. Highlander, P. D.
+ [60] P. Roman, L. Rueda-Ruzafa, D. Cardona, Behav. Pharmacol. 2018,                  Schloss, Appl. Environ. Microbiol. 2013, 79, 5112.
+      29, 654.                                                                   [88] A. Klindworth, E. Pruesse, T. Schweer, J. Peplies, C. Quast, M. Horn,
+ [61] P. Srikantha, M. H. Mohajeri, Int. J. Mol. Sci. 2019, 20, 2115.                 F. O. Glöckner, Nucleic Acids Res. 2012, 41, e1.
+
+
+
+
+Advanced Genetics 2021, 2, 2100018               2100018 (11 of 12)                   © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+                                                                                                                                                                     26416573, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ggn2.202100018, Wiley Online Library on [30/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+www.advancedsciencenews.com                                                                                                              www.advgenet.com
+
+  [89] C. H. F. Hansen, L. Krych, D. S. Nielsen, F. K. Vogensen, L. H.           [105] W. Shen, S. Le, Y. Li, F. Hu, PLoS One 2016, 11, e0163962.
+       Hansen, S. J. Sørensen, K. Buschard, A. K. Hansen, Diabetologia           [106] H. Li, B. Handsaker, A. Wysoker, T. Fennell, J. Ruan, N. Homer,
+       2012, 55, 2285.                                                                 G. Marth, G. Abecasis, R. Durbin, Bioinformatics 2009, 25,
+  [90] Y. Yu, C. Lee, J. Kim, S. Hwang, Biotechnol. Bioeng. 2005, 89, 670.             2078.
+  [91] M. Martin, EMBnet J. 2011, 17, 10.                                        [107] D. D. Kang, J. Froula, R. Egan, Z. Wang, PeerJ 2015, 3, e1165.
+  [92] B. J. Callahan, P. J. McMurdie, M. J. Rosen, A. W. Han, A. J. A. John-    [108] J. Alneberg, B. S. Bjarnason, I. De Bruijn, M. Schirmer, J. Quick, U. Z.
+       son, S. P. Holmes, Nat. Methods 2016, 13, 581.                                  Ijaz, L. Lahti, N. J. Loman, A. F. Andersson, C. Quince, Nat. Methods
+  [93] R. Core Team R: A Language and Environment for Statistical                      2014, 11, 1144.
+       Computing, Vienna, Austria 2019, https://www.r-project.org/. (ac-         [109] T. O. Delmont, J. J. Pierella Karlusich, I. Veseli, J. Fuessel, A. M. Eren,
+       cessed: March 2020).                                                            R. A. Foster, C. Bowler, P. Wincker, E. Pelletier, The ISME Journal.
+  [94] M. Lee, J. Open Source Educ. 2019, 2, 53.                                       2021, https://doi.org/10.1038/s41396-021-01135-1
+  [95] Q. Wang, G. M. Garrity, J. M. Tiedje, J. R. Cole, Appl. Environ. Micro-   [110] T. O. Delmont, C. Quince, A. Shaiber, Ö. C. Esen, S. T. Lee, M. S.
+       biol. 2007, 73, 5261.                                                           Rappé, S. L. Mclellan, S. Lücker, A. M. Eren, Nat. Microbiol. 2018, 3,
+  [96] B. Callahan. Silva Taxonomic Training Data Formatted for DADA2                  804.
+       (Silva version 132), Zenodo, 2018. (accessed: February 2018).             [111] D. Hyatt, G.-L. Chen, P. F. LoCascio, M. L. Land, F. W. Larimer, L. J.
+  [97] R. Core Team, R: A Language and Environment for Statistical                     Hauser, BMC Bioinformatics 2010, 11, 119.
+       Computing, Vienna, Austria 2020, https://www.r-project.org/. (ac-         [112] S. R. Eddy, PLoS Comput. Biol. 2011, 7, e1002195.
+       cessed: March 2020).                                                      [113] P. Menzel, K. L. Ng, A. Krogh, Nat. Commun. 2016, 7, 11257.
+  [98] P. J. McMurdie, S. Holmes, PLoS One 2013, 8, e61217.                      [114] R. L. Tatusov, N. D. Fedorova, J. D. Jackson, A. R. Jacobs, B. Kiryutin,
+  [99] N. M. Davis, D. M. Proctor, S. P. Holmes, D. A. Relman, B. J. Calla-            E. V. Koonin, D. M. Krylov, R. Mazumder, S. L. Mekhedov, A. N.
+       han, Microbiome 2018, 6, 226.                                                   Nikolskaya, B. S. Rao, S. Smirnov, A. V. Sverdlov, S. Vasudevan, Y. I.
+[100] S. S. T. Mak, S. Gopalakrishnan, C. Carøe, C. Geng, S. Liu, M.-.H.               Wolf, J. J. Yin, D. A. Natale, BMC Bioinformatics 2003, 4, 41.
+       S. Sinding, L. F. K. Kuderna, W. Zhang, S. Fu, F. G. Vieira, M. Ger-      [115] T. O. Delmont, A. M. Eren, PeerJ 2016, 4, e1839.
+       monpré, H. Bocherens, S. Fedorov, B. Petersen, T. Sicheritz-Pontén,       [116] T. O. Delmont, A. M. Eren, L. Maccario, E. Prestat, Ö. C. Esen, E.
+       T. Marques-Bonet, G. Zhang, H. Jiang, M. T. P. Gilbert, GigaScience             Pelletier, D. L. Paslier, P. Simonet, T. M. Vogel, Front. Microbiol. 2015,
+       2017, 6, gix049.                                                                6, 358.
+[101] C. Carøe, S. Gopalakrishnan, L. Vinner, S. S. T. Mak, M. H. S. Sind-       [117] M. Kanehisa, Y. Sato, K. Morishima, J. Mol. Biol. 2016, 428, 726.
+       ing, J. A. Samaniego, N. Wales, T. Sicheritz-Pontén, M. T. P. Gilbert,    [118] T. Wei, V. Simko, R package “Corrplot”: Visualization of a Correlation
+       Methods Ecol. Evol. 2018, 9, 410.                                               Matrix, 2017. (accessed: January 2021)
+[102] M. Schubert, S. Lindgreen, L. Orlando, BMC Res. Notes 2016, 9, 88.         [119] B. D. Martin, D. Witten, A. D. Willis, Ann. Appl. Stat. 2020, 14, 94..
+[103] H. Li Aligning sequence reads, clone sequences and assembly con-           [120] Y. Benjamini, Y. Hochberg, J. R. Stat. Soc., Ser. B 1995, 57, 289.
+       tigs with BWA-MEM, 2013.                                                  [121] H. Wickham, ggplot2: Elegant Graphics for Data Analysis, Springer-
+[104] D. Li, R. Luo, C.-M. Liu, C.-M. Leung, H.-F. Ting, K. Sadakane, H.               Verlag, New York 2016, https://ggplot2.tidyverse.org. (accessed:
+       Yamashita, T.-W. Lam, Methods 2016, 102, 3.                                     March 2020)
+
+
+
+
+Advanced Genetics 2021, 2, 2100018               2100018 (12 of 12)                    © 2021 The Authors. Advanced Genetics published by Wiley Periodicals LLC
+

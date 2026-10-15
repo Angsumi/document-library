@@ -1,0 +1,924 @@
+                                    Article                                                                                                    https://doi.org/10.1038/s41467-026-76403-9
+
+
+                                    Farming practices exert selection pressures
+                                    on the resistome of natural populations of
+                                    house mice
+                                    Received: 12 December 2025                           Morgane Gicquel1,12, Aimara Planillo 1,2,12, Emanuel Heitlinger                     1,3,4
+                                                                                                                                                                                  ,
+                                                                                         Soﬁa K. Forslund-Startceva 5,6,7,8,9, Stephanie Kramer-Schadt                       1,10
+                                                                                                                                                                                 ,
+                                    Accepted: 23 July 2026
+                                                                                         Susana C. M. Ferreira 1,2,11 & Víctor Hugo Jarquín-Díaz 5,6,7
+
+
+                                        Check for updates                                The factors maintaining antimicrobial resistance genes (ARGs) in non-
+                  1234567890():,;
+1234567890():,;
+
+
+
+
+                                                                                         domesticated animal microbiomes remain unclear for species inhabiting
+                                                                                         human-dominated or less human-impacted landscapes. We analysed 875 gut
+                                                                                         metagenomes from natural populations of house mice (Mus musculus) on
+                                                                                         German farms between 2016 and 2022 to identify environmental and host
+                                                                                         determinants of ARG occurrence. Using joint species distribution models, we
+                                                                                         quantiﬁed the inﬂuence of landscape, climate and mouse associated char-
+                                                                                         acteristics on the occurrence of individual ARGs and on trait dependence
+                                                                                         among genes. Environmental variables and livestock farming intensity
+                                                                                         explained 27% of ARG variation, whereas host characteristics accounted for
+                                                                                         8%. Analysis of ARG traits revealed that agricultural land use and exposure to
+                                                                                         livestock increased the occurrence of potentially mobile ARGs. Pig density was
+                                                                                         strongly associated with an integron-encoded sulfonamide resistance gene
+                                                                                         (sul1) and genes conferring tetracycline (tet) and beta-lactam resistance (cblA-
+                                                                                         1) (posterior probability 0.75). Consistently, mouse resistomes have a dis-
+                                                                                         tinctive resistome, but share more than 50% of ARGs with livestock manure,
+                                                                                         including widespread genes and those promoted in livestock. Here, we show
+                                                                                         that landscape conditions, particularly farming intensity, shape the distribu-
+                                                                                         tion of speciﬁc ARGs and potentially mobile ARGs in house mice microbiomes.
+
+
+
+                                    Antimicrobial resistance (AMR) represents a major concern for global            One Health approach including human, animal and environmental
+                                    health, responsible for an estimated 5 million deaths worldwide                 health sectors3. The complexity of transmission routes, origins and
+                                    yearly1,2. In response to this crisis, the World Health Organization and        reservoirs within and between humans, farm animals and their shared
+                                    the Food and Agriculture Organization established the ‘Global Action            environments poses challenges for implementing effective control
+                                    Plan on Antimicrobial Resistance’ in 2015, aiming for a coordinated             strategies4. In particular, our understanding of how different
+
+                                    1
+                                     Department of Ecological Dynamics, Leibniz Institute for Zoo and Wildlife Research (IZW), Berlin, Germany. 2Department of Conservation Biology and Global
+                                    Change, Doñana Biological Station (EBD-CSIC), Seville, Spain. 3Institute for Biology. Department of Molecular Parasitology, Humboldt University Berlin (HU),
+                                    Berlin, Germany. 4Federal State Agency for Consumer & Health Protection Rhineland-Palatinate, Koblenz, Germany. 5Max-Delbrück-Center for Molecular
+                                    Medicine in the Helmholtz Association (MDC), Berlin, Germany. 6Experimental and Clinical Research Center, Charité – Universitätsmedizin Berlin, corporate
+                                    member of Freie Universität Berlin and 22 Humboldt-Universität zu Berlin, Berlin, Germany. 7Experimental and Clinical Research Center, a cooperation
+                                    between the Max-Delbrück-Center 26 for Molecular Medicine in the Helmholtz Association and the Charité - Universitätsmedizin, Berlin, Germany. 8German
+                                    Center for Cardiovascular Research (DZHK) Partner Site Berlin, Berlin, Germany. 9DFG Excellence Cluster ImmunoPreCept, Berlin, Germany. 10Institute of
+                                    Ecology, Technische Universität Berlin, Berlin, Germany. 11Research Institute of Wildlife Ecology, University of Veterinary Medicine Vienna, Vienna, Austria.
+                                    12
+                                      These authors contributed equally: Morgane Gicquel, Aimara Planillo.       e-mail: VictorHugo.JarquinDiaz@mdc-berlin.de
+
+
+                                    Nature Communications |               (2026) 17:7848                                                                                                       1
+Article                                                                                              https://doi.org/10.1038/s41467-026-76403-9
+
+
+environmental factors impact the occurrence or potential transmis-          microbiota are impacted by external environmental changes and
+sion of antibiotic resistance genes (ARGs) in bacterial communities         could be used to detect, predict and even control the emergence and
+associated with natural populations of non-domesticated animal hosts,       spread of resistance threats.
+hereafter referred to as wildlife, or the external environment, which            Changes in the environment, land use and landscape structure are
+both might act as AMR reservoirs, is still limited5,6.                      known to drive the emergence of zoonosis, and are expected to
+      The mechanisms of antimicrobial resistance are a natural phe-         inﬂuence wildlife and their associated microbial communities through
+nomenon that has enabled bacteria to survive, persist and evolve            different biotic and abiotic factors that surround them40–42. Especially
+within speciﬁc ecological contexts, which are determined by the             farms with high livestock density or extensive crops are sources of
+dynamics of the microbial community7,8. The use of antimicrobial            bacteria carrying ARGs and pollute other environments through
+drugs in medical, agricultural and livestock production imposes             manure, dust moved by wind, water or even wildlife43. Spatially-explicit
+additional evolutionary selection pressure on bacterial communities,        integration of environmental factors along environmental gradients in
+driving the occurrence and transmission of ARGs9–13. Human activ-           a multidimensional way provides a framework to understand how
+ities have accelerated the horizontal spread of established ARGs to         microbial communities and their resistomes respond to environ-
+clinically relevant pathogens, even from evolutionarily distant bac-        mental change and which factors contribute to the composition of
+teria through mobile genetic elements14. Latent genes represent, in         ARG traits like mobility44. Nevertheless, the linkage from environment
+counterpart, a large collection of less studied genes conferring            via host to microbiome to resistome has been rarely incorporated to
+resistance that remain understudied in environmental bacterial              investigate how abiotic environmental factors in an ecosystem shape
+communities and are largely absent from databases15. Under anti-            the distribution and diversity of ARGs in wild microbial communities
+biotic selection pressure, ARGs can also evolve from precursor              due to the imperfect integration of ecological frameworks into
+genes, so-called proto-ARGs, that have other functions within bac-          microbiome research.
+terial genomes and do not directly confer a resistance phenotype16–18.           Here, we analysed the resistome of densely sampled natural
+Thus, the resistome of a bacterial community is constituted by the          populations of house mice (Mus musculus) communities across
+metagenomic composition of established, latent and precursor                transects spanning hundreds of kilometres in Germany. Under a
+genes, all of which may directly or indirectly contribute to resistance.    spatially-explicit approach, we assessed whether the composition,
+The resistome varies substantially between environments, which              potential mobility and selection of ARGs within gut microbial com-
+represents important implications for the emergence and dis-                munities are associated with anthropogenic, environmental and cli-
+semination of resistance.                                                   matic factors, and disentangled these effects from host-speciﬁc
+      Metagenomic screening has extensively characterised the resis-        inﬂuences. Our study provides an integrative landscape-scale per-
+tome of human gut, wastewater and livestock19–22. Such high                 spective on the transmission routes and environmental drivers
+throughput approaches have been instrumental to identifying socio-          underlying ARG dynamics in mobile natural populations of non-
+economic, genetic and environmental factors associated with resis-          domesticated hosts.
+tance potential, and the dynamics of clinically relevant ARGs from
+environmental reservoirs to humans10,23–26. However, the sporadic           Results
+systematic metagenomic screening of wildlife-associated resistomes          Composition of the house mouse resistome and microbiome
+limits our understanding of their role in AMR dynamics and back-            We detected 340 ARGs in the metagenomes of 875 house mice (Mus
+ground levels of resistance in species able to mobilise antimicrobial       musculus; hereafter: mouse). The majority of the detected genes
+resistant bacteria over large geographical distances or to maintain         (178) potentially confer resistance to the ten relevant antibiotic
+local dissemination27,28. Therefore, the use of high-throughput             classes that are of high clinical concern. However, these genes
+approaches in wildlife species becomes crucial in two directions:           accounted for only 9% of the total abundance. The remaining genes
+ﬁrst, to determine the basal resistome in their microbiomes and sec-        corresponded to non-speciﬁc multidrug genes, including mutations
+ond, to assess the impact of environmental drivers on resistance            in housekeeping genes (e.g. rRNA) and promoter regions, and
+dynamics.                                                                   members of different multidrug efﬂux pump families, accounting for
+      In human-dominated landscapes, generalist wildlife species able       up to 90% of the total gene abundance (Fig. 1a). The most prevalent
+to move freely at the interface between natural and anthropogenic           resistance mechanism is antibiotic target alteration (147 genes),
+environments encounter diverse sources of ARGs, e.g. via foraging,          which included 79 multidrug genes and 14 genes associated with
+and may act as mobile links for resistance dissemination29–32. While        other xenobiotics, such as disinfectants and antiseptics. Among the
+birds and large mammals have been highlighted as sentinels for              genes conferring resistance to relevant drug classes, those related to
+resistance due to their capacity for long-distance movement, small          the target protection resistance mechanism for tetracyclines, ﬂuor-
+mammals, particularly rodents, are key to understanding ARG                 oquinolones and MLS (macrolides, lincosamides and strepto-
+transmission at local scales, and for distinguishing environmental          gramins) antibiotics accounted for 70% of the abundance and were
+effects in transmission and spread33–35. Rodents, such as rats (Rattus      distributed across all years. Only 16% of the genes (55 genes) had
+norvegicus, R. rattus) and house mice (Mus musculus), living near           prevalence higher than 50% and abundance above 2.5E6 Fragments
+human settlements and domestic animals, as well as wild rodents             Per Kilobase of gene per Million mapped reads (FPKM) across mouse
+that have never been exposed to antibiotics, are all known to carry         metagenomes, including ﬁve conferring resistance to tetracycline
+ARGs and resistant bacteria in their gut36–38. The latter highlights both   and one to beta-lactam antibiotics (Supplementary Fig. 1). About
+the role of pest species as carriers and disseminators of resistant         23.5% (80 genes) were potentially associated with mobile genetic
+bacteria and ARGs, and the widespread nature of antibiotic resis-           elements (MGEs). Most of the genes (260) were located on the main
+tance in the ecosystem. In the context of antimicrobial resistance          bacterial chromosome and correspond to multidrug or mutations in
+ecology, it is crucial to understand how bacteria carrying ARGs             housekeeping genes associated with Escherichia coli variants. On
+interact with their total environment, i.e. their direct host environ-      average, each mouse metagenome contained 59.6 genes (Fig. 1b),
+ment as well as the wider landscape context. Microbial communities          with few mice showing ARG richness higher than 100, which
+and their functional potential, including resistance genes, are shaped      remained consistent over the years. During the sampling period of
+by different host characteristics, e.g. different life-history strategies   this study, we observed a signiﬁcant increase in the number of genes
+such as dispersal or philopatry or sex differences39. In this respect, it   detected towards the end; particularly, those from the last two years
+is also of importance how ecological dynamics within rodents’ gut           showed a strong increase. While temporal differences could reﬂect
+
+
+Nature Communications |             (2026) 17:7848                                                                                                2
+Article                                                                                                            https://doi.org/10.1038/s41467-026-76403-9
+
+
+
+
+Fig. 1 | General overview of ARGs in house mouse microbiomes. a Average               exclusively to the ten major antibiotic classes. b ARG richness in house mice over
+relative abundance of ARGs in all house mouse microbiomes from this study. More       the years. The number of ARGs detected in 2016 was signiﬁcantly lower than in
+than 90% of the abundance was related to multidrug genes (139 genes) and              other years within the same sampling campaign (Two-sided Wilcoxon rank-sum
+target alteration genes (147 genes) as resistance mechanisms. Genes conferring        test, p-value Bonferroni adjusted <0.001, Table 1), and no differences were
+resistance to the ten relevant drug classes account for only 9% of the total abun-    observed between years at the end of the study period. Most mice (n = 774) had an
+dance. Of these, the majority were genes conferring resistance to beta-lactam         ARG richness of around 50 genes, while a smaller group (n = 85) had a higher
+antibiotics (46 genes), accounting for less than 1% of the total abundance. Genes     number of genes detected. The dashed red line deﬁnes a threshold of 100 ARGs
+conferring resistance to tetracycline (18 genes) represent 6% of the total abun-      detected. Each point represents a single mouse metagenome. The black points
+dance. Genes conferring resistance to tetracycline, ﬂuoroquinolone and MLS            indicate the median. c Principal component analysis (PCA) showing dissimilarity in
+(macrolides, lincosamides and streptogramins) antibiotics, which are related to the   ARG proﬁles between years of sampling. Each point represents the ARG proﬁle of a
+target protection mechanism, accounted for 70% of the abundance related exclu-        sample. Distances between points reﬂect biological gene composition dissimilarity
+sively to the ten major antibiotic classes. Genes with efﬂux, target alteration or    based on Aitchison distances. Points and ellipses are coloured by year of sampling.
+antibiotic inactivation each represented more than 5% of the abundance related
+
+
+
+
+Nature Communications |                  (2026) 17:7848                                                                                                                3
+Article                                                                                                              https://doi.org/10.1038/s41467-026-76403-9
+
+
+Table 1 | Differences in ARG richness in house mice at differ-                              Impact of environmental characteristics on the occurrence of
+ent years                                                                                   ARG and compositional structure within house mouse
+                                                                                            microbiomes
+ Year 1     Year 2     N1      N2       P-value adj.       Signiﬁcance          Effect
+                                                                                size        To determine the impact of environmental characteristics associated
+ 2015       2016       191     127      0.0002436          ***                  0.25
+                                                                                            with the farms on the occurrence (presence-absence) of ARGs in house
+                                                                                            mice microbiomes, we employed joint Species Distribution Models
+ 2015       2021       191     84       9.56E-05           ****                 0.28
+                                                                                            (jSDM) for each of the ARG responses, controlling for geographical and
+ 2015       2022       191     104      2.84E-05           ****                 0.28
+                                                                                            temporal proximity between samples and the farm identity and con-
+ 2016       2018       127     126      0.005061           **                   0.23        sidering selected mouse-related characteristics, environmental factors
+ 2016       2019       127     26       0.011865           *                    0.28        quantify the contributions of each explanatory variable. The jSDM on
+ 2016       2021       127     84       3.70E-12           ****                 0.51        ARG presence-absence had an average effective sample size of over
+ 2016       2022       127     104      8.55E-15           ****                 0.54        800, which is indicative of robust parameter estimation and low
+ 2017       2021       217     84       7.25E-08           ****                 0.34        autocorrelation. Additionally, Gelman-Rubin Diagnostic parameters
+ 2017       2022       217     104      4.10E-10           ****                 0.37
+                                                                                            for beta and gamma were higher than 1, indicating adequate model
+                                                                                            convergence. Overall, the model showed strong predictive perfor-
+ 2018       2021       126     84       0.0003318          ***                  0.30
+                                                                                            mance (AUC = 0.91), identifying samples with high and low probability
+ 2018       2022       126     104      0.00013713         ***                  0.30
+                                                                                            of speciﬁc ARG occurrence (Supplementary Fig. 6). On average, 65% of
+Only signiﬁcant comparisons are shown. Two-sided Wilcoxon rank-sum test. P adjusted after   the variance in ARG occurrence in the mouse gut bacterial microbiome
+Bonferroni correction.
+                                                                                            was explained by random effects, and 35% by explanatory variables
+                                                                                            (Fig. 2a). The identity of each farm (Random: Farm ID) was the domi-
+                                                                                            nant source of explained variance, which indicates strong farm-speciﬁc
+small differences in sequencing depth between sampling periods                              effects not captured by environmental or host factors. Unmeasured
+(Two-sided Wilcoxon rank-sum test, effect size r = 0.096, p-                                ecological and farm management variables at the local level likely
+value = 4.59E-03, Supplementary Table 1) that could be attributed to                        inﬂuenced the large variance explained by the farm. Spatial proximity
+the different DNA extraction kits, this change did not impact the                           between samples led to similar ARG occurrence proﬁles, indicating
+microbial richness and the increase in ARGs was detected none-                              local spread or spatially similar conditions not included in our models.
+theless after rarefying to even sequencing depth (Supplementary                                   Mouse-related characteristics had a low impact on the occurrence
+Fig. 2). Those mice from 2016 had lower richness (Two-sided Wil-                            of ARG. Mouse density, represented by the number of mice trapped at
+coxon rank-sum test, effect size r > 0.2, p-value Bonferroni adjusted                       the farm site, explained 5%, while mouse condition and sex explained
+<0.01, Table 1) within the same sampling period. ARG composition                            only 3%. Among the environmental parameters, land cover repre-
+was highly similar between mice; year explained only 2% of the var-                         sented by agricultural lands, tree cover, small woody features and
+iance, and the composition remained consistent over time (PERMA-                            impervious surfaces explained about 9%. Farm accessibility, together
+NOVA, p > 0.05; Fig. 1c).                                                                   with farm animal density (poultry, pig, cattle) and climatic variables,
+     We identiﬁed ARGs in 22,113 assembled contigs with >1000 bases                         explained an additional 6%.
+of length. Out of them, 5874 contained genes mapped with ≥80%                                     We used the reported localisation in the Comprehensive Anti-
+identity and ≥80% coverage. The majority of the ARG-carrier contigs                         biotic Resistance Database (CARD) as a proxy of ARG mobility and
+correspond to bacterial main chromosomes (N = 5687) and 235 to                              refer to it as potential mobility. Thus, when the model predicted the
+plasmids (Supplementary Fig. 3a). In total, 28 different genes co-                          occurrence of only ARGs in any mobile genetic element, mouse char-
+localised at plasmids, including genes associated with aminoglycoside                       acteristics and environmental factors explained more (51%) than the
+(n = 8), glycopeptide (n = 8) and tetracycline (n = 5) resistance, with a                   model for all genes combined (35%). Land cover, accessibility, farm-
+mean abundance of 15 FPKM across the plasmids (Supplemen-                                   related variables and climate particularly had greater explanatory
+tary Fig. 3b).                                                                              power for mobile genes, showing a potentially stronger link to man-
+     A total of 606 bacterial mOTUs belonging to 50 different                               agement practices and dispersal pathways by explaining 41% together
+families were detected in the house mouse microbiomes. Each                                 (Fig. 2b). Potentially mobile ARGs were less tied to speciﬁc farms (33%
+metagenomic sample contained an average of 212 mOTUs (range:                                vs. 43% for all genes) and more responsive to environmental char-
+25–374), and the composition remained homogeneous over the                                  acteristics, indicating greater potential for spread.
+years, sexes, geographical locations and levels of ARGs detected in                               Ecological and environmental factors explained a large portion of
+the samples (PERMANOVA, p > 0.05). Members of the Lachnospir-                               ARGs trait variance, especially for those potentially in mobile genetic
+aceae and Muribaculaceae families were highly prevalent (pre-                               elements, like plasmids, integrons and transposons (Fig. 2c). The
+valence > 98%) and represented the majority of abundance, at 25.8%                          spatial proximity was the most inﬂuential factor in drug class differ-
+[95% CI: 24.7–26.8] and 10.7% [95% CI: 9.99–11.5], respectively. Other                      ences, especially for genes related to resistance to aminoglycosides,
+bacterial families that could potentially mediate ARG transmission,                         tetracyclines and MLS (random: spatial autocorrelation > 20% variance
+such as Enterobacteriaceae and Enterococcaceae, had a prevalence                            explained) and indicated that they are more tied to farming practices.
+below 50%, or were not detected, e.g. Staphylococcaceae. However,                           Genes conferring resistance to sulphonamides or beta-lactams showed
+Enterobacteriaceae (Spearman’s correlation, Rho = 0.54, p = 7.3E-8),                        a higher effect of mouse and environmental factors (>30%) (Fig. 2d).
+and particularly Escherichia coli (Spearman’s correlation, Rho = 0.71,                      Genes corresponding to target replacement and inactivation resis-
+p = 2.2E-16) abundance showed a strong correlation with the ARG                             tance mechanisms were more inﬂuenced by environmental factors
+richness within each mouse resistome and partially explained the                            (>35%) (Fig. 2e).
+difference in ARG levels in some resistomes (Supplementary Fig. 4).                               To understand the inﬂuence of individual factors on the occur-
+The genes corresponding to mutations in housekeeping genes                                  rence of different ARGs, we compared the gamma coefﬁcient esti-
+associated with Escherichia coli variants (n = 48) characterise the                         mates of the jSDMs (ᵞ) to quantify the effect and directionality of each
+resistome from mice with high ARG richness (≥100 ARGs) as they are                          mouse-related, environmental or climatic factor on ARGs, averaged
+occurring more (Two-sided Wilcoxon rank-sum test, r = 0.52,                                 across their different traits (Fig. 3). While most of the factors included
+p = 2.39E-51) and are differentially abundant in these group of mice                        in our models had a negative association with the occurrence of ARGs
+(Supplementary Fig. 5).                                                                     at different agglomeration levels, livestock density and agricultural
+
+
+Nature Communications |                      (2026) 17:7848                                                                                                         4
+Article                                                                                                          https://doi.org/10.1038/s41467-026-76403-9
+
+
+
+
+Fig. 2 | Relative contribution of mouse characteristics, environmental factors       potentially mobile genes, the environmental factors increased their explanatory
+and random effects to the variation in the occurrence of ARGs in the mouse gut       contribution to 41% of the ARG occurrence, indicating that mobile genes were less
+microbiome. a Variance partitioning revealed that the farm of origin and the         dependent on speciﬁc farm characteristics. The variance partitioning averaged for
+geographical and temporal proximity between the samples (random effects) had a       each ARG’s traits (c Localisation, d Drug class and e Resistance mechanism) shows
+larger impact on the occurrence of all the detected ARGs, accounting for over 60%    that the occurrence of genes with potential localisation in integrons, genes con-
+of the total variation. Environmental factors, including landscape characteristics   ferring resistance to sulphonamides and with target replacement mechanisms are
+and climatic factors, accounted for an additional 27%. Mouse characteristics and     more inﬂuenced by environmental factors.
+density explained less than 10%. b When these effects were evaluated only for
+
+
+
+land were two factors strongly associated overall, although not in all               positively associated with high pig density (ᵞ > 0, support: 0.75), as well
+cases with support higher than 75%. We observed a positive association               as other genes related to fusidane and pleuromutilin (drug class: ter-
+between the surface of agricultural land and genes related to ami-                   penoids; ᵞ > 0, support: 0.75). When we focused on the impact of genes
+noglycoside, MLS and tetracycline inactivation that could be localised               agglomerated by resistance mechanisms, a high density of pigs and
+in mobile genetic elements. The presence of ARGs in integrons, as                    cattle was positively associated with genes involved in target replace-
+compared to chromosomal ARGs, was strongly and positively asso-                      ment mechanisms, including sul and dfr genes, which could also be
+ciated with higher pig density (ᵞ > 10, support: 0.75). The genes                    mobile (ᵞ > 0, support: 0.75). While pig density was negatively asso-
+detected in house mice with potential co-localisation in integrons                   ciated with the occurrence of ARGs with target protection mechanisms
+associated with pig density were sul1, aadA24 and dfrA5. These genes                 (ᵞ < −5, support: 0.75), it was positively associated with genes involved
+are linked to conferring resistance against sulphonamide, aminogly-                  in antibiotic inactivation (ᵞ > 5, support: 0.75). The latter included 40
+cosides and diaminopyrimidine antibiotics, respectively. Among them,                 genes for beta-lactamases, such as the AmpC type beta-lactamases
+aadA24 was detected in an assembled contig corresponding to a                        ampC1 and ampH (prevalence < 10%), as well as the cbIA-1 gene, which
+plasmid, providing further evidence of its mobility potential in house               is highly prevalent in mouse resistomes (prevalence > 50%). In addition
+mice microbiomes (Supplementary Fig. 3b). The presence of ARGs                       to beta-lactamases, the group of genes involved in antibiotic inacti-
+conferring resistance to ﬂuoroquinolone, phenicol and rifamycin                      vation inﬂuenced by pig density also included the aph(3’)-IIIa gene,
+(drug class: aromatics) showed a well-supported but low decrease with                which is potentially mobile and confers resistance to aminoglycosides
+the increase in cattle density (ᵞ < 0, support: 0.95). Clinically and                (9% prevalence) which was also detected in assembled contigs anno-
+veterinary relevant ARGs conferring resistance to tetracycline were                  tated as plasmids (Supplementary Fig. 3b). Particularly, the association
+
+
+Nature Communications |                 (2026) 17:7848                                                                                                              5
+Article                                                                                                           https://doi.org/10.1038/s41467-026-76403-9
+
+
+
+
+Fig. 3 | Effect of mouse-related, environmental, farm animals’ density and cli-      giving resistance towards the aminoglycoside drug class, and having an efﬂux
+matic variables on ARG occurrence agglomerated according to their traits. The        resistance mechanism. The number of ARGs, mice and farms is indicated in the
+heatmap shows the coefﬁcient estimate (gamma) for the trait and a given expla-       columns from the sample size category. MLS refers to macrolides, lincosamides
+natory variable in the columns (jSDM). The higher the coefﬁcient estimate, the       and streptogramins. Symbols in tile indicate the posterior probability of the esti-
+higher the association of the variable with the ARG trait. The intercept reference   mate in the model: ∗ >0.95 and · >0.75.
+level for traits corresponds to ARGs that are non-mobile, located on chromosomes,
+
+
+
+
+Nature Communications |                 (2026) 17:7848                                                                                                                 6
+Article                                                                                               https://doi.org/10.1038/s41467-026-76403-9
+
+
+between cbIA-1 and pig density was better supported when we ana-            original studies25,46. To quantify the relative effect of these differences,
+lysed the effect on a subset of clinically relevant genes (Supplementary    we ﬁtted a linear model with ARG richness as the response. Estimated
+Fig. 7). To evaluate the effect of mice genotype, we performed the          marginal means conﬁrmed the differences between mice in the other
+analysis for a subset of mice (n = 771), for which we have calculated the   host’s resistomes. However, the difference between the resistomes of
+genotype as a hybrid index45 as an additional mouse characteristic.         mice and pig manure was smaller than the one observed for the other
+Three models, including the genotype, were evaluated: one with all the      hosts (Contrastpig-mouse: 173, SE [6.06], Fig. 4a).
+genes detected, one only with potentially mobile genes and one for                To determine the potential connectivity between house mouse
+clinically relevant ARGs. We observed an increase in the variance           resistomes and livestock manure, we calculate the number of ARGs
+explained by mouse characteristics from 3% to 9%. The variance              shared between mice and each livestock host, as well as the compo-
+explained by landscape variables (land cover, accessibility and farm        sition similarity. Considering the total number of different ARGs
+animals) and climatic variables compared to models without host             detected (N = 2834) in the distinct hosts, the resistomes of mice shared
+genotype had an increase from 27% to 37% in the model for all ARGs,         around 50% of genes (n = 168) with those of livestock manure and only
+from 41% to 46% in the model with potentially mobile ARGs, and from         had a signiﬁcant overlap with cattle’s manure resistome (Fisher’s exact
+37% to 44% in clinically relevant ARGs (see Supplementary Fig. 8).          test, n = 174 shared genes, p-value Bonferroni adjusted = 7.108813E-13,
+These additional results suggest that the host genotype reduces the         Fig. 4b). The house mouse resistome showed a distinctive ARG com-
+unexplained variance (random effects) and enhances the importance           position compared to the resistomes of livestock manure (PERMA-
+of environmental factors.                                                   NOVA, R2 = 0.21, p = 0.001, Fig. 4c). Resistome similarity was higher
+                                                                            between resistomes of mice and pig and cattle manure than between
+Effect of environmental characteristics on the ARG composi-                 resistomes from poultry hosts (contrast pig-mouse: −0.264, SE [0.0098],
+tional structure within house mice microbiomes                              contrast cattle-mouse: −0.310, SE [0.013], Fig. 4d).
+We employed the jSDM on the ARG abundance after ﬁltering for rare                 We compared the gene prevalence from both pigs and cattle
+ARGs to determine the impact of the environmental factors on the            against the prevalence in house mice resistomes to determine genes
+compositional structure of ARGs in house mouse microbiomes. The             that could be promoted by a speciﬁc host or in both hosts’ resistomes.
+abundance model included 161 ARGs and similarly to the occurrence           Those genes present in ≥10% of both mouse and livestock host meta-
+based jSDM, the diagnostic parameters indicated adequate model              genomes were classiﬁed as co-promoted, while genes with prevalence
+convergence (Supplementary Fig. 9). The variance in ARG abundance           ≥10% in only one of the hosts were classiﬁed as host-speciﬁc-
+in the mouse gut bacterial microbiome was explained on average              promoted. When mouse and pig manure prevalences were com-
+almost totally by the random effects (88.1%), and relatively few by the     pared, we observed that 11 genes were co-promoted, particularly tet-
+ﬁxed effects (11.9%), which is a much higher proportion compared to         racycline resistance genes (tet) associated with mobile genetic
+models predicting ARG occurrence. Similar to the occurrence model,          elements. In contrast, three genes encoded in integrons (aadA24, sul1
+farm spatial proximity (random effect: spatial autocorrelation) was the     and dfrA1) were promoted in pig manure, but still detected in mouse
+dominant source of explained variance. This means that the spatial          resistomes (Fig. 4e). The gene cbIA-1 encoding a non-mobile beta-lac-
+proximity of samples led to similar ARG abundance proﬁles, indicating       tamase has a higher prevalence in the mouse gut than in pig manure
+spatially similar conditions or potential local spread not accounted for    indicative of house mouse promotion. A similar picture arose from the
+in our models. The landcover variables explained about 4%, followed         comparison between mouse and cattle manure, with tet and integron-
+by farm animal density, climatic variables and accessibility, each          associated genes being co-promoted, but with the difference that cbIA-
+explaining 2%, and mouse-related characteristics each explained 1%.         1 is also co-promoted in both cattle manure and mice, suggesting the
+When focusing only on mobile ARGs, mouse-related, ecological and            circulation of such genes between manure and house mice (Fig. 4f).
+climatic variables explained about the same amount of variance in
+mobile genes (13.1%) compared to all genes (11.9%) (Supplementary           Discussion
+Fig. 10). Considering the little variance in ARG abundance explained by     Our study showed that the occurrence of antimicrobial resistance
+these variables, we only detected a few supported effects. The tem-         genes (ARGs) in the microbiomes of natural populations of generalist
+perature showed a mild negative association with ARG abundance              species, such as house mice, is inﬂuenced by land use characteristics.
+(ᵞ < 0, support: 0.95). As in the occurrence-based jSDM, farm animal        Here, we provided a framework to assess how environmental gradients
+density did not show a well-supported relationship with ARGs in             inﬂuence ARG composition and the potential interactions that facil-
+transposons and plasmids (ᵞ > 0, support <0.75) (Supplemen-                 itate gene mobility among microbial communities, by conceptualising
+tary Fig. 11).                                                              the ARGs as metacommunities within host-associated microbiomes
+                                                                            sampled across transects within heterogeneous landscapes. We
+Association of house mouse resistomes with livestock                        demonstrated that environmental variables related to farms, particu-
+resistomes                                                                  larly livestock farming intensity, explained a higher proportion of the
+Given the association of the occurrence of speciﬁc ARGs and gene            variation in ARG occurrence than host characteristics did. This pro-
+traits within the house mouse resistome with the density of farm ani-       portion increased further when the analysis was restricted to genes'
+mals, we assessed the similarity between the resistomes of livestock        potential co-localisation in mobile genetic elements. High pig farming
+and those of house mice in our study. We compared the resistomes of         density was closely associated with the integron-encoded sulphona-
+house mice to two previously published datasets: one including man-         mide resistance gene sul1, as well as with genes conferring resistance
+ure resistomes from pigs, cattle and chickens in nine European coun-        to tetracyclines and one to beta-lactams. These ﬁndings demonstrate
+tries and the other including resistomes of rural and urban pigs and        that speciﬁc ARGs in the resistomes of natural populations of house
+poultry (chickens and turkeys) from Ghana, as a non-European refer-         mice are also found in livestock manure, highlighting the exchange of
+ence. We detected 2834 ARGs in total, considering 269 pig, 238              resistance genes between agricultural and natural ecosystems.
+chicken, 29 cattle and 17 turkey manure metagenomic samples in                   Our metagenomic screening revealed that the resistomes of house
+addition to our 859 house mouse gut metagenomes. Overall, we                mice are primarily composed of genes of limited clinical or veterinary
+observed that house mouse resistomes were less rich in ARGs than            concern, largely involved in multidrug resistance mechanisms that are
+livestock resistomes (Two-sided Wilcoxon rank-sum test, effect size         ubiquitous in bacterial genomes of both host-associated and environ-
+r > 0.2, p-value Bonferroni adjusted <0.01, Supplementary Table 2),         mental origin47,48. This pattern is consistent with our previous 16S-
+while livestock resistomes resembled the richness detected in their         based predictions of chromosomally encoded ARGs in house mice49
+
+
+Nature Communications |             (2026) 17:7848                                                                                                    7
+Article                                                                                                                 https://doi.org/10.1038/s41467-026-76403-9
+
+
+
+
+Fig. 4 | Similarities between the house mouse resistome and livestock manure             are presented (nmouse-mouse = 368,511; nmouse-pig = 230,212; nmouse-chicken = 204,442;
+ARG reservoirs. a ARG richness in house mice (n = 859) compared to livestock             nmouse-cattle = 24,911 and nmouse-turkey = 14,603). Pig and cattle manure’s resistomes
+manure (npig = 268, nchicken = 239, ncattle = 62 and nturkey = 70). The number of ARGs   had a higher compositional similarity to mouse resistomes than to the poultry hosts
+detected in house mice was signiﬁcantly lower than in any other host’s manure            (contrast pig-mouse: −0.264, SE [0.0098], contrast cattle-mouse: −0.310, SE [0.013]). The
+resistome (Two-sided Wilcoxon rank-sum test, p-value Bonferroni adjusted <0.001,         dashed black line indicates a similarity value of 0.5. Points represent the median
+Supplementary Table 2). Poultry manure had the highest ARG richness. Pig man-            resistome similarity between the mouse and a given host. Violin represents the
+ure’s resistomes had a smaller difference to mouse resistome richness than for the       distribution of similarity to mouse resistomes per host. Solid boxes inside the violin
+other hosts (Contrast pig-mouse: 173, SE [6.06]). The dashed black line deﬁnes the       indicate the interquartile range, and whiskers extend to the minimum and max-
+maximum number of ARGs detected in house mice. Each point represents the                 imum similarity values. e Prevalence of ARGs in the house mouse gut and pig
+median per host. The violin represents the distribution of richness per host’s           manure metagenomes. While the gene cbIA-1 had higher prevalence in mouse guts
+resistome. Solid boxes inside the violin indicate the interquartile range, and whis-     than in pig manure, indicative of house mouse promotion, three genes that can be
+kers extend to the minimum and maximum values per host. b Euler diagram of               localised in integrons (aadA24, sul1 and dfrA1) were more prevalent in pig manure
+shared ARGs between house mouse resistomes and different livestock manure                than in mice, indicating a promotion of those genes in pig manure. f Prevalence of
+resistomes; numbers next to the host labels indicate the number of unique genes          ARGs in the house mouse gut and cattle manure metagenomes. The gene cbIA-1,
+for that particular host. A total of 168 genes were shared between the mouse             prevalent in more than 50% of the mouse gut metagenomes, could be detected in
+resistome and the other hosts. The livestock resistomes shared 566 ARGs among            all the cattle manure resistomes, similar to those genes that can be localised in
+them. c Principal component analysis (PCA) showing the dissimilarity in resistome        integrons. For both environments, six tet genes had a prevalence above 75%, indi-
+composition among hosts. Dissimilarity is based on Aitchison distances between           cating co-promotion in such environments. In e, f labels are shown for ARGs with
+samples on centred log ratio-transformed ARG abundance. Each dot represents an           prevalence higher than 25% in either of the hosts and those genes that could be
+individual resistome. d Comparison of ARG composition similarity between mouse           localised in integrons. The shape indicates whether the gene can be localised in the
+resistomes and each of the other hosts’ resistomes. ARG similarity was calculated as     chromosome (circles) or in mobile genetic elements (triangles) and thus suggest
+1 - Aitchison distance between two samples. Similarity values of 1 represent iden-       mobility potential. Dashed lines indicate a cutoff at 10% prevalence to highlight
+tical ARG proﬁles, while those equal to zero indicate completely different resis-        genes associated with one of the hosts or in both.
+tomes. The similarity values between each mouse resistome and each livestock host
+
+
+
+
+Nature Communications |                   (2026) 17:7848                                                                                                                        8
+Article                                                                                              https://doi.org/10.1038/s41467-026-76403-9
+
+
+speciﬁcally, and with wild rodent resistomes in a broader sense50.         less susceptible to external environmental pressures. In external
+However, we were able to detect genes potentially co-localised with        environments such as soil and water, conventional agricultural man-
+mobile genetic elements. A previous study in natural populations of        agement practices, including the use of manure as fertiliser, herbicides
+house mice from urban environments reported a wide distribution of         or compounds containing heavy metals, increase the prevalence of
+ARGs conferring resistance to macrolide–lincosamide–streptogramin          ARGs and mobility between bacteria by horizontal gene transfer60–63.
+(MLS) antibiotics, ﬂuoroquinolones, tetracyclines and beta-lactams38.      We found that extensive agricultural land use was positively associated
+While our house mouse resistomes included some of these previously         with potentially mobile genes, suggesting that those genes may be
+reported genes and others of high priority51, they were detected here at   selected either through the direct impact of stress-inducing xenobio-
+low abundance and prevalence compared to other environments like           tics that reach wildlife via water and soil, or present in their micro-
+the gut and livestock microbiome or wastewater systems. One expla-         biome through the invasion of bacteria carrying ARGs selected in the
+nation for the low prevalence could be the reduced abundance or            agricultural environment, as previously observed in humans64,65.
+absence of their typical bacterial hosts. Families of commensal gut        Moreover, it has been shown that cross-species ARG transmission
+bacteria such as Enterobacteriaceae, Enterococcaceae and Staphylo-         between livestock and wild mammals is mediated by their co-
+coccaceae, which are usually involved in mediating ARG transmission        occurrence with mobile genetic elements66. The dissemination of
+within host-associated microbiomes22,52,53, were poorly represented in     ARGs between different environments, and between host-associated
+our house mouse samples as previously reported with amplicon-based         and environmental microbiomes, increases with the intensity of
+approaches39,54,55, and mostly dominated by known ﬁbre degraders like      anthropogenic activities67. Thus, the inﬂuence of anthropogenic agri-
+members of the Lachnospiracea family, probably related to their diet56.    cultural and farming practices is persistent on the house mouse
+In other wild rodent species, culture-based analyses have revealed         resistome.
+elevated levels of resistance among Enterobacteriaceae36. In contrast,           The use of antibiotics for food production has long been recog-
+wild cotton mice (Peromyscus gossypinus) inhabiting polluted envir-        nised as a strong contributor to antimicrobial resistance in the human
+onments with microbiomes dominated by Desulfovibrionaceae, Pseu-           microbiome, independently of clinical antibiotic consumption68–70. By
+domonadaceae and Helicobacteraceae showed high abundance and               modelling the effect of agricultural surface and livestock density on
+prevalence of multidrug resistance genes, with only a few genes            the mouse resistome, we aimed to test whether the effect of antibiotic
+associated with last resort antibiotics57. Conversely, wild rodents from   use for food production can be quantiﬁable not only in humans but
+rural areas in Germany appeared to play only a minor role in the           also in other species inhabiting human-impacted environments. Simi-
+transmission of resistant Escherichia coli to the environment58, con-      lar to agricultural practices, livestock density, particularly of pigs, was
+sistent with our broader characterisation of the house mouse resis-        strongly associated with potentially mobile ARGs within house mouse
+tome. Together, these observations suggest that the resistomes of          microbes. The association between livestock density and mouse
+natural populations of house mice, similar to those of other rodents,      resistome can reﬂect two interconnected processes: dissemination of
+are dominated by environmentally ubiquitous ARGs. While the natural        mobile ARGs through faecal pollution and epidemiological con-
+populations of house mice are neither fully wild nor fully domestic        nectivity through host movement and interactions71. As livestock
+animals, they represent an intermediate stage that gets in contact with    resistomes are considered hotspots of resistance genes, the dis-
+and is inﬂuenced by both environments. Thus, the house mouse ARG           semination of ARGs through manure occurs at a larger extent than
+composition was largely shaped by the bacterial taxa present in their      from human, sewage and soil sources13,72. Pig manure is highly enriched
+microbiomes, and both bacterial and ARG composition could reﬂect           in mobile ARGs and represents a relevant source for spreading ARGs to
+the degree of anthropogenic exposure and potential for gene                the environment73–76. The movement of mice between habitats and
+exchange across ecological boundaries.                                     social interactions likely increase their exposure to sites contaminated
+     Beyond microbial interactions within the host that may drive the      with livestock faeces or with other rodents carrying ARGs35,77. Con-
+selection of speciﬁc ARGs, we focused on identifying ecological drivers    sistent with our results, other studies detected that wild rodents and
+of the house mouse resistome. Given that both biotic and abiotic           even larger species such as wild boar (Sus scrofa) from rural areas with
+factors shape microbial communities through natural selection, and         high livestock density in Germany, carry E. coli resistant to antibiotics
+selective pressures may vary from habitat to habitat59, we hypothe-        commonly administered in pigs, poultry and cattle, suggesting live-
+sised that rodents’ gut microbial communities and associated genetic       stock to wildlife transmission43,58. Overall, interactions between agri-
+repertoires are shaped by exposure to diverse environmental condi-         cultural management practices, livestock density and mouse mobility
+tions. We observed that intrinsic characteristics of each farm exerted a   may have signiﬁcant impacts on the composition and mobility of
+strong inﬂuence on the overall ARG composition. Ecological and             resistomes in natural populations of house mouse populations.
+environmental variables also explained a substantial proportion of the           We observed a strong association of pig density with highly pre-
+variability in ARG occurrence. When the environmental effects are          valent genes conferring resistance to tetracycline (tet), which could be
+taken together, they exceed the effects of host density and sex, con-      traced in both the house mouse resistome and in pig and cattle
+sistent with previous observations in the human gut resistome19. While     resistomes from Germany and other European countries. Tetracyclines
+our models included more environmental than host variables and             have been historically used in livestock husbandry in large-scale
+therefore a higher amount of variance was expected, each subset of         intensive farming to prevent diseases and promote animal growth78,79.
+environmental variables (e.g. land cover, accessibility and farm ani-      In Germany, tetracyclines remain among the most widely administered
+mals) had a similar explanatory power to host variables with regard to     antibiotics, together with beta-lactams80,81. Despite its regulation
+the total ARG composition. This highlights the importance of the           intended to minimise selection of resistant bacteria82, residues of tet-
+environment and its different components. Furthermore, this impor-         racyclines and their bacterial transformation products persist in live-
+tance increased drastically for mobile ARGs. These patterns likely         stock manure and fertilisers at concentrations that still represent an
+reﬂect anthropogenic factors that promote antibiotic resistance in         ecological risk and have antibacterial activity83,84. Thus, tet genes are
+bacteria within the mouse gut. Environmental and climatic factors          persistent and highly abundant in environments with faecal or manure
+were more inﬂuential for genes potentially co-localised on mobile          pollution. These genes are considered part of the cross-environment
+genetic elements and, therefore, more likely to be transferred through     core resistome and useful for the monitoring of the total resistome
+horizontal gene transfer. This suggests that potentially mobile genes      diversity in the environment15,85,86. In our study, we detected six tet
+may be promoted by changes in agricultural intensity or land man-          genes that may reﬂect the impact of livestock on the house mouse
+agement practices, unlike chromosomal, non-mobile ARGs, which are          resistome, as they were enriched in both environments. The
+
+
+Nature Communications |            (2026) 17:7848                                                                                                   9
+Article                                                                                             https://doi.org/10.1038/s41467-026-76403-9
+
+
+transmission of these genes from livestock to wildlife likely results      (Fig. 5). Overview maps from Europe and Germany were created using
+from their co-localisation on mobile genetic elements, which facilitates   a public domain map dataset including vector country and other
+efﬁcient spread through horizontal gene transfer across bacteria87,88.     administrative boundaries from Natural Earth. Human population
+Tetracycline ARGs are known to be promiscuous and their capacity to        density in Germany is around 241 people/km2, with 77% of the popu-
+transfer between phylogenetically distant bacterial hosts14. Our results   lation living in urban areas (www.worldometers.info). The states
+indicate that house mouse resistomes are strongly impacted by live-        selected for the study area are characterised by a large proportion of
+stock density, and that mobile tet genes represent good markers for        land dedicated to agriculture, from circa 70% in Mecklenburg-
+tracking ARG transmission between farm environments and wildlife           Vorpommern to 45% in Brandenburg and Bavaria, and 4% in Berlin
+species.                                                                   (https://www.laiv-mv.de/Statistik/, https://www.statistikdaten.bayern.de/,
+     Genes encoding for commensal beta-lactamases, like cblA-1 and         Amt Für Statistik Berlin-Brandenburg, 2025). Forested areas occupy
+other genes like sul1 were additional markers of anthropogenic and         24%, 37%, 36% and 18% of the state surface, respectively. Within agri-
+livestock inﬂuence identiﬁed in the house mouse resistome. The sul1        culture, a large proportion is dedicated to animal husbandry, with
+gene, although not speciﬁcally promoted in house mouse resistomes,         Germany being the main European producer of milk or pork (www.
+provides interesting insights into potential ways of resistance trans-     bmleh.de). Crops and animal husbandry occur across the country, with
+mission. sul1 is a mobile and highly prevalent gene in different envir-    different levels for each state. Poultry farming is present in all states,
+onments, particularly human-impacted surface waters and wastewater         but it is predominant in Mecklenburg-Vorpommern. Cattle farms are
+commonly used for agricultural irrigation89,90. In riverine environ-       found mainly in Bavaria and some areas in Brandenburg. Pig farming
+ments, animal feeding operations have been identiﬁed as a relevant         occurs in some locations in Bavaria and Mecklenburg-Vorpommern. In
+source of sul191, highlighting how this gene may serve as a marker of      contrast, Berlin and Brandenburg produce mainly vegetables (www.
+connections between farming activities, agricultural practices and the     bmleh.de). The study area is highly heterogeneous, with farms being in
+dissemination to broader environments, including wildlife hosts such       densely populated municipalities that are ofﬁcially considered as
+as house mice. We also detected that the cblA-1 gene was highly pro-       urban areas according to the Federal Statistical Ofﬁce. However, our
+moted in house mouse resistomes. Although cblA-1 is not a mobile           main focus was on the farming practices, regardless of the ofﬁcial
+gene and is restricted to the genus Bacteroides92,93, this cblA-1 cepha-   designation of the locality.
+losporinase is highly prevalent in the human gut microbiomes from
+Western countries and may exacerbate antimicrobial resistance              Ethics
+infections if transferred to pathogens94. The presence of this gene        Animal capture and handling were conducted under the animal
+likely reﬂects human or cattle faecal pollution, further supporting its    experimentation licences No. 2347/35/2014 and 2347/28/2021 issued
+role as an indicator of anthropogenic impact in the resistomes of non-     by Landesamt für Arbeitsschutz, Verbraucherschutz und Gesundheit
+domesticated animals. Taken together, genes such as sul1 and cblA-1        Brandenburg. Approval was provided to capture and dissect house
+can be complementary indicators of livestock-derived and anthro-           mice from their natural environments. After capture, mice were
+pogenic pollution within the house mouse resistome.                        housed individually in cages overnight and euthanised by the over-
+     Our ﬁndings reveal that antimicrobial resistance in non-              doses of isoﬂurane. All mice were dissected within 24 h after capture.
+domesticated animals is not an isolated phenomenon but a measur-
+able reﬂection of anthropogenic activity across agricultural land-         Sample collection
+scapes. We integrated metagenomic screening and ecological data to         House mice (Mus musculus) were captured alive from different private
+demonstrate the impact of the external environment on the resistome        properties (farms) between 2015 and 2022, with only 2020 trapping
+of natural populations of house mice, allowing the identiﬁcation of        missing due to COVID-19 contact restrictions. The 875 mice (479
+speciﬁc genes that trace this impact. The transmission dynamics            females, 395 males) from this study represent a natural population of
+between livestock, the environment and other natural populations of        non-domesticated animals, which cohabitate in domestic environ-
+mammal hosts, such as house mice, can be explained by the inﬂux of         ments. The gastrointestinal colon content was collected, ﬂash frozen in
+selective agents and bacteria carrying ARGs from the farming envir-        liquid nitrogen, and later stored at −80 °C for DNA extraction at a later
+onment into surrounding habitats, where ARGs could be maintained           time95.
+within microbiomes of non-domesticated species. Unlike other envir-
+onments, such as wastewater, polluted soil and the gut of humans and       DNA extraction and sequencing
+livestock, the house mouse resistome is characterised by several reg-      Metagenomic DNA from colon content was extracted in two rando-
+ulators that do not themselves confer a resistant phenotype and fewer      mised batches. Samples collected between 2015 and 2018 (N = 679)
+of the high-priority genes identiﬁed by the WHO. In this respect, mice     using NucleoSpin®Soil kit (Macherey-Nagel GmbH & Co. KG, Düren,
+are not the most relevant carriers and are deﬁnitely not the most          Germany) following the manufacturer’s protocol with modiﬁcation as
+practical samples for surveillance purposes. However, our analysis         reported in previous studies39,95. Samples from 2019, 2021 and 2022
+clearly shows that their resistomes reﬂect anthropogenic impact,           (N = 196) were extracted using the ZymoBIOMICS-96 MagBead DNA Kit
+particularly with regard to genes potentially carried by mobile genetic    (Zymo Research Europe GmbH, Freiburg, Germany) in the auto-
+elements. Therefore, we identiﬁed mobility as an important trait for       matised system TECAN Fluent® 780 NAP workstation following the
+assessing how farm animals and agricultural practices inﬂuence the         manufacturer’s instructions with minimum modiﬁcations to the lysis
+resistance proﬁles of natural house mice populations in surrounding        step. In brief, 750 μL ZymoBIOMICS Lysis Solution was added to
+environments. This study broadens our understanding of the trans-          ~100 mg of colon content and transferred to ZR Bashing Bead Lysis
+mission of antimicrobial resistance in human-impacted environments         Tubes with beads (0.1 and 0.5 mm). The samples were mechanically
+and supports the development of strategies to monitor the mobility         disrupted using a PeQLab Precellys 24 (Bertin Corp., Rockville, MD,
+and dissemination of ARGs and resistant bacteria into the environment      USA) for 2 × 15 s at 5500 rpm. After 5 min rest, the cycle was repeated
+and wildlife species.                                                      two more times for a total of three cycles. The DNA was eluted with
+                                                                           50 μL of ZymoBIOMICS DNase/RNase Free Water. Aliquots with at least
+Methods                                                                    750 ng quantiﬁed using Qubit ﬂuorometric quantiﬁcation dsDNA
+Study area                                                                 Broad Range Kit (Thermo Fisher Scientiﬁc, Waltham, USA) were ship-
+We conducted our study in Germany, central Europe, in the federal          ped on dry ice for library preparation and sequencing at the Compe-
+states of Berlin, Brandenburg, Bavaria and Mecklenburg-Vorpommern          tence Centre for Genomic Analysis (Kiel, Germany). Sequencing
+
+
+Nature Communications |            (2026) 17:7848                                                                                                 10
+Article                                                                                                        https://doi.org/10.1038/s41467-026-76403-9
+
+
+
+
+Fig. 5 | Geographical distribution of farms where mice were captured. The           includes 73 house mice from 27 farms. The overview maps of Europe, Germany and
+points indicate the geographical locations of the farms where the mice were col-    the German federal states were created using a public domain map dataset
+lected. The colour indicates the number of mice captured at each location. The      including vector country and administrative boundaries from Natural Earth. Made
+upper-right panel, shown with a brown border, focuses on the northern German        with Natural Earth. Free vector and raster map data @ naturalearthdata.com. Eur-
+transect, including Berlin, Brandenburg and Mecklenburg-Vorpommern and              opean countries are indicated with ISO 3166-1 alpha-2 codes. Diamonds highlight
+includes 802 house mice from 213 farms. The lower-right panel, shown with a green   the main cities in each German federal state for geographical reference.
+border, focuses on the southern German transect, including Bavaria, which
+
+
+
+libraries were prepared with the Illumina DNA prep kit following the                bacteria were removed from the analysis, and only mOTUs with an
+manufacturer’s instructions. Shotgun sequencing was done on the                     abundance above 0.005% and 1% prevalence within each metagenome
+Illumina NovaSeq6000 S4 platform (Illumina, San Diego, California,                  were included in the analysis. ARG annotation to summarise ARG
+USA) using 300 cycles and v1.5 reagent kits.                                        occurrence and abundance in each sample was performed using
+                                                                                    Resistance Gene Identiﬁer (RGI bwt) v5.2.1-2. Metagenomic reads were
+Bacterial taxonomy, ARG annotation, diversity and composition                       aligned to the CARD v3.2.799 using the bowtie2 aligner v2.4.5100 and
+Paired-end shotgun sequencing reads were assessed for quality using                 annotated following the Antibiotic Resistance Ontology (ARO). For
+FastQC v0.12.1 and processed using the NGLess pipeline v1.596. Brieﬂy,              purposes of this study, only ARO IDs with more than 80% coverage to
+quality control consisted of trimming and ﬁltering the reads with a                 the reference were retained for further analysis and denoted as ARGs.
+minimum quality of 25, a minimum length of 45 bp and removing the                   ARG abundance was normalised to FPKM to control for differences in
+ﬁrst 6 nucleotides. Two sequential decontamination steps were then                  sequencing depth between samples and gene length differences. In
+performed. The ﬁrst was to remove human contamination by ﬁltering                   addition, abundances were binned to ARG, AMR gene family and drug
+reads with a minimum match size of 45% and 90% identity to the                      classes level. ARGs were manually regrouped based on the drugs to
+reference human genome assembly GRCh38.p14. The second decon-                       which they confer resistance. ARGs referring to penam, cephalosporin,
+tamination step aimed to remove host DNA by ﬁltering reads mapped                   carbapenem, cephamycin, penem and monobactam were grouped
+to the reference house mouse (Mus musculus) genome assembly                         into the beta-lactam class. Those referring to macrolides, lincosamides
+GRCm39-mm39 using the same criteria as for the human genome.                        and streptogramins were grouped into the MLS class. Those referring
+Both reference genomes were masked for low complexity regions and                   to more than one drug class were grouped into the multidrug class.
+regions mapping to the proGenomes3 gene catalogue97. The taxo-                      The potential mobility of the ARGs detected by a read-based approach
+nomic proﬁling of decontaminated metagenomic reads was per-                         was determined based on their genetic locations with MGEs by
+formed with mOTUs398. Samples with less than 1000 reads assigned to                 referencing CARD Data. To determine the genetic context of ARGs, a
+
+
+Nature Communications |                 (2026) 17:7848                                                                                                           11
+Article                                                                                                  https://doi.org/10.1038/s41467-026-76403-9
+
+
+contig-based annotation was performed. Metagenomic de novo                     (HI). The HI was calculated as the proportion of Mus musculus musculus
+assembly was performed with the decontaminated and quality-                    subspecies alleles present in a set of 14 diagnostic markers, as reported
+controlled reads using SPAdes genome assembler v4.1.0 under                    in Balard et al.39,45.
+default parameters (k-mer = 21, 29, 39, 59, 79, 99). Only contigs longer             Environmental variables included proportions of different land
+than 1000b were used for further analysis. ARG annotation was done             cover features, such as the proportion of forest or agriculture in a
+with RGI main using DIAMOND aligner and for plasmids using Plasmer             100 m raster, accessibility of the farm calculated by distances to linear
+v1.0101. Only ARGs in contigs with identity and coverage to the                transport features, farm animal density describing municipality-level
+reference equal to or higher to 80% were considered. The richness of           livestock densities for cattle, pigs and poultry, as well as climatic data,
+ARGs observed for each sample was calculated as the total ARG                  averaged for the month of August in the respective sampling year.
+detected in the dataset for a given sample, using Microbiome v1.26.0102.             All spatial variables were projected to a common coordinate
+     The bioinformatic analysis was performed on the High-                     reference system (ETRS89/LAEA Europe, EPSG:3035, see source and
+Performance Computing Cluster from the Max Delbrück Centrum,                   original speciﬁcations of spatial layers in Supplementary Table 5),
+Berlin (Max-Cluster), equipped with 5.2k Cores—46TB RAM.                       rasterised if needed and resampled to a 100 × 100 m2 resolution for
+                                                                               spatial consistency. The proportion of agricultural areas was derived
+Retrieval of publicly available livestock manure metagenomes                   from the Corine Land Cover spatial layer class 2 by calculating the
+To assess the proximity of house mice-derived resistomes to those              percentage of the land use class within each 100 × 100 m2 grid cell.
+from farm animals, we used two available datasets from livestock               Distances to roads and paths were calculated by rasterising the vector
+manure. One from the project EFFORT, including pooled manure from              map to a 100 m resolution and calculating the distance to each linear
+pig, cattle and poultry herds in nine European countries25,46. The sec-        road/path feature to the centre grid cell coordinates. Values from
+ond was from rural and urban pig and poultry farms in Ghana, which             these layers were then extracted for each sample based on its geo-
+was included as a non-European reference103. A total of 639 faecal             graphical location. Farm animal information was obtained from the
+metagenomes were downloaded from the NCBI Sequence Read                        Thünen agricultural atlas as the number of livestock units per
+Archive (BioProjects PRJEB22062, PRJEB39685 and PRJEB62878). For               municipality104. We selected the three main livestock species in our
+these datasets, only metagenomic data from the Illumina paired-end             study area (cattle, pigs and poultry) and transformed the number of
+platform with a minimum of 1E6 reads to ensure compatibility with              heads of each species into densities to obtain a measure comparable
+data generated for our study and minimise inherent technical differ-           across all sampling sites. The densities were obtained by dividing the
+ences related to collection and sequencing between datasets. To avoid          number of heads by the total area of the corresponding municipality
+any bias in the comparisons, all metagenomes were processed and                (Supplementary Fig. 12).
+ARGs annotated in the same way as house mice-derived metagenomes
+(see Bacterial taxonomy and ARG annotation section).                           Factors affecting ARG distribution and abundance
+                                                                               We applied two jSDM within the Bayesian framework of Hierarchical
+ARG traits and explanatory variables                                           Models of Species Communities (HMSC)105 to model the occurrence
+We annotated detected ARGs based on four traits: (i) Potential mobility        (presence-absence) and the abundance of ARGs as a function of
+(binary) indicates whether the ARG is associated with mobile genetic           selected explanatory variables. Models were implemented using the
+elements (MGE) as reported in the CARD database (FALSE: Chromo-                Hmsc v 3.3-7106. The HMSC framework is ideal for the analysis of mul-
+somally encoded ARGs; TRUE: ARG associated with mobile elements                tiresponse data, as it allows for the inclusion of both ﬁxed and random
+such as plasmids, integrons, transposons). (ii) Localisation (catego-          effects (described in the following paragraphs), as well as controlling
+rical) indicates the type of mobile genetic element in which the gene          for the spatial autocorrelation structure in the residuals, while ana-
+could be located. In our dataset, localisation includes chromosome,            lysing the data at the level of the taxa or the traits. Additionally, it also
+plasmid, integron, transposon, pathogenicity island, multiple mobile           provides a measure of association between the different taxa after
+genetic elements and mixed when it could be either on the bacterial            controlling for the effects of all explanatory variables, i.e., positive or
+chromosome or in an MGE. Due to its low representation, multiple               negative associations after accounting for environmental preferences.
+MGEs and pathogenicity islands were grouped together. (iii) Drug class              The response matrix in the model consisted of presence-absence
+group (categorical) groups ARGs into broader drug class categories to          or abundance data, respectively, for ARGs detected in individual mice
+increase statistical power due to the sparse representation of some            sampled across multiple farms, municipalities and regions. To assess
+individual classes. Grouping was based on similarity in chemical               how ARG trait–host-environment interactions shaped ARG distribu-
+structure (Supplementary Table 3). (iv) Resistance mechanism (cate-            tions, we also included a trait matrix comprising relevant ARG char-
+gorical) is a functional mechanism by which the ARG confers resistance         acteristics (see ARG traits and explanatory variables) in both models.
+and is classiﬁed into antibiotic target alteration, antibiotic inactivation,   Each of the detected ARGs in house mice resistomes could be repre-
+efﬂux, target protection, target replacement and reduced perme-                sented in multiple traits. To model binary ARG presence-absence data,
+ability. A subset of ARGs was analysed as clinically relevant based on         we used a probit error distribution, and to model ARG abundance, we
+the World Health Organization’s list of medically important                    log-transformed it (log(x + 1)) to ﬁt a Gaussian distribution. For the
+antimicrobials51 (Supplementary Table 4).                                      abundance models, we ﬁrst ﬁltered out ARGs with an overall pre-
+      We prepared a set of host-level and environmental explanatory            valence lower than or equal to 5% to avoid chain convergence
+variables hypothesised to inﬂuence the distribution of antibiotic              problems.
+resistance genes (ARGs) in house mice. As mouse host characteristics                After the removal of correlated explanatory variables (ﬁxed
+reﬂecting different life-histories, we used sex (female/male), the body        effects), we additively included the mouse characteristics (sex, body
+condition (BC) of the mice calculated as the residuals of the body             condition, mouse density), landcover (agricultural land, impervious
+weight and body length relationship and a mouse density proxy, cal-            surface, tree cover density, small woody features), accessibility (dis-
+culated as the number of trapped individuals per site (Ntrapped). While        tance to road, distance to path) farm animal density (cattle, pig and
+mouse density may inﬂuence microbial exchange or exposure risk, the            poultry) and climatic characteristics (precipitation and temperature)
+body condition might reﬂect disturbed microbiomes either as a cause            as explanatory variables into the model. To account for the nested and
+or a consequence of bad health. For a subset of mice (N = 771), the host       spatio-temporal structure of the study design, we speciﬁed three levels
+genotype, represented by the genome admixture of the two mouse                 of random effects: Spatial autocorrelation was accounted for by
+subspecies within the collection area, was available as a hybrid index         including the XY-coordinates of farm locations as a spatially-explicit
+
+
+Nature Communications |              (2026) 17:7848                                                                                                      12
+Article                                                                                              https://doi.org/10.1038/s41467-026-76403-9
+
+
+random effect. To account for local farm-level variability and nested      associated with ﬁxed effects and each random effect using the parti-
+effects of the sampling design with multiple mice per farm, we inclu-      tioning tools in the Hmsc v 3.3-7.
+ded FarmID. Lastly, we included Year as a temporal random effect to             The relative effect of the livestock host of origin on differences in
+capture inter-annual variability.                                          richness against the house mouse resistome was estimated by ﬁtting a
+                                                                           linear model with ARG richness as response and host and country as
+Association of house mouse and livestock manure resistomes                 predictor variables using ‘stats’ v3.6.2. Estimated marginal means
+After preprocessing and ARG annotation, the resistomes of livestock        (EMMs) for each host, and pairwise comparisons between EMMs of
+manure and house mouse were merged into a single dataset for further       mouse and livestock resistome richness were calculated using
+analysis. The resulting dataset includes FPKM abundances for each          ‘emmeans’ v1.11.1. Fisher’s exact test was used to determine the degree
+ARG, along with the country and host of origin and ARG ontology. The       of intersection in ARGs detected between the resistomes of mice and
+combined dataset was compiled using Phyloseq v1.48.0107. Resistome         livestock. Pairwise comparisons were performed between each live-
+richness and dissimilarity were estimated as described for the house       stock host and the mouse resistome, and the p-values were adjusted
+mouse dataset alone (see ‘Bacterial taxonomy and ARG annotation’           using Bonferroni correction for multiple comparisons. An Euler dia-
+section). The prevalence of each ARG in mice and livestock was esti-       gram to represent ARG overlaps between the resistome of different
+mated as the proportion of metagenomes from each host where the            hosts was done with ‘eulerr’ v7.0.2. To determine whether the resis-
+given gene was detected. Comparisons of host-based prevalence were         tome composition of mice was more similar to that of a particular
+used to determine the potential sources of genes between the live-         livestock host, a linear mixed-effects model was ﬁtted using ‘lme4’ v1.1-
+stock hosts and the mice. Genes were categorised as co-promoted if         37. The model used 1 - Aitchison distance as a measure of resistome
+they were present in ≥10% of samples from both mice and a given            similarity between pairs of samples. Only resistome similarities within
+livestock host. Genes present only in ≥10% of samples from one type of     mice and between mice and livestock hosts were used. Host pair and
+host were categorised as host-speciﬁc. ARGs present in fewer than 10%      country pair were used as ﬁxed effects, and the sample IDs of the pairs
+of samples from mice and a given livestock host were classiﬁed as non-     were included as random effects to control for pseudo-replication. As
+promoted108.                                                               described for the richness model above, EMMs were calculated for
+                                                                           each host pair, and the relative degree of resistome similarity was
+Statistics and reproducibility                                             determined by calculating pairwise comparisons between EMMs
+All analyses were performed in R version 4.4.1 (R Core Team, 2024).        within the mouse and between mouse-livestock resistomes.
+Source data and code required for the analysis are available to ensure
+reproducibility (See ‘Data availability’ and ‘Code availability’).         Reporting summary
+     For microbiome and resistome analysis, Principal component            Further information on research design is available in the Nature
+analysis and permutational multivariate analysis of variance (PERMA-       Portfolio Reporting Summary linked to this article.
+NOVA) were performed based on centred-log-ratio transformed FPKM
+ARG abundances and 9999 permutations using ‘adonis2’ from package          Data availability
+‘vegan’ v2.6-475. PERMANOVA for both microbial and ARG proﬁles was         All raw sequence data are deposited and available online at the Eur-
+run by = ‘margin’ using year of collection, mouse sex, longitude, lati-    opean Nucleotide Archive under accession number PRJEB102564.
+tude and transect as geographical references, taxonomically assigned       Additional source data for the analysis have been deposited in Zenodo
+read counts, and level of ARG count as predictors, stratifying by          and it is available at https://doi.org/10.5281/zenodo.20624924. Faecal
+sequencing batch. Comparisons of ARG richness between mice with            metagenomes from livestock animals were downloaded from the NCBI
+different levels of ARGs were conducted using a two-sided                  Sequence Read Archive BioProjects: PRJEB22062, PRJEB39685 and
+Mann–Whitney U-test with Bonferroni correction for multiple com-           PRJEB62878. All run accession numbers are available at Supplementary
+parisons. The effect size r was calculated as the Z statistic of the MWU   Table 6. Data used for overview maps in Fig. 5 and Supplementary
+test divided by the square root of the sample size, as implemented in      Fig. 12: Made with Natural Earth. Free vector and raster map data @
+the package rstatix v0.7.2. Signiﬁcance was determined at a p-value        naturalearthdata.com.
+cut-off of 0.05 unless otherwise stated. All ﬁgures were created using
+the following packages: ggplot2 v3.5.1, ggsci v3.2.0, ggpubr v0.6.0,       Code availability
+gridExtra v2.3 and RColorBrewer v1.1-3 with minor editions using           All the code used for visualisation and statistical analysis have been
+Inkscape v0.92.5. Data handling was performed using pipelines com-         deposited in Zenodo under the https://doi.org/10.5281/zenodo.
+patible with tidyverse v2.0.0.                                             20624924 and the EcoDyn github account https://github.com/
+     To reduce multicollinearity among environmental explanatory           EcoDynIZW/Gicquel_Planillo_2026_NatCommun.
+variables, we calculated pairwise Pearson correlation coefﬁcients r and
+excluded one variable from each pair with |r| > 0.7, retaining the most    References
+ecologically informative predictors (Supplementary Fig. 13).               1.    Murray, C. J. L. et al. Global burden of bacterial antimicrobial resis-
+     For the ARG occurrence jSDM, we ran four parallel Markov Chain              tance in 2019: a systematic analysis. Lancet 399, 629–655 (2022).
+Monte Carlo (MCMC) chains, with 1000 burn-in iterations, followed by       2.    Naghavi, M. et al. Global burden of bacterial antimicrobial resis-
+10,000 sampling iterations and a thinning interval of 10, resulting in           tance 1990–2021: a systematic analysis with forecasts to 2050.
+4000 posterior samples per parameter. For the ARG abundance jSDM                 Lancet 404, 1199–1226 (2024).
+model, we ran four parallel MCMC chains, with 1000 burn-in iterations,     3.    World Health Organization. Global Action Plan on Antimicrobial
+followed by 15,000 sampling iterations and a thinning interval of 10,            Resistance. (WHO, 2015).
+resulting in 6000 posterior samples per parameter.                         4.    Nathan, C. Resisting antimicrobial resistance. Nat. Rev. Microbiol.
+     Model convergence was assessed using MCMC trace plots,                      18, 259–260 (2020).
+Gelman-Rubin diagnostics, and effective sample sizes of a random           5.    Collignon, P., Beggs, J. J., Walsh, T. R., Gandra, S. & Laxminarayan,
+subset of parameters. Model performance was evaluated using Tjur’s               R. Anthropological and socioeconomic factors contributing to
+R², or R², and the area under the receiver operating characteristic              global antimicrobial resistance: a univariate and multivariable
+curve (AUC). To quantify the contributions of the host and environ-              analysis. Lancet Planet. Health 2, e398–e405 (2018).
+mental explanatory variables versus the nested and spatio-temporal         6.    Larsson, D. G. J. & Flach, C.-F. Antibiotic resistance in the envir-
+structure of the data, we decomposed R² into variance components                 onment. Nat. Rev. Microbiol. 20, 257–269 (2022).
+
+
+Nature Communications |            (2026) 17:7848                                                                                                    13
+Article                                                                                                    https://doi.org/10.1038/s41467-026-76403-9
+
+
+7.    D’Costa, V. M. et al. Antibiotic resistance is ancient. Nature 477,        31.   Boulinier, T. et al. Migration, prospecting, dispersal? What host
+      457–461 (2011).                                                                  movement matters for infectious agent circulation? Integr. Comp.
+8.    Perry, J., Waglechner, N. & Wright, G. The Prehistory of anti-                   Biol. 56, 330–342 (2016).
+      biotic resistance. Cold Spring Harb. Perspect. Med. 6,                     32.   Gibb, R. et al. Zoonotic host diversity increases in human-
+      a025197 (2016).                                                                  dominated ecosystems. Nature 584, 398–402 (2020).
+9.    Mathew, A. G., Cissell, R. & Liamthong, S. Antibiotic resistance in        33.   Bonnedahl, J. & Järhult, J. D. Antibiotic resistance in wild birds.
+      bacteria associated with food animals: a United States perspective               Upsala J. Med. Sci. 119, 113–116 (2014).
+      of livestock production. Foodborne Pathog. Dis. 4, 115–133 (2007).         34.   Plaza-Rodríguez, C. et al. Wildlife as sentinels of antimicrobial
+10.   Forslund, K. et al. Country-speciﬁc antibiotic use practices impact              resistance in Germany? Front. Vet. Sci. 7, 627821 (2021).
+      the human gut resistome. Genome Res. 23, 1163–1169 (2013).                 35.   Doyle, C., Wall, K., Fanning, S. & McMahon, B. J. Making sense of
+11.   O’Neill, J. Tackling Drug-Resistant Infections Globally: Final Report            sentinels: wildlife as the One Health bridge for environmental
+      and Recommendations, Vol 7, https://amr-review.org/sites/                        antimicrobial resistance surveillance. J. Appl. Microbiol. 136,
+      default/ﬁles/160525_Final%20paper_with%20cover.pdf (2016).                       lxaf017 (2025).
+12.   Argudín, M. et al. Bacteria from animals as a pool of antimicrobial        36.   Gilliver, M. A., Bennett, M., Begon, M., Hazel, S. M. & Hart, C. A.
+      resistance genes. Antibiotics 6, 12 (2017).                                      Antibiotic resistance found in wild rodents. Nature 401,
+13.   Li, B. et al. Global health risks lurking in livestock resistome. Sci.           233–234 (1999).
+      Adv. 11, eadt8073 (2025).                                                  37.   Guenther, S. et al. Frequent combination of antimicrobial multi-
+14.   Parras-Moltó, M. et al. The transfer of antibiotic resistance genes              resistance and extraintestinal pathogenicity in Escherichia coli
+      between evolutionarily distant bacteria. mSphere 10,                             isolates from urban rats (Rattus norvegicus) in Berlin, Germany.
+      e00114–e00125 (2025).                                                            PLoS ONE 7, e50331 (2012).
+15.   Inda-Díaz, J. S. et al. Latent antibiotic resistance genes are abun-       38.   Williams, S. H. et al. New York City house mice (Mus mus-
+      dant, diverse, and mobile in human, animal, and environmental                    culus) as potential reservoirs for pathogenic bacteria and
+      microbiomes. Microbiome 11, 44 (2023).                                           antimicrobial resistance determinants. mBio 9, e00624–18
+16.   D’Costa, V. M., McGrann, K. M., Hughes, D. W. & Wright, G. D.                    (2018).
+      Sampling the antibiotic resistome. Science 311, 374–377 (2006).            39.   Ferreira, S. C. M. et al. Eco-evolutionary dynamics of
+17.   Wright, G. D. The antibiotic resistome. Expert Opin. Drug Discov. 5,             host–microbiome interactions in a natural population of closely
+      779–788 (2010).                                                                  related mouse subspecies and their hybrids. Proc. R. Soc. B Biol.
+18.   Wright, G. D. Environmental and clinical antibiotic resistomes,                  Sci. 291, 20241970 (2024).
+      same only different. Curr. Opin. Microbiol. 51, 57–63 (2019).              40.   McMahon, B. J., Morand, S. & Gray, J. S. Ecosystem change and
+19.   Forslund, K., Sunagawa, S., Coelho, L. P. & Bork, P. Metagenomic                 zoonoses in the Anthropocene. Zoonoses Public Health 65,
+      insights into the human gut resistome and the forces that shape it.              755–765 (2018).
+      BioEssays 36, 316–329 (2014).                                              41.   Plowright, R. K. et al. Land use-induced spillover: a call to action to
+20.   Guo, J., Li, J., Chen, H., Bond, P. L. & Yuan, Z. Metagenomic analysis           safeguard environmental, animal, and human health. Lancet Pla-
+      reveals wastewater treatment plants as hotspots of antibiotic                    net. Health 5, e237–e245 (2021).
+      resistance genes and mobile genetic elements. Water Res. 123,              42.   Jones, B. A. et al. Zoonosis emergence linked to agricultural
+      468–478 (2017).                                                                  intensiﬁcation and environmental change. Proc. Natl. Acad. Sci.
+21.   Lee, K. et al. Population-level impacts of antibiotic usage on the               USA. 110, 8399–8404 (2013).
+      human gut microbiome. Nat. Commun. 14, 1191 (2023).                        43.   Guenther, T., Kramer-Schadt, S., Fuhrmann, M. & Belik, V. Envir-
+22.   Zhu, C. et al. Global diversity and distribution of antibiotic resis-            onmental factors associated with the prevalence of ESBL/AmpC-
+      tance genes in human wastewater treatment systems. Nat. Com-                     producing Escherichia coli in wild boar (Sus scrofa). Front. Vet. Sci.
+      mun. 16, 4006 (2025).                                                            9, 980554 (2022).
+23.   Pehrsson, E. C. et al. Interconnected microbiomes and resistomes           44.   Klümper, U. et al. Towards the integration of antibiotic resistance
+      in low-income human habitats. Nature 533, 212–216 (2016).                        gene mobility into environmental surveillance and risk assess-
+24.   Pal, C., Bengtsson-Palme, J., Kristiansson, E. & Larsson, D. G. J. The           ment. Npj Antimicrob. Resist. 3, 81 (2025).
+      structure and diversity of human, animal and environmental                 45.   Balard, A. et al. Intensity of infection with intracellular Eimeria spp.
+      resistomes. Microbiome 4, 54 (2016).                                             and pinworms is reduced in hybrid mice compared to parental
+25.   Munk, P. et al. Abundance and diversity of the faecal resistome in               subspecies. J. Evol. Biol. 33, 435–448 (2020).
+      slaughter pigs and broilers in nine European countries. Nat.               46.   Munk, P. et al. The European livestock resistome. mSystems 9,
+      Microbiol. 3, 898–908 (2018).                                                    e01328–23 (2024).
+26.   He, Y. et al. Antibiotic resistance genes from livestock waste:            47.   Brooks, L. E., Ul-Hasan, S., Chan, B. K. & Sistrom, M. J. Quantifying
+      occurrence, dissemination, and treatment. Npj Clean Water 3,                     the evolutionary conservation of genes encoding multidrug efﬂux
+      4 (2020).                                                                        pumps in the ESKAPE pathogens to identify antimicrobial drug
+27.   Vittecoq, M. et al. Antimicrobial resistance in wildlife. J. Appl. Ecol.         targets. mSystems 3, e00024–18 (2018).
+      53, 519–529 (2016).                                                        48.   Subirats, J., Sharpe, H., Tai, V., Fruci, M. & Topp, E. Metagenome
+28.   Ahlstrom, C. A., Woksepp, H., Sandegren, L., Ramey, A. M. &                      meta-analysis reveals an increase in the abundance of some
+      Bonnedahl, J. Exchange of carbapenem-resistant Escherichia coli                  multidrug efﬂux pumps and mobile genetic elements in chemi-
+      sequence type 38 intercontinentally and among wild bird, human,                  cally polluted environments. Appl. Environ. Microbiol. 89,
+      and environmental niches. Appl. Environ. Microbiol. 89,                          e01047–23 (2023).
+      e00319–e00323 (2023).                                                      49.   Jarquín-Díaz, V. H. et al. Aberrant microbiomes are associated with
+29.   Lundberg, J. & Moberg, F. Mobile link organisms and ecosystem                    increased antibiotic resistance gene load in hybrid mice. ISME
+      functioning: implications for ecosystem resilience and manage-                   Commun. 4, ycae053 (2024).
+      ment. Ecosystems 6, 0087–0098 (2003).                                      50.   Shang, K.-M. et al. Comprehensive genome catalog analysis of the
+30.   Bradley, C. A. & Altizer, S. Urbanization and the ecology of wildlife            resistome, virulome and mobilome in the wild rodent gut micro-
+      diseases. Trends Ecol. Evol. 22, 95–102 (2007).                                  biota. Npj Bioﬁlms Microbiomes 11, 101 (2025).
+
+
+
+Nature Communications |               (2026) 17:7848                                                                                                        14
+Article                                                                                                https://doi.org/10.1038/s41467-026-76403-9
+
+
+51.   World Health Organization. WHO List of Medically Important              72.   Zalewska, M., Błażejewska, A., Czapko, A. & Popowska, M. Anti-
+      Antimicrobials: a Risk Management Tool for Mitigating Anti-                   biotics and antibiotic resistance genes in animal manure – con-
+      microbial Resistance due to Non-human Use (WHO, 2024).                        sequences of its application in agriculture. Front. Microbiol. 12,
+52.   Crits-Christoph, A., Hallowell, H. A., Koutouvalis, K. & Suez, J.             610656 (2021).
+      Good microbes, bad genes? The dissemination of antimicrobial            73.   Binh, C. T. T., Heuer, H., Kaupenjohann, M. & Smalla, K. Piggery
+      resistance in the human microbiome. Gut Microbes 14,                          manure used for soil fertilization is a reservoir for transferable
+      2055944 (2022).                                                               antibiotic resistance plasmids: transferable antibiotic resistance
+53.   Fredriksen, S., De Warle, S., Van Baarlen, P., Boekhorst, J. & Wells,         plasmids in manure. FEMS Microbiol. Ecol. 66, 25–37 (2008).
+      J. M. Resistome expansion in disease-associated human gut               74.   Hölzel, C. S. et al. Sewage sludge and liquid pig manure as pos-
+      microbiomes. Microbiome 11, 166 (2023).                                       sible sources of antibiotic resistant bacteria. Environ. Res. 110,
+54.   Čížková, D. et al. The effect of host admixture on wild house                 318–326 (2010).
+      mouse gut microbiota is weak when accounting for spatial auto-          75.   Zhu, Y.-G. et al. Diverse and abundant antibiotic resistance genes
+      correlation. Mol. Ecol. 33, e17192 (2024).                                    in Chinese swine farms. Proc. Natl. Acad. Sci. USA. 110,
+55.   Hanski, E. et al. Wild house mice have a more dynamic and aero-               3435–3440 (2013).
+      tolerant gut microbiota than laboratory mice. BMC Microbiol. 25,        76.   Qian, X. et al. Diversity, abundance, and persistence of antibiotic
+      204 (2025).                                                                   resistance genes in various types of animal manure following
+56.   Carmody, R. N. et al. Diet dominates host genotype in shaping the             industrial composting. J. Hazard. Mater. 344, 716–722 (2018).
+      murine gut microbiota. Cell Host Microbe 17, 72–84 (2015).              77.   Raulo, A. et al. Social and environmental transmission spread
+57.   Thomas, J. C. et al. Unveiling the gut microbiota and resistome of            different sets of gut microbes in wild mice. Nat. Ecol. Evol. 8,
+      wild cotton mice, Peromyscus gossypinus, from heavy metal- and                972–985 (2024).
+      radionuclide-contaminated sites in the Southeastern United              78.   Gaballah, M. S. et al. A review targeting veterinary antibiotics
+      States. Microbiol. Spectr. 9, e00097–21 (2021).                               removal from livestock manure management systems and future
+58.   Guenther, S. et al. First insights into antimicrobial resistance              outlook. Bioresour. Technol. 333, 125069 (2021).
+      among faecal Escherichia coli isolates from small wild mammals in       79.   Schmerold, I., Van Geijlswijk, I. & Gehring, R. European regulations
+      rural areas. Sci. Total Environ. 408, 3519–3522 (2010).                       on the use of antibiotics in veterinary medicine. Eur. J. Pharm. Sci.
+59.   Nemergut, D. R. et al. Patterns and processes of microbial com-               189, 106473 (2023).
+      munity assembly. Microbiol. Mol. Biol. Rev. 77, 342–356 (2013).         80.   Van Rennings, L. et al. Cross-sectional study on antibiotic usage in
+60.   Seiler, C. & Berendonk, T. U. Heavy metal driven co-selection of              pigs in Germany. PLoS ONE 10, e0119114 (2015).
+      antibiotic resistance in soil and water bodies impacted by agri-        81.   Schaekel, F., May, T., Seiler, J., Hartmann, M. & Kreienbrock, L.
+      culture and aquaculture. Front. Microbiol. 3, 399 (2012).                     Antibiotic drug usage in pigs in Germany—Are the class proﬁles
+61.   Zhang, Y. et al. Sub-inhibitory concentrations of heavy metals                changing? PLoS ONE 12, e0182661 (2017).
+      facilitate the horizontal transfer of plasmid-mediated antibiotic       82.   EFSA Panel on Biological Hazards (BIOHAZ) et al. Maximum levels
+      resistance genes in water environment. Environ. Pollut. 237,                  of cross-contamination for 24 antimicrobial active substances in
+      74–82 (2018).                                                                 non-target feed. Part 12: Tetracyclines: tetracycline, chlortetracy-
+62.   Liao, H. et al. Herbicide selection promotes antibiotic resistance in         cline, oxytetracycline, and doxycycline. EFSA J. 19, e06864 (2021).
+      soil microbiomes. Mol. Biol. Evol. 38, 2337–2350 (2021).                83.   Li, C. et al. Veterinary antibiotics and estrogen hormones in
+63.   Liu, B. et al. Antibiotic resistance genes in the animal manure-              manures from concentrated animal feedlots and their potential
+      amended soil-plant system: occurrence, transmission, bacterial                ecological risks. Environ. Res. 198, 110463 (2021).
+      hosts, and human health risks. Ecotoxicol. Environ. Saf. 303,           84.   Wu, D. et al. Persistence and potential risks of tetracyclines and
+      118890 (2025).                                                                their transformation products in two typical different animal man-
+64.   Zhu, Y.-G. et al. Microbial mass movements. Science 357,                      ure composting treatments. Environ. Pollut. 341, 122904 (2024).
+      1099–1100 (2017).                                                       85.   Bengtsson-Palme, J. The diversity of uncharacterized antibiotic
+65.   Ding, C. et al. Effects of free antibiotic resistance genes in the            resistance genes can be predicted from known gene variants—but
+      environment on intestinal microecology of mice. Ecotoxicol.                   not always. Microbiome 6, 125 (2018).
+      Environ. Saf. 204, 111119 (2020).                                       86.   Abramova, A., Berendonk, T. U. & Bengtsson-Palme, J. A global
+66.   Shi, Y. et al. Extensive cross-species transmission of pathogens              baseline for qPCR-determined antimicrobial resistance gene pre-
+      and antibiotic resistance genes in mammals neglected by public                valence across environments. Environ. Int. 178, 108084 (2023).
+      health surveillance. Cell S0092867425009717. https://doi.org/10.        87.   Muurinen, J., Richert, J., Wickware, C. L., Richert, B. & Johnson, T.
+      1016/j.cell.2025.08.016 (2025).                                               A. Swine growth promotion with antibiotics or alternatives can
+67.   Zhang, Z. et al. Assessment of global health risk of antibiotic               increase antibiotic resistance gene mobility potential. Sci. Rep. 11,
+      resistance genes. Nat. Commun. 13, 1553 (2022).                               5485 (2021).
+68.   Rahman, S. & Hollis, A. The effect of antibiotic usage on resistance    88.   Qian, J. et al. Metagenomic insights into correlation of microbiota
+      in humans and food-producing animals: a longitudinal, One                     and antibiotic resistance genes in the worker-pig-soil interface: a
+      Health analysis using European data. Front. Public Health 11,                 One Health surveillance on Chongming Island, China. J. Hazard.
+      1170426 (2023).                                                               Mater. Adv. 18, 100648 (2025).
+69.   Kaur, K., Singh, S. & Kaur, R. Impact of antibiotic usage in food-      89.   Rodriguez-Mozaz, S. et al. Occurrence of antibiotics and antibiotic
+      producing animals on food safety and possible antibiotic alter-               resistance genes in hospital and urban wastewaters and their
+      natives. Microbe 4, 100097 (2024).                                            impact on the receiving river. Water Res. 69, 234–242 (2015).
+70.   Tan, R., Jin, M., Li, J. & Yang, D. The dissemination, health           90.   Yang, Y. et al. Proﬁles of antibiotic resistome risk in diverse water
+      risks, and mitigation approaches of antibiotic resistance                     environments. Commun. Earth Environ. 6, 158 (2025).
+      genes in the gut microbiome. J. Hazard. Mater. Adv. 17,                 91.   Pruden, A., Arabi, M. & Storteboom, H. N. Correlation between
+      100634 (2025).                                                                upstream human activities and riverine antibiotic resistance
+71.   Bengtsson-Palme, J., Kristiansson, E. & Larsson, D. G. J. Environ-            genes. Environ. Sci. Technol. 46, 11541–11549 (2012).
+      mental factors inﬂuencing the development and spread of anti-           92.   Edwards, R. Resistance to -lactam antibiotics in bacteroides spp. J.
+      biotic resistance. FEMS Microbiol. Rev. 42, fux053 (2018).                    Med. Microbiol. 46, 979–986 (1997).
+
+
+Nature Communications |              (2026) 17:7848                                                                                                   15
+Article                                                                                                 https://doi.org/10.1038/s41467-026-76403-9
+
+
+93.    Wexler, A. G. & Goodman, A. L. An insider’s perspective: Bacteroides    resources, writing—review editing; S.K.S.: conceptualisation, funding,
+       as a window into the microbiome. Nat. Microbiol. 2, 17026 (2017).       supervision, project administration, writing—review editing (equal);
+94.    Diebold, P. J. et al. Clinically relevant antibiotic resistance genes   S.C.M.F.: methodology, investigation, writing—review editing; V.H.J.D.:
+       are linked to a limited set of taxa within gut microbiome world-        conceptualisation, methodology, investigation, data curation, formal
+       wide. Nat. Commun. 14, 7366 (2023).                                     analysis, writing—review editing, funding, supervision.
+95.    Jarquín-Díaz, V. H. et al. Detection and quantiﬁcation of house
+       mouse Eimeria at the species level – Challenges and solutions for       Funding
+       the assessment of coccidia in wildlife. Int. J. Parasitol. Parasites    This work was supported by the DFG Research Infrastructure NGS_CC
+       Wildl. 10, 29–40 (2019).                                                (project 407495230) as part of the Next Generation Sequencing Com-
+96.    Coelho, L. P. et al. NG-meta-proﬁler: fast processing of meta-          petence Network (project 423957469). NGS sequencing was carried out
+       genomes using NGLess, a domain-speciﬁc language. Microbiome             at the Competence Centre for Genomic Analysis (Kiel). VHJD was sup-
+       7, 84 (2019).                                                           ported by DFG FO1279/6-1, MG, AP and SCMF were supported by DFG
+97.    Fullam, A. et al. proGenomes3: approaching one million accu-            KR4266/4-1 and HE7320/5-1. SKS is associated with the DFG RTG 3096 –
+       rately and consistently annotated high-quality prokaryotic gen-         One Health approach to soil-transmitted helminths. VHJD and SKFS are
+       omes. Nucleic Acids Res. 51, D760–D766 (2023).                          supported through the JPIAMR-EMBARK (F01KI1909A) and JPIAMR-
+98.    Ruscheweyh, H.-J. et al. Cultivation-independent genomes greatly        SEARCHER (01KI2404B) projects funded by the Bundesministerium
+       expand taxonomic-proﬁling capabilities of mOTUs across various          für Bildung und Forschung (BMBF). Open Access funding enabled and
+       environments. Microbiome 10, 212 (2022).                                organized by Projekt DEAL.
+99.    Alcock, B. P. et al. CARD 2023: expanded curation, support for
+       machine learning, and resistome prediction at the Compre-               Competing interests
+       hensive Antibiotic Resistance Database. Nucleic Acids Res. 51,          The authors declare no competing interests.
+       D690–D699 (2023).
+100.   Langmead, B. & Salzberg, S. L. Fast gapped-read alignment with          Additional information
+       Bowtie 2. Nat. Methods 9, 357–359 (2012).                               Supplementary information The online version contains
+101.   Zhu, Q., Gao, S., Xiao, B., He, Z. & Hu, S. Plasmer: an accurate and    supplementary material available at
+       sensitive bacterial plasmid prediction tool based on machine            https://doi.org/10.1038/s41467-026-76403-9.
+       learning of shared k-mers and genomic features. Microbiol.
+       Spectr. 11, e04645–22 (2023).                                           Correspondence and requests for materials should be addressed to
+102.   Lahti, Leo, S. S. Tools for microbiome analysis in R. Microbiome        Víctor Hugo Jarquín-Díaz.
+       package version 1.26. Bioconductor. http://microbiome.github.
+       com/microbiome (2017).                                                  Peer review information Nature Communications thanks Barry McMa-
+103.   Jensen, E. E. B. et al. The resistomes of rural and urban pigs and      hon, who co-reviewed with Caoimhe Doyle, and the other anonymous
+       poultry in Ghana. mSystems 8, e00629–23 (2023).                         reviewer(s) for their contribution to the peer review of this work. A peer
+104.   Neuenfeldt, S. et al. THÜNEN AGRARATLAS (2022). Preprint at             review ﬁle is available.
+       Zenodo https://doi.org/10.5281/ZENODO.14197441 (2024).
+105.   Ovaskainen, O. et al. How to make more out of community data? A         Reprints and permissions information is available at
+       conceptual framework and its implementation as models and               http://www.nature.com/reprints
+       software. Ecol. Lett. 20, 561–576 (2017).
+106.   Tikhonov, G. et al. Joint species distribution modelling with the R     Publisher’s note Springer Nature remains neutral with regard to
+       -package H MSC. Methods Ecol. Evol. 11, 442–447 (2020).                 jurisdictional claims in published maps and institutional afﬁliations.
+107.   McMurdie, P. J. & Holmes, S. phyloseq: an R Package for repro-
+       ducible interactive analysis and graphics of microbiome census          Open Access This article is licensed under a Creative Commons
+       data. PLoS ONE 8, e61217 (2013).                                        Attribution 4.0 International License, which permits use, sharing,
+108.   Lund, D. et al. Community-promoted antibiotic resistance genes          adaptation, distribution and reproduction in any medium or format, as
+       show increased dissemination among pathogens. Preprint at               long as you give appropriate credit to the original author(s) and the
+       https://doi.org/10.1101/2025.05.12.653433 (2025).                       source, provide a link to the Creative Commons licence, and indicate if
+                                                                               changes were made. The images or other third party material in this
+Acknowledgements                                                               article are included in the article’s Creative Commons licence, unless
+We thank Moritz Wenzler-Meya for his support in preparing the spatial          indicated otherwise in a credit line to the material. If material is not
+layers. We thank the JPIAMR- EMBARK and SEARCHER consortia for the             included in the article’s Creative Commons licence and your intended
+feedback on the results that improved this manuscript.                         use is not permitted by statutory regulation or exceeds the permitted
+                                                                               use, you will need to obtain permission directly from the copyright
+Author contributions                                                           holder. To view a copy of this licence, visit http://creativecommons.org/
+M.G.: methodology, investigation, formal analysis, writing—review              licenses/by/4.0/.
+editing; A.P.: methodology, investigation, data curation, formal analysis,
+writing—review editing; E.H.: conceptualisation, funding, supervision,         © The Author(s) 2026
+resources, writing—review editing; S.K.F.S.: conceptualisation, funding,
+
+
+
+
+Nature Communications |               (2026) 17:7848                                                                                                    16
+

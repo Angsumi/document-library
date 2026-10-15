@@ -1,0 +1,588 @@
+1025975
+review-article2021
+                     HOL0010.1177/09596836211025975The HoloceneGlazko et al.
+
+
+
+
+                            Research Review
+
+                                                                                                                                                         The Holocene
+
+                            Domestication and microbiome
+                                                                                                                                                         ﻿1­–11
+                                                                                                                                                          © The Author(s) 2021
+                                                                                                                                                          Article reuse guidelines:
+                                                                                                                                                          sagepub.com/journals-permissions
+                                                                                                                                                          DOI:   10.1177/09596836211025975
+                                                                                                                                                          https://doi.org/10.1177/09596836211025975
+                                                                                                                                                          journals.sagepub.com/home/hol
+
+                            Valeriy I Glazko,1,2 Boris L Zybaylov,3 Yu G Kosovsky,2
+                            Galina V Glazko4 and Tatyana T Glazko1,2
+
+
+                            Abstract
+                            In this paper we discuss two universal characteristics of domesticated species that distinguish them from the wild closely related ancestors – increased
+                            socialization and phenotypic variability. Examining evidence accumulated in the literature up to date, we note that the gut microbiome is involved in the
+                            increased social behavior of domesticated species through the gut-immune system-brain axis. We further discuss data that point toward clear difference
+                            in the microbiome composition between domesticated species and closely related wild ancestors. This difference is related to changes in diet, due
+                            to co-habitation with humans, which leads to increase in Bifidobacteria and changes in carbohydrate metabolism. We note that these changes may also
+                            influence interaction between microbiome and virome. Virome is linked to the evolutionary changes through incorporation of retro-viruses into the host
+                            genome. Together with transposons these mobile genetic elements may also lead to changes in regulatory networks, and increase adaptive potential.
+                            Changes in microbiome of animals during co-habitation with humans should be considered as an important event during domestication process.
+
+
+                            Keywords
+                            domestication, domestication syndrome, host-microbiome interactions, microbiome, transposons, virome
+
+                            Received 19 March 2021; revised manuscript accepted 20 May 2021
+
+
+
+
+                                                     C “All disease begins in the gut.” –Hippocrates of Kos (Hip-   example between Bubalus and Yak, or all seven like in Canis
+                                                     pokráte s ho Kṓos: c. 460–c. 370)                              familiaris (Sanchez-Villagra and van Schaik, 2019; Zeder,
+                                                                                                                    2020). Though, the universal characteristic of domesticated spe-
+                                                                                                                    cies is a high level of phenotypic and population genetic vari-
+                                                                                                                    ability that is not explained by interspecies hybridization,
+                            In a long-term perspective, domestication is a formation of a com-                      sometimes observed in wild animals (Figure 2).
+                            mon niche between human and animals, resulting in many                                     Recently, comparative genomics of dogs, yaks, poultry, rice
+                            changes at systems levels for all participants (Zeder, 2020). Sup-                      and soybeans, and their wild closely related species demonstrated
+                            posedly, “Domestication syndrome,” a complex of phenotypic,                             that domesticated species have high frequency of deleterious
+                            genotypic, molecular, and behavior traits, is shared by all of the                      genetic variation (Makino et al., 2018). It was suggested that
+                            domesticated species. Discussions about similarities of domesti-                        accumulation of these variants started relatively recently and was
+                            cated species, their differences from closely related wild ances-                       caused by artificial selection approaches that were getting more
+                            tors, as well as whether human species can be considered                                and more sophisticated with time. It was also found that regula-
+                            domesticated, all started many centuries ago (Del Savio and                             tory sequences contribute significantly in genomic variability
+                            Mameli, 2020). Although domestication process started relatively                        (Kingsley et al., 2019).
+                            recently (Figure 1), it is an example of evolutionary process                              To summarize, current data suggest that the most universal
+                            (Wilkins, 2020; Zeder, 2018).                                                           domestication traits are behavioral changes (docility and tame-
+                                However, thus far even the traits defining domestication syn-                       ness) (Wilkins, 2020) and significant increase in phenotypic and
+                            drome remain controversial (Sanchez-Villagra and van Schaik,                            population genetic variability (Glazko et al., 2015). Then, the
+                            2019; Zeder, 2020). Different species are significantly different                       most important question in finding domestication mechanisms is
+                            in what concerns interaction with humans, involvement in artifi-
+                            cial selection, and benefits of their employment in a commonly
+                            created niche. The traits, defining domestication syndrome, also                        1
+                                                                                                                     F SBEI HPE Russian State Agrarian University – Moscow Timiryazev
+                            vary. Most frequently they include docility and tameness, coat                            Agricultural Academy, Russia
+                            color changes, reduction in tooth size, changes in craniofacial                         2
+                                                                                                                      FSBSI V.A. Afanasyev RI for Fur and Rabbit Farming, Russia
+                                                                                                                    3
+                            morphology, decrease in sensitivity of auditory, vision and                               Department of Biochemistry and Molecular Biology, University of
+                            olfactory abilities, reduction in total brain size, neoteny (accel-                       Arkansas for Medical Sciences, USA
+                                                                                                                    4
+                            erated sexual maturity), decrease in sexual dimorphism (femini-                           Department of Biomedical Informatics, University of Arkansas for
+                                                                                                                      Medical Sciences, USA
+                            zation), more frequent estrus cycles, and several others. From
+                            literature about domestication traits, one can see that in general                      Corresponding author:
+                            inter-species differences in manifesting domestication syn-                             Boris L Zybaylov, Department of Biochemistry and Molecular Biology,
+                            drome allow estimating its variability as purely quantitative                           University of Arkansas for Medical Sciences, 4301 W Markham, Little
+                            trait. Some species have one or two traits that are different                           Rock, AR 72205-7101, USA.
+                            between domesticated and closely related wild animals, like for                         Email: blzybaylov@uams.edu
+2                                                                                                                            The Holocene 00(0)
+
+
+
+
+Figure 1. Timelines of domestication for 11 animal species with relevant stratigraphy and climate chronologies. For each species, the time
+periods of significant pre-domestication human–animal interactions are also shown (McHugo et al., 2019). Domestication timeline data (Larson
+and Fuller, 2015; Larson et al., 2014; Vigne 2015).
+The figure was reproduced from McHugo et al. (2019) without any changes, compliant with the conditions of the Creative Commons 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/).
+
+
+how exactly the variability of these two intrinsically different uni-           Different environmental microbial species colonize newborn
+versal domestication traits is related.                                     intestinal tract after birth and form gut microbiome, a complex
+                                                                            system with more cells than there are somatic cells in human
+                                                                            organism and approximately 150 times more genes than there is
+Microbiome and behavioral traits                                            in human genome. Recent data suggest that gut microbiome influ-
+One of the mechanisms influencing behavioral traits could be                ence regulation and development of hypothalamic–pituitary–
+changes in animal’s microbiome, caused by a specific niche                  adrenal axis, controlling many behavioral reactions as well as
+formed by cohabitation with humans. Gut microbiome was                      digestive and immune systems. It is assumed that interactions
+recently called a “forgotten organ” (O’Hara and Shanahan, 2006)             between host and microbiome occur through different receptor
+and became a focus of new theory – microbial involvement in                 molecules in the intestinal tract (Douglas-Escobar et al., 2013).
+evolutionary processes (Kolodny et al., 2020). All species have             The microbiome-gut-brain axe and its variability influence cogni-
+species-specific gut microbiome, influencing their adaptation and           tion and behavior (Petra et al., 2015; Rieder et al., 2017).
+diversification, helping with challenges of food availability, phe-             Accumulated evidence suggests that brain development and
+notypic plasticity, innate, and adaptive immunity. Generally, gut           physiology are influenced by gut microbiome. Gut microbiome
+microbiome is an important environmental factor and selective               can send signals to brain through many different ways, including
+force, forming adaptive evolution of animal’s diet, phenotypic              microbial peptides and metabolites, immune activity, activation
+plasticity, gut morphology, and immunity (Kolodny et al., 2020).            of nervus vagus, and neuromodulators production. As a whole
+   The theory, studying the role of interactions between macro              this two-ways system is known as microbiome-gut-brain axe.
+and microorganisms during evolution is now called the “hologe-              Germ-free mice treated with antibiotics had shown changes in
+nome theory of evolution.” The union of all the genes in the holo-          many central physiological processes, such as neuromodulators
+biont, that is all the genes in the microbiome plus the genes of the        turnover, neuroinflammation, neurogenesis, and neurons’ mor-
+host, constitutes the hologenome (Zilber-Rosenberg and Rosen-               phology. Probably this is why germ-free mice behavior is radi-
+berg, 2008). The hologenome theory considers interactions in                cally different from social behavior of conventional mice.
+hologenome as a main focus of genomic changes under environ-                Interestingly, supplementing germ-free mice with probiotic bacte-
+mental pressure (Zilber-Rosenberg and Rosenberg, 2008).                     rial species (e.g. Bifidobacterium and Lactobacillus) improves
+Glazko et al.                                                                                                                           3
+
+                                                                           It is generally believed that central nervous system (CNS) is
+                                                                       an important regulator of intestinal health and CNS dysfunction
+                                                                       may lead to quick intestinal health deterioration. Patients with
+                                                                       neuroimmunological and neuroinflammatory intestinal health
+                                                                       symptoms are not well monitored, but intestinal health is vital for
+                                                                       their life quality. Contemporary treatment strategies frequently
+                                                                       applied by gastroenterologist and neurologist separately raise a
+                                                                       question if the treatments are as beneficial as they could be if
+                                                                       applied by two specialists in concordance, consulting with each
+                                                                       other. Neuro-immune gastroenterology is an area of research in
+                                                                       between several medical sub-specialties. Despite the accumulated
+                                                                       data about neurological disorders that are influenced by immune
+                                                                       system, and their involvement into intestinal health, neuro-
+                                                                       immune gastroenterology still does not influence neurological
+                                                                       treatment plans (Figure 3).
+
+
+                                                                       Microbiome and virome
+                                                                       Right now many studies are focused on showing how microbiome
+                                                                       may protect host from viral infections, in particularly COVID-19
+                                                                       (Figures 4 and 5) (Antunes et al., 2020), and how it can ameliorate
+                                                                       pathogen-induced gut dysbiosis (Trottein and Sokol, 2020).
+                                                                           Some bacterial products influence host immune response dur-
+                                                                       ing respiratory viral infections. They can also regulate systemic
+                                                                       inflammation and endothelial damage, two biggest concerns with
+                                                                       COVID-19 infection (Figure 6) (Infusino et al., 2020).
+                                                                           Right now accumulated data suggest that bacterial therapy
+                                                                       can, potentially, be used in SARS-CoV-2 treatment. A group of
+                                                                       patients infected with SARS-CoV-2, matched by age, sex,
+                                                                       background pathology, lab results, and oxygenation were sepa-
+                                                                       rated into two groups, one getting bacterial therapy and another
+                                                                       one “control” group. During the next 72 h in the group receiv-
+                                                                       ing bacterial therapy remission of diarrhea and other symptoms
+                                                                       was observed, as compared with the less than a half of the other
+                                                                       group. Expected risk of developing severe respiratory symp-
+                                                                       toms was less than eight times in patients receiving per-oral
+                                                                       bacterial therapy. The severity of the disease as well as the
+                                                                       death rate of patients in the intensive care unit, were higher in
+                                                                       patients not receiving per-oral bacterial therapy. The authors
+                                                                       conclude that the specific bacterial composition they were
+                                                                       using for therapy was providing an improvement in clinical
+                                                                       characteristics of patients, infected with COVID-19. The results
+Figure 2. Evolution and phenotypic diversity of domestic               also point toward an importance of gut-lungs axis in COVID-19
+animals. The wild progenitor species are shown on the left and         (d’Ettorre et al., 2020).
+the domesticated animals are shown on the right. Except for the            It is already well known that the susceptibility to infections
+aurochs, all wild progenitor species are extant.                       and disease outcomes in humans and farm animals are influenced
+The figure was reproduced from McHugo et al. (2019) without any
+changes, compliant with the conditions of the Creative Commons 4.0
+                                                                       by microbiome (Zeder, 2018). In some studies it was shown that
+International License (http://creativecommons.org/licenses/by/4.0/).   microbiome directly influence the host susceptibility to patho-
+                                                                       gens. Recently, bacterial communities were obtained from feces
+                                                                       of domestic pigs (Sus scrofa) rose under different conditions:
+social behavior. These results underscore the importance of            specific-pathogen-free (SPF) pigs and domestic pigs from the
+microbiome signaling for central nervous system development            same bred, and indigenous domestic pigs from a backyard farm
+and social behavior programming (Cryan et al., 2019). The stud-        in Kenya. Also, the fecal microbiota composition of the African
+ies of host-microbiome interactions are ongoing, however the           swine fever (ASF) resistant warthogs (Phacochoerus africanus)
+question why and when the gut-brain interactions, defining social      from Africa and a European zoo was obtained. African swine
+behavior, appeared during the evolutionary process, still remains      fever (ASF) is a devastating disease for domestic pigs. African
+unanswered (Sherwin et al., 2019). The multitude of research cur-      animals showed the highest microbial diversity while the SPF
+rently exploring the microbiome-gut-brain axe in various dis-          pigs the lowest. Analysis of the core microbiota from warthogs
+eases, including desocialization, allows expecting the development     (resistant to ASF) and pigs (susceptible to ASF) showed 45
+of new treatment methods employing bacteria (Cryan et al.,             shared OTUs, while 6 OTUs were exclusively present in resistant
+2019). Accumulated data suggest that people with more diverse          animals. These six OTUs were members of the Moraxellaceae
+social contacts, as a rule, have more diverse microbiome than          family, Pseudomonadales order and Paludibacter, Anaero-
+people with less social contacts. Probably social interactions have    plasma, Petrimonas, and Moraxella genera (Correa-Fiz et al.,
+some impact on forming gut microbiome. In contrast, anxiety and        2019).
+stress lead to decrease in microbiome diversity and changes in its         Among various host pathogenic infections, the most serious
+bacterial content (Johnson, 2020).                                     problem in health care world-wide present viral infections.
+4                                                                                                                             The Holocene 00(0)
+
+
+
+
+Figure 3. Mechanisms of neuroimmune-gastrointestinal crosstalk. (a) Short-chain fatty acids (SCFAs) such as acetate, butyrate, and
+propionate are metabolites generated by commensal gut bacteria that affect intestinal permeability, immunity, and CNS physiology.
+Neurotransmitters and neuropeptides can influence the function of (b) innate and (c) adaptive immune cells.
+The figure was reproduced from Sanchez et al. (2020) without any changes, compliant with the conditions of the Creative Commons 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Figure 4. Dysbiosis process, a perturbation of the microbial community, it may decrease the microbiota diversity, shift its composition and,
+consequently, facilitate the invasion and viral replication. It might create an inflammatory environment explored by SARS-CoV-2. Pathogens
+microbes and virus contribute toward an intestinal and lung barrier dysfunction, with liberations of pro-inflammatory cytokines, promoting a
+“cytokine storm.” Unhealthy diet might reduce the phagocytic activity and modulation of the production of immunoglobulins/antibodies that
+mediate host defense, lowering the elimination intracellular pathogens and the immune response.
+The figure was reproduced from Antunes et al. (2020) without any changes, compliant with the conditions of the Creative Commons 4.0 Inter-
+national License (http://creativecommons.org/licenses/by/4.0/).
+ACE2: angiotensin-converting enzyme 2; L-cell: enteroendocrine L-cell; M cell: microfold cell; SARS-CoV-2: severe acute respiratory syndrome.
+Glazko et al.                                                                                                                                       5
+
+
+
+
+Figure 5. Main mechanisms of action of fermented foods, probiotics, and prebiotics. Prebiotics are selectively utilized by the commensal
+microbiota, releasing metabolites like short chain fatty acids (SCFA), promoting leukocyte recruitment to the site of infection, as well as their
+activation. The SARS-CoV-2 binds to the ACE2. Fermented foods and probiotics strains may also increase the phagocytic activity and modulate the
+production of immunoglobulins/antibodies mediate host defense by eliminating intracellular pathogens, improving the immune response, intestinal
+microbiota has a marked influence on metabolic pathways within alveolar macrophages, which correlates with an altered cellular responsiveness,
+promoting the microbiota modulation has a marked influence on metabolic pathways within alveolar macrophages, nutritional interventions
+of omega-3 polyunsaturated fatty acids, selenium, zinc, iron, vitamins A, B2, B3, B6, C, D, and E to combat viral infections. ACE2, angiotensin-
+converting enzyme 2; L-cell, enteroendocrine L-cell; M cell, microfold cell; SARS-CoV-2, severe acute respiratory syndrome.
+The figure was reproduced from Antunes et al. (2020) without any changes, compliant with the conditions of the Creative Commons 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Commensal microbiota interacts closely with viruses during                  properties, such as antimicrobial activity, specificity, and transmis-
+infection process. Accumulated data suggest that commensal                  sibility make them important therapeutic agents (Garvey, 2020).
+microbiota regulates, and in turn is regulated by viruses through
+different mechanisms, playing either stimulating or suppressing
+role in viral infections (Figures 7 and 8). In addition, the integrity      Microbiome and farm animals
+of commensal microbiota is changing with viral intervention                 It was already mentioned that microbiome can play a key role in
+resulting in host’ dysbiosis and influencing host’ viral resistance         formation of gut-brain axe. There are five observations, supporting
+(Li et al., 2019).                                                          this hypothesis: in the absence of microbiome there is severe brain
+    It should be noted that host-microbiome-virom interactions are          damage; feeding with specific bacteria lead to behavioral changes
+complex and include many steps, in particular host’s microbial              in animals; population research of people infected with specific
+resistance and microbiome’s viral resistance. The last decades had          pathogens demonstrate symptomatic changes in brain-gut diseases;
+shown that “repressive” medicine, namely the one preferably using           in different age groups antibiotic treatment influenced brain, spinal
+antibiotics, was not very effective in veterinary, because repetitive       cord, and gut-brain connection; some infectious diseases can be
+use of antibiotics is quickly causing emerging microbial resistance.        treated with microbiome (Cryan et al., 2019). These observations
+Microbial antibiotic resistance required the development of new             led to the idea of existence microbiome gut-brain axe.
+tools protecting humans and farm animals against infectious dis-                One of the most important research directions in studying
+eases. In 2017 EU accepted “united health” approach to prevent              microbiome-gut-brain axe is research and analysis of the accumu-
+antibiotic microbial resistance in human and animals, as well as            lated data that gut microbiome influence nervous system develop-
+transmission of zoonotic diseases. Bacteriophages (viruses that             ment and social behavior in different animals. This tight
+infect bacteria) demonstrate antimicrobial activity toward a wide           interconnection between host and microbiome hints that the inter-
+spectrum of effective and specific pathogens. Bacteriophages are            actions between host and microbiome were influencing the evolu-
+crucial for microbial evolution and are important parts of many             tion of social behavior. Indeed, some species use gut microbiome
+ecosystems, including human microbiome. Their specific                      to facilitate social interactions (Sherwin et al., 2019).
+6                                                                                                                              The Holocene 00(0)
+
+
+
+
+Figure 6. Hypothesis on the mechanism of endothelial involvement (a) and intestinal involvement (b) and in coronavirus disease.
+The figure was reproduced from Infusino et al. (2020) without any changes, compliant with the conditions of the Creative Commons 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/).
+
+
+   The wide spectrum of social behavior, including aggression,               about the differences between gut microbiome in domesticated
+depression, and anxiety is defined by interactions between many              and closely related wild animals’ is intriguing and of high prior-
+physiological systems, including neuroendocrine and immune                   ity (Alessandri et al., 2019).
+systems. Gut microbiome plays an important role in social mod-                   All multicellular organisms benefit from their microbiomes that
+ulation and probably serves as an important integrator of other              play a central role in host gut health and immunity. Recently there
+physiological systems. Microbes constituting gut microbiome                  was an exponential growth in researches concerning microbiomes
+can interact with brain axe using neural and humoral pathways.               of economically important animals, fishes, and plants, because it is
+There is a highly complex intricate relationship between brain,              assumed that productivity and resistance of farm species can be
+microbiome and immune system, and their ability to influence                 improved by manipulating of microbiome. However, microbiome
+behavior (Sylvia and Demas, 2018). In this context the question              optimization remains a challenging task because there is not enough
+Glazko et al.                                                                                                                                        7
+
+
+                                                                               knowledge about dominant host’ microorganisms or substantial dif-
+                                                                               ferences in hosts microbiomes. In order to gain more knowledge
+                                                                               about what could be an “optimized microbiome” the data about
+                                                                               microbiomes in farm animals, fishes, and plants were summarized
+                                                                               (Figure 9). The data emphases bacterial communities structure,
+                                                                               their metabolic functions, as well as how microbiome can be influ-
+                                                                               enced by domestication, and traditional agricultural practices using
+                                                                               antibiotics (Ikeda-Ohtsubo et al., 2018).
+                                                                                   High prevalence of Proteobacteria in animals, fishes, and
+                                                                               plants (Figure 9) reflects the benefits facultative anaerobes have
+                                                                               in host’ milieu, where strict anaerobes risk having toxic oxygen
+                                                                               and strict aerobes risk fighting with the other bacteria for oxygen
+                                                                               as an electron acceptor. The oxygen-anoxic background is a typi-
+                                                                               cal environment in host milieu and is a major factor in determin-
+                                                                               ing host microbiome. Facultative anaerobes have highly flexible
+                                                                               metabolism: they can produce energy by fermentation, use inor-
+                                                                               ganic nitrogen compounds, for example nitrate as an alternative
+                                                                               electron acceptor toward oxygen. Given oxygen they grow fast
+                                                                               using oxygen, providing and destroying various organic com-
+                                                                               pounds that change significantly the background of their environ-
+                                                                               ment. The exceptional adaptability of Proteobacteria to constantly
+                                                                               changing environment assume high underlying phenotypic and
+                                                                               genotypic plasticity and allows Proteobacteria to be generalists in
+Figure 7. Mechanisms underlying the suppression of influenza                   host associations, mostly presented by target symbionts and
+virus infection by the commensal microbiota. During the influenza              pathogens (Ikeda-Ohtsubo et al., 2018).
+virus infection, organisms of the commensal microbiota, as well
+                                                                                   Microbiome investigations of farm animals show how domesti-
+as their components (i.e. various TLR ligands) or metabolites (i.e.
+desaminotyrosine) activate the inflammasome, resulting in IL-1β and            cation process was influencing microbiome content of agricultural
+IL-18 production. The production of these two cytokines induces                species. Comparative analysis of gut microbiomes in pigs and wild
+the migration of dendritic cells from the lung to the draining lymph           boars has shown that Lactobacillus spp., dominating pigs gut
+nodes, where they act as antigen-presenting cells to prime virus-              microbiome, were absent in wild boars. Interestingly, dominating
+specific B cells, CD4+ T cells, CD8+ T cells, and macrophages. In              species in microbiome’s of recently domesticated wild boars were
+addition, dendritic cells also secrete type I and type II interferons          Enterobacteriaceae, suggesting that gut microbiome of domesti-
+to stimulate the activation of T cells or macrophages. As a result,            cated pigs reflects agricultural management. It is well known that
+these effector cells secrete virus-specific antibodies or inflammatory         the abundance of Enterobacteriaceae correlates with diarrhea after
+cytokines or exert direct virus-killing effects to suppress the
+                                                                               weaning, therefore the pigs’ ration can significantly influence their
+infection process of the influenza virus.
+The figure was reproduced from Li et al. (2019) without any changes,           health through variations in gut microbiome. It was also shown that
+compliant with the conditions of the Creative Commons 4.0 Interna-             cattle inoculated with the content of bison’s tripe had increases abil-
+tional License (http://creativecommons.org/licenses/by/4.0/).                  ity to digest proteins and higher content of nitrogen, but not
+
+
+
+
+Figure 8. Mechanisms underlying the suppression of vaccinia virus infection by the commensal microbiota. During the vaccinia virus infection,
+the commensal microbiota primes virus-specific CD8+ T cells to secrete large amounts of IFN-γ, which critically mediates the corresponding
+antiviral immunity. In addition, during vaccinia virus infections, the activation of TLR2 by bacterial products is essential for recruiting mast cells
+to sites of viral infection. These mast cells also contribute to suppressing the viral infection by secreting an antiviral cathelicidin.
+The figure was reproduced from Li et al. (2019) without any changes, compliant with the conditions of the Creative Commons 4.0 International License
+(http://creativecommons.org/licenses/by/4.0/).
+8                                                                                                                          The Holocene 00(0)
+
+                                                                           additional Bifidobacteria taxa, because Bifidobacteria and
+                                                                           human share the same niche. Also, the influence of artificial
+                                                                           selection on gut microbial communities was recently studied.
+                                                                           Feces samples were taken from wolf and seven breeds of dogs
+                                                                           living in the same resort. The data suggest that bifidobacterial
+                                                                           profiles are in agreement with phylogenetic relationships
+                                                                           between species as well as between breeds. Thus, domestication
+                                                                           and artificial selection of wild wolf gradually formed microbi-
+                                                                           ome of mammal Canis lupus. In the process of domestication gut
+                                                                           microbiome composition was presumable influenced by contacts
+                                                                           with humans (Milani et al., 2017).
+
+
+
+                                                                           Virome and regulatory networks
+Figure 9. Microbiota in agriculture. The figure provides an
+                                                                           in domestication process
+overview of the bacterial composition of the microbiota of                 Recent viral metagenomics studies have shown that there is a
+different parts of livestock animals, gill and intestines of fish, and     wide variety of eukaryotic viruses and phages in feces of domes-
+phyllosphere and rhizosphere of plants at the phylum-level (pie-           ticated animals. For example, in healthy commercial minks from
+charts) and lower taxonomic levels. The data sources are 16S               40 farms of South Ontario plenty of phage sequences were found,
+rRNA or metagenomic analyses.                                              mostly from the families Siphoviridae (53%), Podoviridae (22%),
+The figure was reproduced from Ikeda-Ohtsubo et al. (2018) without
+                                                                           Myoviridae (20%), Inoviridae (1%), Leviviridae (0,04%), Tecti-
+any changes, compliant with the conditions of the Creative Commons
+4.0 International License (http://creativecommons.org/licenses/by/4.0/).   viridae (0,01%), and Microviridae (0.01%). A large spectrum of
+                                                                           Vertebrate viruses was also found, where the most abundant were
+                                                                           Posavirus 3, Mink Bocavirus, gyroviruses, and some bird viruses.
+cellulose digestion. Presumably the microbiomes of contemporary            In addition, Invertebrate viruses, associated with amoebas and
+domesticated species ancestors were better able to extract nitrogen        seaweeds. Those results demonstrate that viral populations in
+from roughage (Ikeda-Ohtsubo et al., 2018).                                healthy mink feces are diverse, abundant, and could be related
+    Comparative analyses of zebrafish microbiomes in laboratory            with animals diet (Xie et al., 2019).
+animals and free living zebrafishes produced controversial results.            The accumulated evidence suggests that symbiotic relationships
+Several studies did not find any differences, while some others            between host and microbiome form the axe: gut microbiome –
+did show the significant decrease in microbial diversity for labo-         immune system – brain, significantly influencing animals’ behavior
+ratory populations (Ikeda-Ohtsubo et al., 2018).                           and the ability to socialize. This axe naturally contains a “sub-axe”
+    Plant microbiome is also significantly influenced by domesti-          – virome – microbiome – immune system. Whole genome sequenc-
+cation and selection process. Artificial selection toward increased        ing methods convincingly demonstrated that virome – microbiome
+productivity of economically important plants and the use of fer-          – immune system sub-axe is actually virome – microbiome –
+tilizers and pesticides result in selection of specific plants traits      immune system – genome sub-axe. Approximately half of all mam-
+based on the maximal use of roots microbiomes. Various                     malian genomes is represented by viral and pro-virile sequences
+researches found very specific components of plants microbiomes            and their recombinant products, that form mobilome, – a mixture of
+of domesticated and closely related wild plants, for example rhi-          mobile genetic elements or transposons.
+zospheric microbiome component root beets and endophytic                       It is generally believed that in mammalian genomes the activa-
+component in grape vine. Interestingly, plant hosts react to micro-        tion of transposable elements (TE) lead to genomic instability,
+biome changes by changing their physiology and in this way                 promote aging, and inflammation. Unlike mammalian cells, pro-
+manipulate their microbiomes better than animals (Ikeda-Ohtsubo            karyotes are constantly exchanging their genetic materials using
+et al., 2018).                                                             TE, crossing interspecies barriers and facilitating fast microbial
+    Domestication is the process when humans change life and               evolution, and microbial diversity in complex environments, such
+behavior of wild animals in the way that fits better human needs.          as mammalian gut microbiome. In microbiome, TE can escape
+To understand how domestication influences gut microbiome of               prokaryotic cells or pathogens and cross the barrier between pro-
+animals and identify specific bacterial populations, 16S rRNA              karyotic and eukaryotic cells. Supposedly this horizontal TE
+sequencing and analysis were implemented on 146 fecal samples              transfer from symbiotic microbes to eukaryotic host cells is a ran-
+of domesticated and closely related wild animals pairs. It was             dom process however constantly catalyzing genomic instability.
+shown that domestication led to more effective food into body              The instability in turn results in structural and epigenetic varia-
+mass transformation and presumably horizontal transfer of spe-             tions of host genome as well as in activation of host defense
+cific bacteria from human to domesticated animals, as compared             mechanism that can promote biological aging and inflammation.
+to their closely related wild ancestors. Also it was found that fecal      Some accumulated evidence suggest that some steps in the host
+microbiome communities were adapting to specific food, that was            innate immunity can protect host from TE horizontal gene trans-
+shown as an increased abundance of glycoside hydrolases, prob-             fer (Figure 10, and also see Table 1 in reference 36 Greenwood
+ably because of higher consumption of complex plants carbohy-              et al., 2018) (Chalmers and Wu, 2020; Greenwood et al., 2018).
+drates (Alessandri et al., 2019; Larson et al., 2014).                         There is accumulated evidence that endogenous retroviral genes
+    Especially interesting are Bifidobacteria’s distribution and           that are not expressed under normal circumstances, in some cases
+abundance. Comparative microbiome analysis for the presence                get expressed and translated. These cases become the basis for
+of Bifidobacteria was done for hares, wolfs, boars, and their              behavioral changes and their pathology (Johansson et al., 2020).
+closely related domesticated species, namely rabbits, dogs, and                TE ability to move around genome provides them with opportu-
+pigs, respectively. Bifidobacteria diversity was higher in all             nities to participate in large scale genomic rearrangements, with
+domesticated species as compared to their closely related wild             some of them being beneficial for the host, leading to TE long term
+animals. It confirms that frequent interactions with human and             preservation in the host genome. Frequently, TEs bear transcription
+domesticated lifestyle in those mammals lead to acquisition of             factor (TF) binding sites and acquire the new ones during their
+Glazko et al.                                                                                                                                         9
+
+
+
+
+Figure 10. (a) An integrated double-stranded DNA provirus (yellow) of a simple orthoretrovirus within the host genome (gray) is shown.
+The long terminal repeats (LTRs) are at both the 5′ and 3′ ends of the provirus and flank the retroviral gag, pol, and env coding regions. Regions
+coding for enzymes and other proteins are shown with font colors corresponding to their depiction in panel B. (b) Schematic drawing of a simple
+orthoretrovirus. All orthoretroviruses have three component parts: (i) the RNA genome, shown in yellow; (ii) internal proteins, shown in red,
+including internal structural proteins (Gag) as well as the viral enzymes, including the reverse transcriptase (Pol), which makes a DNA copy of the
+RNA genome which will be integrated into the host cell genome; and (iii) the envelope proteins, shown in blue. Env consists of two components:
+the TM moiety is embedded in the membrane (depicted in gray and white) of a host cell and is incorporated into the virion during the budding
+process, and the surface glycoprotein SU forms the knobs and is the part of the virus that binds to receptors on susceptible cells of the host.
+The figure was reproduced from Sanchez-Villagra and van Schaik (2019) without any changes, compliant with the conditions of the Creative Commons
+4.0 International License (http://creativecommons.org/licenses/by/4.0/).
+
+
+transposition, providing random TFs insertions for the entire host           protein-coding genes carry fragments of L2-derived sequences in
+genome. In this way TEs stimulate the evolution and diversification          their 3′ UTR serving as target sites for L2-miRNAs. As a rule,
+of gene regulatory networks and supply targets to regulate genes             L2-miRNAs and their targets are ubiquitously expressed at low lev-
+transcription. This phenomenon can explain fast and frequent evo-            els in multiple human tissues, suggesting a role for this network in
+lution of new phenotypic features – for example convergent evolu-            buffering transcriptional levels of housekeeping genes (Petri et al.,
+tion of embryo nourishing tissues, the placenta in mammals, and              2019).
+the endosperm in flowering plants (Qiu and Kohler, 2020).                        It was also found that domestication process change miRNAs
+    The analysis of TE genomic distribution demonstrates that                regulatory network. The comparison of miRNAs regulatory net-
+mammalian genomes bear hundred thousand endogenic retrovi-                   work between the now-extinct wild aurochs (Bos primigenius)
+ruses acquired via ancient retroviral infections. It was shown that          and contemporary cattle (Bos Taurus) did show the changes in
+there is an intercontinental distribution of the retroviruses, the           key network players (Braud et al., 2017). In contemporary cattle
+interspecies transmissions in at least 11 mammalian species and              non-coding miRNAs became key regulators of spatiotemporal
+that recombination plays an important role in viral diversifica-             expression of gene targets that control mammalian growth and
+tion (Diehl et al., 2016). Now it is already well known that TE are          development. It is possible that in the domestication process
+involved in epigenetic diversity, including changes in methyla-              selection of mutational changes in miRNAs and/or miRNA bind-
+tion patterns, histones’ modifications, birth of new microRNAs,              ing sites could have provided a mechanism to generate some of
+and transgenerational epigenetic inheritance (Hosaka and Kaku-               the traits that differentiate domesticated cattle from wild ances-
+tani, 2018; Lanciano and Mirouze, 2018). It could be expected                tors. The analysis of open reading frame sequences of 19,994
+that the appearance of new niches formed by human and domes-                 orthologous protein-coding gene pairs from extant Bos taurus
+ticated species promote TE activation and generation of new                  genomes and extinct B. primigenius genome identified miRNA
+gene regulatory networks (Cho, 2018; Colino-Rabanal et al.,                  binding site polymorphisms in the 3′ UTRs of 1620 of these
+2018; Sherwin et al., 2019).                                                 orthologous genes (Braud et al., 2017). These 1620 genes with
+    For example, in human brain tissue numerous TE-derived                   altered miRNA binding sites represent candidate domestication
+microRNAs (miRNAs) were found and many of those miRNAs                       genes and were mostly involved in pigmentation, fertility, neuro-
+were formed on the basis of LINE-2 (L2) retrotransposon, entering            biology, metabolism, immunity, and production traits (including
+the human genome around 100–300 million years ago. L2-miRNAs                 milk quality and feed efficiency). These results suggest that direc-
+formed on the basis of the 3′ end of the L2 consensus sequence               tional selection of miRNA regulatory variants was important in
+shared very similar sequences, indicating that L2-miRNAs could               the domestication and subsequent artificial selection that gave
+target transcripts with L2s in their 3′ UTR. Accordingly, many               rise to modern cattle (Braud et al., 2017).
+10                                                                                                                       The Holocene 00(0)
+
+
+Conclusion                                                              Cho J (2018) Transposon-derived non-coding RNAs and their
+                                                                            function in plants. Frontiers in Plant Science 9: 600.
+Comparative analysis of domesticated species and the closely
+                                                                        Colino-Rabanal VJ, Rodriguez-Diaz R, Blanco-Villegas MJ et al.
+related wild animals led many researchers to agree upon an exis-
+                                                                            (2018) Human and ecological determinants of the spatial
+tence of “domestication syndrome” phenomenon. Generally, it is
+                                                                            structure of local breed diversity. Scientific Reports 8(1): 6452.
+a group of systemic features that differentiate one species from
+                                                                        Correa-Fiz F, Blanco-Fuertes M, Navas MJ et al. (2019) Compar-
+others and are supposedly mostly related with suppressed neural
+                                                                            ative analysis of the fecal microbiota from different species of
+crest development at the early stages of embryogenesis. As a rule
+                                                                            domesticated and wild suids. Scientific Reports 9(1): 13616.
+all the studies of “domestication syndrome” were done with spe-
+                                                                        Cryan JF, O’Riordan KJ, Cowan CSM et al. (2019) The micro-
+cies pairs and limited sample sizes, consequently leading to
+                                                                            biota-gut-brain axis. Physiological Reviews 99(4): 1877–
+unavoidable biases. Namely, in most cases with rare exceptions,
+                                                                            2013.
+for animal pairs under study, many different phenotypic charac-
+                                                                        Del Savio L and Mameli M (2020) Human domestication and the
+teristics were found to be associated with domestication syn-
+                                                                            roles of human agency in human evolution. History and Phi-
+drome. However, overall, we can dissect several repeated
+                                                                            losophy of the Life Sciences 42(2): 21.
+universal common properties that differentiate domesticated spe-
+                                                                        d’Ettorre G, Ceccarelli G, Marazzato M et al. (2020) Challenges
+cies from closely related wild animals. The most common fea-
+                                                                            in the management of SARS-CoV2 infection: The role of oral
+tures are elevated social activity and high phenotypic plasticity.
+                                                                            bacteriotherapy as complementary therapeutic strategy to
+    The most fascinating direction of contemporary domestication
+                                                                            avoid the progression of COVID-19. Frontiers in Medicine
+studies points toward strong connection between socializing behav-
+                                                                            7: 389.
+ior in mammalian species and brain-microbiome axe. Impressive
+                                                                        Diehl WE, Patel N, Halm K et al. (2016) Tracking interspecies
+microbiome differences were found between domesticated and
+                                                                            transmission and long-term evolution of an ancient retrovirus
+closely related wild animals, in particular microbiome content in
+                                                                            using the genomes of modern mammals. eLife 5: e12704.
+domesticated species is shifted toward higher abundance and diver-
+                                                                        Douglas-Escobar M, Elliott E and Neu J (2013) Effect of intesti-
+sity of Bifidobacterial species, helping with cellulose digestion and
+                                                                            nal microbial ecology on the developing brain. JAMA Pediat-
+carbohydrate metabolism (Axelsson et al., 2013). These changes in
+                                                                            rics 167(4): 374–379.
+microbiome content are apparently related with formation of com-
+                                                                        Garvey M (2020) Bacteriophages and the one health approach
+mon niche between domesticated animal and human and changes
+                                                                            to combat multidrug resistance: Is this the way? Antibiotics
+in the domesticated animal diet. The accumulated data suggest the
+                                                                            9(7): 414.
+interconnectedness of microbiome and virome, so the changes in
+                                                                        Glazko V, Zybailov B and Glazko T (2015) Asking the right ques-
+one “ome” lead with necessity to changes in another. The remnants
+                                                                            tion about the genetic basis of domestication: What is the
+of viromes accumulated in genomes of mammalian species lead to
+                                                                            source of genetic diversity of domesticated species? Advance-
+significant changes in genomic structure. In particular, TE fre-
+                                                                            ments in Genetic Engineering 4(2): 2169.
+quently modify gene regulatory networks by creating new miRNAs
+                                                                        Greenwood AD, Ishida Y, O’Brien SP et al. (2018) Transmission,
+and their targets. Thus, the leading factor of universal features for
+                                                                            evolution, and endogenization: Lessons learned from recent
+domestication syndrome in different species could be changes in
+                                                                            retroviral invasions. Microbiology and Molecular Biology
+microbiome and, as a consequence, changes in regulatory networks
+                                                                            Reviews 82(1): e00044–17.
+of multicellular organism.
+                                                                        Hosaka A and Kakutani T (2018) Transposable elements, genome
+Funding                                                                     evolution and transgenerational epigenetic variation. Current
+                                                                            Opinion in Genetics & Development 49: 43–48.
+The author(s) disclosed receipt of the following financial support      Ikeda-Ohtsubo W, Brugman S, Warden CH et al. (2018) How can
+for the research, authorship, and/or publication of this article: The       we define “optimal microbiota?”: A comparative review of
+publication of this article was supported by P20GM121293/NIH                structure and functions of microbiota of animals, fish, and
+Center of Biomedical Research Excellence.                                   plants in agriculture. Frontiers in Nutrition 5: 90.
+                                                                        Infusino F, Marazzato M, Mancone M et al. (2020) Diet supple-
+ORCID iD
+                                                                            mentation, probiotics, and nutraceuticals in SARS-CoV-2
+Boris L Zybaylov       https://orcid.org/0000-0003-2432-9145                infection: A scoping review. Nutrients 12(6): 1718.
+                                                                        Johansson EM, Bouchet D, Tamouza R et al. (2020) Human
+References                                                                  endogenous retroviral protein triggers deficit in glutamate
+Alessandri G, Milani C, Mancabelli L et al. (2019) The impact of            synapse maturation and behaviors associated with psychosis.
+   human-facilitated selection on the gut microbiota of domesti-            Science Advances 6(29): eabc0708.
+   cated mammals. FEMS Microbiology Ecology 95(9): fiz121.              Johnson KV-A (2020) Gut microbiome composition and diversity
+Antunes AEC, Vinderola G, Xavier-Santos D et al. (2020) Poten-              are related to human personality traits. Human Microbiome
+   tial contribution of beneficial microbes to face the COVID-19            Journal 15: 100069.
+   pandemic. Food Research International 136: 109577.                   Kingsley NB, Kern C, Creppe C et al. (2019) Functionally anno-
+Axelsson E, Ratnakumar A, Arendt ML et al. (2013) The genomic               tating regulatory elements in the equine genome using histone
+   signature of dog domestication reveals adaptation to a starch-           mark ChIP-Seq. Genes 11(1): 3.
+   rich diet. Nature 495(7441): 360–364.                                Kolodny O, Callahan BJ and Douglas AE (2020) The role of
+Braud M, Magee DA, Park SD et al. (2017) Genome-wide                        the microbiome in host evolution. Philosophical Transac-
+   microRNA binding site variation between extinct wild                     tions of the Royal Society B: Biological Sciences 375(1808):
+   aurochs and modern cattle identifies candidate microRNA-                 20190588.
+   regulated domestication genes. Frontiers in Genetics 8: 3.           Lanciano S and Mirouze M (2018) Transposable elements: All
+Chalmers TJ and Wu LE (2020) Transposable elements cross                    mobile, all different, some stress responsive, some adap-
+   kingdom boundaries and contribute to inflammation and age-               tive? Current Opinion in Genetics & Development 49:
+   ing: Somatic acquisition of foreign transposable elements as             106–114.
+   a catalyst of genome instability, epigenetic dysregulation,          Larson G and Fuller DQ (2015) The evolution of animal domesti-
+   inflammation, senescence, and ageing. BioEssays 42(3):                   cation. Annual Review of Ecology, Evolution, and Systematics
+   e1900197.                                                                45: 115–136.
+Glazko et al.                                                                                                                      11
+
+
+Larson G, Piperno DR, Allaby RG et al. (2014) Current perspec-       Sanchez JMS, McNally JS, Cortez MM et al. (2020) Neuroim-
+    tives and the future of domestication studies. Proceedings           munogastroenterology: At the interface of neuroimmunology
+    of the National Academy of Sciences of the United States of          and gastroenterology. Frontiers in Neurology 11: 787.
+    America 111(17): 6139–6146.                                      Sanchez-Villagra MR and van Schaik CP (2019) Evaluating the
+Li N, Ma WT, Pang M et al. (2019) The commensal microbiota               self-domestication hypothesis of human evolution. Evolution-
+    and viral infection: A comprehensive review. Frontiers in            ary Anthropology 28(3): 133–143.
+    Immunology 10: 1551.                                             Sherwin E, Bordenstein SR, Quinn JL et al. (2019) Microbiota
+McHugo GP, Dover MJ and MacHugh DE (2019) Unlocking the                  and the social brain. Science 366(6465): eaar2016.
+    origins and biology of domestic animals using ancient DNA        Sylvia KE and Demas GE (2018) A gut feeling: Microbiome-
+    and paleogenomics. BMC Biology 17(1): 98.                            brain-immune interactions modulate social and affective
+Makino T, Rubin CJ, Carneiro M et al. (2018) Elevated propor-            behaviors. Hormones and Behavior 99: 41–49.
+    tions of deleterious genetic variation in domestic animals and   Trottein F and Sokol H (2020) Potential causes and consequences
+    plants. Genome Biology and Evolution 10(1): 276–290.                 of gastrointestinal disorders during a SARS-CoV-2 infection.
+Milani C, Mangifesta M, Mancabelli L et al. (2017) Unveiling             Cell Reports 32(3): 107915.
+    bifidobacterial biogeography across the mammalian branch         Vigne JD (2015) Early domestication and farming: What should
+    of the tree of life. The ISME Journal 11(12): 2834–2847.             we know or do for a better understanding? Anthropozoologica
+O’Hara AM and Shanahan F (2006) The gut flora as a forgotten             50(2): 123–150.
+    organ. EMBO Reports 7(7): 688–693.                               Wilkins AS (2020) A striking example of developmental bias
+Petra AI, Panagiotidou S, Hatziagelaki E et al. (2015) Gut-micro-        in an evolutionary process: The “domestication syndrome”.
+    biota-brain axis and its effect on neuropsychiatric disorders        Evolution & Development 22(1–2): 143–153.
+    with suspected immune dysregulation. Clinical Therapeutics       Xie XT, Kropinski AM, Tapscott B et al. (2019) Prevalence of
+    37(5): 984–995.                                                      fecal viruses and bacteriophage in Canadian farmed mink
+Petri R, Brattas PL, Sharma Y et al. (2019) LINE-2 transposable          (neovison vison). MicrobiologyOpen 8(1): e00622.
+    elements are a source of functional human microRNAs and          Zeder MA (2018) Why evolutionary biology needs anthropology:
+    target sites. PLoS Genetics 15(3): e1008036.                         Evaluating core assumptions of the extended evolutionary
+Qiu Y and Kohler C (2020) Mobility connects: Transposable                synthesis. Evolutionary Anthropology 27(6): 267–284.
+    elements wire new transcriptional networks by transferring       Zeder MA (2020) Straw foxes: Domestication syndrome evalu-
+    transcription factor binding motifs. Biochemical Society             ation comes up short. Trends in Ecology & Evolution 35(8):
+    Transactions 48(3): 1005–1017.                                       647–649.
+Rieder R, Wisniewski PJ, Alderman BL et al. (2017) Microbes          Zilber-Rosenberg I and Rosenberg E (2008) Role of microorganisms
+    and mental health: A review. Brain, Behavior, and Immunity           in the evolution of animals and plants: The hologenome theory
+    66: 9–17.                                                            of evolution. FEMS Microbiology Reviews 32(5): 723–735.
+

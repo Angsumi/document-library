@@ -150,8 +150,8 @@ var DATA=[],view=[],PAGE=60,STEP=60;
 var S={q:'',c:'all',p:'',sub:'',type:'',sort:'rel',rev:false};
 var PEOPLE=['Angsuman Das','Bubul Das','Ranu Das','Sumpimoni Das'];
 var $=function(id){return document.getElementById(id)};
-var COLL={Angsuman_Das:'Personal',Family:'Family',Medical_Documents:'Medical',Research:'Research data',Study_Materials:'Study materials',Fellowship_Guidelines:'Fellowship',Supporting_Files:'Supporting',Other_People:'Others'};
-var TYPEN={pdf:'PDF',jpg:'Image',jpeg:'Image',png:'Image',docx:'Word',txt:'Text',gz:'Sequencing data'};
+var COLL={Angsuman_Das:'Personal',Family:'Family',Medical_Documents:'Medical',Research:'Research data',Study_Materials:'Study materials',Fellowship_Guidelines:'Fellowship',Supporting_Files:'Supporting',Other_People:'Others',PhD:'PhD'};
+var TYPEN={pdf:'PDF',jpg:'Image',jpeg:'Image',png:'Image',docx:'Word',txt:'Text',gz:'Sequencing data',bib:'BibTeX',sh:'Script',r:'Script',csv:'Data table',md:'Text'};
 function top(c){return c.split('/')[0]}
 function cname(k){return COLL[k]||k.replace(/_/g,' ')}
 function pretty(s){return s.replace(/_/g,' ')}

@@ -1,0 +1,820 @@
+Ma et al. Animal Microbiome     (2022) 4:38
+https://doi.org/10.1186/s42523-022-00189-6
+                                                                                                                                    Animal Microbiome
+
+
+
+ RESEARCH ARTICLE                                                                                                                                         Open Access
+
+Expressions of resistome is linked to the key
+functions and stability of active rumen
+microbiome
+Tao Ma1,2, Rahat Zaheer3, Tim A. McAllister3, Wei Guo2,4, Fuyong Li2, Yan Tu1, Qiyu Diao1 and Le Luo Guan2*   
+
+
+
+  Abstract
+  Background: The resistome describes the array of antibiotic resistant genes (ARGs) present within a microbial
+  community. Recent research has documented the resistome in the rumen of ruminants and revealed that the type
+  and abundance of ARGs could be affected by diet and/or antibiotic treatment. However, most of these studies only
+  assessed ARGs using metagenomics, and expression of the resistome and its biological function within the microbi-
+  ome remains largely unexplored.
+  Results: We characterized the pools of ARGs (resistome) and their activities in the rumen of 48 beef cattle belonging
+  to three breeds (Angus, Charolais, Kinsella composite hybrid), using shotgun metagenomics and metatranscriptom-
+  ics. Sixty (including 20 plasmid-associated) ARGs were expressed which accounted for about 30% of the total number
+  of ARGs (187) identified in metagenomic datasets, with tetW and mefA exhibiting the highest level of expression. In
+  addition, the bacterial hosts of 17 expressed ARGs were identified. The active resistome was less diverse in Kinsella
+  composite hybrid than Angus, however, expression of ARGs did not differ among breeds. Although not associated
+  with feed efficiency, the total abundance of expressed ARGs was positively correlated with metabolic pathways and
+  ‘attenuation values’ (a measurement of stability) of the active rumen microbiome, suggesting that ARGs expression
+  influences the stability and functionality of the rumen microbiome. Moreover, Ruminococcus spp., Prevotella rumini-
+  cola, Muribaculaceae spp. and Collinsella aerofaciens were all identified as hosts of expressed ARGs, possibly promoting
+  the dominance of these carbohydrate degraders within the rumen microbiome.
+  Conclusions: Findings from this study provide new insight into the active rumen resistome in vivo, which may
+  inform strategies to limit the spread of ubiquitously found ARGs from the rumen to the broader environment without
+  negatively impacting the key functional outcomes of the rumen microbiome.
+  Keywords: Rumen, Resistome, Beef cattle, Metagenomics, Metatranscriptomics, Stability
+
+
+Background                                                                                prevent/treat disease and/or promote growth in chick-
+Antimicrobials have been widely used in food pro-                                         ens, pigs, and cattle will increase from 63,151 tonnes
+ducing animals since the 1950s to enhance feed effi-                                      in 2010 to 105,596 tonnes in 2030 [2]. Antimicrobial
+ciency, accelerate growth, and control infectious                                         consumption or administration in livestock has been
+diseases [1]. It is estimated that antimicrobials used to                                 proposed to select for antimicrobial resistant bacteria
+                                                                                          within the digestive tract of livestock and in aquatic/
+*Correspondence: lguan@ualberta.ca
+                                                                                          soil environments [3, 4]. The development of antimi-
+2
+                                                                                          crobial resistant bacteria in food-producing animals
+  4‑16F, Agriculture/Forestry Center, Department of Agricultural, Food
+and Nutritional Science, University of Alberta, Edmonton, AB T6G 2P5, Canada              not only reduces the therapeutic efficacy of antimi-
+Full list of author information is available at the end of the article                    crobials against infectious disease, but also selects for
+
+                                        © The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+                                        permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+                                        original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+                                        other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+                                        to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+                                        regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+                                        licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+Ma et al. Animal Microbiome   (2022) 4:38                                                                   Page 2 of 17
+
+
+
+
+reservoirs of antimicrobial resistant genes (ARGs) that     Results
+could be transferred to bacteria and infect humans via      Analysis of the rumen metagenomic datasets
+the food production chain or through the environment        The average number of metagenomic reads was higher
+[5–7]. Therefore, reducing antimicrobial resistance         in KC (59,835,594) than CH (49,746,190) (P = 0.009,
+and preventing antimicrobial residues from entering         d = 0.40; Additional file 1: Table S1). The proportion
+the food production chain is a priority for the livestock   of metagenomic reads aligned to bovine genome was
+sectors to address food security, food safety, and public   0.13% ± 0.004% (average ± standard deviation), which did
+health concerns [8].                                        not differ among breeds (P = 0.134, d = 0.52). The aver-
+   In fact, antimicrobial resistance (AMR) in bacteria is   age number of ARG-like reads (KC: 54,385; AN: 47,319;
+an ancient phenomenon and was present long before           CH: 49,880) and their proportion of total metagenomic
+the widespread clinical and agricultural use of anti-       reads (KC: 0.090; AN: 0.088; CH: 0.098) did not differ
+microbials [9]. Numerous ARGs encode for resistance         among breeds (P = 0.407, d = 0.15 and P = 0.749, d = 0.40;
+to an array of antimicrobials that microbes produce         Additional file 1: Table S1). After metagenomic assem-
+to compete and survive within complex ecological            bly, a total of 2,776,208 contigs with an average length of
+systems [10]. Recent research has documented the            3515 bp (max 446,148 bp) and a N50 length of 6065 bp
+resistome in the rumen of ruminants including beef          were generated. An average of 70.4%, 78.4%, and 75.2% of
+cattle [11–13], dairy cattle [13, 14], and sheep [15],      reads were mapped to their assemblies for KC, AN, and
+and revealed that the profiles and abundance of ARGs        CH, respectively. The proportion of mapped metagen-
+within the resistome can be affected by diet [12] and/      omic reads was higher in AN than KC (P = 0.002,
+or antibiotic treatment [11]. However, most of these        d = 0.26). The average number of metagenomic contigs
+studies only assessed these profiles at a genomic level     (P < 0.001; d = 0.06) and ARG-like contigs was higher
+using metagenomics and rumen samples collected              (P < 0.001; d = 0.26), while the proportion of ARG-like
+from a limited number of animals. Compared with             contigs was lower (P < 0.001; d = 0.20) in KC compared
+the mere presence of a gene, its expression is a better     with the other two breeds (Additional file 1: Table S1).
+proxy for gauging functional activity within biological
+ecosystems [16]. A recent study assessed the resistome
+within wastewater at both metagenomic and metatran-         Profiles of ARGs in the rumen microbiome and plasmids
+scripomic levels and revealed that the abundance of         In total, we identified 183 individual ARGs belonging to
+ARGs and their transcripts were not highly correlated       18 classes using a read-based approach, and 104 individ-
+[17]. However, the extent to which ARGs are expressed       ual ARGs belonging to 16 classes using assembly-based
+in the gut of mammals such as rumen of cattle is            methods (Table 1). The abundances (calculated as reads/
+largely unknown, especially when it is not under the        contigs per million of total reads/contigs) of individual
+selective pressure of antimicrobials.                       ARGs identified using the two approaches are reported in
+   In this study we assessed the presence (metagenomic      Additional file 1: Table S2 and S3. Eighty-six ARGs were
+profiling) and expression (metatranscriptomic pro-          identified using both approaches (Additional file 2: Fig.
+filing) of ARGs in the rumen of 48 beef steers raised       S1a), and most were more often identified using read- vs
+without antimicrobials used in human medicine. To           assembly-based approach (Additional file 2: Fig. S1b). Of
+date, read-based and assembly-based approaches are          the 17 unique ARGs identified using an assembly-based
+two main methods for profiling the resistome, with no       approach, most were only identified in less than 5 sam-
+consensus on a single approach, as both have trade-         ples except for vanU (Additional file 2: Fig. S1c). Based
+offs [18]. Therefore, we applied both approaches in         on these findings, we concluded that results from a read-
+this study with the aim to comprehensively describe         based approach were more comprehensive and as a result
+the ARGs profiles within resistomes as well as their        this approach was used for downstream analysis.
+expression in the rumen. We hypothesized that (1)             Tetracycline,      macrolide-lincosamide-streptogramin
+rumen resistome may be affected by host factors such        (MLS), and aminoglycoside classes accounted for the
+as breed; (2) not all ARGs are expressed, and those         majority of ARGs within all samples (Fig. 1a). Eight ARGs
+expressed may play a role in the function or stability of   belonging to tetracycline, MLS, and aminoglycoside
+the rumen microbiome; (3) expression of ARGs could          classes were identified in all samples, and represented
+be associated with feed efficiency in beef cattle, as we    90% of the abundance of ARGs (Fig. 1b). The PCR anal-
+previously reported that active rumen microbiome was        ysis confirmed the prevalence of tetQ, tetW, and mefA
+linked to feed efficiency in beef cattle [19].              in extracted DNA (Additional file 2: Fig. S2). We fur-
+                                                            ther found that 90 ARGs, representing 15 classes were
+                                                            plasmid-associated (Additional file 1: Table S4), which
+Ma et al. Animal Microbiome        (2022) 4:38                                                                         Page 3 of 17
+
+
+
+
+Table 1 Number of individual ARGs identified using read- and           9788 bp) and a N50 length of 1520 bp were generated.
+assembly-based approaches in 48 rumen samples of beef steers           Mapped reads did not differ (P = 0.401, d = 0.01) among
+ARG classes        Metagenomic profiling         Metatranscriptomic    breeds, with an average of 82.6%, 84.0%, and 84.0%
+                                                 profiling             of reads for KC, AN, and CH, respectively. The aver-
+                   Read-based Assembly- Read-based Assembly-           age number of metatranscriptomic contigs (P = 0.065,
+                              based                based               d = 0.44) and ARG-like contigs (P = 0.062, d = 0.45)
+                                                                       tended to be higher in AN than CH (Additional file 1:
+Total              183             103           60             37
+                                                                       Table S5). The proportion of ARG-like metatran-
+  Aminoglyco-      18              10            5              1
+  side                                                                 scriptomic contigs of total metatranscriptomic con-
+  Bacitracin       3               2             1              2      tigs did not differ (P = 0.591, d = 0.05) among breeds
+  Beta-lactam      29              7             9              1      and was 0.145% ± 0.046% (SD), 0.159% ± 0.038%, and
+  Bleomycin        1               –             –              –      0.155% ± 0.035% for KC, AN, and CH respectively
+  Carbomycin       1               1             –              1
+                                                                       (Additional file 1: Table S5).
+  Chloram-         5               3             –              –
+  phenicol
+  Fosfomycin       1               1             –              –      Profiles of expressed ARGs in the active rumen microbiome
+  Fosmidomy-       1               1             –              –      and plasmids
+  cin                                                                  Sixty and 37 expressed ARGs belonging to 10 classes were
+  Kasugamycin      –               1             –              –      identified using read- and assembly-based approaches,
+  MLS              29              16            10             3      respectively (Table 1). Notably, the same number (60)
+  MDR              42              20            13             9      of expressed ARGs were identified using either the
+  Polymyxin        1               –             1              –      SARG database or the ARG-like sequences identified in
+  Quinolone        2               1             –              –      metagenomic datasets as the reference database. Abun-
+  Rifamycin        2               1             –              –      dances of expressed ARGs identified using these two
+  Sulfonamide      2               3             1              1      approaches are shown in Additional file 1: Table S6 and
+  Tetraceno-       1               16            –              –      S7. Twenty-three expressed ARGs were identified using
+  mycin
+                                                                       both approaches (Additional file 2: Fig. S4a), with more
+  Tetracycline     23              –             14             13
+                                                                       being identified in samples using read- than assembly-
+  Trimethoprim     –               2             –              –
+                                                                       based approaches (Additional file 2: Fig. S4b). Of the 14
+  Unclassified     7               3             2              2
+                                                                       unique expressed ARGs identified using the assembly-
+  Vancomycin       15              15            4              4      based method, only tetP were expressed in more than
+MLS macrolides-lincosamides-streptogramins; MDR multi-drug resistant   half of the samples (Additional file 2: Fig. S4c). Conse-
+                                                                       quently, we used the read-based approach in subsequent
+accounted for 6.25% ± 0.30% of total ARGs (Fig. 1c). Sim-              downstream analysis of expressed ARGs.
+ilarly, tetracycline, aminoglycoside, and MLS were the                    Tetracycline (tetW, tet40, tetQ, tetM) and MLS (mefA)
+most abundant classes (Additional file 2: Fig. S3a), and               classes made up the majority of expressed ARGs from
+7 ARGs (tetW, aadA, tetO, tet44, tetM, vatB, and tet32)                all samples (Fig. 2a and b). Indeed, only 0.61% ± 0.03%
+accounted for 85% of the total plasmid-associated ARGs                 (calculated as the number of ARG-like reads of a sample
+(Additional file 2: Fig. S3b).                                         identified in metatranscriptomic data/number of ARG-
+                                                                       like reads of the same sample identified in metagenomic
+Analysis of the rumen metatranscriptomic datasets                      data) of ARGs were expressed, with multidrug (MDR,
+The average number of metatranscriptomic reads                         n = 28), MLS (n = 48), tetracycline (n = 48), and amino-
+(KC: 6,277,349; AN: 5,649,606; CH: 5,464,699), ARG-                    glycoside (n = 37) classes being most prevalent (Fig. 2c).
+like transcripts (KC: 308; AN: 324; CH: 259) and their                 Of the expressed ARGs, tet40, mefA, tetM, tetW, and
+proportion of total metagenomic reads (KC: 0.005;                      tetQ were the most prevalent in all samples (Fig. 2d). The
+AN: 0.006; CH: 0.005) was not different among breeds                   PCR analysis confirmed the expression of tetQ, tetW,
+(P = 0.161, d = 0.55; P = 0.442, d = 0.10; P = 0.668,                  and mefA in the cDNA of the majority of samples (Addi-
+d = 0.44, respectively; Additional file 1: Table S5). The              tional file 2: Fig. S2). Twenty of the expressed ARGs were
+proportion of metatranscriptomic reads aligned to                      plasmids-associated and represented 7 different classes
+bovine genome was 0.05% ± 0.0008%, which did not                       (Additional file 1: Table S8). Transcripts associated with
+differ among breeds (P = 0.937, d = 0.18). After the                   tetracycline ARGs were the most prevalent (Additional
+assembly of the metatranscriptome data, a total of                     file 2: Fig. S5a), with plasmid-associated tetW being iden-
+28,005 contigs with an average length of 1611 bp (max                  tified in all samples (Additional file 2: Fig. S5b).
+Ma et al. Animal Microbiome      (2022) 4:38                                                                                               Page 4 of 17
+
+
+
+
+ Fig. 1 Profiles of resistome in the rumen of 48 beef cattle. a The rumen resistome is predominant by ARGs belonging to tetracycline, MLS, and
+ aminoglycoside classes, and ‘others’ include other 15 classes. b Proportion of 8 predominant ARGs and ‘others’ include other 179 individual ARGs. c
+ Proportion of plasmid-associated ARGs in the total ARGs. ARG, antimicrobial resistant gene; MLS, macrolide-lincosamide-streptogramin
+
+
+
+Effect of breed on diversity and abundances of ARGs                          Analysis (PCoA) showed that the profiles of ARGs also
+and expressed ARGs in the rumen microbiome                                   did not separate by breed (PERMANOVA P = 0.241;
+The ARGs belonging to tetracycline and MLS classes                           Fig. 4b). The KC (125) harbored fewer subtypes of ARGs
+were predominant in the rumen, regardless of breeds                          compared with AN (153) or CH (136) (Additional file 1:
+(Fig. 3a). The Chao1 index of ARGs was lower in KC                           Table S9). The abundance of total ARGs in KC was also
+than AN and CH (P = 0.007 and 0.002, d = 0.24), while                        lower than that in the other two breeds (Fig. 4c). Specifi-
+the Simpson’s index of ARGs did not differ among                             cally, the abundance of several ARGs belonging to ami-
+breeds (P = 0.512, d = 0.29; Fig. 4a). Principle Coordinate                  noglycoside (aadA, aadE, ant(9)-I), bacitracin (bacA),
+Ma et al. Animal Microbiome      (2022) 4:38                                                                                             Page 5 of 17
+
+
+
+
+ Fig. 2 Profiles of active resistome in the rumen of 48 beef cattle. a The active rumen resistome is predominant by ARGs belonging to tetracycline
+ and MLS classes, and ‘others’ include other 8 classes. b Proportion of 5 predominant expressed ARGs and ‘others’ include other 55 individual
+ expressed ARGs. c Proportion of major expressed ARG classes. d Proportion of major expressed ARGs. ARG, antimicrobial resistant gene; MDR,
+ multidrug; MLS, macrolide-lincosamide-streptogramin
+
+
+
+
+MLS (ermA, ermB, ermG, lsa, macB), tetracycline (tet40),                       The KC (64) harbored fewer subtypes of plasmid-asso-
+and vancomycin (vanG, vanS) (Fig. 4d) classes in KC                          ciated ARGs compared with AN (74) or CH (67) (Addi-
+were lower than in AN or CH.                                                 tional file 1: Table S10). No difference was observed in
+Ma et al. Animal Microbiome      (2022) 4:38                                                                                            Page 6 of 17
+
+
+
+
+ Fig. 3 Abundance (normalized into reads per million of reads) of classes of ARGs and ARG transcripts in the rumen of KC, CH, and AN beef steers. a
+ Abundance of 13 classes of ARGs. b Abundance of 8 classes of expressed ARGs. ARG, antimicrobial resistant gene; KC, Kinsella composite hybrid; AN,
+ Angus; CH, Charolais; MLS, macrolide-lincosamide-streptogramin; MDR, multidrug
+
+
+
+
+the abundance of total plasmid-associated ARGs among                        Investigation of the bacterial hosts of expressed ARGs
+breeds. The KC had a higher abundance of aadE as well                       The ARG-containing contigs generated by metatran-
+as vatB than AN, and ant(9)-I, aph(3″)-I, as well as tet44                  scriptomic assembly were used to predict the bacterial
+than CH (Additional file 2: Fig. S6). In contrast, the abun-                origin of expressed ARGs. A total of 420 ARG-con-
+dance of ermB, ermG, and lnuA was lower in KC than the                      taining contigs were assigned to a customized refer-
+other two breeds (Additional file 2: Fig. S6).                              ence database (see Methods) and the bacterial hosts of
+  The Chao1 index of expressed ARGs was lower in KC                         342 contigs were identified as belonging to Firmicutes
+than AN (P = 0.024, d = 0.55), with no difference in the                    (32.4%), Bacteroidetes (22.1%), Actinobacteria (16.4%),
+Simpson’s diversity among breeds (P = 0.541, d = 0.24;                      and Proteobacteria (8.1%) (Fig. 5a). For the bacterial
+Additional file 2: Fig. S7a). The PCoA based on Bray–                       hosts identified in Actinobacteria, the genus Collinsella
+Curtis distance showed no clustering of expressed ARGs                      (52.2%) accounted for more than half of the abundance,
+within the resistome among breeds (PERMANOVA                                followed by Bifidobacterium (13.0%) (Fig. 5a). Muribac-
+P = 0.423; Additional file 2: Fig. S7b).                                    ulaceae bacterium DSM 108,610 (14.0%) was the most
+  Metatranscriptomic analysis also showed that ARGs                         abundant genus in the Bacteroidetes, followed by Bacte-
+belonging to tetracycline and MLS classes were pre-                         roides (10.7%) and Prevotella (9.7%) (Fig. 5a). In the Fir-
+dominant in the expressed rumen resistome of all                            micutes, Bacillus, Ruminococcus, and Turicibacter were
+three breeds (Fig. 3b). A similar number of subtypes of                     the most abundant genera (Fig. 5a). The 342 assembled-
+expressed ARGs were identified in KC (44, including 26                      genomes were found to contain 17 expressed ARGs,
+plasmid-associated), AN (42, including 31 plasmid-asso-                     among which mefA was the most abundant, followed
+ciated), and CH (42, including 26 plasmid-associated),                      by tetW and tetQ (Additional file 1: Table S13). Nota-
+among which 30 (including 18 plasmid-associated) were                       bly, we identified 8 bacterial species/strains that could
+identified in all breeds (Additional file 1: Table S11 and                  potentially express bacA, bcrA, macB, mefA, tet40, and
+S12; Additional file 2: Fig. S7a and S7b). Breed did not                    tetW (Fig. 5b). For example, Muribaculaceae bacterium
+impact the abundance of expressed ARGs (including                           DSM 108,610, Bacteroides fragilis, Bacillus cereus, and
+plasmid-associated).                                                        Turicibacter sp. H121 potentially expressed mefA, while
+Ma et al. Animal Microbiome      (2022) 4:38                                                                                               Page 7 of 17
+
+
+
+
+ Fig. 4 Difference in diversity annd abundance (normalized into reads per million of reads) of ARGs in the rumen of KC (in purple), CH (in green), and
+ AN (in yellow) beef steers. a Difference in Chao1 index and Simpson’s index among breeds. b PCoA based on Bray–Curtis distance. c Difference in
+ the abundance of total ARGs among breeds. d Difference in the abundance of 12 ARGs belonging to aminoglycoside, bacitracin, MLS, tetracycline,
+ and vancomycin classes among breeds. ARG, antimicrobial resistant gene; KC, Kinsella composite hybrid; AN, Angus; CH, Charolais; MLS, macroli
+ de-lincosamide-streptogramin; MDR, multidrug. PCoA, principal coordinate analysis. **P < 0.05 by Kruskal–Wallis test followed by multiple pairwise
+ comparisons using Dunn’s test with Benjamini–Hochberg method for false discovery rate control
+
+
+
+Collinsella aerofaciens and Prevotella ruminicola 23                         spp, Bacillus cereus, and Turicibacter spp., and Collin-
+potentially expressed tetW.                                                  sella aerofaciens) that could potentially express mefA or
+   Using only the flanking regions of ARGs from the                          tetW (Additional file 1: Table S14). In summary, bacterial
+ARG-containing metatranscriptomic contigs, a total of                        species that were identified using ARG flanks were all
+97 contigs were assigned to a customized reference data-                     included in the list of species identified using full-length
+base and the bacterial hosts were identified as belonging                    contigs.
+to Firmicutes (37.1%), Actinobacteria (25.8%), Bacte-
+roidetes (19.6%), and Proteobacteria (4.1%) (Additional                      Functional potentials of expressed ARGs in the rumen
+file 2: Fig. S8). For the bacterial hosts identified in Act-                 microbiome
+inobacteria, the genus Collinsella (84.0%) accounted for                     We first investigated if expressed ARGs contribute to
+more than half of the abundance, followed by Bifidobac-                      the annotated function of the active rumen microbiome.
+terium (8.0%) (Additional file 2: Fig. S8). Muribaculaceae                   Based on Spearman correlation analysis, we found sig-
+bacterium (26.3%) was the most abundant genus in the                         nificant correlations between the abundance of 19 KEGG
+Bacteroidetes, followed by Muribaculum (21.0%) and                           pathways mainly related to ‘Metabolism’, ‘Cellular Pro-
+Phocaeicola (15.8%) (Additional file 2: Fig. S8). In the Fir-                cesses’ as well as ‘Genetic Information Processing’ and
+micutes, Bacillus, Ruminococcus, and Turicibacter were                       the abundance of 8 subtypes of expressed ARGs, includ-
+the most abundant genera (Additional file 2: Fig. S8). The                   ing mefA, tetW, tet40, tetO, tetM, tetracycline resistance
+97 metatranscriptomic-assembled genomes were found                           protein (trp), tetO, and vatB (Fig. 6). Notably, positive
+to contain 13 expressed ARGs, among which mefA was                           correlations were observed between the abundance of
+the most abundant, followed by tetW (Additional file 1:                      most subtypes of expressed ARGs and ‘Metabolism’
+Table S14). Notably, we identified 6 bacterial genera/spe-                   pathways including ‘Two component system’, ‘Oxidative
+cies (Muribaculaceae, Bacteroides fragilis, Ruminococcus                     phosphorylation’, and ‘Purine metabolism’, while negative
+Ma et al. Animal Microbiome       (2022) 4:38                                                                                               Page 8 of 17
+
+
+
+
+ Fig. 5 The bacterial origin of active resistome. a Proportion of predicted bacterial hosts of expressed ARGs at phylum level. b Predicted bacterial
+ hosts of 6 expressed ARGs including tetW, tet40, mefA, macB, bcrA, and bacA and their relative abundance. ARG, antimicrobial resistant gene
+
+
+
+correlations were identified between those and ‘Salmo-                          To test our hypothesis that an active resistome may
+nella infection’, ‘Ribosome’, as well as the ‘HIF-1 signaling                 play a role in conferring stability to the rumen micro-
+pathway’ (Fig. 6). We then analyzed if the expression of                      biome, we calculated the attenuation value, a meas-
+the resistome was associated with feed efficiency in beef                     urement of microbial stability. The Chao1 index of
+cattle. However, no significant correlation was observed                      the active resistome was positively correlated with the
+between the abundance of total expressed ARGs or any                          attenuation value (rho = 0.46, P < 0.05; Fig. 7a). In addi-
+individual ARGs and residual feed intake (RFI) or feed                        tion, we also found that the abundance of expressed
+conversion ratio.
+Ma et al. Animal Microbiome    (2022) 4:38                                                                                      Page 9 of 17
+
+
+
+
+ Fig. 6 Heatmap showing the Spearman correlations between the abundance (normalized into reads per million) of KEGG pathways and the
+ abundance of 8 subtypes of expressed ARGs. ARG, antimicrobial resistant gene; trp, tetracycline resistance protein
+Ma et al. Animal Microbiome    (2022) 4:38                                                                                       Page 10 of 17
+
+
+
+
+ Fig. 7 Functions of active resistome. a Spearman correlation between the Chao1 index of expressed ARGs and attenuation values of active
+ rumen microbiota. b Spearman correlation between the abundance of expressed ARGs in tetracycline class and attenuation values of active
+ rumen microbiota. c Spearman correlation between the abundance of expressed tetW and attenuation values of active rumen microbiota. ARG,
+ antimicrobial resistant gene
+
+
+
+tetracycline class (rho = 0.47, P < 0.05; Fig. 7b) and tetW              to vancomycin. More recently, Xue et al. [14] described
+(rho = 0.47, P < 0.05; Fig. 7c) was positively correlated                a resistome containing 26 classes of ARGs using rumen
+with the attenuation values of the active rumen micro-                   digesta samples collected from 49 dairy cows that did not
+biome, indicating that it may also contribute to func-                   receive antimicrobials, with tetracycline being the most
+tional stability.                                                        predominant, followed by glycopeptide and fluoroqui-
+                                                                         nolone ARGs. The variation of ARGs profiles detected
+Discussion                                                               among studies could be due to difference in animal,
+Metagenomic analysis revealed that the abundance of                      environment, diet, antimicrobial use (AMU) as well as
+ARGs in the rumen of beef steers that did not receive any                metagenome data nature and bioinformatic resources/
+antimicrobials other than monensin, was predominated                     tools. In addition, the detected ARGs are similar to
+by tetracycline, MLS, and aminoglycosides. We detected                   those reported in fecal samples of beef cattle adminis-
+broader ARG profiles using a read-based approach (187                    tered in feed antimicrobials (ionophores, chlortetracy-
+ARGs belonging to 18 classes) in the rumen, than that                    cline, or tylosin) [20] or not [21]. This suggests that the
+observed in a previous study where ARGs in beef cattle                   profiles of ARGs in the rumen are consistent with those
+receiving monensin and tylosin were estimate using an                    found in feces. It should be noted that tetracycline and
+assembly-based approach [11]. These researchers failed                   macrolide are the most frequently used antimicrobials
+to detect aminoglycoside or β-lactam ARGs in any of                      in beef industry in Canada [22]. Such a practice could
+the 5 ruminal samples examined. While Auffret et al.                     have resulted in these ARGs being the key components
+[12] detected macrolide, chloramphenicol, β-lactam, and                  of the core resistome in the rumen, even in the absence of
+aminoglycoside ARGs in the rumen of antimicrobial-                       direct selective pressure as result of AMU.
+free beef cattle under similar feeding condition to our                    Considering that the presence of genes does not neces-
+study, they did not detect genes conferring resistance                   sarily directly correlate with their expression in biological
+Ma et al. Animal Microbiome   (2022) 4:38                                                                       Page 11 of 17
+
+
+
+
+systems, direct measurement of transcripts based on              Plasmids are mobile genetic elements that are abun-
+metatranscriptomics is an important complementary             dant in the bacterial populations of bovine rumen [27],
+approach to describing the functionality of microbi-          and play a major role in the spread of AMR through
+omes. In our study, the abundance of expressed ARGs           horizontal gene transfer [28]. Plasmid-mediated transfer
+was about 30% of the whole resistome, suggesting that         of ARGs is the most common route for their acquisition
+most ARGs were not transcribed and functional in the          by bacteria [29]. Metagenomic approaches have been
+rumen of these cattle at the time of sampling. In fact, the   used to characterize plasmid encoded ARGs in several
+expression of ARGs is not directly linked to the presence     non-biological habitats such as activated sludge [30, 31]
+of ARGs as previously shown in wastewater microbiomes         as well as in the human gut [32]. However, the profiles
+[17]. The expression of tet40, mefA, tetM, tetW, and tetQ     and expressions of plasmid-associated ARGs have not
+was observed in all samples, suggesting that these ARGs       been examined in food-producing animals. The identifi-
+may constitute the ‘core’ active resistome in the rumen       cation of aadA and tetW being the most abundant plas-
+of the steers investigated in our study. However, it is       mid-associated ARGs and the expression of tetW highest
+not clear if and how this expression pattern may change       among all ruminal plasmid-associated ARG transcript,
+if antimicrobials are administered. To our knowledge,         suggests that plasmid associated ARGs should be a focus
+few studies have examined the presence and expression         of investigations on the impact of AMU in livestock on
+of ARGs simultaneously in microbiomes within food-            the resistome. The aadA gene has been detected on IncA/
+producing animals. Although Sabino et al. [23] analyzed       C2 plasmids in both Escherichia coli and Salmonella
+the expression of rumen ARGs, only 15 samples were            enteric [33]. More specifically, aadA14 was first identified
+used (5 dairy cattle, 5 beef cattle, and 5 sheep) and their   as plasmid borne in a bovine respiratory disease-associ-
+aim was to confirm the expression of ARGs found in 435        ated pathogen, Pasteurella multocida [34]. It has been
+ruminal bacteria and archaea reference genomes in silico.     reported that many of the tetracycline resistant genes
+These researchers did not link the expression of ARGs         are associated with mobile plasmids [35], among which
+back to the presence of those ARGs in the same rumen          tetW has been proven to be transferable among the rumi-
+microbome using metagenomic data. More recently,              nal bacteria, i.e., Butyrivibrio fibrosolvens, Selemonas
+the resistome in the chicken and pig gut were analyzed        ruminitanium, and Mitsuokella multiacidus [36]. It has
+using both metagenomic and metatranscriptomic data,           been proven that rumen plasmidome, which represents
+but only 6 fecal samples were used to define the gut          all detectable plasmids in rumen, encodes a wide array
+resistome of each species [24]. In this regard, more effort   of genes with roles in carbohydrate, protein and amino
+is needed to detect and validate our findings based on        acids metabolism [27]. Therefore, we speculate that the
+both metagenomic and metatranscriptomic analysis. In          plasmids that carry expressed ARGs likely also carry
+addition, it should be noted that the average insert size     genes that play a role in fermentation. Recently, linking
+varied between the DNA and cDNA libraries due to the          a wide range of bacterial plasmids to the microbiome in
+fact that with an average gene length of ~ 1 kb in prokar-    wastewater samples has been undertaken using the Hi-C
+yotes, and with selective expression, the overall tran-       method [37], which can link plasmids back to their bac-
+scriptome is more fragmented with essentially smaller         terial host [38]. These approaches could also be applied
+average fragment size as compared to genomic DNA              to link plasmid-associated ARG to their rumen bacteria,
+fragments that are generated due to DNA shearing. This        which may help elucidate the contribution of plasmids to
+difference may potentially lead to smaller average insert     the transmission of ARGs within the rumen.
+size of the cDNA-based library compared to a metagen-            It has been reported that the prevalence and abun-
+omics DNA-based library. Smaller insert sizes may also        dance of ARGs in the gut of cattle is affected by diet and
+impact the quality of reads and the downstream analy-         host. For example, dietary transition from milk replacer
+sis of functional profiles (such as resistome) of Illumina    to a starter diet led to alternation in the fecal resistome of
+sequencing output [25, 26]. Therefore, comparing com-         dairy calves [7]. In addition, the diversity and abundance
+munities across multiple experiments may require addi-        of total ARGs were higher in the rumen of beef cattle fed
+tional covariates (e.g., library preparation technique) in    high concentrate than those fed high forage diet, with
+statistical design to account for these known differences     chloramphenicol and aminoglycoside resistance genes
+and avoid potential biases. It should also be noted that      being predominant in forage- and concentrate-fed cat-
+there is still a lack of direct comparison of metagenomic     tle, respectively [12]. On the other hand, several studies
+and metatranscriptomic datasets from the same sample,         have shown that the gut microbiome is heavily influ-
+and our results advanced the knowledge on what are key        enced by the host animal [39–41], suggesting that host
+factors (e.g., sequencing depth, N50 length, library size)    may also play a key role in shaping the rumen resistome.
+in affecting the data analysis outcomes as a whole.           In this study, all beef steers were raised under the same
+Ma et al. Animal Microbiome   (2022) 4:38                                                                          Page 12 of 17
+
+
+
+
+dietary and environmental conditions, suggesting that            (rho-dependent or independent) signal downstream of
+the prevalence and expression of ARGs could have been            an individual gene cds or the last cds of an operon, it is
+influenced by host genetics. Contrary to the findings of         challenging to predict bacterial origin from metatran-
+Auffret et al. [11], who did not observe a breed effect on       scriptomic assemblies. However, for certain genomic
+the abundance of microbiota or ARGs in the rumen of              loci in prokaryotes where gene/operon transcripts over-
+beef cattle, we observed a reduced prevalence of ARGs in         lap and if those loci happen to carry an ARG, the result-
+the rumen of crossbred (KC) compared to purebred (AN             ing assembled long ARG-carrying contigs may lead to a
+or CH) cattle. Cohen’s d is a common way to measure              better prediction of bacterial species. This could be the
+the size of an effect, which is classified as small (d = 0.2),   case of the 97 ARG-containing metatranscriptomic con-
+medium (d = 0.5), and large (d ≥ 0.8) [42]. Although             tigs identified as active bacterial hosts using only the
+there is significant difference in the average number of         flanking regions that were not mobile genetic elements
+metagenomic reads and Chao1 index of ARG, only small             or partial ARGs. Conversely, although metagenomic
+to medium effect size was identified, suggesting that            assembled ARG-carrying contigs potentially harboring
+sequencing depth may not be a potential confounding              contiguous sequences of the host bacteria could provide
+factor in the comparison of the breed effect on diversity        better prediction of bacterial species, ARGs present in
+and abundance of ARGs. To our knowledge, there is no             those contigs may or may not be expressed making the
+study reporting how host genetic factors may impact              functionality of ARGs within the rumen microbiome
+the gut resistome in mammalian species. In beef cattle,          questionable. In this regard, more effort is needed to
+understanding the ‘mammalian host-resistome’ associa-            develop parallel metagenomics and metatranscriptomic
+tion may be a prerequisite to select breeds with high feed       approaches to identify functional ARGs and their host
+efficiency and a lower risk of transmission ARG into the         genomic context.
+environment.                                                        We did predict that the expression of tetracycline
+   The positive correlation between the abundance of             class, especially tetW, was associated with the stability
+multiple subtypes of expressed ARGs and ‘Metabolism’             of active rumen microbiota. Stability refers to the ability
+pathways suggest that ARGs may play a role in regulat-           of a microbial community to return to its original state
+ing bacterial metabolism. Indeed, ARGs, such as those            after facing perturbations [52]. Higher stability (higher
+encoding for efflux pumps may have roles in regulating           attenuation value in our study) indicates that a microbial
+microbial physiology and metabolism of amino acids,              community is more resilient to external perturbations
+fatty acids or nucleotides, in addition to their intrinsic       and its functional profile is therefore less likely to change.
+role in antimicrobial resistance [43–45]. Bacteria belong-       Our findings suggest that a rumen microbial community
+ing to Muribaculaceae spp. encode enzymes that degrade           with higher diversity or expression of tetW may be more
+plant hemicellulose and pectin [46]. Collinsella aero-           resistant to external perturbations such as use of anti-
+faciens has been reported to be abundant in the rumen            microbials or changes in diet compositions. However, as
+of low-methane yield sheep [47], which could ferment             the correlation analysis is not able to imply causation, the
+a range of different carbohydrates such as starch [48].          exact role that expressed ARGs play in regulating these
+Prevotella ruminicola [49] and Ruminococcus spp. [50,            functions requires further investigation.
+51] are also prevalent fiber degraders within the rumen.
+Our findings raise the possibility that expression of ARGs       Conclusions
+could impact the relative contribution of these species          We characterized ARGs profiles including the ‘active’
+to ruminal fiber and starch digestion. Knowledge of the          resistome within the rumen of beef steers that were not
+bacterial hosts of expressed ARGs could play an essential        administered antimicrobials other than monensine. Our
+role in designing strategies to limit the spread of ARGs         findings demonstrated that the presence and expression
+via manipulation of the rumen microbiome. Despite                of ARGs in the rumen are not necessarily associated with
+these findings, it should be noted that a large proportion       AMU. Although a diversity of ARGs were found in the
+of hosts of expressed ARGs could not be taxonomically            rumen, about 30% (60/183) were expressed, with mul-
+classified or could only be identified at the phylum/fam-        tiple tetracycline ARG subtypes and mefA constituting
+ily level. Considering the fact that when expressed, the         the ‘core’ of the active rumen resistome. Individual PCR
+transcript of a gene does not contain extensive flanking         analysis further validated the prevalence and expres-
+regions of a gene coding sequence (cds) except for the           sion of the core ARGs identified using metagenomic
+5′ untranslated region (5′UTR) until the transcription           and metatranscriptomic sequencing. We also revealed
+start site upstream of an individual gene or the first cds       that Ruminococcus spp., Prevotella ruminicola, Murib-
+in an operon where the member genes of the operon                aculaceae spp. and Collinsella aerofaciens were the pri-
+are transcribed together, and a small 3′ termination             mary hosts of expressed ARGs. In addition, both breed
+Ma et al. Animal Microbiome   (2022) 4:38                                                                       Page 13 of 17
+
+
+
+
+and feed efficiency exhibited a weak effect on the abun-        Preparation Kit (Illumina, San Diego, CA, USA) and
+dance of expressed ARGs, suggesting that in the absence         subjected to Illumina (HiSeq 2000) sequencing. After
+of antimicrobial use, the rumen resistome is unlikely to        measurement of RNA yield and quality, samples with
+be altered by breeding programs that select cattle based        RNA integrity number (RIN) > 7.0 were used to con-
+on improved feed efficiency. We also showed that the            struct metatranscriptome libraries using the TruSeq
+active resistome in the rumen may play a role in bacterial      RNA Library Prep Kit v2 (Illumina, San Diego, CA). All
+metabolism as well as maintaining the stability of active       metagenomic and metatranscriptomic libraries (n = 16
+rumen microbiome. One potential limitation of the cur-          for each breed) were sequenced (1 μg of input DNA or
+rent study is that rumen resistome originated from cat-         cDNA library) at the McGill University and Génome
+tle that only received monensin. It is unclear whether          Québec Innovation Centre (Montréal, QC, Canada)
+the overall rumen resistome or its expression would             using an Illumina HiSeq 2000 platform (100 bp paired-
+have been if antimicrobials such as tetracyclines or mac-       end sequencing of ~ 350 bp inserts for metagenome, and
+rolides had been administered. In addition, variations          of ~ 140 bp cDNA fragments for metatranscriptome).
+in sequencing depth and library construction technique          Quality control (QC) of each dataset was performed as
+between metagenomic and metatranscritpomic datasets             described by Li et al. [53]. Briefly, Trimmomatic (version
+in our study may also impact the profiles of expressed          0.35) [56] was used to trim artificial sequences (adapters),
+resistome. Comparative analysis of transcriptional pro-         cut low quality bases (quality scores < 20), and remove
+files of rumen samples originating from larger herds            short reads (< 50 bp). In addition, Tophat2 (version 2.0.9)
+of beef or dairy cattle at different growth stages, raised      [57] was used to remove potential host DNA and RNA
+with and without antimicrobials could provide further           contamination by mapping trimmed reads to the bovine
+insight on the presence and expression of ARGs within           genome (UMD 3.1).
+the rumen microbiome. Considering that the N50 length
+for metatranscriptomic-assembled contigs were relatively        Identification of ARGs using read‑ and assembly‑based
+short, appropriate method to identify active bacterial          approaches
+host of expressed ARGs based on metatranscriptomic              The prevalence and abundance of the rumen resistome
+sequencing needs further investigation. This study pro-         of each metagenomic dataset was determined using
+vides new insight into the active rumen resistome in            read-based approach according to the instructions of
+the absence of antimicrobial selective pressure, generat-       ARG-OAP 2.0 pipeline [58]. Briefly, post-QC reads
+ing information that could be used to develop strategies        (paired-end) from each sample were blasted using
+to limit the spread of ubiquitously found antimicrobial         BLASTX against the Structured ARG database (SARG)
+resistance from the rumen to the broader environment.           [59], comprised of the Antibiotic Resistance Genes Data-
+                                                                base (ARDB), the Comprehensive Antibiotic Resistance
+Methods                                                         Database (CARD), and the National Center for Biotech-
+Animal experiment and sample collection                         nology Information Non-Redundant Protein Sequence
+The datasets used in the current study originated from          Database (NCBI-NR), to extract ARG-like reads. Reads
+the study of Li et al. [53]. Briefly, ruminal digesta samples   were subsequently annotated as ARG-like reads at the
+were collected from 48 beef steers at slaughter (range          cut-off of E value of ­10−10, sequence identity of 80% and
+from 429 to 554 days of age, on average 502 ± 33 days of        alignment length more than > 25 amino acids (six-frame
+age) and snap-frozen in liquid nitrogen. The beef steers        translation) using the default settings. By using this cut-
+included three breeds: Kinsella composite hybrid (KC,           off, the identification accuracy was estimated at 99.5%
+n = 16), Angus (AN, n = 16), and Charolais (CH, n = 16).        [60]. To evaluate the expression of the resistome, both
+All steers were raised in the same feedlot conditions and       SARG database [59] and extracted ARG-like sequences
+fed the same diet, consisting of 80% barley grain, 15%          identified in metagenomic datasets were used as refer-
+barley silage, and 5% supplement. Cattle did not receive        ence database to extract ARG-like transcripts from the
+any antimicrobials other than monensin at 33 ppm in the         metatranscriptome dataset using an ARG-OAP 2.0 pipe-
+diet, an ionophore that is not used in human medicine.          line [58]. Reads were annotated as ARG-like transcripts
+                                                                using the same cutoffs as described above.
+Metagenome and metatranscriptome sequencing                        In addition, the prevalence and abundance of the
+Total DNA and RNA were isolated from rumen digesta              rumen resistome was also determined using assembly-
+of 48 beef steers using the methods of Yu and Mor-              based approach. Briefly, metagenomic and metatran-
+rison [54] and Li et al. [55], respectively. After quality      scriptomic assemblies were generated with post-QC
+and quantity checks, metagenomic libraries of the DNA           reads for each sample using MEGAHIT (version 1.2.9)
+were constructed using TruSeq DNA PCR-Free Library              [61] with default parameters. Quality of metagenomic
+Ma et al. Animal Microbiome   (2022) 4:38                                                                      Page 14 of 17
+
+
+
+
+and metatranscriptomic assemblies were evaluated using        Then, the 4941 rumen-related metagenome-assembled
+Quast (http://​cab.​cc.​spbu.​ru/​quast/) and contigs with    genomes [66] were added to the RefSeq database with
+lengths less than 1000 bp in all of the assemblies were       ‘kraken2-build –add-to-library 4941.fa –db RefSeq’
+filtered out. The contigs were then aligned with SARG         script. The metatranscriptomic-assembled contigs with
+database using ‘diamond blastx’ [62] at the cut-off of        ARGs were subject to the ‘kraken2 –db RefSeq –threads
+E value of ­10−10 and sequence identity of 80% for both       32 –classified-out sample_classified –unclassified-out
+metagenomic and metatranscriptomic sequencing.                sample_unclassified -confidence 0.9 –fasta-input sam-
+                                                              ple.contigs.fa –output sample.kraken’ script, where ‘Ref-
+PCR analysis of the prevalence and expression of tetQ,        Seq’ is the customized database, ‘0.9’ is the confidence
+tetW, and mefA genes                                          score (between 0 and 1). To verify the bacterial host of
+All the DNA isolates (50 ng/μl) and cDNA were tested          an ARG, using a parallel approach, the full ARG-contain-
+for the presence of antigen resistance genes by PCR.          ing contigs, as well as their counterparts containing the
+Individual PCRs were performed for tetW, tetQ and             left-over flanking regions following the SARG database
+mefA. The primers and PCR conditions used were those          BLAST-based removal of ARGs from each contig, were
+described in Additional file 3: Table S15. The PCR            annotated using kraken2. The output files were further
+assays were conducted in a 20-μl mixture containing 2         analyzed using Bracken [67] with ‘bracken -d RefSeq -i
+ul 10 × PCR buffer, 0.5 μl, 10 mM dNTP, 0.25 ul, 5 U/μl       sample.kraken.txt -o sample.bracken.txt -l S’ script to
+of Taq polymerase (Life Technologies, Foster City, CA),       calculate the relative abundance of bacteria at the spe-
+1ul, 20 pmol/μl of each primer and nuclease-free water.       cies level. In addition, the flanking regions were further
+Reactions were conducted using an Vetiri 96 well thermal      blasted against Gypsy Database [68] (https://​gydb.​org/​
+cycler (Life Technologies, Foster City, CA). TetW, tetQ       index.​php/​Blast) to detect potential mobile genetic ele-
+and mefA were amplified by subjecting DNA and cDNA            ments with E-value lower than 0.01.
+template to the following conditions: an initial denatur-
+ation for 5 min at 94℃; then 30 cycles of 94℃ for 30 s,
+                                                              Functional profiling of active ruminal microbiome
+annealing for 30 s at different temperatures (Additional
+                                                              To analyze the functional profiles of the active rumi-
+File 1: Table S13), and 72℃ for 30 s; and a final elonga-
+                                                              nal microbiome, metatranscriptomic-assembled con-
+tion for 7 min at 72℃. Finally, the PCR products were
+                                                              tigs were also annotated using Prodigal [69]. The output
+analyzed by gel electrophoresis using 1% (w/v) agarose in
+                                                              was then uploaded to KofamKOALA, which assigns K
+1 × TBE buffer under 150 V. The agarose gel was steamed
+                                                              numbers by HMMER/HMMSEARCH against KOfam (a
+in Sybr safe and scanned under Azure c200 image system
+                                                              customized HMM database of KEGG Orthologs (KOs))
+(Azure Biosystems Inc, Dublin, CA).
+                                                              with an e-value lower than 0.01, to annotate the KEGG
+                                                              functional pathways [70]. The abundance of active KEGG
+Identification of plasmid‑associated ARGs
+                                                              functional pathways was normalized into counts per
+Plasmid-associated ARG were determined using a modi-
+                                                              million.
+fied ARG-OAP 2.0 pipeline. Instead of SARG database,
+post-QC reads (paired-end) from each sample were
+blasted using BLASTX against the latest A CLAssifica-         Stability of active rumen microbiome
+tion of Mobile genetic Elements (ACLAME) database,            Attenuation value is a measurement of microbial stabil-
+which contains information of mobile genetic elements         ity, which evaluates the expected rate at which increases
+including 457 bacteriophage genomes, 1109 plasmids            in the taxonomic perturbation magnitude are expected to
+and 760 prophages [63]. Plasmid associated reads and          increase functional profile shifts [71]. For example, our
+transcripts were then annotated at a cut-off E value          previous study showed that the attenuation values of fecal
+of ≤ ­10−7 criteria with amino acid identity ≥ 80% and        microbiota of neonatal calves increased over age, sug-
+coverage ≥ 70%.                                               gesting an increase in stability is a feature of gut microbi-
+                                                              ota in early life [72]. The attenuation value was calculated
+Identification of bacterial origin of expressed ARGs          according to the method described by Eng and Boren-
+The bacterial origins of the active resistome were pre-       stein [71]. As this method applies 16S rRNA dataset as
+dicted by assigning taxonomy to metatranscriptomic-           input, we extracted 16S rRNA sequences from metatran-
+assembled contigs harboring ARGs using kraken2 [64].          scriptomic datasets using SILVA database of kraken2
+First, the complete genomes for the bacterial domain          [64]. Then the extracted 16S rRNA sequences were
+in NCBI RefSeq (ftp://​ftp.​ncbi.​nlm.​nih.​gov/​genom​es/​   demultiplexed with “demux” plugin and subjected to
+refseq/​bacte​ria/) [65] was downloaded with ‘kraken2-        quality control (QC) using “dada2” plugin [73] of QIIME2
+build –download-library bacteria –db RefSeq’ script.          (version 2020.2) [74] to generate a table containing the
+Ma et al. Animal Microbiome   (2022) 4:38                                                                                       Page 15 of 17
+
+
+
+
+taxonomic composition of a sample. Finally, varying fold       correlation) to + 1.00 (a perfect positive correlation). A
+of perturbations of each community’s taxonomic com-            rho value higher than 0.40 or lower than − 0.40 as well as
+position was simulated and the average shift in the func-      P value ≤ 0.05 is considered as significant correlation.
+tional profile of a community as a power function of the
+taxonomic perturbation magnitude was established as:           Supplementary Information
+                                                               The online version contains supplementary material available at https://​doi.​
+            1 b                                                org/​10.​1186/​s42523-​022-​00189-6.
+      f =      t
+            ea
+                                                                 Additional file 1. Table S1–S14.
+  where t indicates the magnitude of simulated taxo-
+                                                                 Additional file 2. Fig. S1–S8.
+nomic perturbation, f indicates the expected shift in
+                                                                 Additional file 3: Table S15. The primers used for PCR analysis of tetW,
+functional capacity, a (attenuation) is defined as inversely     tetQ, and mefA genes.
+proportional to the response curve slope, indicating the
+expected rate at which increases in the taxonomic per-
+                                                               Acknowledgements
+turbation magnitude are expected to increase functional        The authors are sincerely grateful to Dr. C. Fitzsimmons, Mr. B. Irving and
+profile shifts, b (buffering) indicates how large a pertur-    staff at Roy Berg Kinsella Ranch for animal trial and providing all phenotypic
+bation must be before a functional profile shift becomes       records of beef steers phenotypic data collection. We appreciate Y. Chen, X.
+                                                               Sun, and F. Cox for their assistance on the DNA/RNA isolation and sequencing
+noticeable and approaches the expected shift magni-            library construction. We thank all members from Guan lab for their help on
+tude defined by attenuation [71]. As the buffering val-        sampling. We also appreciate Mr. Yingnan Ju from Indiana University for his
+ues did not correlate with the diversity or abundance of       inputs in data processing. We thank all members from Guan lab for their help
+                                                               on sampling.
+expressed ARGs, they were not reported.
+                                                               Author contributions
+                                                               TM and LLG designed this study. LLG provided funding. FL performed the
+Calculations and statistical analyses                          DNA/RNA isolation, mRNA enrichment, and sequencing of library construc-
+The abundance of ARG classes, total ARGs, and individ-         tion. TM, WG and FL conducted bioinformatics and statistical analyses. TM, RZ,
+ual ARG were calculated as ‘number of reads per million        TAM, YT, QD and LLG were responsible for the data interpretation and manu-
+                                                               script writing. All authors read and approved the final manuscript.
+of post-QC metagenomic/metatranscriptomic reads’ or
+‘number of assemblies per million of post-QC metagen-          Funding
+omic/metatranscriptomic assemblies. Difference in the          This work was financially supported by Ministry of Alberta Agriculture and
+                                                               Forestry (2015P008R and 2018F095R) as well as the NSERC Discovery Grant
+proportion of post-QC metagenomic/metatranscrip-               and the Genome Alberta “Omics” project held by LLG and TAM. In addition, TM,
+tomic reads aligned to bovine genome, the abundance            YT, and QD was supported by the Agricultural Science and Technology Inno-
+of ARGs and ARG transcripts among breeds were ana-             vation Program (CAAS-ASTIP-2017-FRI-04) and Central Public-interest Scientific
+                                                               Institution Basal Research Fund (Y2022QC10).
+lyzed using the Kruskal–Wallis test in R (version 3.6.1).
+The P-value of multiple comparison of breed effect was         Availability of data and materials
+adjusted into false discovery rate (FDR) using the Ben-        Rumen metagenome and total-RNA-based metatranscriptome sequences
+                                                               were deposited into NCBI Sequence Read Archive (SRA) with accession
+jamini–Hochberg algorithm using ‘dunnTest’ function            number SRS4217479, and SRS4211817-SRS4211863 under bioproject number
+in R. The effect size of multiple comparisons was con-         PRJNA448333.
+ducted using ‘Cohen’s d’ function in R. Circos plot analy-
+sis was performed in R using the RCircos package [75].         Declarations
+Alpha diversity indices, including Chao1 and Simpson’s
+                                                               Ethics approval and consent to participate
+index, was performed using ‘chao1’ and ‘diversity’ func-       The present study received research ethics approval from the Livestock Care
+tions in R, respectively. Principle Coordinate Analysis        Committee of the University of Alberta (Protocol No.: AUP00000882), following
+(PCoA) based on Bray–Curtis distance was performed             the guideline of the Canadian Council on Animal Care [76].
+for the ARGs and ARG trasncripts using ‘betadisper’            Consent for publication
+and the results were visualized using ‘plot’ function in       Not applicable.
+R. Spearman correlation analysis was performed for the
+                                                               Competing interests
+abundance of expressed ARGs and RFI, functional pro-           The authors declare that they have no competing interests.
+files, and attenuationn value of active microbiome and
+the results were visulized using ‘ggscatter’ and ‘ggplot2’     Author details
+                                                               1
+                                                                 Key Laboratory of Feed Biotechnology of the Ministry of Agriculture and Rural
+functions in R Studio. The P-value of Spearman correla-        Affairs, Institute of Feed Research of Chinese Academy of Agricultural Sci-
+tions were corrected for multiple inference using Holm’s       ences, Beijing 100081, China. 2 4‑16F, Agriculture/Forestry Center, Department
+method using ‘rcorr.adjust’ function in R. Significant         of Agricultural, Food and Nutritional Science, University of Alberta, Edmon-
+                                                               ton, AB T6G 2P5, Canada. 3 Lethbridge Research and Development Centre,
+difference was declared at P ≤ 0.05 and tendencies at
+0.05 < P ≤ 0.10. The Spearman’s correlation coefficient,
+known as rho (ρ), ranges from − 1.00 (a perfect negative
+Ma et al. Animal Microbiome          (2022) 4:38                                                                                                      Page 16 of 17
+
+
+
+
+Agriculture and Agri-Food Canada, Lethbridge, AB T1J 4P4, Canada. 4 State          20. Zaheer R, Lakin SM, Polo RO, Cook SR, Larney FJ, Morley PS, et al.
+Key Laboratory of Grassland Agro‑Ecosystems, International Centre of Tibetan           Comparative diversity of microbiomes and resistomes in beef feedlots,
+Plateau Ecosystem Management, School of Life Sciences, Lanzhou University,             downstream environments and urban sewage influent. BMC Microbiol.
+Lanzhou 730000, China.                                                                 2019;19:197.
+                                                                                   21. Rovira P, McAllister T, Lakin SM, Cook SR, Doster E, Noyes NR, et al.
+Received: 24 September 2021 Accepted: 23 May 2022                                      Characterization of the microbial resistome in conventional and “raised
+                                                                                       without antibiotics” beef and dairy production systems. Front Microbiol.
+                                                                                       2019;10:1980.
+                                                                                   22. Canadian Integrated Program for Antimicrobial Resistance Surveillance.
+                                                                                       2018. http://​www.​phac-​aspc.​gc.​ca/​cipars-​picra/​pubs-​eng.​php#​ar.
+References                                                                         23. Sabino YN, Santana MF, Oyama LB, Santos FG, Moreira AJ, Huws SA, et al.
+1. Cogliani C, Goossens H, Greko C. Restricting antimicrobial use in food              Characterization of antibiotic resistance genes in the species of the
+    animals: lessons from Europe: banning nonessential antibiotic uses in              rumen microbiota. Nat Commun. 2019;10:5252.
+    food animals is intended to reduce pools of resistance genes. Microbe.         24. Wang Y, Hu Y, Liu F, Cao J, Lv N, Zhu B, et al. Integrated metagenomic and
+    2011;6:274–9.                                                                      metatranscriptomic profiling reveals differentially expressed resistomes in
+2. Van Boeckel TP, Brower C, Gilbert M, Grenfell BT, Levin SA, Robinson TP,            human, chicken, and pig gut microbiomes. Environ Int. 2020;138: 105649.
+    et al. Global trends in antimicrobial use in food animals. Proc Natl Acad      25. Kircher M, Heyn P, Kelso J. Addressing challenges in the production and
+    Sci. 2015;112:5649–54.                                                             analysis of illumina sequencing data. BMC Genomics. 2011;12:382.
+3. Campagnolo ER, Johnson KR, Karpati A, Rubin CS, Kolpin DW, Meyer                26. Gaulke CA, Schmeltzer ER, Dasenko M, Tyler BM, Thurber RV, Sharpton
+    MT, et al. Antimicrobial residues in animal waste and water resources              TJ. Evaluation of the effects of library preparation procedure and sample
+    proximal to large-scale swine and poultry feeding operations. Sci Total            characteristics on the accuracy of metagenomic profiles. mSystems.
+    Environ. 2002;299:89–95.                                                           2021;6:e00440-21.
+4. Heuer H, Solehati Q, Zimmerling U, Kleineidam K, Schloter M, Müller T,          27. Kav AB, Sasson G, Jami E, Doron-Faigenboim A, Benhar I, Mizrahi
+    et al. Accumulation of sulfonamide resistance genes in arable soils due            I. Insights into the bovine rumen plasmidome. Proc Natl Acad Sci.
+    to repeated application of manure containing sulfadiazine. Appl Environ            2012;109:5452–7.
+    Microbiol. 2011;77:2527–30.                                                    28. Jain R, Rivera MC, Moore JE, Lake JA. Horizontal gene transfer accelerates
+5. Davies J, Davies D. Origins and Evolution of Antibiotic Resistance. Micro-          genome innovation and evolution. Mol Biol Evol. 2003;20:1598–602.
+    biol Mol Biol Rev. 2010;74:417–33.                                             29. Munita JM, Arias CA. Mechanisms of antibiotic resistance Microbiol Spect.
+6. Hao H, Cheng G, Iqbal Z, Ai X, Hussain HI, Huang L, et al. Benefits and             2016;4:1–37.
+    risks of antimicrobial use in food-producing animals. Front Microbiol.         30. Parsley LC, Consuegra EJ, Kakirde KS, Land AM, Harper WF, Liles MR.
+    2014;5:288.                                                                        Identification of diverse antimicrobial resistance determinants carried
+7. Liu J, Taft DH, Maldonado-Gomez MX, Johnson D, Treiber ML, Lemay DG,                on bacterial, plasmid, or viral metagenomes from an activated sludge
+    et al. The fecal resistome of dairy cattle is associated with diet during          microbial assemblage. Appl Environ Microbiol. 2010;76:3753–7.
+    nursing. Nat Commun. 2019;10:4406.                                             31. Zhang T, Zhang XX, Ye L. Plasmid metagenome reveals high levels of anti-
+8. Gao P, Ma C, Sun Z, Wang L, Huang S, Su X, et al. Feed-additive probiotics          biotic resistance genes and mobile genetic elements in activated sludge.
+    accelerate yet antibiotics delay intestinal microbiota maturation in broiler       PLoS ONE. 2011;6: e26041.
+    chicken. Microbiome. 2017;5:91.                                                32. Lee K, Kim D-W, Lee D-H, Kim Y-S, Bu J-H, Cha J-H, et al. Mobile resistome
+9. Wright GD. The antibiotic resistome: the nexus of chemical and genetic              of human gut and pathogen drives anthropogenic bloom of antibiotic
+    diversity. Nat Rev Microbiol. 2007;5:175–86.                                       resistance. Microbiome. 2020;8:2.
+10. D’Costa VM, McGrann KM, Hughes DW, Wright GD. Sampling the antibi-             33. Call DR, Singer RS, Meng D, Broschat SL, Orfe LH, Anderson JM, et al.
+    otic resistome. Science. 2006;311:374–7.                                           blaCMY-2-positive IncA/C plasmids from Escherichia coli and Salmonella
+11. Thomas M, Webb M, Ghimire S, Blair A, Olson K, Fenske GJ, et al. Metagen-          enterica are a distinct component of a larger lineage of plasmids. Antimi-
+    omic characterization of the effect of feed additives on the gut microbi-          crob Agents Chemother. 2010;54:590–6.
+    ome and antibiotic resistome of feedlot cattle. Sci Rep. 2017;7:12257.         34. Kehrenberg C, Catry B, Haesebrouck F, de Kruif A, Schwarz S. Novel
+12. Auffret MD, Dewhurst RJ, Duthie CA, Rooke JA, Wallace RJ, Freeman TC,              spectinomycin/streptomycin resistance gene, aadA14, from Pasteurella
+    et al. The rumen microbiome as a reservoir of antimicrobial resistance             multocida. Antimicrob Agents Chemother. 2005;49:3046–9.
+    and pathogenicity genes is directly affected by diet in beef cattle. Micro-    35. Chopra I, Roberts M. Tetracycline antibiotics: Mode of action, applications,
+    biome. 2017;5:159.                                                                 molecular biology, and epidemiology of bacterial resistance. Microbiol
+13. Bickhart DM, Watson M, Koren S, Panke-Buisse K, Cersosimo LM, Press MO,            Mol Biol Rev. 2001;65:232–60.
+    et al. Assignment of virus and antimicrobial resistance genes to microbial     36. Barbosa TM, Scott KP, Flint HJ. Evidence for recent intergenic transfer of
+    hosts in a complex microbial community by combined long-read assem-                a new tetracycline resistance gene, tet(W), isolated from Butyrivibrio
+    bly and proximity ligation. Genome Biol. 2019;20:1–8.                              fibrisolvens, and the occurrence of tet(O), in ruminal bacteria. Environ
+14. Xue MY, Xie YY, Zhong YF, Liu JX, Guan LL, Sun HZ. Ruminal resistome               Microbiol. 1999;1:53–64.
+    of dairy cattle is individualized and the resistotypes are associated with     37. Stalder T, Press MO, Sullivan S, Liachko I, Top EM. Linking the resistome
+    milking traits. Anim Microbiome. 2021;3:18.                                        and plasmidome to the microbiome. ISME J. 2019;13:2437–46.
+15. Hitch TCA, Thomas BJ, Friedersdorff JCA, Ougham H, Creevey CJ. Deep            38. Burton JN, Liachko I, Dunham MJ, Shendure J. Species-level deconvolu-
+    sequence analysis reveals the ovine rumen as a reservoir of antibiotic             tion of metagenome assemblies with Hi-C-based contact probability
+    resistance genes. Environ Pollut. 2018;235:571–5.                                  maps. G3 (Bethesda). 2014;4:1339–46.
+16. Sorek R, Cossart P. Prokaryotic transcriptomics: a new view on regulation,     39. Henderson G, Cox F, Ganesh S, Jonker A, Young W, Global Rumen Census
+    physiology and pathogenicity. Nat Rev Genet. 2010;11:9–16.                         Collaborators, et al. Rumen microbial community composition varies with
+17. Ju F, Beck K, Yin X, Maccagnan A, McArdell CS, Singer HP, et al. Wastewater        diet and host, but a core microbiome is found across a wide geographi-
+    treatment plant resistomes are shaped by bacterial composition, genetic            cal range. Sci Rep. 2015;5:14567.
+    exchange, and upregulated expression in the effluent microbiomes. ISME         40. Zhou M, Peng YJ, Chen Y, Klinger CM, Oba M, Liu JX, et al. Assessment
+    J. 2019;13:346–60.                                                                 of microbiome changes after rumen transfaunation: implications on
+18. Carr R, Borenstein E. Comparative analysis of functional metagenomic               improving feed efficiency in beef cattle. Microbiome. 2018;6:62.
+    annotation and the mappability of short reads. PLoS ONE. 2014;9:               41. Li F, Li C, Chen Y, Liu J, Zhang C, Irving B, et al. Host genetics influence the
+    e105776.                                                                           rumen microbiota and heritable rumen microbial features associate with
+19. Li F, Guan LL. Metatranscriptomic profiling reveals linkages between the           feed efficiency in cattle. Microbiome. 2019;7:92.
+    active rumen microbiome and feed efficiency in beef cattle. Appl Environ       42. Cohen J. Statistical Power Analysis for the Behavioral Sciences. New York:
+    Microbiol. 2017;83:e00061-e117.                                                    Routledge Academic; 1988.
+Ma et al. Animal Microbiome          (2022) 4:38                                                                                                       Page 17 of 17
+
+
+
+
+43. Martínez JL. Antibiotics and antibiotic resistance genes in natural envi-      65. O’Leary NA, Wright MW, Brister JR, Ciufo S, Haddad D, McVeigh R,
+    ronments. Science. 2008;321:365–6.                                                 et al. Reference sequence (RefSeq) database at NCBI: current status,
+44. Martínez JL, Sánchez MB, Martínez-Solano L, Hernandez A, Garmendia                 taxonomic expansion, and functional annotation. Nucleic Acids Res.
+    L, Fajardo A, et al. Functional role of bacterial multidrug efflux pumps in        2016;44:D733–45.
+    microbial natural ecosystems. FEMS Microbiol Rev. 2009;33:430–49.              66. Stewart RD, Auffret MD, Warr A, Walker AW, Roehe R, Watson M.
+45. Aminov RI. The role of antibiotics and antibiotic resistance in nature.            Compendium of 4,941 rumen metagenome-assembled genomes for
+    Environ Microbiol. 2009;11:2970–88.                                                rumen microbiome biology and enzyme discovery. Nat Biotechnol.
+46. Ormerod KL, Wood DL, Lachner N, Gellatly SL, Daly JN, Parsons JD,                  2019;37:953–61.
+    Dal’Molin CGO, Palfreyman RW, Nielsen LK, Cooper MA, Morrison M,               67. Lu J, Breitwieser FP, Thielen P, Salzberg SL. Bracken: estimating species
+    Hansbro PM, Hugenholtz P. Genomic characterization of the uncultured               abundance in metagenomics data. Peerj Comput Sci. 2017;3: e104.
+    Bacteroidales family S24–7 inhabiting the guts of homeothermic animals.        68. Llorens C, Futami R, Covelli L, Dominguez-Escriba L, Viu JM, Tamarit D,
+    Microbiome. 2016;4:36.                                                             et al. The Gypsy Database (GyDB) of mobile genetic elements: Release
+47. Kamke J, Kittelmann S, Soni P, Li Y, Tavendale M, Ganesh S, Janssen                2.0. Nucleic Acids Res. 2011;39(suppl 1):D70–4.
+    PH, Shi W, Froula J, Rubin EM, Attwood GT. Rumen metagenome and                69. Hyatt D, Chen GL, LoCascio PF, Land ML, Larimer FW, Hauser LJ. Prodigal:
+    metatranscriptome analyses of low methane yield sheep reveals a                    prokaryotic gene recognition and translation initiation site identification.
+    Sharpea-enriched microbiome characterised by lactic acid formation and             BMC Bioinform. 2010;11:119.
+    utilisation. Microbiome. 2016;4:56.                                            70. Aramaki T, Blanc-Mathieu R, Endo H, Ohkubo K, Kanehisa M, Goto S, et al.
+48. Kageyama A, Benno Y, Nakase T. Phylogenetic and phenotypic evidence                KofamKOALA: KEGG Ortholog assignment based on profile HMM and
+    for the transfer of Eubacterium aerofaciens to the genus Collinsella               adaptive score threshold. Bioinformatics. 2020;36:2251–2.
+    as Collinsella aerofaciens gen. nov., comb. nov. Int J Syst Bacteriol.         71. Eng A, Borenstein E. Taxa-function robustness in microbial communities.
+    1999;49:557–65.                                                                    Microbiome. 2018;6:45.
+49. Purushe J, Fouts DE, Morrison M, White BA, Mackie RI, North American           72. Ma T, Villot C, Renaud D, Skidmore A, Chevaux E, Steele M, et al. Linking
+    Consortium for Rumen Bacteria, et al. Comparative genome analysis of               perturbations to temporal changes in diversity, stability, and composi-
+    Prevotella ruminicola and Prevotella bryantii: insights into their environ-        tions of neonatal calf gut microbiota: prediction of diarrhea. ISME J.
+    mental niche. Microb Ecol. 2010;60:721–9.                                          2020;14:2223–35.
+50. Suen G, Stevenson DM, Bruce DC, Chertkov O, Copeland A, Cheng J-F,             73. Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJA, Holmes SP.
+    et al. Complete genome of the cellulolytic ruminal bacterium Rumino-               DADA2: high-resolution sample inference from Illumina amplicon data.
+    coccus albus 7. J Bacteriol. 2011;193:5574–5.                                      Nat Methods. 2016;13:581–3.
+51. McCoun M, Oyebade A, Estrada-Reyes ZM, Pech-Cervantes AA, Ogunade              74. Bolyen E, Rideout JR, Dillon MR, Bokulich NA, Abnet CC, Al-Ghalith GA,
+    IM. Effects of multi-species direct-fed microbial products on ruminal              et al. Reproducible, interactive, scalable and extensible microbiome data
+    metatranscriptome and carboxyl-metabolome of beef steers. Animals.                 science using QIIME2. Nat Biotechnol. 2019;37:852–7.
+    2021;11:72.                                                                    75. Zhang H, Meltzer P, Davis S. RCircos: an R package for Circos 2D track
+52. Lozupone CA, Stombaugh JI, Gordon JI, Jansson JK, Knight R. Diver-                 plots. BMC Bioinformatics. 2013;14:244.
+    sity, stability and resilience of the human gut microbiota. Nature.            76. Olfert ED, Cross BM, McWilliam AA. Guide to the Care and Use of Experi-
+    2012;13:220–30.                                                                    mental Steers. Ottawa: Canadian Council on Animal Care; 1993.
+53. Li F, Hitch TC, Chen Y, Creevey CJ, Guan LL. Comparative metagenomic
+    and metatranscriptomic analyses reveal the breed effect on the rumen
+    microbiome and its associations with feed efficiency in beef cattle. Micro-    Publisher’s Note
+    biome. 2019;7:6.                                                               Springer Nature remains neutral with regard to jurisdictional claims in pub-
+54. Yu Z, Morrison M. Improved extraction of PCR-quality community DNA             lished maps and institutional affiliations.
+    from digesta and fecal samples. Biotechniques. 2004;36:808–12.
+55. Li F, Henderson G, Sun X, Cox F, Janssen PH, Guan LL. Taxonomic assess-
+    ment of rumen microbiota using total RNA and targeted amplicon
+    sequencing approaches. Front Microbiol. 2016;7:987.
+56. Bolger AM, Lohse M, Usadel B. Trimmomatic: a flexible trimmer for Illu-
+    mina sequence data. Bioinformatics. 2014;30:2114–20.
+57. Kim D, Pertea G, Trapnell C, Pimentel H, Kelley R, Salzberg SL. TopHat2:
+    accurate alignment of transcriptomes in the presence of insertions, dele-
+    tions and gene fusions. Genome Biol. 2013;14:R36.
+58. Yin X, Jiang XT, Chai B, Li L, Yang Y, Cole JR, et al. ARGs-OAP v2.0 with an
+    expanded SARG database and Hidden Markov Models for enhancement
+    characterization and quantification of antibiotic resistance genes in
+    environmental metagenomes. Bioinformatics. 2018;34:2263–70.
+59. Yang Y, Jiang X, Chai B, Ma L, Li B, Zhang A, et al. ARGs-OAP: online analy-
+    sis pipeline for antibiotic resistance genes detection from metagenomic
+    data using an integrated structured ARG-database. Bioinformatics.
+    2016;32:2346–51.
+                                                                                       Ready to submit your research ? Choose BMC and benefit from:
+60. Yang Y, Li B, Ju F, Zhang T. Exploring variation of antibiotic resistance
+    genes in activated sludge over a four-year period through a metagen-
+                                                                                         • fast, convenient online submission
+    omic approach. Environ Sci Technol. 2013;47:10197–205.
+61. Li D, Liu CM, Luo R, Sadakane K, Lam TW. MEGAHIT: an ultra-fast single-              • thorough peer review by experienced researchers in your field
+    node solution for large and complex metagenomics assembly via suc-                   • rapid publication on acceptance
+    cinct de Bruijn graph. Bioinformatics. 2015;31:1674–6.
+                                                                                         • support for research data, including large and complex data types
+62. Buchfink B, Xie C, Huson DH. Fast and sensitive protein alignment using
+    DIAMOND. Nat Methods. 2015;12:59–60.                                                 • gold Open Access which fosters wider collaboration and increased citations
+63. Leplae R, Lima-Mendez G, Toussaint A. ACLAME: a CLAssifica-                          • maximum visibility for your research: over 100M website views per year
+    tion of Mobile genetic Elements, update 2010. Nucleic Acids Res.
+    2010;38:D57-61.                                                                    At BMC, research is always in progress.
+64. Wood DE, Lu J, Langmead B. Improved metagenomic analysis with
+    Kraken2. Genome Biol. 2019;20:257.                                                 Learn more biomedcentral.com/submissions
+

@@ -1,0 +1,1384 @@
+                  ARTICLE
+                  https://doi.org/10.1038/s41467-019-12111-x                 OPEN
+
+                  The fecal resistome of dairy cattle is associated
+                  with diet during nursing
+                  Jinxin Liu 1,2, Diana H. Taft1,2, Maria X. Maldonado-Gomez1,2, Daisy Johnson1,2, Michelle L. Treiber                                             1,3,
+
+                  Danielle G. Lemay 3,4,5, Edward J. DePeters6 & David A. Mills1,2,7
+1234567890():,;
+
+
+
+
+                  Antimicrobial resistance is a global public health concern, and livestock play a signiﬁcant role
+                  in selecting for resistance and maintaining such reservoirs. Here we study the succession of
+                  dairy cattle resistome during early life using metagenomic sequencing, as well as the rela-
+                  tionship between resistome, gut microbiota, and diet. In our dataset, the gut of dairy calves
+                  serves as a reservoir of 329 antimicrobial resistance genes (ARGs) presumably conferring
+                  resistance to 17 classes of antibiotics, and the abundance of ARGs declines gradually during
+                  nursing. ARGs appear to co-occur with antibacterial biocide or metal resistance genes.
+                  Colostrum is a potential source of ARGs observed in calves at day 2. The dynamic changes in
+                  the resistome are likely a result of gut microbiota assembly, which is closely associated with
+                  diet transition in dairy calves. Modiﬁcations in the resistome may be possible via early-life
+                  dietary interventions to reduce overall antimicrobial resistance.
+
+
+
+
+                  1 Department of Food Science and Technology, Robert Mondavi Institute for Wine and Food Science, University of California, Davis, One Shields Ave., Davis,
+
+                  CA 95616, USA. 2 Foods for Health Institute, University of California, Davis, California, One Shields Ave., Davis, CA 95616, USA. 3 USDA ARS Western
+                  Human Nutrition Research Center, 430 West Health Sciences Dr., Davis, CA 95616, USA. 4 Genome Center, University of California, 451 Health Science Dr.,
+                  Davis, CA 95616, USA. 5 Department of Nutrition, University of California, Davis, California, Davis, CA 95616, USA. 6 Department of Animal Science,
+                  University of California, Davis, California, Davis, CA 95616, USA. 7 Department of Viticulture and Enology, Robert Mondavi Institute for Wine and Food
+                  Science, University of California, Davis, California, One Shields Ave., Davis, CA 95616, USA. Correspondence and requests for materials should be addressed
+                  to D.A.M. (email: damills@ucdavis.edu)
+
+                  NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                 1
+ARTICLE                                                                    NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x
+
+
+
+
+A
+         ntimicrobial resistance (AMR) is a worldwide public                  mothers was also studied to identify potential migration of both
+         health threat1 with increasing incidence of multidrug                bacterial strains and ARGs to dairy calves. The co-occurrence of
+         resistance found in clinical pathogens2,3. The global dis-           BMRGs and ARGs was explored to assess the risk of heavy metals
+semination of antimicrobial resistance genes (ARGs), including                and biocides in selecting for resistance in the absence of anti-
+emerging resistances to “last resort” antibiotics such as carbape-            biotics. A time-course comparison of carbohydrate-active
+nem and colistin, prompts the study of novel methods to control               enzymes in the fecal microbiome of dairy calves documented
+the bacterial clades that harbor and propagate ARGs4,5. In                    the relationship between diet and the resistome over time. These
+addition to pathogens, commensal bacteria are also reservoirs of              ﬁndings provide a comprehensive view of the dairy cattle resis-
+ARGs and inﬂuence AMR transmission6,7. Compared with                          tome in early life and shed light on interventions leveraging
+human applications, antibiotics are used considerably more for                dietary modiﬁcations to mitigate AMR in food-producing
+livestock. AMR in livestock limits therapeutic options and creates            animals.
+reservoirs of resistance that can be transmitted to humans via the
+food chain or environmental efﬂuents. Although such transmis-
+sion may compromise treatment of human infections8,9, in-depth                Results
+investigations employing metagenomic sequencing to study the                  The gut microbiota is rapidly assembled in dairy calves. In
+diversity and abundance of ARGs, and in particular the genes                  order to explore how the bovine resistome changes during early
+possessed by commensal bacteria in food-producing animals (e.g.,              life it was necessary to ﬁrst proﬁle the taxonomic changes in
+cattle), remains limited10.                                                   calves. To assess these dynamic microbiota variances, fecal sam-
+   The reservoirs of ARGs present in food-producing animals                   ples were collected from 22 dairy calves (n = 484) over the ﬁrst
+commonly confer resistance to clinically important antibiotics11.             10 weeks of life (Fig. 1a). All DNA samples were initially sub-
+The prevalence of antibiotic-resistant bacteria, such as Escherichia          jected to ribosomal marker gene sequencing, and ~9 million
+coli and Salmonella species, in dairy cattle is typically age-                quality-ﬁltered 16S rRNA gene sequences were obtained with
+dependent with a higher abundance in earlier stages of life (i.e.,            18992 ± 5370 (mean ± s.d.) reads per sample. The data revealed
+pre-weaned calf) albeit this pattern is not necessarily associated            that the fecal microbial community was assembled rapidly with
+with recent use of antimicrobials12,13. Data on the impact of other           alpha diversity as measured by both Chao1 richness and Shannon
+factors such as diet (milk vs. solid food)14, herd size and farm              index signiﬁcantly increasing over time (GEE; P < 0.001 for both
+type15 on the presence of antibiotic-resistant E. coli in calves              models) (Fig. 1b). Sequencing data also displayed a temporal
+remains inconclusive. In addition, antibacterial biocides and                 change in microbial structure (GUniFrac, PERMANOVA test by
+heavy metals, e.g. copper sulfate, are commonly used as additives             adonis2; P = 0.005) (Fig. 1c, d). Over 60% of the fecal microbiota
+in animal feed and may impose a long-term selection pressure for              was represented by the bacteria classiﬁed into the families
+AMR16. Studies have suggested the co-selection of biocide and                 Ruminococcaceae, Lachnospiraceae, and Bacteroidaceae (Fig. 1d).
+antibiotic resistances in agricultural soil, water17, and swine               Interestingly, Enterobacteriaceae accounted for ~25% of the fecal
+manure18; however metagenomic validation of co-occurrence                     microbiota in the ﬁrst week of life of dairy calves, during provi-
+between ARGs and biocide/metal resistance genes (BMRGs) in                    sion of colostrum and milk replacer, but the relative abundance of
+cattle during nursing is currently lacking.                                   this family decreased signiﬁcantly afterward to less than 5%
+   In dairy cattle, the rumen microbial community is necessary to             (Kruskal–Wallis; P < 0.05) (Fig. 1d). Although dairy calves had
+convert dietary plant substrates into accessible nutrients and has            constant access to a calf starter diet from day 2, milk replacer
+been studied from birth to adulthood19,20. Dietary transitions                served as the primary source of nutrients and energy during the
+during the early life (i.e., nursing) of calves drive changes of the          ﬁrst few weeks of life, but as time passed calves ate an increasing
+gut microbiota21, including the progressive acquisition of species            amount of calf starter (Fig. 1a). In summary, the fecal microbiota
+capable of digesting complex carbohydrates. In a recent study,                of dairy calves increased in diversity over time as the animals aged
+Auffret et al.22 tested the inﬂuence of diet on rumen functional              and their diets became more diverse.
+genes by comparing the rumen contents from concentrate-fed                       Bovine colostrum, the ﬁrst food given to calves, serves as a
+and forage-fed beef cattle. Interestingly, the authors found that             reservoir of bacteria27,28, and likely contributes to seeding the
+the rumen resistome (the collection of all ARGs) composition is               early-life calf gut microbiota. To examine this, colostrum samples
+signiﬁcantly related to diet, and that both the diversity and                 collected from dairy cows (n = 22) were also sequenced. After
+abundance of ARGs were higher in concentrate-fed animals22.                   quality ﬁltration, a total of 250184 16S rRNA reads were obtained
+These ﬁndings clearly suggest that diet-driven dynamic change of              for 44 colostrum samples with 5686 ± 427 (mean ± s.d.) sequences
+the gut microbiome has the potential to modify the gut resistome.             per sample. The ﬁrst and second colostrum that the calves were
+While the microbial communities of all compartments in the                    given during the ﬁrst day of life, exhibited similar alpha diversities
+gastrointestinal tract (GIT) of dairy cattle are important23, bac-            (Shannon index; Kruskal–Wallis; P > 0.05) (Supplementary
+teria harboring ARGs in the fecal microbiota, are more likely to              Fig. 1a) and indistinguishable composition based on beta diversity
+contaminate the wider environment24. Studies have proﬁled the                 measurements (GUniFrac; PERMANOVA; P > 0.05) (Supple-
+fecal microbial community of dairy animals from birth25 to ﬁrst               mentary Fig. 1b). Colostrum was dominated by bacteria classiﬁed
+lactation26, but the proﬁle of resistome over time has not been               into the families Streptococcaceae, Enterobacteriaceae, and
+characterized. In particular, the relationship between the chan-              Enterococcaceae, representing a combined ~90% of the micro-
+ging bacterial populations in cattle feces and antimicrobial                  biota (Supplementary Fig. 1c). A substantial portion (~30.6%) of
+resistance remains unknown.                                                   the early dairy fecal microbiota (week 1) were comprised of these
+   To address these knowledge gaps, this study examines the                   families (Fig. 1d) which suggests bacterial transmission.
+hypothesis that the early developing gut microbiome of dairy                     To further test the possibility of bacterial transmission from
+calves serves as an initial point of establishment for bovine-                colostrum to dairy calves, we employed shotgun metagenomic
+associated ARGs and is driven, in part, by dietary changes during             sequencing on paired feces and colostrum samples randomly
+early life. To test this, time-series feces from newborn calves (n =          selected from the larger cohort. Fecal samples from four time
+22) were collected to understand the accumulation of the                      points were included: day 2, day 5, week 3, and week 7.
+microbiome with a subset of the samples metagenome sequenced                  Metagenome binning has the tendency to group closely related
+to explore the resistome. Maternal colostrum from corresponding               species and subspecies29,30, making it a less than ideal approach
+
+2                  NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x                                                                                                             ARTICLE
+
+     a
+                               Week 0                     1         2         3             4                5            6          7            8           9           10
+
+
+                                                                                                     Water (ad libitum)
+
+
+
+
+                                         Colorstrum
+                                                                                  Calf starter (ad libitum)                                                 TMR
+                                                                                     2 × milk replacer                                                1 × milk replacer
+                      22 Dairy calves
+
+                    Fecal microbiome
+
+                   Fecal metagenome
+
+
+     b                                                                                      c
+                       Chao1 richness                         Shannon diversity
+             600                                      5
+                                                                                                       0.4
+
+
+                                                      4                                                                                                                          wk1
+                                                                                                                                                                                 wk2
+             400                                                                                       0.2
+                                                                                                                                              wk1                                wk3
+                                                                                                                                                                                 wk4
+
+
+
+
+                                                                                             NMDS2
+                                                      3                                                                                                                          wk5
+                                                                                                                          wk2                                                    wk6
+                                                                                                       0.0                         wk3                         wk9      wk10
+                                                                                                                                                    wk5 wk7                      wk7
+             200                                                                                                                          wk4       wk6 wk8
+                                                      2                                                                                                                          wk8
+                                                                                                                                                                                 wk9
+                                                                                                                                                                                 wk10
+                                                                                                      −0.2
+                                                      1
+              0                    P < 0.001                             P < 0.001
+                                                                                                                 −0.4           −0.2             0.0              0.2
+                   1 2 3 4 5 6 7 8 9 10                   1 2 3 4 5 6 7 8 9 10
+                                                                                                                                         NMDS1
+                           Weeks                                   Weeks
+
+     d        0%                   25%                          50%                     75%                        100%
+              1                                                                                                                 Ruminococcaceae            Clostridiaceae
+              2                                                                                                                 Lachnospiraceae            Veillonellaceae
+              3                                                                                                                 Bacteroidaceae             Lactobacillaceae
+              4                                                                                                                 Prevotellaceae             Enterococcaceae
+     Weeks
+
+
+
+
+              5                                                                                                                 Enterobacteriaceae         Others
+              6                                                                                                                 Erysipelotrichaceae
+              7                                                                                                                 Coriobacteriaceae
+              8                                                                                                                 Bifidobacteriaceae
+              9                                                                                                                 Streptococcaceae
+             10
+
+Fig. 1 Dairy calf fecal microbiota changes over the ﬁrst 10 weeks of life. a The diet, sampling, and sequencing scheme for dairy calves (n = 22). TMR
+indicates a total mixed ration diet. b Boxplots of alpha diversity as measured by Chao1 richness and Shannon diversity index. The Chao1 richness and
+Shannon index values were presented as the median (central black horizontal line); the lower and upper hinges correspond to the 25th and 75th
+percentiles. Outliers are displayed as small black circles. c 2-dimensional NMDS of dairy fecal samples based on GUniFrac (stress = 0.16). Subsampling to
+obtain equal sample size (n = 22) at each time point was completed prior to performing the ordination analysis and PERMANOVA. The centroid of each
+ellipse represents the group mean, and the shape was deﬁned by the covariance within each group. d Bar plot depicting the relative abundance of bacterial
+families over time; unclassiﬁed taxa and bacterial families which has a relative abundance less than 1% were grouped into “Others”
+
+
+to evaluate bacterial transmission at the strain level. Therefore, we                                   samples which eventually demonstrated distinct genetic proﬁles
+performed metagenome strain proﬁling of the species E. coli using                                       at week 3 (Jaccard; PERMANOVA; P = 0.004) (Supplementary
+two independent approaches, PanPhlAn31 and StrainEst32. E. coli                                         Fig. 2a).
+was chosen for this analysis because Enterobacteriaceae occurred                                           In addition, StrainEst data suggests that there was a greater
+at high relative abundance in feces in dairy calves during the ﬁrst                                     diversity of co-existing E. coli strains in dairy calves at day 2
+days of life and in colostrum; E. coli represents the majority of                                       compared to colostrum samples, and this diversity increased to
+sequences classiﬁed in this family (see Methods). The PanPhlAn                                          day 5 but decreased dramatically at week 3 (Friedman’s test; P =
+results indicate that the E. coli strains from this study have similar                                  0.02) (Supplementary Fig. 2b). On average, there were 63 distinct
+genetic proﬁles and thus were clustered together amongst all the                                        E. coli strains observed in colostrum samples, with 33.13% of
+strains analyzed, including 118 E. coli reference genomes                                               them were shared with dairy calves at day 2. When looking at the
+(Supplementary Fig. 2a). In particular, the dominant E. coli                                            overlap between colostrum samples, day 2, and day 5 samples,
+strains from colostrum and fecal samples at day 2 showed similar                                        15.63% of strains were found in all three samples. By week 3, only
+functional capacities (Jaccard; PERMANOVA; P = 0.15) (Sup-                                              one of the three calves included in the metagenomic sequencing
+plementary Fig. 2a). At day 5, in the fecal samples of dairy calves,                                    subset had high enough levels of E. coli detected for the strain
+dominant E. coli strains started to diverge from colostrum                                              analysis. In this calf, 3.08% of E. coli strains in colostrum were in
+
+NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                                                3
+ARTICLE                                                                        NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x
+
+
+
+                  a             Aminocoumarins
+                                                                                      b
+                                Aminoglycosides                                                      P = 0.002
+                                        Bacitracin
+                                     Betalactams
+                  Cationic antimicrobial peptides                                              0.3
+                                       Elfamycins
+                               Fluoroquinolones                                                                                       Day 2
+
+
+
+
+                                                                                      NMDS2
+                                      Fosfomycin                               0.6
+                                                                                                                                      Day 5
+                                   Glycopeptides                               0.4             0.0                                    Week 3
+                                     Lipopeptides                              0.2
+                                                                                                                                      Week 7
+                                             MLS                               0.0
+                            Multi-drug resistance
+                                         Phenicol                                             –0.3
+                                         Rifampin
+                                    Sulfonamides
+                                    Tetracyclines
+                                    Trimethoprim                                                          –1.0   –0.5   0.0   0.5
+                                                     2          5   3      7                                        NMDS1
+                                                         Days        Weeks
+
+Fig. 2 The fecal resistome structure of dairy calves over time. (a) Dairy calf fecal samples exhibited a broad antibiotic resistance spectrum including
+resistance to 17 classes of antibiotics. The counts data were normalized by 16S rRNA gene and the ARG abundance was expressed as “copy of ARG per
+copy of 16S rRNA gene” (see Methods). b 2-dimensional NMDS of calf resistome based on a Bray-Curtis dissimilarity calculation (stress = 0.02), showing
+changes in resistome structure over time assessed by PERMANOVA. Polygons were applied to group samples at the same time point. Source data are
+provided as a Source Data ﬁle
+
+
+the day 2, day 5, and week 3 fecal samples (Supplementary                            signiﬁcantly over time; starting at 5.14 copies of ARG per 16S
+Fig. 2c). For both strain proﬁling analyses, E. coli was below our                   rRNA gene at day 2, and then declined to 0.77 copies of ARG per
+detection limit at metagenomes from week 7. This is likely due to                    16S rRNA gene at week 7 (Friedman’s test; P = 0.02) (Fig. 3a). As
+the gradually increased gut microbiome diversity and decreased                       expected, we observed small resistome variances between calves
+relative abundance of E. coli over time. Overall, our ﬁndings                        and the sequencing sample size did offer sufﬁcient statistical
+clearly suggest that colostrum acts as a carrier of speciﬁc bacterial                power to capture the dynamic changes of ARGs abundance over
+species that seed and temporally persist in the gut microbiome of                    time (effect size is 6.68-fold decrease of ARG abundance from day
+dairy calves.                                                                        2 to week 7). In contrast to the progressively reduced overall
+                                                                                     abundance of ARGs, the number of ARG types (ARG richness)
+Fecal resistome signiﬁcantly changes over time in dairy calves.                      present in dairy calves increased signiﬁcantly from day 2 to day 5
+To understand the resistome dynamics during early life, shotgun                      and declined gradually afterward (Friedman’s test; P = 0.04)
+metagenomic sequences used for strain analysis were tested for                       (Fig. 3b).
+the presence of ARGs. Sequencing sample size (n = 3 dairy                               By assigning the taxonomy to ARG-containing metagenomic
+calves) was determined based on the fact that dairy calves of the                    contigs, we were able to predict the bacterial origin of observed
+same breed in our cohort have limited genetic diversity, and they                    ARGs. ARGs detected were predicted to belong to 75 different
+were housed in the same way with identical diets, more impor-                        bacterial families, with families Enterobacteriaceae, Lachnospir-
+tantly, at the same age they possess very similar microbiota (16S                    aceae, Enterococcaceae, Ruminococcaceae, Bacteroidaceae, Strep-
+rRNA gene sequencing analysis) and thus we expect small                              tococcaceae, and Clostridiaceae representing 69.45% of the total
+resistome variance between subjects. 135 Gb of Illumina                              ARG abundance and accounting for 96.66% of all detected ARGs
+sequencing data were produced from 12 fecal microbiomes of                           (Fig. 3c). Among these microbial clades, Enterobacteriaceae
+dairy calves, and we acquired 11.2 million 150 bp paired-end                         harbors the most ARGs and the abundance of ARGs assigned to
+reads per sample (on average) after host-subtraction and trim-                       this family gradually decreased over time (Fig. 3c). Over 90% of
+ming. Our analysis with the AMR++ pipeline (see Methods)                             the microbes classiﬁed in Enterobacteriaceae were E. coli
+revealed that dairy calves are a source of 329 ARGs belonging to                     (Supplementary Fig. 4). Consistent with the overall dynamics of
+139 ARG groups (Supplementary Fig. 3, Supplementary Data 1),                         observed ARG richness, the number of different ARGs was
+which represent 39 antibiotic resistance mechanisms. The                             highest at day 5 for all bacterial families and showed a gradual
+detected ARGs were predicted to confer resistance to a collection                    reduction afterward (Fig. 3d).
+of 17 classes of antibiotics in an abundance range of 0–3.75 copies                     Given the prevalence of ARGs potentially contributed by
+of ARG per 16S rRNA gene among samples (Fig. 2a). Over 50%                           Enterobacteriaceae, we assessed the absolute abundance and
+of the ARGs observed in the day 2 samples were predicted to                          explored the resistance proﬁle speciﬁcally for this family. The
+confer a multidrug resistance phenotype; however, the relative                       absolute population of Enterobacteriaceae, as determined by
+abundance of these ARGs decreased afterward. In contrast, tet-                       qPCR, remained relatively constant throughout the sampling
+racycline resistance gradually increased over time reaching a                        period (Supplementary Fig. 5a), however the relative abundance
+relative abundance above 70% of all ARGs at week 7 (Fig. 2a).                        as determined by amplicon sequencing (Fig. 1d and Supplementary
+ARGs predicted to confer resistance to aminoglycosides repre-                        Fig. 5b) showed a dramatic reduction. This reﬂects the expected
+sented a substantial portion of the resistome (~30% of total                         increase in total bacterial population during this early stage of gut
+ARGs), and their abundance was relatively stable throughout the                      microbiome development. Interestingly, the abundance of ARGs
+7 weeks included for analysis (Fig. 2a). In general, we observed                     within the Enterobacteriaceae decreased after week 1 during our
+that the fecal resistome of dairy calves signiﬁcantly changes over                   sampling period (7.6-fold decrease from week 1 to week 7;
+time (Bray-Curtis; PERMANOVA; P = 0.002), with early-life                            Supplementary Fig. 5c) despite the persistent absolute abundance
+samples (day 2 and day 5) forming separate clusters while later                      of this group throughout.
+samples (week 3 and week 7) were more similar (Fig. 2b).                                Importantly, ARGs conferring resistance to MLS (macrolides,
+   In addition to the progressive change in the structure of the                     lincosamides, and streptrogramin A and B) and tetracyclines—
+fecal resistome, the total abundance of observed ARGs decreased                      two medically-important classes of antibiotics—increased within
+
+4                     NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x                                                                                                                                                                                                      ARTICLE
+
+                    a                                                                            b                                         n.s.
+                                                                                                                                                                     c
+                                                                          n.s.                                                      n.s.
+                                                                   n.s.                                                                                              Enterobacteriaceae
+                                                                                                                          250                                                                                                                                1
+
+
+
+                        Total ARGs per copy of 16S-rRNA gene
+                                                               6                                                                                                                                 Lachnospiraceae
+                                                                                                                                                                                                                                                             2
+                                                                                                                                                                                                 Enterococcaceae                                             3
+                                                                                                                          200
+
+
+
+
+                                                                                                     Total ARG richness
+                                                                                                                                                                                  Ruminococcaceae                                                            4
+                                                               4
+                                                                                                                          150                                                                     Bacteroidaceae                                             5
+
+                                                                                                                                                                                        Streptococcaceae
+                                                               2                                                          100
+                                                                                                                                                                                                   Clostridiaceae
+
+                                                                                                                           50                                                                             Others
+
+                                                               0                                                                                                                                                       2       5           3   7
+                                                                   2        5        3   7                                      2  5          3  7
+                                                                    Days             Weeks                                      Days          Weeks                                                                        Days            Weeks
+
+                d
+                                                                                             Day 2                                                Day 5                                                   Week 3                                   Week 7
+                Enterobacteriaceae
+                  Lachnospiraceae
+                  Enterococcaceae
+                 Ruminococcaceae
+                   Bacteroidaceae
+                 Streptococcaceae
+                     Clostridiaceae
+                             Others
+                                                                                 0       100         200                        0           100           200                                     0      100         200               0       100      200
+                                                                                                                                                            ARG richness
+
+Fig. 3 The dynamics of the dairy calf fecal resistome over time. a Boxplot (boxes representing IQRs with median shown in black) of the distribution of total
+ARG abundance in dairy calves from day 2 to week 7. b Boxplot of the number of unique ARGs observed in dairy calves over time. c The predicted bacterial
+families of ARGs and associated resistance gene abundance in dairy calves. The ﬁrst 7 families, which are predicted to represent 69.45% of the total ARG
+abundance and 96.66% of the ARG diversity, are listed here, and the remaining bacterial taxa are grouped into the “Others” category. The taxonomy of ARGs
+was estimated by assigning taxa at the family level to ARG-containing metagenomic-assembled contigs (see Methods). The size scales with the normalized
+abundance of ARGs (per copy of 16S rRNA gene) assigned to the particular family at each time point, and colors were used to distinguish different taxa. d The
+predicted ARG richness of each bacterial family over time. The richness is deﬁned as the number of unique ARGs detected during the AMR++ analysis (see
+Methods). *P < 0.05, and n.s. indicates P > 0.05 by Friedman’s test followed by multiple pairwise comparisons using Nemenyi post-hoc test
+
+the ﬁrst week but remained high at day 5 until the end of
+sampling (Friedman’s test; P < 0.05) (Fig. 4). In particular,                                                                                                                                                Tetracyclines                                         MLS
+tetracycline resistance genes tet32, tet40, tetO, tetQ, and tetW,                                                                                                                                                                                                      n.s.
+and MLS resistance genes including ermB, lnuC, and mefA                                                                                                                                                         n.s.
+                                                                                                                                                                                                             n.s.                                           n.s.
+showed a gradual increase in abundance from day 2 to week 7
+(Supplementary Fig. 6). As a separate validation to metagenomic                                                                                                                                   0.5
+sequencing, quantitative PCR conﬁrmed that the absolute
+                                                                                                                                                                ARGs per copy of 16S-rRNA gene
+
+
+
+
+abundance of tetQ, one highly abundant tetracycline resistance
+gene, increased over time. Speciﬁcally, a 900-fold increase was                                                                                                                                   0.4
+                                                                                                                                                                                                                                               0.10
+observed from day 2 to week 7 in this cohort (Supplementary
+Fig. 7). This qPCR approach conﬁrmed our resistome ﬁndings
+                                                                                                                                                                                                  0.3
+obtained from metagenomic sequencing across a larger number
+of samples (n = 41) from additional calves.
+   Transferrable ARGs, which greatly contribute to the overall                                                                                                                                    0.2
+dissemination of antibiotic resistance, are of speciﬁc concern. To                                                                                                                                                                             0.05
+assess the prevalence of these genes in dairy calves, assembled
+metagenomic contigs were run through ResFinder, a database                                                                                                                                        0.1
+which focuses on acquired ARGs (see Methods). A total of 67
+ARGs with transfer potential were detected in dairy calves,
+conferring resistance to 10 classes of antibiotics (Fig. 5). The                                                                                                                                  0.0                                          0.00
+observed ARGs were predicted to exhibit a wide distribution                                                                                                                                              2       5         3       7                    2          5          3   7
+across 23 families of bacteria; Enterobacteriaceae, Enterococca-                                                                                                                                          Days             Weeks                            Days              Weeks
+ceae, Peptostreptococcaceae, and Streptococcaceae were the
+families have the most ARGs (Fig. 5). Interestingly, a recently-                                                                                           Fig. 4 The distribution of resistance to the class of MLS and tetracyclines.
+discovered gene, optrA, which confers transferable resistance to                                                                                           The analysis was based on the normalized ARGs data from the AMR++
+oxazolidinones and phenicols33, was detected in one of the dairy                                                                                           pipeline (see Methods). *P < 0.05, and n.s. indicates P > 0.05 by Friedman’s
+calves at day 5. This gene was predicted to originate from a                                                                                               test followed by multiple pairwise comparisons using Nemenyi post-hoc
+Staphylococcus sciuri and has not been reported from an animal                                                                                             test. Boxplots representing IQRs with median shown in black
+
+NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                                                                                                                                              5
+ARTICLE                                                                                           NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x
+
+
+       Enterobacteriaceae
+    Peptostreptococcaceae
+
+
+
+
+                                                                                                                                                               Day 2
+      Uncultured bacterium
+       Staphylococcaceae
+        Bifidobacteriaceae
+             Moraxellaceae
+       Enterobacteriaceae
+          Enterococcaceae
+    Peptostreptococcaceae
+      Uncultured bacterium
+         Streptococcaceae
+       Staphylococcaceae
+
+
+
+
+                                                                                                                                                               Day 5
+          Lactobacillaceae
+            Bacteroidaceae
+           Pasteurellaceae
+          Brachyspiraceae
+         Coriobacteriaceae
+             Actinobacteria
+     Porphyromonadaceae
+       Enterobacteriaceae
+          Enterococcaceae                                                                                                                                               3.0
+    Peptostreptococcaceae
+      Uncultured bacterium
+         Streptococcaceae                                                                                                                                               2.5
+      Campylobacteraceae
+       Staphylococcaceae
+
+
+
+
+                                                                                                                                                               Week 3
+          Lactobacillaceae                                                                                                                                              2.0
+            Bacteroidaceae
+            Veillonellaceae
+           Pasteurellaceae                                                                                                                                              1.5
+        Bifidobacteriaceae
+          Brachyspiraceae
+         Coriobacteriaceae                                                                                                                                              1.0
+             Clostridiaceae
+                Hafniaceae
+             Neisseriaceae
+       Enterobacteriaceae
+          Enterococcaceae
+    Peptostreptococcaceae
+      Uncultured bacterium
+         Streptococcaceae
+      Campylobacteraceae
+       Staphylococcaceae
+
+
+
+
+                                                                                                                                                               Week 7
+          Lactobacillaceae
+            Bacteroidaceae
+            Veillonellaceae
+        Bifidobacteriaceae
+            Alcaligenaceae
+          Brachysplraceae
+      Pseudomonadaceae
+             Cloning vector
+       Corynebacteriaceae
+       Erysipelotrichaceae
+                                            spc
+                                aac(6′)-lm
+                                    aadA1
+                                    aadA2
+                                    aadA5
+                                       aadE
+                                  ant(6)-la
+                                  ant(6)-lb
+                                aph(2″)-lb
+                                 aph(2″)-lf
+                                 aph(3′)-la
+                                 aph(3′)-lll
+
+                                          strA
+                                          strB
+                                blaLEN13
+                               blaOXA-61
+                              blaTEM-116
+                               blaTEM-1A
+                               blaTEM-1B
+                               blaTEM-1C
+                                        cepA
+                                      cfxA6
+                                         fosA
+                                      VanC
+                                  VanR-C
+                                  VanS-C
+                                   VanT-C
+                                 VanXY-C
+                                    erm(A)
+                                    erm(B)
+                                   erm(G)
+                                   erm(Q)
+                                    erm(X)
+                                     lnu(A)
+                                     lnu(B)
+                                     lnu(C)
+                                      lsa(A)
+                                    mef(A)
+                                    msr(C)
+                                    msr(D)
+                                       optrA
+                                            cat
+                               cat(pC194)
+                                         catP
+                                    cmlA1
+                                          cmx
+                                          floR
+                                          sul1
+                                          sul2
+                                          sul3
+                                    tet(32)
+                                    tet(39)
+                                    tet(40)
+                                    tet(44)
+                                       tet(A)
+                                       tet(B)
+                                      tet(C)
+                                       tet(L)
+                                      tet(M)
+                                      tet(O)
+                                      tet(Q)
+                                     tet(W)
+                                       tet(Z)
+                                   tetA(P)
+                                   tetB(P)
+                                    dfrA17
+                                       dfrA5
+                                      Aminoglycoside             Betalactams    F      G                 MLS       O   Phenicol   S       Tetracycline     T
+                              F: Fosfomycin; G: Glycopeptide; O: Oxazolidinone; S: Sulphonamide; T: Trimethoprim
+
+Fig. 5 The predicted bacterial families of 67 transferrable ARGs. ARGs were grouped per class of antibiotics. Bacterial families were ranked, top to bottom,
+by diversity of ARGs present, with the families harbor the most diversity of ARGs at the top. Data were obtained from the ResFinder analysis
+
+source in the United States (Fig. 5). In agreement with the total                                     matched the pattern in colostrum (Fig. 6b). Fecal samples indi-
+ARGs prevalence analysis with the AMR++ pipeline, an overall                                          cated an overall higher abundance of observed ARGs than
+increased diversity of transferrable ARGs were observed in dairy                                      colostrum, but colostrum samples showed a higher number of
+calves over time, with day 5 samples enriched with the highest                                        different ARGs present (Fig. 6a, b). In all instances, there was a
+number of different ARGs (Supplementary Fig. 8a). In general,                                         strong and signiﬁcant correlation of the resistome pattern
+the predicted transferrable ARGs were mostly harbored by two                                          between paired colostrum-feces samples (Spearman’s rho = 0.62
+bacterial phyla, Firmicutes (34 genes) and Proteobacteria (28                                         to 0.75, P < 2.2e-16) (Fig. 6c). These data support ﬁndings pre-
+genes), while the bacterial phyla Bacteroidetes, Actinobacteria,                                      sented earlier (Supplementary Fig. 2) suggesting that colostrum
+and Spirochaetes possessed a lesser number of ARGs (4, 5, and 1                                       serves as a carrier for ARGs.
+genes, respectively; Supplementary Fig. 8b). Only limited ARGs
+were shared across phyla (Supplementary Fig. 8b), indicating that
+bacterial phylogeny shapes the gut resistome in dairy cattle. For                                     BMRGs co-select with ARGs. Animals enrolled in this study
+example, the gradually increased ARG, tetQ (Supplementary                                             were not treated with any traditional antibiotics. However,
+Figs. 6 and 7), was mainly predicted in Bacteroidaceae (Fig. 5).                                      exposure of cattle to other compounds, such as antibacterial
+                                                                                                      biocides and metals, may contribute to the promotion of anti-
+                                                                                                      biotic resistance through co-selection16. Thus, understanding the
+Colostrum seeds >90% of early-life ARGs in dairy calves. Given                                        biocide/metal resistome structure will help illuminate possible
+that dairy calf fecal and colostrum samples share several ARG-                                        sources of indirect selective pressure for antibiotic resistance in
+enriched taxa (e.g., E. coli) and the abundance of ARGs in feces                                      dairy calves. Metagenomic sequencing reads of fecal samples were
+reached its highest levels at day 2 (very early stage), we hypo-                                      aligned to the BacMet database, matches were tallied, and nor-
+thesized that colostrum serves a signiﬁcant initial vector of ARGs                                    malized data were used for comparisons (see Methods). A total of
+to calves. To assess this, shotgun metagenomic sequenced                                              104 MRGs (Supplementary Fig. 9, Supplementary Data 2) were
+colostrum samples were analyzed for the presence of ARGs (see                                         detected in dairy calves conferring resistance to a series of 15
+Methods). We produced 38.6 GB Illumina sequencing data from                                           different antibacterial metal compounds including Sb, As, Cd, Cu,
+6 colostrum microbiomes, and ~1.5 million 150 bp paired-end                                           and Ag (Supplementary Fig. 10). In addition, 34 genes found in
+reads per sample were obtained. As expected, of the 105 ARGs                                          samples from dairy calves were predicted to confer a biocide
+detected in colostrum, 73 were present in feces, representing                                         resistance phenotype in the present study (Supplementary Fig. 11,
+~90.1% (73/81) of total ARGs detected in dairy calves (Fig. 6a).                                      Supplementary Data 2). Similar to the dynamics of ARGs in dairy
+The overall resistome structure in early-life feces (day 2) closely                                   calves, we observed diminishing BMRG abundance with time
+
+6                         NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x                                                                                                                                   ARTICLE
+
+     a                                                       b                                                                ARGs (N = 105)
+
+                                                                                                                                                                                                         Colostrum 1
+
+
+
+
+                                                              Calf1
+                                                                                                                                                                                                         Colostrum 2
+                                      Colostrum
+                                                                                                                                                                                                         Feces 1
+
+      Feces                                                                                                                                                                                              Colostrum 3
+
+
+
+
+                                                              Calf2
+                        73                                                                                                                                                                               Colostrum 4
+                                                                                                                                                                                                         Feces 2
+
+          8                                                                                                                                                                                              Colostrum 5
+                                             24
+
+
+
+
+                                                              Calf3
+                                                                                                                                                                                                         Colostrum 6
+                                                                                                                                                                                                         Feces 3
+
+                                                                                                                                                                                  0.00     0.10   0.20
+                                                                                                                                                                                  0.05     0.15
+
+                  c                           = 0.64                                                    = 0.65                                                    = 0.75
+                                             P < 2.2e–16                                       0.20     P < 2.2e–16                                                P < 2.2e–16
+                                    0.15
+                  ARGs in fece of
+
+
+
+
+                                                                             ARGs in fece of
+
+
+
+
+                                                                                                                                       ARGs in fece of
+                                                                                                                                                          0.10
+                   calf #1 (F1)
+
+
+
+
+                                                                              calf #2 (F2)
+
+
+
+
+                                                                                                                                        calf #3 (F3)
+                                                                                               0.15
+                                    0.10
+                                                                                               0.10
+                                                                                                                                                          0.05
+                                    0.05                                                       0.05
+
+                                    0.00                                                       0.00                                                       0.00
+                                           0.00  0.02     0.04   0.06                                 0.00   0.02     0.04    0.06                               0.00   0.02      0.04    0.06
+                                              ARGs in colostrum #1 (C1)                                ARGs in colostrum #1 (C3)                                    ARGs in colostrum #1 (C5)
+
+                                              = 0.62                                                    = 0.67                                                    = 0.64
+                                             P < 2.2e–16                                       0.20     P < 2.2e–16                                                P < 2.2e–16
+                                    0.15
+                  ARGs in fece of
+
+
+
+
+                                                                             ARGs in fece of
+
+
+
+
+                                                                                                                                        ARGs in fece of
+                                                                                                                                                          0.10
+                   calf #1 (F1)
+
+
+
+
+                                                                              calf #2 (F2)
+
+
+
+
+                                                                                                                                         calf #3 (F3)
+                                                                                               0.15
+                                    0.10
+                                                                                               0.10
+                                                                                                                                                          0.05
+                                    0.05
+                                                                                               0.05
+
+                                    0.00                                                       0.00                                                       0.00
+                                           0.00    0.02    0.04       0.06                            0.00   0.02     0.04   0.06                                0.00    0.02    0.04     0.06
+                                              ARGs in colostrum #2 (C2)                                  ARGs in colostrum #2 (C4)                                 ARGs in colostrum #2 (C6)
+
+Fig. 6 The vertical transmission of ARGs from colostrum to dairy calves. a Venn diagram showing shared ARGs between colostrum and day 2 fecal
+samples. b The presence of 105 normalized ARG groups (per AMR+ + pipeline) was denoted as dots in colostrum and day 2 fecal samples, the size of dots
+indicates abundance, and the color of lines indicates animals. c Spearman’s rank correlation coefﬁcient was calculated to study the correlation of ARG-
+patterns in paired colostrum and fecal samples. C represented colostrum sample, F indicated fecal sample; two colostrum samples and one fecal sample
+were collected per calf for this analysis, numbers were added to distinguish samples across animals. Source data are provided as a Source Data ﬁle
+
+
+
+(Friedman’s test; P < 0.05) (Fig. 7a), but the number of different                                                    Changing diet covaries with the fecal resistome in dairy calves.
+resistance genes did not change signiﬁcantly over time (Fried-                                                        Because the calf fecal resistome changed signiﬁcantly during a
+man’s test; P > 0.05) (Fig. 7b). In summary, the abundance of                                                         period of dietary transition, we sought to understand the con-
+BMRGs, together with ARGs, decreased over time, in concert                                                            nection between the modiﬁcation of the diet-related microbiome
+with a relative reduction in Enterobacteriaceae.                                                                      and changes in ARG structure. We primarily focused our func-
+   To assess the potential for co-selection34, the ARGs and                                                           tional analysis on enzymes involved in the digestion of complex
+BMRGs with transfer capability that were present in at least half                                                     carbohydrates, which represent a large portion of the calves’ diet
+of the metagenomic sequenced fecal samples, were used to predict                                                      that is inaccessible to the host37,38. Fecal metagenomes analyzed
+co-occurrence patterns. Network inference modeling35 revealed                                                         for COG and CAZy content revealed a signiﬁcant change in the
+that ARGs and BMRGs were strongly correlated in dairy calves.                                                         functional conﬁguration of fecal microbial communities over time
+In the predicted correlation model, 40 resistance genes (nodes)                                                       (Bray-Curtis; PERMANOVA; P < 0.05 for both cases), with the
+formed three separate clusters while one tetracycline resistance                                                      most substantial differences occurring in the ﬁrst week (day 2 vs.
+gene, tet44, did not show strong correlation with any other genes                                                     day 5) (Fig. 9a, b). Speciﬁcally, a progressive increase in the
+(Fig. 8). In cluster #1, several biocide resistance genes (ttgH, ttgI                                                 number of CAZy enzyme families (CAZy family diversity) was
+and ttgG) co-occurred with the copper resistance genes cusC, cusB                                                     observed (Friedman’s test; P = 0.04) (Fig. 9c). The dairy fecal
+and cusA, and all demonstrated a strong connection to a variety                                                       microbiome was composed of 6 classes of CAZy-annotated
+of betalactam ARGs (mecA, blaEC, ampH, and AmpC). In cluster                                                          enzymes, of which over 70% characterized CAZy proteins were
+#2, another set of copper resistance genes (actP, copR, pcoR, and                                                     classiﬁed as either a glycoside hydrolase or a glycosyltransferase
+tcrB) were positively correlated with Cd and Ag resistance genes.                                                     (Fig. 9d). Of these, the relative abundance of glycoside hydrolases
+Importantly, the majority of these metal resistance genes                                                             increased after day 2, and that of glycosyltransferase decreased.
+exhibited a signiﬁcant correlation with aminoglycosides ARGs                                                          Genes encoding polysaccharide lyases did not appear in the
+(aac(6’)-Im, aph(2”)-Ig, ant(6)-Ia and aph(3’)-Ia) and one MLS                                                        samples until day 5, and other CAZy-associated enzymes (aux-
+ARG (ermB). Antibacterial heavy metals are a common                                                                   iliary activities) were only present on day 2 and day 5 (Fig. 9d).
+“contamination” of animal feed36, and our analysis hereby                                                                 Differential abundance analysis with DESeq2 revealed that 71
+indicated that a co-occurrence between ARGs and BMRGs is                                                              CAZy families signiﬁcantly changed over time in dairy calves,
+likely occurring in dairy cattle.                                                                                     50% of which were glycoside hydrolases (Fig. 10a). Furthermore,
+
+NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                                                                               7
+ARTICLE                                                                                                                          NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x
+
+
+
+                             a                                                                                                        b
+                                                                            Biocide                           Metal                                                  Biocide           Metal
+                                                                                                                                                                       n.s.            n.s.
+                                                                                   *                             *
+                                                               2.0
+                                                                                                                                                       80
+
+
+
+
+                             BMRGs per copy of 16S-rRNA gene
+
+
+
+
+                                                                                                                                      BMRGs richness
+                                                               1.5
+                                                                                                                                                       60
+
+
+                                                               1.0
+
+                                                                                                                                                       40
+
+                                                               0.5
+
+
+                                                                                                                                                       20
+                                                                         2  5       3   7             2  5           3   7                                   2  5          3   7   2  5       3   7
+                                                                         Days       Weeks             Days           Weeks                                   Days          Weeks   Days       Weeks
+
+Fig. 7 The distribution of antibacterial biocide and metal resistance. a Boxplot (boxes representing IQRs with median shown in black) of the abundance of
+normalized BMRGs; BMRGs signiﬁcantly declined over the course of sampling. b Boxplots showing the richness of dairy calves; BMRGs remained
+comparable over time. BMRGs data were normalized by the same method used for normalization of ARG reads (see Methods). *P < 0.05, and n.s. indicates
+P > 0.05 by Friedman’s test
+
+
+
+                                                                                                        AmpC
+                                                                  Cluster 1                                          cusA/ybdE
+                                                                                        mecA
+                                                                                                                                    aph(3 ′)-Ia
+
+                                                                            terC
+                                                                                                              ttgH                                             terE
+                                                                                          cusC/ylcB                         aac(6 ′)-Im
+                                                                                                                                                                                   Tetracyclines
+                                                                     ampH
+                                                                                                                                             cadA/yvgW                             Aminoglycosides
+                                                                                   ygiW
+                                                                                                      ttgG           silP                                             ant(6)-Ia    Betalactams
+                                                               blaEC
+                                                                                                                               aph(2″)-Ig                                          Multi-drug resistance
+                                                                            cusB                                                                            czcR
+                                                                                              ttgI                                                                                 MLS
+                                                                                                              copR
+                                                                                                                                                                         actP
+                                                                                                                                                                                   Copper (Cu)
+                                                               tetW
+                                                                                                                               czcP
+                                                                                                                                                        pcoR                       Cadmium (Cd)
+                                                                              tet44                  silR
+                                                                                                                                                                                   Silver (Ag)
+                                                                                                                 silS                                                  ermB
+                                                                  tetQ
+                                                                                                                                      tcrB                                         Tellurium (Te)
+                                                                                       hmrR
+                                                                                                                                                                                   Biocides
+                            Cluster 3                                                                cusR/ylcA                                               tet40
+                                                                          oqxB                                          tetO
+                                                                                                                                                                      Cluster 2
+
+                                                                                       czcA                                           SAT-2
+
+                                                                                                       mefA           tet32
+
+Fig. 8 The co-occurrence networks among ARGs and BMRGs in dairy calves. The nodes (resistance genes) were colored by corresponding class of
+antibiotics, metal or biocide compounds, and the size of each node represented the number of connections (degree)
+
+metagenomic assembly was used to retrieve the potential bacterial                                                                     which includes glucoamylase (EC 3.2.1.3) and α-glucosidase (EC
+origin of the enzymes by assigning taxonomy to assembled                                                                              3.2.1.20)), and family GH57, which includes α-amylase (EC
+contigs, and the most abundant taxon at the family level for each                                                                     3.2.1.1), increased signiﬁcantly over time, likely a result of the
+signiﬁcantly changed CAZy family is shown in Fig. 10b.                                                                                increased intake of calf starter of which starch serves as the major
+Enterobacteriaceae was predicted to contribute most of the CAZy                                                                       carbohydrate component (Fig. 1a). The changes in the CAZy
+enzymes that exhibited higher abundance during early days and                                                                         enzyme abundances suggest that the decrease in ARGs over time
+decreased at later time points (CE8-GH108 and GH127-GT51)                                                                             is not merely due to the absence of colostrum, but due to the
+(Fig. 10b). Among these enzymes, the family GH1 which includes                                                                        presence of new carbon sources in the diet that drive abundance
+lactase (EC 3.2.1.108) showed the highest abundance on day 2,                                                                         of taxa that harbor enzymes which can digest plant polysacchar-
+reﬂecting the milk-dominant diet at that time. In contrast, CAZy                                                                      ides and are, coincidentally, also low in overall ARGs.
+enzymes, GH20-GH30 and CE6-GH27, which showed higher                                                                                     The predicted taxonomy of signiﬁcantly changed CAZy
+abundance in later time points were predicted to mostly originate                                                                     enzymes is in agreement with gradual changes observed in the
+from Bacteroidaceae (Fig. 10b). Two GH families, family GH97,                                                                         gut microbiota of dairy calves (Fig. 1d), as well as the OTU-OTU
+
+8                   NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x                                                                                                                                     ARTICLE
+
+           a                                                                                                            b         0.2
+
+                    0.1
+                                                                                                                                  0.1
+
+                                                                                                               Day 2                                                                      Day 2
+
+
+
+
+                                                                                                                         NMDS2
+           NMDS2
+
+
+                    0.0                                                                                        Day 5              0.0                                                     Day 5
+                                                                                                               Week 3                                                                     Week 3
+                                                                                                               Week 7                                                                     Week7
+                                                                                                                                 –0.1
+                   –0.1
+                          COG                                                                                                               CAZy
+                          P = 0.027                                                                                              –0.2       P = 0.004
+
+                          –0.4                                            –0.2       0.0       0.2       0.4                            –0.4            –0.2          0.0       0.2
+                                                                                 NMDS1                                                                         NMDS1
+
+                                 c                                                                                      d
+                                                                                                                        100%
+                                                                                    n.s.
+                                                                                 n.s.
+                                 Number of CAZy enzyme families present
+
+
+
+
+                                                                          300
+
+                                                                                                                        75%
+
+
+                                                                          280                                                                                                    Auxiliary activities
+                                                                                                                                                                                 Carbohydrate binding molecule
+                                                                                                                                                                                 Carbohydrate esterase
+                                                                                                                        50%                                                      Glycoside hydrolase
+                                                                                                                                                                                 Glycosyltransferase
+                                                                                                                                                                                 Polysaccharide lyase
+                                                                          260
+                                                                                                                        25%
+
+
+
+                                                                          240
+                                                                                                                            0%
+                                                                                 2     5   3         7                                  2          5            3           7
+                                                                                  Days     Weeks                                            Days                    Weeks
+
+Fig. 9 Functional capacity of the calf fecal community over time. a 2-dimensional NMDS based on Bray-Curtis dissimilarity of COG pathways (stress of
+0.07). b 2-dimensional NMDS based on Bray-Curtis dissimilarity of CAZy results (stress of 0.1). c Boxplots (boxes representing IQRs with median shown
+in black) of the richness of observed CAZy enzymes (families) in dairy calves from day 2 to week 7. d Bar plots of the relative abundance of CAZy families
+per class of enzymes over time. *P < 0.05, and n.s. indicates P > 0.05 by Friedman’s test followed by multiple pairwise comparisons using Nemenyi post-
+hoc test. Polygons were applied to group samples of NMDS plot at the same time point
+
+
+network analysis based on 16S rRNA sequencing data. In this                                                                        with colostrum feeding, and their dynamic changes in relative
+network, the relative abundance of organisms within the families                                                                   abundance contribute to the gradually modiﬁed resistome during
+Enterobacteriaceae and Enterococcaceae was negatively correlated                                                                   nursing. This study examined the fecal microbiota of dairy calves
+with microbes belonging to Bacteroidaceae (Supplementary                                                                           from birth until slightly after weaning, and the microbial com-
+Fig. 12). Taken together, our data support the hypothesis that                                                                     munity is likely to continue changing until 1 year of age, when it
+diet and time (age) contribute to the taxonomic composition of                                                                     reaches an adult-like (mature) microbiota26. Therefore, a more
+the gut microbiota in dairy calves, and this inﬂuences the fecal                                                                   extended period of sampling may be needed to fully track changes
+resistome.                                                                                                                         in ARGs as the cow matures.
+                                                                                                                                      The fecal microbiome of dairy calves was predicted to harbor
+                                                                                                                                   resistance to 17 classes of antibiotics according to MEGARes (out
+Discussion                                                                                                                         of the 22 classes of antibiotics present in this database), a fact
+The early development of gut microbiota is associated with                                                                         which is important because fecal shedding is a critical route of
+growth in pre-weaned calves, is important for optimal calf per-                                                                    AMR contamination to the environment24. In addition, the ARGs
+formance post-weaning, and is believed to contribute to the                                                                        observed in this study are closely relevant to human medicine as
+proﬁtability of the cattle enterprise39. However, young animals                                                                    they include resistance to several medically-important antibiotics,
+typically have both a higher prevalence and a higher abundance                                                                     e.g. beta-lactams. Speciﬁcally, two major classes of plasmid-
+of antibiotic-resistant bacteria than adult animals13,40; thus                                                                     mediated extended-spectrum beta-lactamases (ESBL), class A
+understanding the early acquisition and scope of AMR in calves                                                                     betalactamases (e.g. CTX and cepA) and class D betalactamases
+during nursing is of great importance. This work, together with                                                                    (e.g. OXA) were detected in this cohort. The overall ARG
+other studies25,26, documents the dynamic changes in the taxo-                                                                     abundance (0.77–5.14 copies ARGs per 16S rRNA gene), is of the
+nomic composition of the fecal microbiota of dairy calves,                                                                         same magnitude as that observed in recently published meta-
+revealing an actively assembling gut microbiome during early life.                                                                 genomes from livestock-associated samples (0.54–3.1 copies
+For example, we clearly demonstrated that facultative anaerobes,                                                                   ARGs per 16S rRNA gene) which are signiﬁcantly higher than the
+such as Escherichia, Streptococcus, and Enterococcus (genera                                                                       prevalence of ARGs detected in sediments, soil and river
+which are commonly associated with broad-spectrum ARGs)                                                                            water35,41. The coherence between these results indicates that the
+represented notable portions of the microbiota in dairy calves                                                                     present cohort is a typical livestock group, and our ﬁndings
+during early days, but their relative abundance decreased over                                                                     herein could be potentially generalized to other populations.
+time. The early arrival of these bacteria is at least partially linked                                                             Consistent with the hypothesis that a high prevalence of AMR is
+
+NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                                                                         9
+ARTICLE                                                                       NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x
+
+
+
+               a                                                               b
+                 GH20                                                           GH20
+                 GH92                                                           GH92
+                 GH29                                                           GH29
+                 GH97                                                           GH97
+                 GH95                                                          *GH95
+                 GH88                                                           GH88
+                  PL8                                                            PL8
+                 CBM0                                                           CBM0
+                GH109                                                          GH109
+                 GH30                                                           GH30
+                  CE8                                                            CE8
+                 GT20                                                           GT20
+                 GT83                                                           GT83
+                  AA3                                                            AA3
+                  GH8                                                            GH8
+                GH104                                                          GH104
+                GH102                                                          GH102
+                GH103                                                          GH103
+                 GT77                                                           GT77
+                 GT44                                                  1600     GT44
+                 GT25                                                           GT25
+                 CE14                                                           CE14
+                  AA6                                                            AA6
+                GH108                                                          GH108
+                GH101                                                          GH101
+                CBM41                                                          CBM41
+                  AA7                                                            AA7
+                GH126                                                  1200    GH126
+                 GT96                                                           GT96
+                 GH90                                                           GH90
+                CBM73                                                          CBM73
+                CBM12                                                          CBM12                                       Bacteroidaceae
+                 GT73                                                           GT73
+                 AA10                                                           AA10                                       Enterobacteriaceae
+                 GT31                                                           GT31                                       Others
+                CBM69                                                  800     CBM69
+                 CBM5                                                           CBM5
+                 GH93                                                           GH93
+                 GH47                                                           GH47
+                 GH58                                                           GH58
+                 GH70                                                           GH70
+                GH129                                                          GH129
+                  CE6                                                            CE6
+                 GH10                                                  400      GH10
+                GH117                                                          GH117
+                 GH66                                                           GH66
+                CBM37                                                          CBM37
+                 GH57                                                           GH57
+                  GT3                                                          * GT3
+                 CBM9                                                           CBM9
+                 GT32                                                           GT32
+                GH120                                                  0       GH120
+                 GH27                                                           GH27
+                GH127                                                          GH127
+                  GT0                                                            GT0
+                 GH65                                                           GH65
+                 GH63                                                           GH63
+                 GT30                                                           GT30
+                  CE0                                                            CE0
+                 GT56                                                           GT56
+                  AA2                                                            AA2
+                 GH37                                                           GH37
+                 GH24                                                           GH24
+                  GT9                                                            GT9
+                  GT8                                                            GT8
+                 GH38                                                           GH38
+                  GH4                                                            GH4
+                  GH1                                                            GH1
+                CBM50                                                           *
+                                                                               CBM50
+                 GT51                                                           GT51
+                           2          5     3           7                                2          5    3       7
+                               Days             Weeks                                        Days         Weeks
+
+Fig. 10 The abundance, distribution and predicted bacterial taxonomy of fecal CAZy families. a Heatmap depicting the normalized distribution of CAZy
+enzymes over time, including only differential abundant enzymes (n = 70). b The most abundant bacterial family predicted to produce the corresponding
+CAZy enzymes. Dots indicate that the predicted family was either Enterobacteriaceae (blue), Bacteroidaceae (pink), or Others (orange). The absence of a
+dot indicates that either our inability to predict the bacterial origin or the CAZy family was not detected in a particular calf at a particular time point.
+Enzymes families GH1 which includes lactase (EC 3.2.1.108), GH97 which includes glucoamylase (EC 3.2.1.3) and α-glucosidase (EC 3.2.1.20)), and family
+GH57, which includes α-amylase (EC 3.2.1.1) are highlighted with asterisks. Abbreviations: GH, glycoside hydrolases; GT, glycosyltransferases; PL,
+polysaccharide lyases; CE, carbohydrate esterases; AA, auxiliary activities; CBM, carbohydrate-binding modules. Families CBM0, CE0, and GT0 refer to
+unclassiﬁed CBMs, CEs and GTs, respectively, in CAZy database download 07152016. Differential abundance analysis with DESeq2 revealed that 71 CAZy
+families signiﬁcantly changed over time in dairy calves, however, we failed to retrieve the bacterial origin of one CAZy family, GT80, and thus there are a
+total of 70 CAZy families shown here. Source data are provided as a Source Data ﬁle
+
+
+not necessarily associated with recent antibiotic use13, animals                   Despite the decrease in total ARGs, we observed an increase in
+involved in this study did not receive any antibiotic treatment, but            resistance to MLS and tetracyclines antibiotics over time, raising
+their gut microbiome remained a natural reservoir of ARGs.                      concerns that not every ARG decreases in abundance with age.
+   Interestingly, dairy calves had an overall reduction (6.68-fold)             The increase in MLS and tetracycline ARGs is also consistent with
+in the abundance of ARGs as they aged, and this pattern was                     the hypothesis that community membership shapes the resistome
+directly correlated with the decrease in relative abundance of                  because neither MLS nor tetracycline ARGs primarily originate in
+microbial taxa, for example, Enterobacteriaceae, which was pre-                 Enterobacteriaceae. In contrast, tetracycline ARGs, including the
+dicted to harbor the most ARGs, during early life. The correlated               highly abundant tetQ, were predicted to originate in Bacter-
+reduction of both ARGs and speciﬁc taxa is promising because it                 oidaceae. While no antibiotics were given to the animals in this
+suggests that interventions targeting the reduction of these                    study, the increased tetracycline resistance may reﬂect historical
+taxa may further reduce the ARG reservoir in the gut of cattle.                 antibiotic use. In the United States tetracycline has been widely
+This possibility is supported by this study and other work,                     used in cattle representing ~30.1% of the total antibiotic usage in
+which found the resistome is mainly structured by the bacterial                 food-producing animals44. Because MLS is categorized as criti-
+phylogeny, and that Proteobacteria (which includes Enter-                       cally important and tetracyclines as highly important drugs
+obacteriaceae) were more likely to carry resistance than other                  according to FDA45 the increase of corresponding resistance is a
+phyla42,43.                                                                     source of concern.
+
+10                   NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x                                                                                ARTICLE
+
+   Another approach to assess the risk of AMR is to speciﬁcally                  between diet and functional capacity. Speciﬁcally, the CAZyome
+study the transferrable ARGs (via ResFinder) as these genes are                  analysis revealed that the composition of carbohydrate associated
+more likely transferred to pathogens and compromise clinical                     enzymes in dairy calves changed signiﬁcantly over time. The early
+treatment46. The results counterbalanced the decreased abun-                     diet transition from colostrum to milk replacer with a gradual
+dance of total ARGs over time by identifying an increase in the                  increase of consumption of calf starter mirrors the decrease of
+variety of transferable ARGs. Of these ARGs, a recently-                         lactose associated enzymes (e.g., lactase) and the increase of
+discovered multidrug resistance gene, optrA33, was present in                    enzymes related to starch and other complex carbohydrates (e.g.,
+our cohort. This gene confers resistance to several medically-                   amylase). The CAZy families which were more abundant in early
+important antibiotics including linezolid, which is often pre-                   days mostly originated from Enterobacteriaceae while the
+scribed to treat Gram-positive infections such as vancomycin-                    enzymes that increased over time were predicted to be most likely
+resistant enterococci (VRE) and methicillin-resistant Staphylo-                  from Bacteroidaceae and others. Intriguingly, the species within
+coccus aureus (MRSA). Another gene, fosA, is also of clinical                    Bacteroidaceae were shown to harbor tetQ and other tetracycline
+signiﬁcance because it causes resistance to fosfomycin which is a                resistance genes, suggesting a possible link between diet-driven
+last-resort antibiotic against carbapenem-resistant bacteria47. The              changes in microbiome composition and the structure of the
+increased diversity of transferable ARGs partially reﬂects the                   resistome. The link between bacterial phylogeny and AMR is
+accumulation of new species during community assembly.                           suggested by the concomitant decrease in the relative abundance
+   Given that enrichment of ARG diversity in dairy calves is                     of Enterobacteriaceae, and the reduction in ARGs. This is also
+undesired, a next logical question is: what is the source of these               evidenced by the gradual increase (demonstrated by both meta-
+antibiotic-resistant organisms? Routes of microbial transfer may                 genomic sequencing and qPCR data) of tetQ, occurring con-
+include vertical transmission from the dam, horizontal trans-                    comitantly with the increase in Bacteroidaceae. Furthermore,
+mission from other animals in the herd, or transmission from the                 colostrum containing endogenous microbes, seeded the calves
+housing environment and feed. As a result, colostrum may serve                   with high level of ARGs in early hours, highlighting the potential
+as an important vehicle for bacteria in early life since it is the ﬁrst          role of diet as a direct source of ARGs. Diet may also represent an
+feed27,48. Doyle et al.49 indicated that teat surface and herd (i.e.,            indirect inﬂuence on the resistome by enriching certain taxa, such
+dam) feces are the major contributors of the raw milk microbiota.                as Bacteroidaceae, in the gut microbiota.
+These data suggest that organisms observed in colostrum are                         The global spread of antimicrobial resistance compromises
+likely environment-speciﬁc contaminants. This is supported by                    clinical treatments for human infections and actions are needed
+the fact that our ﬁndings on the bovine colostrum microbiota                     to reduce the environmental transfer of ARGs and preserve the
+differed from a recent study in upstate New York which found the                 effectiveness of existing antibiotics. This study suggests that pre-
+samples were dominated by Staphylococcus spp.28. Moreover, the                   weaned dairy calves serve as a reservoir for ARGs with enriched
+dominant taxa in colostrum within our cohort are taxa expected                   diversity over nursing. While age and diet are clearly associated
+to contain high levels of ARGs, suggesting that colostrum serves                 with a change in the gut microbiota assembly and an overall drop
+as a vector of ARGs transmitted to dairy calves. This inference                  in ARGs, several resistance genes encoding resistance to clinically
+was conﬁrmed by metagenomic data at two levels. Metagenome                       important antibiotics (i.e., MLS and tetracyclines) increased.
+strain proﬁling revealed that the dominant E. coli from colostrum                Analyses in this study relied on high-throughput sequencing of
+and fecal samples at day 2 have very similar functional capacity                 DNA, representing both live and dead bacteria. The presence of
+(PanPhlAn), and 33.13% of the observed E. coli strains in                        DNA, especially DNA released from dead microbes, does not
+colostrum were shared with dairy calf at day 2 (StrainEst) which                 ensure antibiotic resistance phenotypes. Future studies involving
+suggests bacterial transmission. In addition, the dairy fecal sam-               functional characterization of speciﬁc ARG phenotypes are nee-
+ples at day 2 shared ~90% ARGs with the colostrum resistome                      ded. Studies suggest that naturally competent bacteria are able to
+and the distribution of ARGs show very similar patterns in these                 uptake DNA released from dead bacteria52, which may contribute
+two samples types. In general, colostrum samples had a greater                   to the transmission of ARGs, however, the probability of this
+diversity of ARGs than fecal samples, but shared ARGs showed                     occurrence is unknown. In order to reduce these antibiotic (and
+relatively higher abundance in the feces suggesting that the gut                 heavy metal) resistance reservoirs during nursing, novel mitiga-
+provides better conditions for the proliferation of these ARGs and               tion strategies are needed. For example, control measures might
+the microbes that carry them.                                                    be incorporated into colostrum handling practices to reduce
+   Although there was no direct antibiotic use in this cohort,                   transmission of ARG-containing microbes to dairy calves.
+heavy metals and antibacterial biocides, which are commonly                      Moreover, tailored prebiotic or probiotic applications might serve
+detected in animal feed, could contribute to the promotion of                    to displace ARG-containing bacteria and thus reduce the like-
+AMR16. Co-selection of antibiotic and metal/biocide resistance,                  lihood of further environmental spread.
+which may be driven by either cross- or co-resistance, is critical
+mainly because it can promote and maintain the high prevalence                   Methods
+of AMR in the absence of antibiotics50. Network inferences from                  Animals, sample collection, and DNA extraction. A cohort of 22 newborn dairy
+the present study indicated a correlation among ARGs and                         calves (20 Holstein, 2 Jersey) were raised at the UC Davis Dairy Teaching and
+BMRGs in dairy calves, and resistance genes harbored in the same                 Research Facility (Davis, CA). Calves were separated from their dams within a few
+                                                                                 hours of birth and then housed in a separate hutch. They were given two feedings
+taxa42 or co-existing on a transferrable plasmid51 can lead to a co-             (3 L/feeding with nursing bottle) of high-quality colostrum within the ﬁrst 12 h
+occurrence of these genes. While the strain-level proof of the                   followed by milk replacer (Calva Products, Acampo, CA) and a commercial calf
+network analysis linking ARGs and BMRGs will need further                        starter (Associated Feed & Supply Co., Turlock, CA) until weaning (Fig. 1a). The
+validation via an independent approach, the metagenomic data                     milk replacer was given twice a day based on weight, and calf starter was provided
+                                                                                 ad libitum until weaning. Corn, soybean, barley, wheat, oat, and rice are the major
+certainly suggest that co-selection of antibiotic and metal/biocide              ingredients in calf starter and, starch accounts for a 57–77% of this diet53. During
+resistance is occurring in livestock.                                            weaning (week 8–10), supplementation of calf starter was halted, milk replacer was
+   To understand the mechanism responsible for the dynamic                       reduced to a single feeding, and a total mixed ration (TMR) diet was introduced.
+change of fecal resistome, and to further understand the rela-                   Calves were offered water ad libitum at all times (Fig. 1a). All animals involved in
+                                                                                 this study were healthy during our sampling period and received no recorded
+tionship between dietary transition and gut microbiota assembly,                 therapeutic or prophylactic antibiotic treatments.
+we examined the functional changes of the gut fecal community                        Fresh feces (n = 484) were obtained from dairy calves, from at birth to week 10
+in dairy calves. Our ﬁndings greatly reﬂect the connection                       between April and September of 2015, by swabbing the rectum with a sterile cotton
+
+NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                          11
+ARTICLE                                                                                    NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x
+
+
+swab. Two colostrum samples (~5 mL each), one per colostrum feed, were collected             within Enterobacteriaceae was estimated using Bracken70. Metagenome assemblies
+per calf prior to feeding. Sampling was conducted following relevant ethical                 were generated with trimmed but un-merged reads for each sample using
+regulations for animal research under protocol #18540. Fecal samples were then               MEGAHIT (version 1.0.6) with default parameters71.
+kept on ice after sampling and then stored at −80 °C until extraction using the ZR
+Fecal DNA MiniPrep kit (ZYMO, Irvine, CA, USA). Approximately 2 mL vortexed
+                                                                                             Metagenomic strain proﬁling of E. coli. To assess the bacterial transmission from
+colostrum samples were centrifuged at 10,000×g for 10 min to separate cells and fat
+                                                                                             colostrum to dairy calves, the microbial composition of both colostrum and feces
+from whey. The supernatant and the fat layer were removed, and the pellet were
+                                                                                             were characterized at the strain level using two independent pipelines, PanPhlAn31
+kept frozen (−20 °C) until the Zymo DNA extraction54.
+                                                                                             and StrainEst (version 1.2.4)32. The sequencing reads from the ﬁrst and second
+                                                                                             colostrum samples were analyzed together for the colostrum-calf paired strain
+16S rRNA gene sequencing and data analysis. The microbiota was proﬁled by                    transmission analysis. PanPhlAn was used to track the dominant strain across
+sequencing the V4 region of the 16S rRNA gene for all DNA samples and negative               samples by identifying a unique combination of genes in the pangenome of a
+controls. Speciﬁcally, we modiﬁed the forward F515 primer55 to include an eight-             species, and StrainEst was used to determine the number and identity of co-existing
+nucleotide barcode unique to each sample and a two-nucleotide linker sequence:               strains of a species (i.e., E. coli) in a metagenome. Because Enterobacteriaceae
+5′-NNNNNNNNGTGTGCCAGCMGCCGCGGTAA-3′. The reverse R806 primer                                 harbors the most ARGs (Fig. 3c) and E. coli represents the majority of sequences
+(5′-GGACTACHVGGGTWTCTAAT-3’) was unmodiﬁed. PCR reactions were                               classiﬁed in this family (Supplementary Fig. 4), we elected to track the presence of
+carried out in triplicate in a 15-μL reaction containing 1 × GoTaq Green Mastermix           strains belonging to this species in our cohort. The PanPhlAn results were visua-
+(Promega, Madison, WI, USA), 1 mM MgCl2 and 2 pmol of each primer. The PCR                   lized via a NMDS ordination and pairwise permutation MANOVAs (post-hoc test
+ampliﬁcation conditions included an initial denaturation step of 2 min at 94 °C,             for multiple comparisons) was performed in R with the RVAideMemire package
+followed by 25 cycles of 94 °C for 45 s, 50 °C for 60 s, and 72 °C for 90 s, followed by     (version 0.9–69–3)72, and signiﬁcant differences between groups were evaluated
+a ﬁnal extension step at 72 °C for 10 min. Triplicate reactions were combined and            after FDR adjustment for α = 0.05. Statistical analysis of Shannon diversity esti-
+puriﬁed using a Qiagen PCR puriﬁcation column and submitted to the UC Davis                  mated with StrainEst was performed with a Friedman’s test.
+Genome Center DNA Technologies Sequencing Core for sequencing on an Illu-
+mina MiSeq platform (250-bp paired-end).                                                     Resistance gene analysis. Sequencing reads were aligned to the ARG database
+    The resulting reads were merged using PEAR (version 0.9.8) with a minimum                MEGARes (version 1.0.1)73 to characterize the resistome structure following the
+overlap of 120 bp, a maximum merged length of 380 bp, and a minimum merged                   AMR++ pipeline [https://megares.meglab.org/amrplusplus/latest/html/index.
+length of 250 bp56 and merged reads were demultiplexed using FASTX (version                  html] with minor modiﬁcations. Brieﬂy, merged reads were mapped to the data-
+0.0.14) tools57. Primers and barcodes were trimmed from reads using cutadapt                 base using BWA with default settings74, and the SAM formatted alignment ﬁle was
+(version 1.8.3), and then reads were loaded into QIIME58. QIIME1 (version 1.9.1)             then analyzed through ResistomeAnalyzer (version 1) by setting the threshold to
+defaults were used except for as follows: operational taxonomic unit (OTU) picking           80% identity for quantiﬁcation of ARGs [https://github.com/cdeanj/
+was completed using the SWARM algorithm59, the representative sequence set was               resistomeanalyzer]. The AMR++ pipeline outputs data into gene, group,
+chosen using the most abundant read in each OTU, and the OTU table was ﬁltered               mechanism and class levels corresponding to the levels of the annotation in the
+to remove singletons and OTUs that only occurred in a single sample. In addition,            database hierarchy73. The gene-level data (e.g., TEM-77, TEM-107, TEM-73, etc.)
+samples with low sequencing depth including all the negative controls (< 5000                were used to calculate the ARG richness; normalized data aggregated from the
+reads) and OTUs without any reads in any of the remaining samples were excluded              gene-level output to the group (e.g., TEM, OXA, etc.) and class (e.g. beta-lactams
+for further analysis.                                                                        resistance) levels were used for heatmap visualization in this study. MEGARes is a
+    Statistical analysis was performed in R (version 3.4.1)60. Generalized estimating        manually curated database that consists of a collection of 3824 ARGs with the
+equations (GEE) model from the geepack package61 was implemented to test for                 reference sequences ranging in size from 211 to 4185 bp73. To avoid bias related to
+associations between the sampling time (predictor variable) and the alpha diversity          variation in ARG size, both ARG sequence length and sequencing depth were
+(outcome variable). Beta diversity was visualized based on generalized UniFrac               included in data normalization prior to statistical comparisons. We normalized the
+(GUniFrac) distance matrices62 using non-metric multidimensional scaling                     counts data by 16S rRNA gene and the ARG abundance was expressed as “copy of
+(NMDS) in the vegan package. A 2D plot was used if stress was < 0.2; the number              ARG per copy of 16S rRNA gene” as suggested by Li et al.35,75 using the formula:
+of dimensions was increased until a plot with stress < 0.2 was produced. Ellipses
+shapes/paths were calculated with a function veganCovEllipse from the vegan                                 X
+                                                                                                            n
+                                                                                                              NðARG  like sequenceÞ  LðreadsÞ=LðARG reference sequenceÞ
+package in R. Differences in beta-diversity based on UniFrac distance measures               Abundance ¼
+                                                                                                             1
+                                                                                                                          Nð16SsequenceÞ  LðreadsÞ=Lð16SsequenceÞ
+were tested using adonis2 in the vegan package after checking for differences in
+dispersion using betadisper. SPIEC-EASI (SParse InversE Covariance Estimation                                                                                                 ð1Þ
+for Ecological Association Inference)63 was used to model OTU-OTU interaction
+with fecal samples (n = 22) at week 2, and the network was visualized at the family          where n represents each individual ARG (deﬁned by different sequences), N(ARG-
+level using Gephi (0.9.2).                                                                   like sequence) is the number of reads annotated as n speciﬁc ARG mapped to
+                                                                                             MEGARes database, L(reads) is the length of the sequencing reads matching ARG
+                                                                                             n, L(ARG reference sequence) is the length of ARG n in the MEGARes database, N
+Shotgun metagenomic sequencing, metagenome assembly. Fecal samples (n =                      (16S sequence) is the number of reads mapping to 16S rRNA bacterial gene
+12) from dairy calves (n = 3) at 4 time-points per calf (day 2, day 5, week 3 and            determined by METAXA2 (version 2.1.3)76, and L(16S sequence) is the average
+week 7), as well as the corresponding colostrum samples (n = 6; two of each calf),           length (1432 bp) of a 16S rRNA gene sequence in the Greengenes database. To
+were subjected to metagenomic sequencing. This design allows us to characterize              visualize dissimilarity between samples, NMDS was performed using a Bray-Curtis
+the dynamics of resistome in dairy calves over time, with a speciﬁc focus on                 dissimilarity calculation.
+nursing. Dairy calves at the same age had limited variances in the gut microbiota,               Bacterial origin of ARGs were predicted by assigning taxonomy to
+and bacterial phylogeny greatly shapes the microbial antibiotic resistome42, and             metagenomic-assembled contigs harboring antibiotic resistance genes. Speciﬁcally,
+thus we expect a comparable fecal resistome between subjects. Consequently, a                the ARG-aligned sequencing reads (see AMR++ pipeline) were used to align to
+number of three calves would allow us to observe the dynamic changes of ARGs                 assembled contigs (from MEGAHIT) with BWA-MEM74, and contigs which
+abundance over time if any.                                                                  contain ARG sequences were kept for taxonomic assignment. taxator-tk (version
+    The sequencing library was prepared in the UC Berkeley Functional Genomics               1.3.3)77, software designed to perform taxonomic analysis of assembled
+Laboratory (FGL). Brieﬂy, each sample was sheared using the 150 bp setting of the            metagenomes, was applied to predict the bacterial origin of speciﬁc contigs. In
+Diagenode Bioruptor, then puriﬁed and concentrated with the Qiagen Minelute                  particular, we used taxator-tk with our custom database which includes both
+cleanup kit. End repair, a tailing of DNA fragments, and adapter ligation were               RefSeq68 and 4,941 metagenome-assembled genomes69 with parameters -a megan-
+preformed using the KAPA Hyper Prep library kit. Next, 9 cycles of indexing PCR              lca -t 0.3 -e 0.01 to assign taxonomy of ARG-containing contigs at the family level.
+were performed using the KAPA Hi-Fi Hotstart ampliﬁcation kit. Cleanup and                       In addition to the evaluation of all sequencing data described above, an
+dual-SPRI size selection were completed using AMPure beads. Libraries were                   independent analysis was performed on metagenomic reads obtained from dairy
+checked for quality on the AATI fragment analyzer.                                           calves that were predicted to fall within Enterobacteriaceae (by alignment to RefSeq
+    Shotgun metagenomic sequencing was completed using the Illumina HiSeq                    genomes68), The AMR++ pipeline was implemented separately for these reads in
+4000 with 150 paired-end reads in the Vincent J. Coates Genomics Sequencing                  order to study the prevalence of ARGs in this particular family.
+Laboratory at the University of California, Berkeley. Because early life and                     Transferrable ARGs are typically of greater concern clinically. To speciﬁcally
+colostrum samples had high levels of host contamination, BMTagger in bmtools                 assess these genes, a separate ARG database, ResFinder (version 2.1)46, focusing on
+(version 1) was used to remove reads aligning to the bovine genome (version                  acquired ARGs, was used based on assembled contigs. Brieﬂy, contigs were
+UMD3.1) from all samples. The resulting reads were then trimmed using                        submitted to the ResFinder webpage while the identity threshold was set to 90%
+Trimmomatic (version 0.36)64 and merged using FLASH (version 1.2.11)65 prior to              with 60% minimum length match. A custom script (resParse.py) was used to
+downstream analysis. To account for the limitations of the existing database in              predict the bacterial origin of contigs possessing ARGs and the top candidate was
+taxonomy proﬁling of rumen-associated metagenomes66, sequencing reads were                   chosen for further analysis.
+classiﬁed using Kraken267 to against a custom database including RefSeq68 and                    Resistance to antibacterial biocides and metals were also included as part of the
+4941 metagenome-assembled rumen genomes69. The relative abundance of E. coli                 resistome analysis to assess the co-occurrence potentials of BMRGs and ARGs. To
+
+
+12                      NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x                                                                                            ARTICLE
+
+examine this, merged reads were aligned to the BacMet database (version 1.1)78              Code availability
+using DIAMOND79 with an E-value cutoff ≤10−10. Since resistance genes with                  A python custom script, resParse.py, based on BLAST, which was used to predict the
+transfer potentials are of greater interest than chromosomal genes, analysis of             bacterial origin of metagenomic contigs possessing ARGs estimated from ResFinder
+antibacterial biocide and metal resistance protein sequences was restricted to              database, is freely available at [https://github.com/akre96/ResistBlast].
+plasmid-borne sequences. A total of 161 metal resistance genes and 37 biocide
+resistance genes from the BacMet database78 were detected in the samples and
+included in this analysis. Data were normalized by 16S rRNA gene as performed               Received: 9 November 2018 Accepted: 24 July 2019
+with ARGs counts prior to comparisons.
+    In summary, three independent databases were implemented in this resistome
+analysis pipeline to assess the proﬁle of all resistance genes, transferrable genes and
+heavy metal/biocidal resistance genes, respectively. Taxonomy prediction of ARGs
+was summarized at the family level of bacteria to obtain better accuracy.                   References
+                                                                                            1.    CDC. Antibiotic Resistance Threats in the United States. (U.S. Department of
+Functional capacity analysis. To study the functional composition of fecal                        Health and Human Services, Centers for Disease Control and Prevention,
+microbial communities, merged metagenomic sequence reads were annotated                           2013).
+using DIAMOND (cutoff E-value ≤10−10)79 against two reference databases, the                2.    Bolan, G. A., Sparling, P. F. & Wasserheit, J. N. The emerging threat of
+Carbohydrate-Active EnZymes database (CAZy)80 and the Clusters of Ortho-                          untreatable gonococcal infection. New Engl. J. Med. 366, 485–487 (2012).
+logous Groups of proteins database (COG)81. Data were normalized using the                  3.    Pichichero, M. E. & Casey, J. R. Emergence of a multiresistant serotype 19A
+total number of trimmed reads, and normalized counts were used to calculate                       pneumococcal strain not included in the 7-valent conjugate vaccine as an
+the Bray-Curtis dissimilarity between samples. The Bray-Curtis dissimilarity                      otopathogen in children. JAMA-J. Am. Med. Assoc. 298, 1772–1778 (2007).
+matrix was then used to perform NMDS. In addition, DESeq282 was used to                     4.    Yong, D. et al. Characterization of a new metallo-beta-lactamase gene,
+estimate fold-change and dispersion over time. Sequencing reads that were                         bla(NDM-1), and a novel erythromycin esterase gene carried on a unique genetic
+predicted to encode CAZy families and identiﬁed to be differentially distributed                  structure in Klebsiella pneumoniae sequence type 14 from India. Antimicrob.
+over time (padj <0.01 with Benjamini–Hochberg correction), were aligned to                        Agents Chemother. 53, 5046–5054 (2009).
+metagenomic-assembled contigs (see above) by using BWA-MEM83. Contigs                       5.    Liu, Y. Y. et al. Emergence of plasmid-mediated colistin resistance mechanism
+carrying sequences which encode differentially distributed CAZy enzymes were                      MCR-1 in animals and human beings in China: a microbiological and
+further used to map our custom database including RefSeq68 and 4941                               molecular biological study. Lancet Infect. Dis. 16, 161–168 (2016).
+metagenome-assembled genomes69 using taxator-tk (version 1.3.3)77 with                      6.    Bonnie, M. Marshall, D. J. O. & Stuart, B. Levy. Commensals:
+parameters -a megan-lca -t 0.3 -e 0.01 to predict the bacterial origin. The most                  underappreciated reservoir of antibiotic resistance. Microbe. 4, 231–238
+abundant predicted taxon at the family level for each CAZy family was chosen                      (2009).
+for further analysis.                                                                       7.    Sommer, M. O. A., Dantas, G. & Church, G. M. Functional characterization of
+                                                                                                  the antibiotic resistance reservoir in the human microﬂora. Science 325,
+Absolute quantiﬁcation (qPCR) of Enterobacteriaceae and ARGs. In addition                         1128–1131 (2009).
+to metagenomic sequencing, quantitative PCR was conducted for two purposes: (1)             8.    Landers, T. F., Cohen, B., Wittum, T. E. & Larson, E. L. A review of antibiotic
+to determine the absolute abundance of Enterobacteriaceae and (2) to validate the                 use in food animals: perspective, policy, and potential. Public Health Rep. 127,
+ARG results obtained with sequencing. This independent approach will help to                      4–22 (2012).
+generalize our resistome analyses by assessing more samples (n = 41). E. coli strain        9.    Phillips, I. et al. Does the use of antibiotics in food animals pose a risk to
+sldp 38-1 was used to generate standard curve for Enterobacteriaceae. Standard                    human health? A critical review of published data. J. Antimicrob. Chemother.
+curve was prepared using a ten-fold dilution series of DNA isolated from a late                   53, 28–52 (2004).
+exponential phase liquid cultures for which cell numbers were determined by                 10.   Noyes, N. R. et al. Resistome diversity in cattle and the environment decreases
+quantitative culture. For validation of ARG results, tetQ, one highly abundant                    during beef production. eLife 5, e13195 (2016).
+tetracycline resistance gene (Supplementary Fig. 6), was chosen to represent the            11.   Wichmann, F., Udikovic-Kolic, N., Andrew, S. & Handelsman, J. Diverse
+ARGs that gradually increased over time. Ct and delta-Ct values were calculated to                antibiotic resistance genes in dairy cow manure. mBio 5, e01017 (2014).
+assess the dynamic change in the abundance of tetQ over time. Primers used for              12.   Hoyle, D. V. et al. Age-related decline in carriage of ampicillin-resistant
+quantitative PCR are listed in Supplementary Table 1. A one-way ANOVA was                         Escherichia coli in young calves. Appl. Environ. Microbiol. 70, 6927–6930
+applied to assess the statistical signiﬁcance of qPCR results after checking                      (2004).
+normality.                                                                                  13.   Khachatryan, A. R., Hancock, D. D., Besser, T. E. & Call, D. R. Role of calf-
+                                                                                                  adapted Escherichia coli in maintenance of antimicrobial drug resistance in
+Shotgun metagenomic sequencing statistical and network analysis. Statistical                      dairy calves. Appl. Environ. Microbiol. 70, 752–757 (2004).
+signiﬁcance for time-series data of ARG/BMRG abundance and richness, and of                 14.   Khachatryan, A. R., Besser, T. E., Hancock, D. D. & Call, D. R. Use of a
+CAZy family richness was assessed by using a Friedman’s test followed by multiple                 nonmedicated dietary supplement correlates with increased prevalence of
+pairwise comparisons using Nemenyi post-hoc test within the PMCMR package                         streptomycin-sulfa-tetracycline-resistant Escherichia coli on a dairy farm.
+(version 4.3) in R. Differences in beta-diversity of fecal resistome and community                Appl. Environ. Microbiol. 72, 4583–4588 (2006).
+function (i.e., CAZy and COG analysis) based on a Bray-Curtis dissimilarity cal-            15.   Berge, A. C., Hancock, D. D., Sischo, W. M. & Besser, T. E. Geographic, farm,
+culation were tested using adonis2 in the vegan package after checking for dif-                   and animal factors associated with multiple antimicrobial resistance in fecal
+ferences in dispersion using betadisper84.                                                        Escherichia coli isolates from cattle in the western United States. JAVMA-J.
+    ARGs predicted from the AMR++ pipeline and BMRGs predicted with the                           Am. Vet. Med A 236, 1338–1344 (2010).
+BacMet database were used to model the co-occurrence patterns. Resistance genes             16.   Baker-Austin, C., Wright, M. S., Stepanauskas, R. & McArthur, J. V. Co-
+with transfer potential that were present in at least 6 (of 12) dairy fecal samples               selection of antibiotic and metal resistance. Trends Microbiol. 14, 176–182
+were included in this analysis. A correlation matrix was calculated based on                      (2006).
+normalized abundance data using Spearman’s rank correlation between resistance              17.   Seiler, C. & Berendonk, T. U. Heavy metal driven co-selection of antibiotic
+genes. Only correlations that were strong (rho > 0.8) and signiﬁcant after                        resistance in soil and water bodies impacted by agriculture and aquaculture.
+Benjamini–Hochberg correction (padj <0.01)35 were kept in the matrix. The                         Front. Microbiol. 3, 399 (2012).
+correlation network was visualized using Gephi (0.9.2).                                     18.   Zhu, Y. G. et al. Diverse and abundant antibiotic resistance genes in Chinese
+                                                                                                  swine farms. Proc. Natl Acad. Sci. USA 110, 3435–3440 (2013).
+Ethics approval. All animal work was approved by the University of California,              19.   Jami, E., Israel, A., Kotser, A. & Mizrahi, I. Exploring the bovine rumen
+Davis Animal Care and Use Committee prior to beginning of the experiment under                    bacterial community from birth to adulthood. ISME J. 7, 1069–1079 (2013).
+protocol #18540.                                                                            20.   Li, R. W., Connor, E. E., Li, C. J., Baldwin, R. L. & Sparks, M. E.
+                                                                                                  Characterization of the rumen microbiota of pre-ruminant calves using
+Reporting summary. Further information on research design is available in                         metagenomic tools. Environ. Microbiol. 14, 129–139 (2012).
+the Nature Research Reporting Summary linked to this article.                               21.   Dill-McFarland, K. A., Weimer, P. J., Breaker, J. D. & Suen, G. Diet inﬂuences
+                                                                                                  early microbiota development in dairy calves without long-term impacts on
+                                                                                                  milk production. Appl. Environ. Microbiol. 85, e02141-18 (2018).
+Data availability                                                                           22.   Auffret, M. D. et al. The rumen microbiome as a reservoir of antimicrobial
+Sequencing data generated from both amplicon and shotgun metagenomes in this study                resistance and pathogenicity genes is directly affected by diet in beef cattle.
+have been deposited with the NCBI SRA (PRJNA438833) and are publicly available. The               Microbiome 5, 159 (2017).
+source data underlying Figs. 2a, 6b and 10b and Supplementary Fig. 2c are provided as a     23.   Mao, S. Y., Zhang, M. L., Liu, J. H. & Zhu, W. Y. Characterising the bacterial
+Source Data ﬁle. Other data that support the ﬁndings of this study are available from the         microbiota across the gastrointestinal tracts of dairy cattle: membership and
+corresponding author upon request.                                                                potential function. Sci. Rep. 5, 6116 (2015).
+
+NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                                       13
+ARTICLE                                                                                 NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x
+
+
+24. Liu, J., Zhao, Z., Orfe, L., Subbiah, M. & Call, D. R. Soil-borne reservoirs of       53. Khan, M. A. et al. Starch source evaluation in calf starter: I. Feed consumption,
+    antibiotic-resistant bacteria are established following therapeutic treatment of          body weight gain, structural growth, and blood metabolites in Holstein calves.
+    dairy calves. Environ. Microbiol. 18, 557–564 (2016).                                     J. Dairy Sci. 90, 5259–5268 (2007).
+25. Oikonomou, G. et al. Fecal microbial diversity in pre-weaned dairy calves as          54. Obermajer, T. et al. Colostrum of healthy Slovenian mothers: microbiota
+    described by pyrosequencing of metagenomic 16S rDNA. Associations of                      composition and bacteriocin gene prevalence. PLoS ONE 10, e0123324 (2014).
+    Faecalibacterium species with health and growth. PLoS ONE 8, e63157 (2013).           55. Frese, S. A., Parker, K., Calvert, C. C. & Mills, D. A. Diet shapes the gut
+26. Dill-McFarland, K. A., Breaker, J. D. & Suen, G. Microbial succession in the              microbiome of pigs during nursing and weaning. Microbiome 3, 28 (2015).
+    gastrointestinal tract of dairy cows from 2 weeks to ﬁrst lactation. Sci. Rep. 7,     56. Zhang, J., Kobert, K., Flouri, T. & Stamatakis, A. PEAR: a fast and accurate
+    40864 (2017).                                                                             Illumina Paired-End reAd mergeR. Bioinformatics 30, 614–620 (2014).
+27. Fecteau, G., Baillargeon, P., Higgins, R., Pare, J. & Fortin, M. Bacterial            57. Lab H. FASTX Toolkit.
+    contamination of colostrum fed to newborn calves in Quebec dairy herds.               58. Caporaso, J. G. et al. QIIME allows analysis of high-throughput community
+    Can. Vet. J. 43, 523–527 (2002).                                                          sequencing data. Nat. Methods 7, 335–336 (2010).
+28. Lima, S. F. et al. The bovine colostrum microbiome and its association with           59. Mahe, F., Rognes, T., Quince, C., de Vargas, C. & Dunthorn, M. Swarm: robust
+    clinical mastitis. J. Dairy Sci. 100, 3031–3042 (2017).                                   and fast clustering method for amplicon-based studies. PeerJ 2, e593 (2014).
+29. Ayling, M., Clark, M. D. & Leggett, R. M. New approaches for metagenome               60. R Core Team. R: A Language and Environment for Statistical Computing (R
+    assembly with short reads. Brief Bioinform, bbz020, https://doi.org/10.1093/              Foundation for Statistical Computing, 2016).
+    bib/bbz020 (2019).                                                                    61. Halekoh, U., Højsgaard, S. & Yan, J. The R package geepack for generalized
+30. Breitwieser, F. P., Lu, J. & Salzberg, S. L. A review of methods and databases            estimating equations. J. Stat. Softw. 15, 1–11 (2006).
+    for metagenomic classiﬁcation and assembly. Brief Bioinform. bbx120, https://         62. Lozupone, C. & Knight, R. UniFrac: a new phylogenetic method for comparing
+    doi.org/10.1093/bib/bbx120 (2017).                                                        microbial communities. Appl. Environ. Microbiol. 71, 8228–8235 (2005).
+31. Scholz, M. et al. Strain-level microbial epidemiology and population genomics         63. Kurtz, Z. D. et al. Sparse and compositionally robust inference of microbial
+    from shotgun metagenomics. Nat. Methods 13, 435–438 (2016).                               ecological networks. PLoS. Comput. Biol. 11, e1004226 (2015).
+32. Albanese, D. & Donati, C. Strain proﬁling and epidemiology of bacterial               64. Bolger, A. M., Lohse, M. & Usadel, B. Trimmomatic: a ﬂexible trimmer for
+    species from metagenomic sequencing. Nat. Commun. 8, 2260 (2017).                         Illumina sequence data. Bioinformatics 30, 2114–2120 (2014).
+33. Wang, Y. et al. A novel gene, optrA, that confers transferable resistance to          65. Magoc, T. & Salzberg, S. L. FLASH: fast length adjustment of short reads to
+    oxazolidinones and phenicols and its presence in Enterococcus faecalis and                improve genome assemblies. Bioinformatics 27, 2957–2963 (2011).
+    Enterococcus faecium of human and animal origin. J. Antimicrob. Chemother.            66. Stewart, R. D. et al. Assembly of 913 microbial genomes from metagenomic
+    70, 2182–2190 (2015).                                                                     sequencing of the cow rumen. Nat. Commun. 9, 870 (2018).
+34. Pal, C., Bengtsson-Palme, J., Kristiansson, E. & Larsson, D. G. J. Co-                67. Wood, D. E. & Salzberg, S. L. Kraken: ultrafast metagenomic sequence
+    occurrence of resistance genes to antibiotics, biocides and metals reveals novel          classiﬁcation using exact alignments. Genome. Biol. 15, R46 (2014).
+    insights into their co-selection potential. BMC Genom. 16, 964 (2015).                68. O’Leary, N. A. et al. Reference sequence (RefSeq) database at NCBI: current
+35. Li, B. et al. Metagenomic and network analysis reveal wide distribution and               status, taxonomic expansion, and functional annotation. Nucleic Acids Res. 44,
+    co-occurrence of environmental antibiotic resistance genes. ISME J. 9,                    D733–D745 (2016).
+    2490–2502 (2015).                                                                     69. Stewart, R. D. et al. The genomic and proteomic landscape of the rumen
+36. Zhang, F. S., Li, Y. X., Yang, M. & Li, W. Content of heavy metals in animal              microbiome revealed by comprehensive genome-resolved metagenomics.
+    feeds and manures from farms of different scales in northeast China. Int. J.              Preprint at https://www.biorxiv.org/content/10.1101/489443v1 (2018).
+    Environ. Res. Public Health 9, 2658–2668 (2012).                                      70. Lu J., Breitwieser F. P., Thielen P. & Salzberg S. L. Bracken: estimating species
+37. Tasse, L. et al. Functional metagenomics to mine the human gut microbiome                 abundance in metagenomics data. Peerj Comput. Sci. 3, e104 https://doi.org/
+    for dietary ﬁber catabolic enzymes. Genome Res. 20, 1605–1612 (2010).                     10.7717/peerj-cs.104 (2017).
+38. Krause, D. O. et al. Opportunities to improve ﬁber degradation in the rumen:          71. Li, D., Liu, C. M., Luo, R., Sadakane, K. & Lam, T. W. MEGAHIT: an ultra-fast
+    microbiology, ecology, and genomics. FEMS Microbiol. Rev. 27, 663–693                     single-node solution for large and complex metagenomics assembly via
+    (2003).                                                                                   succinct de Bruijn graph. Bioinformatics 31, 1674–1676 (2015).
+39. Malmuthuge, N. & Guan, L. L. Understanding the gut microbiome of dairy                72. Harvé, M. Package “RVAideMemoire” (2015).
+    calves: opportunities to improve early-life gut health. J. Dairy Sci. 100,            73. Lakin, S. M. et al. MEGARes: an antimicrobial resistance database for high
+    5996–6005 (2017).                                                                         throughput sequencing. Nucleic Acids Res. 45, D574–D580 (2017).
+40. Donaldson, S. C. et al. Molecular epidemiology of ceftiofur-resistant                 74. Li, H. & Durbin, R. Fast and accurate short read alignment with Burrows-
+    Escherichia coli isolates from dairy calves. Appl. Environ. Microbiol. 72,                Wheeler transform. Bioinformatics 25, 1754–1760 (2009).
+    3940–3948 (2006).                                                                     75. Taft, D. H. et al. Biﬁdobacterial dominance of the gut in early life and
+41. Pal, C., Bengtsson-Palme, J., Kristiansson, E. & Larsson, D. G. The structure             acquisition of antimicrobial resistance. mSphere 3, e00441-18 (2018).
+    and diversity of human, animal and environmental resistomes. Microbiome 4,            76. Bengtsson-Palme, J. et al. METAXA2: improved identiﬁcation and taxonomic
+    54 (2016).                                                                                classiﬁcation of small and large subunit rRNA in metagenomic data. Mol. Ecol.
+42. Forsberg, K. J. et al. Bacterial phylogeny structures soil resistomes across              Resour. 15, 1403–1414 (2015).
+    habitats. Nature 509, 612–616 (2014).                                                 77. Droge, J., Gregor, I. & McHardy, A. C. Taxator-tk: precise taxonomic
+43. Hu, Y. et al. The bacterial mobile resistome transfer network connecting the              assignment of metagenomes by fast approximation of evolutionary
+    animal and human microbiomes. Appl. Environ. Microbiol. 82, 6672–6681                     neighborhoods. Bioinformatics 31, 817–824 (2015).
+    (2016).                                                                               78. Pal, C., Bengtsson-Palme, J., Rensing, C., Kristiansson, E. & Larsson, D. G.
+44. FDA. Antimicrobials Sold or Distributed for Use in Food-Producing Animals                 BacMet: antibacterial biocide and metal resistance genes database. Nucleic
+    (The Food and Drug Administration’s Center for Veterinary Medicine, 2016).                Acids Res. 42, D737–D743 (2014).
+45. FDA. Evaluating the Safety of Antimicrobial New Animal Drugs with Regard to           79. Buchﬁnk, B., Xie, C. & Huson, D. H. Fast and sensitive protein alignment
+    Their Microbiological Effects on Bacteria of Human Health Concern (U.S.                   using DIAMOND. Nat. Methods 12, 59–60 (2015).
+    Department of Health and Human Services; Center for Veterinary Medicine,              80. Cantarel, B. L. et al. The Carbohydrate-Active EnZymes database (CAZy): an
+    2003).                                                                                    expert resource for Glycogenomics. Nucleic Acids Res. 37, D233–D238 (2009).
+46. Zankari, E. et al. Identiﬁcation of acquired antimicrobial resistance genes. J.       81. Tatusov, R. L., Galperin, M. Y., Natale, D. A. & Koonin, E. V. The COG
+    Antimicrob. Chemother. 67, 2640–2644 (2012).                                              database: a tool for genome-scale analysis of protein functions and evolution.
+47. Meletis, G. Carbapenem resistance: overview of the problem and future                     Nucleic Acids Res. 28, 33–36 (2000).
+    perspectives. Ther. Adv. Infect. Dis. 3, 15–21 (2016).                                82. Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and
+48. Jud Heinrichs, C. M. J. Composition and Hygiene of Colostrum on Modern                    dispersion for RNA-seq data with DESeq2. Genome Biol. 15, 550 (2014).
+    Pennsylvania Dairy Farms. Reviewed by: Sandy Costello and Virginia Ishler             83. Li, H. & Durbin, R. Fast and accurate long-read alignment with Burrows-
+    (Penn State Dairy and Animal Science (DAS), 2011).                                        Wheeler transform. Bioinformatics 26, 589–595 (2010).
+49. Doyle, C. J., Gleeson, D., O’Toole, P. W. & Cotter, P. D. Impacts of seasonal         84. Anderson, M. J. & Walsh, D. C. I. PERMANOVA, ANOSIM, and the Mantel
+    housing and teat preparation on raw milk microbiota: a high-throughput                    test in the face of heterogeneous dispersions: What null hypothesis are you
+    sequencing study. Appl. Environ. Microbiol. 83, e02694-16 (2017).                         testing? Ecol. Monogr. 83, 557–574 (2013).
+50. Pal, C. et al. Metal resistance and its association with antibiotic resistance.
+    Adv. Microb. Physiol. 70, 261–313 (2017).
+51. Carattoli, A. Resistance plasmid families in Enterobacteriaceae. Antimicrob.          Acknowledgements
+    Agents Chemother. 53, 2227–2238 (2009).                                               We thank Alice Yu, Karen Kalanetra, Steve Frese, Samir Akre, Nick Jensen, Shannon Snook,
+52. Blokesch, M. Natural competence for transformation. Curr. Biol. 26, 3255              Douglas Gisi, and James Moller for helpful discussions and guidance in samples collection,
+    (2016).                                                                               DNA sequencing methodologies and analysis. This work used the Vincent J. Coates
+
+
+
+14                     NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12111-x                                                                                                   ARTICLE
+
+Genomics Sequencing Laboratory at UC Berkeley, supported by NIH S10 Instrumentation            Peer review information Nature Communications thanks the anonymous reviewers for
+Grants S10RR029668 and S10RR027303. This work has been supported by National Insti-            their contribution to the peer review of this work. Peer reviewer reports are available.
+tutes of Health awards R01AT007079 and R01AT008759 and the Peter J. Shields Endowed
+Chair in Dairy Food Science. DGL is funded by the U.S. Department of Agriculture (USDA)        Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+project 2032-53000-001-00-D. The USDA is an equal opportunity employer.                        published maps and institutional afﬁliations.
+
+
+Author contributions
+J.L., D.J., E.D., and D.A.M. designed experiments; J.L. and D.J. executed experiments; J.L.,                     Open Access This article is licensed under a Creative Commons
+D.H.T., M.X.M., M.L.T., and D.G.L. analyzed the data. J.L. and D.A.M. wrote the paper,                           Attribution 4.0 International License, which permits use, sharing,
+with input from all authors. All authors read and approved the ﬁnal manuscript.                adaptation, distribution and reproduction in any medium or format, as long as you give
+                                                                                               appropriate credit to the original author(s) and the source, provide a link to the Creative
+                                                                                               Commons license, and indicate if changes were made. The images or other third party
+Additional information                                                                         material in this article are included in the article’s Creative Commons license, unless
+Supplementary Information accompanies this paper at https://doi.org/10.1038/s41467-            indicated otherwise in a credit line to the material. If material is not included in the
+019-12111-x.
+                                                                                               article’s Creative Commons license and your intended use is not permitted by statutory
+                                                                                               regulation or exceeds the permitted use, you will need to obtain permission directly from
+Competing interests: D.A.M. is a co-founder of Evolve Biosystems, a company focused
+                                                                                               the copyright holder. To view a copy of this license, visit http://creativecommons.org/
+on diet-based manipulation of the gut microbiota. Evolve Biosystems had no role in the
+                                                                                               licenses/by/4.0/.
+conceptualization, design, data collection, analysis, or preparation of this manuscript.
+The remaining authors declare no competing interests.
+                                                                                               © The Author(s) 2019
+Reprints and permission information is available online at http://npg.nature.com/
+reprintsandpermissions/
+
+
+
+
+NATURE COMMUNICATIONS | (2019)10:4406 | https://doi.org/10.1038/s41467-019-12111-x | www.nature.com/naturecommunications                                                              15
+

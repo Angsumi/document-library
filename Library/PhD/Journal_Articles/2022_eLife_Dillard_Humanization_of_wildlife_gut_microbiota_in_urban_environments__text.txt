@@ -1,0 +1,2123 @@
+   bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+ (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                 available under a CC-BY 4.0 International license.
+
+
+
+
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7                               Humanization of wildlife gut microbiota in urban environments
+
+ 8
+
+ 9
+
+10
+
+11        Brian A. Dillard*,1, Albert K. Chung3, Alex R. Gunderson2, Shane C. Campbell-Staton3, Andrew H.
+
+12                                                                 Moeller*,1
+
+13
+
+14
+
+15
+            1
+16           Department of Ecology and Evolutionary Biology, Cornell University, Ithaca, NY 15853, USA
+                                         2
+17                                        Tulane University, New Orleans, LA 70118, USA
+                                          3
+18                                            Princeton University, Princeton, NJ 08544, USA
+
+19                                           *To whom correspondence should be addressed:
+
+20                   Brian A. Dillard - bd429@cornell.edu; Andrew H. Moeller - ahm226@cornell.edu
+
+21
+
+
+
+
+                                                                         1
+   bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+ (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                 available under a CC-BY 4.0 International license.
+
+
+
+
+22    Abstract
+
+23    Urbanization is rapidly altering Earth’s environments, demanding investigations of the impacts on
+
+24    resident wildlife. Here, we show that urban populations of coyotes (Canis latrans) and crested anole
+
+25    lizards (Anolis cristatellus) acquire gut microbiota constituents found in humans, including the gut
+
+26    bacterial lineages most significantly associated with urbanization in humans (e.g., Bacteroides).
+
+27    Comparisons of urban and rural wildlife and human populations revealed significant convergence of the
+
+28    gut microbiota among urban host populations. Remarkably, all microbial lineages found in humans that
+
+29    were overrepresented in urban wildlife relative to rural wildlife were also overrepresented in urban
+
+30    humans relative to rural humans. These results indicate parallel effects of urbanization on human and
+
+31    wildlife gut microbiota and suggest spillover of bacteria from humans into wildlife in cities.
+
+32
+
+33
+
+
+
+
+                                                                         2
+   bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+ (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                 available under a CC-BY 4.0 International license.
+
+
+
+
+34    The gut microbial communities of vertebrates tend to reflect their host’s phylogenetic histories. Across a
+
+35    diversity of vertebrate clades, the community composition of the gut microbiota is on average more
+
+36    similar within host species than between host species, and microbiota dissimilarity between host species
+
+37    is positively associated with host evolutionary divergence time (1–6). However, anthropogenic influences
+
+38    can disrupt the host-lineage specificity of vertebrate gut microbiota through a process of humanization, in
+
+39    which hosts acquire gut microbiota constituents found in humans (7, 8), with potentially adverse
+
+40    consequences for host phenotypes and fitness. For example, captive mammals can acquire human gut
+
+41    microbiota constituents, creating mismatches between host and microbiota evolutionary history that have
+
+42    been implicated in the gastrointestinal disorders often experienced by captive hosts (7, 8). Experiments in
+
+43    gnotobiotic rodents have further indicated that seeding hosts with human gut microbiota (or other non-
+
+44    native gut microbiota from a distantly related host species) can lead to stunted immunological
+
+45    development and reduced growth rates relative to seeding with native gut microbiota (9, 10). With the
+
+46    influence of humans on ecosystems becoming more pronounced globally, there is a need to better
+
+47    understand the effects of the Anthropocene on vertebrate wildlife, including the possibility of
+
+48    humanization of wildlife microbiota. Of particular importance are the effects of urbanization, which are
+
+49    escalating at accelerating rates (11, 12). Urbanization can alter the composition of the gut microbiota in
+
+50    diverse species of vertebrate wildlife (13, 14), leading to consistent differences between populations in
+
+51    urban and rural settings. However, whether urbanization promotes the humanization of the microbiota of
+
+52    resident wildlife has not yet been explored.
+
+53              To address this issue, we compared the gut microbiota of two vertebrate species—crested anoles
+
+54    (Anolis cristatellus; hereafter “anoles”) and coyotes (Canis latrans)—in both urban and rural settings to
+
+55    the gut microbiota of humans living in urban and rural settings. Anoles and coyotes maintain both urban
+
+56    and rural populations throughout North America and have become model systems for understanding the
+
+57    impacts of urbanization on vertebrate biology (15, 16). We analyzed 492 fecal microbiota profiles from
+
+58    94 anoles, 78 coyotes, and 320 adult humans (Supplemental Materials). Sampling locations for anoles
+
+59    included the city of Mayagüez on the western coast of Puerto Rico and an eastern longitudinal transect
+
+                                                                         3
+   bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+ (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                 available under a CC-BY 4.0 International license.
+
+
+
+
+60    through Quemado into the rural areas of Maricao (Figure 1—figure supplement 1). Locations for coyotes
+
+61    included the city of Edmonton, Canada and the more rural areas around the neighboring small city of
+
+62    Leduc (Figure 1—figure supplement 1) (14). Locations for humans included urban centers across the
+
+63    United States, rural communities in Malawi, and rural Amazonian villages in Venezuela (17). Metadata
+
+64    for all samples are presented in Table S1. Across these samples we observed 29,492 unique Amplicon
+
+65    Sequence Variants (ASVs). The relative abundances of ASVs are presented in Table S2. Taxonomic
+
+66    assignments for all ASVs against the Silva 138 database are presented in Table S3. Alpha diversities and
+
+67    taxonomic barplots for all sample groups are presented in Figure 1—figure supplement 2 and Figure 1—
+
+68    figure supplement 3, respectively.
+
+69              To assess the hypothesis that gut microbiota of wildlife living in urban settings have converged
+
+70    with those of humans relative to wildlife living in more rural settings, we calculated all microbiota
+
+71    dissimilarities (Binary Sorensen-Dice and Bray-Curtis) between pairs of samples using QIIME2 (18).
+
+72    PERMANOVA and PERMDISP indicated significant differences in gut microbiota composition among
+
+73    wildlife populations in different sampling locations (Supplemental Materials). To visualize the degree of
+
+74    compositional similarity among the gut microbiota profiles from anoles, coyotes, and humans, we next
+
+75    generated non-metric multidimensional scaling (NMDS) plots of Bray-Curtis and binary Sorensen-Dice
+
+76    dissimilarities. Results of these analyses are presented in Figure 1A and B. In these plots, anole
+
+77    microbiota profiles displayed a gradient that recapitulated the longitudinal transect from Mayagüez
+
+78    (urban) to Maricao (rural), and the microbiota of urban Mayagüez anoles were closer in compositional
+
+79    space to the microbiota of humans from urban areas than were the microbiota of rural anoles. Similarly,
+
+80    the gut microbiota of urban coyotes (Edmonton) were closer in compositional space to those of humans
+
+81    than were those of coyotes from more rural areas (Leduc). Using pairwise beta diversities, we then tested,
+
+82    for both anoles and coyotes, whether the mean beta diversity between urban wildlife and humans was
+
+83    significantly lower than that between rural wildlife and humans (Supplemental Materials). Results
+
+84    indicated that, for both wildlife species, binary Sorensen-Dice microbiota dissimilarity to humans from
+
+85    the United States was significantly reduced in urban settings relative to rural settings (non-parametric p-
+
+                                                                         4
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+ 86    values = 0.001 for each comparison) (Figure 1C, D). Similar results were observed for analyses based on
+
+ 87    Bray-Curtis dissimilarities (Figure 1—figure supplement 4). In addition, we assessed the degree of
+
+ 88    compositional convergence of the gut microbiota between wildlife in urban and rural settings with the gut
+
+ 89    microbiota of humans from rural populations in Malawi and Venezuela. These analyses also supported
+
+ 90    the conclusion that urban wildlife microbiota have converged compositionally with human microbiota
+
+ 91    (Figure 1—figure supplement 5). However, wildlife microbiota in urban settings were more
+
+ 92    compositionally similar to those of urban human populations (USA) (Figure 1C, D) than they were to
+
+ 93    those of rural human populations (Malawi and Venezuela) (Figure 1—figure supplement 5) (non-
+
+ 94    parametric p-value = 0.001 for each comparison). These analyses further indicated that the gut microbiota
+
+ 95    of distantly related vertebrates (anoles, coyotes, and humans) have converged compositionally in urban
+
+ 96    environments.
+
+ 97              To enable identification of the specific ASVs that underlie the observed convergence among
+
+ 98    human and wildlife gut microbiota in urban settings, we identified all ASVs shared by urban anoles and
+
+ 99    humans to the exclusion of rural anoles and all ASVs shared by urban coyotes and humans to the
+
+100    exclusion of rural coyotes. A list of these ASVs is presented in Table S4. Three microbial genera—
+
+101    Clostridium sensu stricto 1, Blautia, and Bacteroides—included >5 ASVs that displayed this pattern. The
+
+102    phylogenetic distributions of these ASVs visualized with Empress (19) are presented in Figure 2—figure
+
+103    supplement 1.
+
+104              To test for differentially abundant ASVs between urban and rural populations, we employed
+
+105    ANCOM (20) to compare urban and rural populations of anoles, coyotes, and humans. Results revealed
+
+106    several ASVs that were differentially abundant between urban and rural wildlife populations (Figure 2A
+
+107    and B; Figure 2—figure supplement 2) and between urban and rural human populations (Figure 2—figure
+
+108    supplement 3). We then asked whether the ASVs that were overrepresented in wildlife populations in
+
+109    urban settings relative to conspecifics in rural areas also displayed the same direction of difference in
+
+110    relative abundance between urban and rural human populations. The relative abundance of all ASVs
+
+111    (Bacteroides vulagtus, Phasocolarctobacterium faecium, and Erysipelatoclostridium ramosum) that were
+
+                                                                          5
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+112    detected in humans and significantly overrepresented in anoles sampled in Mayagüez (urban) relative to
+
+113    anoles sampled in Maricao (rural) are presented in Figure 2C–E. The relative abundances of the ASV
+
+114    (Ruminococcus gnavus) that was detected in humans and significantly overrepresented in urban coyotes
+
+115    relative to ruran coyotes is presented in Figure 2F. In every case, the difference in relative abundance
+
+116    between urban and rural wildlife paralleled the difference observed between urban and rural human
+
+117    populations. These ASVs included a predominant human commensal belonging to the genus Bacteroides
+
+118    that constituted up to 15% of the gut microbiota in humans from urban environments (Figure 2C). This
+
+119    ASV was also the most significantly overrepresented in urban humans of all ASVs examined (Figure 2—
+
+120    figure supplement 3). ASVs showing parallel shifts in abundance in urban humans and urban wildlife also
+
+121    reached moderately high relative abundances in urban wildlife fecal samples (e.g., ~1%), indicating that
+
+122    these ASVs are unlikely to represent transient members of the gut microbiota. The genera Bacteroides
+
+123    and Ruminococcus, to which some of the ASVs overrepresented in urban wildlife belong, have been
+
+124    previously established as an indicator taxa of urbanization in humans (17, 21). Furthermore, comparative
+
+125    studies of microbiomes across Earth’s environments have indicated that the human gut is a primary
+
+126    reservoir of these ASVs (22). Therefore, humans represent a likely source of these gut microbiota
+
+127    constituents in urban wildlife.
+
+128              The observation that a set of ASVs found in humans increased in prevalence in urban wildlife is
+
+129    consistent with bacterial spillover from humans into anoles and coyotes in cities. Testing the rates at
+
+130    which bacterial lineages transmit between humans and wildlife in cities will require further strain-level
+
+131    profiling of the gut microbiota of these hosts combined with phylogenetic analyses of strain relationships.
+
+132    A non-mutually exclusive explanation is that parallel dietary shifts select for common sets of ASVs in
+
+133    humans and wildlife. For example, previous work in humans has shown that the relative abundance of
+
+134    Bacteroides is associated with diets high in animal fat and protein (23). It is possible that dietary
+
+135    differences between urban and rural wildlife populations may contribute to the observed gut microbiota
+
+136    convergence with humans in cities. Our results motivate future profiling of diets (e.g., through
+
+
+
+                                                                          6
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+137    metabarcoding) and gut microbiota composition to test whether shared dietary differences between urban
+
+138    and rural populations drive convergence of the gut microbiota.
+
+139              Overall, this study demonstrates the convergence of gut microbiota composition among distantly
+
+140    related vertebrates living in urban environments. Interestingly, this convergence was evident despite the
+
+141    fact that the human and wildlife populations that we examined resided in different cities throughout North
+
+142    America, indicating parallel effects of urbanization on humans and wildlife independent of geographic
+
+143    location. Close contact among hosts of the same species can generate social microbiomes—microbial
+
+144    metacommunities formed by conduits of microbial transmission along host social networks (24). Previous
+
+145    studies have also indicated that transmission of the gut microbiota can occur between species of
+
+146    mammalian wildlife when they come into close contact, such as predator-prey interactions (2). Our results
+
+147    suggest that urban environments host gut microbiota metacommunities of vertebrate species as distantly
+
+148    related as reptiles and mammals, implying the existence of gut microbial transmission routes among
+
+149    humans and diverse wildlife in cities.
+
+150
+
+151
+
+
+
+
+                                                                          7
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+152    References
+
+153         1. Song S.J., Sanders J.G., Delsuc F., Metcalf J., Amato K., et al. Comparative analyses of
+
+154              vertebrate gut microbiomes reveal convergence between birds and bats. mBio 11, e02901-19
+
+155              (2020).
+
+156         2. Moeller A.H., Suzuki T.A., Lin D., Lacey E.A., Wasser S.K., et al. Dispersal limitation promotes
+
+157              the diversification of the mammalian gut microbiota. Proceedings of the National Academy of
+
+158              Sciences USA 114, 13768–13773 (2017).
+
+159         3. Delsuc F., Metcalf J.L., Wegener Parfrey L., Song S.J., González A., et al. Convergence of gut
+
+160              microbiomes in myrmecophagous mammals. Molecular Ecology 23, 1301–17 (2014).
+
+161         4. Muegge B.D., Kuczynski J., Knights D., Clemente J.C., González A., et al. Diet drives
+
+162              convergence in gut microbiome functions across mammalian phylogeny and within humans.
+
+163              Science 332, 970–974 (2011).
+
+164         5. Ochman H., Worobey M., Kuo C.H., Ndjango J.B.N., Peeters M., et al. Evolutionary
+
+165              relationships of wild hominids recapitulated by gut microbial communities. PLoS Biology 8,
+
+166              e1000546 (2010).
+
+167         6. Ley R.E., Hamady M., Lozupone C., Turnbaugh P.J., Ramey R.R., et al. Evolution of mammals
+
+168              and their gut microbes. Science. 320, 1647–1651 (2008).
+
+169         7. Clayton J.B., Vangay P., Huang H.U., Ward T., Hillmann B.M., et al. Captivity humanizes the
+
+170              primate microbiome. Proceedings of the National Academy of Sciences USA 113, 10376–10381
+
+171              (2016).
+
+172         8. Houtz J.L., Sanders J.G., Denice A., Moeller A.H. Predictable and host‐species specific
+
+173              humanization of the gut microbiota in captive primates. Molecular Ecology 30, 3677–3687
+
+174              (2021).
+
+175         9. Chung H., Pamp S.J., Hill J.A., Surana N.K., Edelman S.M., et al. Gut immune maturation
+
+176              depends on colonization with a host-specific microbiota. Cell 149, 1578–1593 (2012).
+
+
+
+                                                                          8
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+177         10. Moeller A.H., Gomes-Neto J.C., Mantz S., Kittana H., Segura Munoz R.R., et al. Experimental
+
+178              evidence for adaptation to species-specific gut microbiota in house mice. mSphere 4, e00387-19
+
+179              (2019).
+
+180         11. Kalnay E., Cai M. Impact of urbanization and land-use change on climate. Nature 423, 528–531
+
+181              (2002).
+
+182         12. Sun L., Chen J., Li Q., Huang D. Dramatic uneven urbanization of large cities throughout the
+
+183              world in recent decades. Nature Communications 11, 1–9 (2020).
+
+184         13. Teyssier A., Matthysen E., Hudin N.S., De Neve L., White J., Lens L. Diet contributes to urban-
+
+185              induced alterations in gut microbiota: experimental evidence from a wild passerine. Proceedings
+
+186              of the Royal Society B 287, 20192182 (2020).
+
+187         14. Sugden S., Sanderson D., Ford K., Stein L.Y., Clair C.C. An altered microbiome in urban coyotes
+
+188              mediates relationships between anthropogenic diet and poor health. Scientific Reports 17, 1–4
+
+189              (2020).
+
+190         15. Campbell-Staton S.C., Winchell K.M., Rochette N.C., Fredette J., Maayan I., et al. Parallel
+
+191              selection on thermal physiology facilitates repeated adaptation of city lizards to urban heat
+
+192              islands. Nature Ecology & Evolution 4, 652–658.
+
+193         16. Tigas L.A., Van Vuren D.H., Sauvajot R.M. Behavioral responses of bobcats and coyotes to
+
+194              habitat fragmentation and corridors in an urban environment. Biological Conservation 108, 299–
+
+195              306 (2002).
+
+196         17. Yatsunenko, T., Rey F.E., Manary M.J., Trehan I., Dominguez-Bello M.G., et al. Human gut
+
+197              microbiome viewed across age and geography. Nature, 486, 222–227 (2012).
+
+198         18. Bolyen E., Rideout J.R., Dillon M.R., Bokulich N.A., Abnet C.C., et al. Reproducible,
+
+199              interactive, scalable and extensible microbiome data science using QIIME 2. Nature
+
+200              Biotechnology 37, 852–857 (2019).
+
+
+
+
+                                                                          9
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+201         19. Cantrell K., Fedarko M.W., Rahman G., McDonald D., Yang Y., et al. EMPress enables tree-
+
+202              guided, interactive, and exploratory analyses of multi-omic data sets. mSystems 6, e01216-20
+
+203              (2021).
+
+204         20. Mandal, S., Van Treuren, W., White, R. A., Eggesbø, M., Knight, R., et al. Analysis of
+
+205              composition of microbiomes: a novel method for studying microbial composition. Microbial
+
+206              Ecology in Health and Disease 26, 27663 (2015).
+
+207         21. Sonnenburg, J. L., Sonnenburg, E. D. Vulnerability of the industrialized microbiota. Science 366,
+
+208              444 (2019).
+
+209         22. Thompson L.R., Sanders J.G., McDonald D., Amir A., Ladau J., Locey K. J., et al. A communal
+
+210              catalogue reveals Earth’s multiscale microbial diversity. Nature 551, 457–463 (2017).
+
+211         23. Wu G.D., Chen J., Hoffmann C., Bittinger K., Chen Y., et al. Linking long-term dietary patterns
+
+212              with gut microbial enterotypes. Science 334, 105–108 (2011).
+
+213         24. Sarkar A., Harty S., Johnson K.V.A., Moeller A.H., Archie E.A., et al. Microbial transmission in
+
+214              animal social networks and the social microbiome. Nature Ecology & Evolution 4, 1020–1035
+
+215              (2020).
+
+216
+217
+
+218
+
+219
+
+
+
+
+                                                                         10
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+220    Figure 1
+221
+
+
+
+
+222
+223
+
+
+
+
+                                                                         11
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+224    Figure 2
+
+
+
+
+225
+
+                                                                         12
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+226    Figure 1. Humanization of urban anole and coyote gut microbiota. Non-metric Multi-dimensional
+
+227    Scaling (NMDS) plots in (a) and (b) show patterns of dissimilarities among anole, coyote, and human
+
+228    (USA adults), gut microbiota profiles. Panels (a) and (b) show NMDS based on Bray-Curtis and binary
+
+229    Sorensen-Dice dissimilarities, respectively. In (a) and (b), each point represents the gut microbiota profile
+
+230    of an individual anole, coyote, or human, as indicated by the key in (a). Boxplots in (c) and (d) show
+
+231    microbiota dissimilarities (binary Sorensen-Dice) between anoles and humans (c) and between coyotes
+
+232    and humans (d). Each box corresponds to comparisons including a single anole or coyote population as
+
+233    indicated. Horizontal arrows indicate gradient of increasing urbanization. Boxplots display median and
+
+234    interquartile range. Significant differences of boxplots compared to urban conspecifics (leftmost boxplot
+
+235    in each panel) based on nonparametric Monte-Carlo permutation tests are denoted with asterisks; *** p =
+
+236    0.001.
+
+237    Figure 2. Differentially abundant ASVs between populations in urban and natural settings. Volcano
+
+238    plots display the results of ANCOM tests for ASVs that were differentially abundant between urban and
+
+239    rural populations of anoles (a) and coyotes (b). Each point represents an ASV, with the x-axis denoting
+
+240    the centered log ratio mean difference of the relative abundance of the ASV between urban and rural
+
+241    populations. The y-axis indicates the ANCOM test statistic (W), and horizontal dashed line indicates the
+
+242    significance level W=0.5 and W=0.7. Panel (a) displays results of ANCOM tests comparing Mayagüez
+
+243    and Maricao anoles. Results of ANCOM tests comparing Mayagüez anoles with anoles from the other
+
+244    two sampling locations are presented in Figure 2—figure supplement 2. Boxplots in (c)-(e) show the
+
+245    relative abundances of each of the ASVs that were significantly overrepresented in Mayagüez (urban)
+
+246    anoles relative to Maricao anoles based on ANCOM analyses shown in (a). Boxplots in (f) show the
+
+247    relative abundances of the single ASV that was significantly overrepresented in Edmonton (urban)
+
+248    coyotes relative to Leduc coyotes based on ANCOM analyses shown in (b). Boxplots display median and
+
+249    interquartile range. In (c)-(e), the relative abundances of the ASVs in humans from USA, Venezuela, and
+
+250    Malawi are shown in the rightmost three boxplots in each panel. Note that each ASV displays parallel
+
+251    shifts in relative abundance in urban populations of anoles, coyotes, and humans relative to rural
+
+                                                                         13
+    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+  (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                  available under a CC-BY 4.0 International license.
+
+
+
+
+252    populations of the same host species. Significant differences between ASV relative abundance in wildlife
+
+253    from urban (Mayagüez or Edmonton) and rural (Maricao or Leduc) environments are indicated by
+
+254    asterisks above the boxplot for each urban population; * W > 0.5; *** W > 0.7.
+
+255
+
+256
+
+257
+
+
+
+
+                                                                         14
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+     Supplemental Methods
+
+
+     Sample collection
+
+     Fecal samples were collected from anoles (Anolis cristatellus) in four sampling locations shown in Figure
+
+     1A. Animals were caught with lassos and placed into clean plastic bags for fecal collection. All fecal
+
+     material was snap frozen upon collection and stored at -80C. Sample sizes were determined by catch
+
+     success over a nine-day period from July 14, 2019 to July 23, 2019.
+
+     DNA Extractions, library preparation and sequencing
+
+     DNA was extracted from all anole fecal pellets with a bead beating procedure based on the Qiagen
+
+     PowerLyzer kit. The V4–V5 region (515F 926R primer pair) of 16S rRNA gene was amplified from all
+
+     DNAs in duplicate with the high fidelity Phusion polymerase as described by Comeau et al., 2017.
+
+     Following library preparation, 16S rRNA gene libraries were pooled in equimolar amounts and sequenced
+
+     on a single lane of Illumina MiSeq using 300 + 300 bp paired-end V3 chemistry following protocols of
+
+     (25).
+
+     Quality filtering, sequence processing, and taxonomic assignments
+
+     Raw fastq files generated from anole fecal microbiota libraries were uploaded to the qiita webserver
+
+     (qiita.ucsd.edu) and combined with publicly available fastq files containing reads corresponding to 16S
+
+     rRNA gene V4 sequences from the gut microbiota of adult humans (17) and coyotes (14). Raw reads were
+
+     filtered for quality using split libraries and trimmed to a common length of 100bp to enable comparisons
+
+     across datasets. Amplicon sequence variants were called using deblur as implemented in qiita using
+
+     default parameters. All ASVs were assigned to taxonomic ranks against the Silva 138 database using the
+
+     taxonomy command in QIIME2. Samples whose read depths were more than three standard deviations
+
+     below the mean of the samples’ group or for which >75% of the reads belonged to a single ASV were
+
+     removed prior to downstream analyses. For each analysis, samples were rarefied to a common depth of
+
+     90% of the minimum read depth of samples included in the analysis in order to enable direct comparisons
+
+     of alpha and beta diversity among samples.
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+     Beta and alpha diversity analyses
+
+     Beta diversities (Binary Sorensen-Dice and Bray-Curtis dissimilarities) were calculated between all pairs
+
+     of samples and for each individual sample with thein R Phyloseq package (26). Alpha diversities (chao1
+
+     and shannon) were calculated for each sample and plotted by sampling location in QIIME2. Comparisons
+
+     of beta diversities between sample groups were conducted with anosim using Kruskal-Wallis tests and
+
+     PEMANOVA/PERMDISP using the R vegan package. Significance of comparisons of alpha diversities
+
+     between sample groups was assessed with Kruskal-Wallis tests in QIIME2. Beta dispersion within groups
+
+     was measured with the R vegan package. Beta diversities were visualized using non-metric
+
+     multidimensional scaling as implemented in the R phyloseq package.
+
+     Statistical analyses of beta diversity
+
+     The hypothesis that the gut microbiota of urban wildlife displayed increased compositional similarity to
+
+     human gut microbiota relative to the gut microbiota of non-urban wildlife was assessed based on
+
+     comparisons of Binary Sorensen-Dice and Bray-Curtis dissimilarities with Monte Carlo permutation tests.
+
+     Specifically, these tests assessed whether beta diversity between urban wildlife (either anoles from
+
+     Mayaguez or coyotes from Edmonton) and humans was significantly lower than that between non-urban
+
+     wildlife (anoles from Quemado 1, Quemado 2, or Maricao or coyotes from Leduc) and humans. These
+
+     tests included 999 permutations of the beta diversity matrices as implemented in
+
+     make_distance_boxplots.py in QIIME1.
+
+     Phylogenetic analyses of ASVs
+
+     A phylogeny of all ASVs was generated using SEPP insertion against the Greengenes 13.8 reference. The
+
+     ASVs that were shared by urban wildlife and humans but not by non-urban wildlife were identified in R,
+
+     and the phylogenetic distributions of these ASVs were plotted with empress (19).
+
+     Differential abundance testing and visualization
+
+     Analysis of compositions of microbiomes with bias correction (ANCOM) (20) was employed to test for
+
+     differentially abundant ASVs between sample groups. For these analyses, sample groups considered were
+
+     urban versus non-urban anoles, urban versus non-urban coyotes, humans from USA versus humans from
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+     Malawi, and humans from USA versus humans from Venezuela. Differentially abundant ASVs were
+
+     visualized using ggplot. Scripts that were modified for these analyses are available at
+
+     https://github.com/FrederickHuangLin/ANCOM. The specific scripts used in our analyses are available at
+
+     https://github.com/briandill2/MicrobiotaUrbanization. Boxplots of ASV relative abundances were made
+
+     with ggplot. For boxplots of ASV relative abundances, we identified each ASV that was significantly
+
+     overrepresented in Mayaguez anoles compared to Maricao anoles or significantly overrepresented in
+
+     Edmonton coyotes compared to Leduc coyotes.
+
+
+
+
+     Supplemental Results
+
+
+     Statistically significant differences in beta diversity among sample groups
+
+     PERMANOVA and PERMDISP analyses indicated significant differences in beta diversity centroids
+
+     among sample groups. Sample groups included Mayaguez anoles, Quemado 1 anoles, Quemado 2 anoles,
+
+     Maricao anoles, urban coyotes, peri-urban coyotes, USA humans, Venezuela humans, and Malawi
+
+     humans. Tests of differences in mean beta diversity between pairs of comparisons of sample groups were
+
+     conducted with nonparametric tests based on 999 Monte Carlo permutations of the beta diversity matrix
+
+     as implemented in QIIME. In each pairwise comparison, posthoc Kruskal-Wallis tests of PERMANOVA
+
+     indicated significant differences among groups (p < 0.01 for each comparison). In contrast, no significant
+
+     differences were observed among sample dispersion based on PERMDISP in 44 out of 44 pairwise
+
+     comparisons of Sorensen-Dice dissimilarities (p > 0.05 for each comparison) and 42 out of 44 pairwise
+
+     comparisons of Bray-Curtis dissimilarities. The only sample groups displaying significantly different
+
+     dispersions based on PERMDISP analyses of Bray-Curtis dissimilarities were USA human and Peri-
+
+     urban coyotes (p-value =1.7e-5) and USA humans and Mayaguez anoles (p-value = 0.048).
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+     Supplementary References
+     25. Comeau A.M., Douglas G.M., Langille M.G. Microbiome helper: a custom and streamlined workflow
+
+     for microbiome research. mSystems 2, e00127-16 (2017).
+
+     26. McMurdie P.J., Holmes S. phyloseq: an R package for reproducible interactive analysis and graphics
+
+     of microbiome census data. PloS ONE 8, e61217 (2013).
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+     Supplemental Figure Legends
+
+
+     Figure 1—figure supplement 1. Map of wildlife sampling locations. (a) Circles and star indicate
+
+     sampling sites of anole populations as indicated by the key. (b) Circle and star indicate sampling sites of
+
+     coyote populations as indicated by the key. In (a) and (b), stars indicate urban sampling locations and
+
+     circles indicate rural sampling locations.
+
+
+     Figure 1—figure supplement 2. Alpha diversity in gut microbiota of urban and non-urban anoles
+
+     and coyotes. Boxplots show median and interquartile ranges of alpha diversity estimates for anoles and
+
+     coyotes. Chao1 and Shannon estimates are shown in (a) and (b), respectively. Significant differences
+
+     based on Kruskal-Wallis tests are shown; NS p > 0.05.
+
+
+     Figure 1—figure supplement 3. Taxonomic profiles of anole and coyote gut microbiota in urban
+
+     and non-urban locations. Stacked bar plots display the relative abundances of bacterial phyla in anoles
+
+     and coyotes from locations shown in Figure 1. Each bar corresponds to a bacterial phylum as indicated by
+
+     the key.
+
+
+     Figure 1—figure supplement 4. Humanization of urban anole and coyote gut microbiota based on
+
+     ASV relative abundance profiles. Boxplots show microbiota dissimilarities (Bray-Curtis) between
+
+     anoles and humans (a) and between coyotes and humans (b). Each box corresponds to comparisons
+
+     including a single anole or coyote population as indicated, and colors correspond to those in Figure 1.
+
+     Boxplots display median and interquartile range. Significant differences of boxplots compared to urban
+
+     conspecifics (leftmost boxplot in each panel) based on nonparametric Monte-Carlo permutation tests are
+
+     denoted with asterisks; ** p < 0.01, *** p = 0.001.
+
+
+     Figure 1—figure supplement 5. Humanization of urban anole and coyote gut microbiota based on
+
+     comparisons with humans from Venezuela and Malawi. Boxplots in (a) and (b) show microbiota
+
+     dissimilarities between anoles and humans from Malawi based on Bray Curtis (a) and binary Sorensen-
+
+     Dice (b) dissimilarities. Boxplots in (c) and (d) show microbiota dissimilarities between anoles and
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+     humans from Venezuela based on Bray Curtis (c) and binary Sorensen-Dice (d) dissimilarities. Each box
+
+     corresponds to comparisons including a single anole or coyote population as indicated, and colors
+
+     correspond to those in Figure 1. Boxplots display median and interquartile range. Significant differences
+
+     of boxplots compared to urban conspecifics (leftmost boxplot in each panel) based on nonparametric
+
+     Monte-Carlo permutation tests are denoted with asterisks; NS p > 0.05, * p < 0.05, ** p < 0.01, *** p =
+
+     0.001.
+
+
+     Figure 2—figure supplement 1. Phylogenetic distribution of ASVs shared by humans and urban
+
+     wildlife. Phylogenies show relationships among ASVs within microbial genera (Blautia, Bacteroides, and
+
+     Clostridium sensu scrito 1) for which at least 5 ASVs were shared exclusively by humans and urban
+
+     wildlife (to the exclusion of rural wildlife). Vertical bars mark the ASVs that were either shared by urban
+
+     wildlife and humans to the exclusion of rural wildlife or shared by rural wildlife and humans to the
+
+     exclusion of urban wildlife. Colors of vertical bars indicate the host populations in which the ASVs were
+
+     detected as indicated in the key in Figure 1A. Vertical bars with asterisks correspond to the 18 ASVs that
+
+     displayed a distribution across host populations indicative of humanization, whereas vertical bars without
+
+     asterisks correspond to the two ASVs that displayed the opposite distribution (i.e., shared by rural wildlife
+
+     and humans to the exclusion of urban wildlife).
+
+     Figure 2—figure supplement 2. Differentially abundant ASVs between anole populations in urban
+
+     and natural settings. Volcano plots display the results of ANCOM tests for ASVs that were
+
+     differentially abundant between urban and natural populations of anoles from (a) Mayaguez and
+
+     Quemado 1 and (b) Mayaguez and Quemado 2. Each point represents an ASV, with the x-axis denoting
+
+     the centered log ratio mean difference of the relative abundance of the ASV between urban and natural
+
+     populations. The y-axis indicates the ANCOM test statistic (W), and horizontal dashed lines indicate the
+
+     significance levels W=0.5 and W=0.7.
+
+
+     Figure 2—figure supplement 3. Differentially abundant ASVs between human populations. Volcano
+
+     plots display the results of ANCOM tests for ASVs that were differentially abundant between urban
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+     (USA) and non-urban (Venezuela and Malawi) populations of humans. Comparisons between USA and
+
+     Venezuela populations are show in (a), and between USA and Malawi populations in (b). Each point
+
+     represents an ASV, with the x-axis denoting the centered log ratio mean difference of the relative
+
+     abundance of the ASV between urban and natural populations. Red points indicate the Bacteroides ASV
+
+     presented in Figure 2. The y-axis indicates the ANCOM test statistic (W), and horizontal dashed lines
+
+     indicate the significance levels W=0.5 and W=0.7.
+
+
+
+
+     Supplemental Tables
+
+
+     Table S1. Metadata for all samples.
+
+
+     Table S2. ASV relative abundances across all samples.
+
+
+     Table S3. Taxonomic assignments of all ASVs.
+
+
+     Table S4. ASVs shared by urban wildlife and humans but not by rural conspecific wildlife.
+                                 Maricao
+                                                                                                                                                  *** *** ***                             ***
+                                                             0.6
+        0.6                       Quemado 2                                                                                                   1.0                           1.0
+                                  Quemado 1
+                                  Mayaguez (urban)
+                                  Leduc
+                                  Edmonton (urban)
+
+                                  Humans (urban)             0.4
+
+
+
+
+                                                                                                        Microbiota dissimilarity to humans
+        0.4                                                                                                                        0.975
+
+
+
+
+                                                                                                             (Binary Sorensen-Dice)
+                                                                                                                                                                            0.9
+
+
+        0.2                                                  0.2
+NMDS2
+
+
+
+
+                                                     NMDS2
+                                                                                                                                             0.95
+
+
+
+                                                                                                                                                                            0.8
+        0.0                                                  0.0
+                                                                                                                                   0.925
+
+
+
+
+    -0.2                                                -0.2
+                                                                                                                                                     Urbanization
+                                                                                                                                              0.9                           0.7
+
+
+
+
+                                                                                                                                                                                      an n
+                                                                                                                                                                        o
+
+
+
+
+                                                                                                                                                                                              c
+                                                                                                                                                          1
+
+
+
+                                                                                                                                                          2
+                                                                                                                                                   an z
+
+
+
+
+                                                                                                                                                                                             du
+                                                                                                                                                                                    rb to
+                                                                                                                                                rb ue
+
+
+
+
+                                                                                                                                                                    ica
+                                                                                                                                                        o
+
+
+
+                                                                                                                                                        o
+                                                                                                                                                     ad
+
+
+
+                                                                                                                                                     ad
+
+
+
+
+                                                                                                                                                                                  (u on
+                                                                                                                                              (u yag
+
+
+
+
+                                                                                                                                                                                             Le
+                                                                                                                                                                                        )
+                                                                                                                                                                    ar
+                                                                                                                                                     )
+          -0.25   0.00    0.25   0.50        0.75                  -0.25   0.00    0.25   0.50   0.75
+
+
+
+
+                                                                                                                                                 em
+
+
+
+                                                                                                                                                 em
+
+
+
+
+                                                                                                                                                                              m
+                                                                                                                                                                    M
+                                                                                                                                                  a
+
+
+
+
+                                                                                                                                                                            Ed
+                         NMDS1                                                    NMDS1
+
+
+
+
+                                                                                                                                                M
+
+
+                                                                                                                                              Qu
+
+
+
+                                                                                                                                              Qu
+                                                                                                         
+                                    
+                                                
+                                                
+          600                    W 0.7                                                                   100
+                                                                                                                     W 0.7
+W statistic
+
+
+
+
+                                                                                                                             
+                                                                                                                     W 0.5
+                                 W 0.5
+
+          400
+                                                                                                            50
+          200
+
+
+                        0                                                                                     0
+                         -3              -2       -1     0       1                         2                                     −1           0                    1
+                                                CLR mean difference                                                              CLR mean difference
+
+  1500                                                                                         500 
+                                                                                                                           *
+
+
+                                                                                                                     400
+        Relative abundance
+
+
+
+
+                        1000             ***                                                                         300
+
+
+
+                                                                                                                     200
+                             500
+
+                                                                                                                     100
+
+
+
+                                                                                                                             0
+                                 0
+
+                                              
+                bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+                                                                                                                            n
+
+
+
+
+                                                                                                                                                            a
+
+                                                                                                                                                             i
+                                                                                                                             c
+
+                                                                                                                                                  Ve SA
+
+
+
+                                                                                                                                                         aw
+                                                                                                                         du
+                                                                                                                          to
+
+
+
+
+                                                                                                                                                          el
+
+
+
+
+              (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                                                                                                                      zu
+                                                                                                                                                       U
+                                                                                                                       on
+
+
+
+
+                                                                                                                                                       al
+
+
+
+
+                                                              available under a CC-BY 4.0 International license.
+                                                                                                                       Le
+
+
+
+
+                                                                                                                                                     M
+                                                                                                                                                    ne
+                                                                                                                      m
+
+
+
+
+                             200
+                                                                                                                    Ed
+
+
+
+
+                             150
+        Relative abundance
+
+
+
+
+                                         ***
+                             100
+
+
+
+                              50
+
+
+
+                                 0
+
+                                        
+                                          ***
+
+
+
+                              30
+        Relative abundance
+
+
+
+
+                              20
+
+
+
+
+                              10
+
+
+
+
+                                 0
+                                         z
+
+                                                 1
+
+                                                        2
+
+                                                               ao
+
+
+
+
+                                                                                 a
+
+                                                                                  i
+                                                                       Ve USA
+
+
+
+                                                                               aw
+                                     ue
+
+
+
+
+                                                                               el
+                                                o
+
+                                                        o
+
+                                                             ic
+
+
+
+                                                                            zu
+                                              ad
+
+                                                    ad
+
+
+
+
+                                                                            al
+                               ag
+
+
+
+
+                                                            ar
+
+
+
+
+                                                                          M
+                                                                         ne
+                                          m
+
+                                                    m
+                             ay
+
+
+
+
+                                                        M
+                                         ue
+
+                                                 ue
+                             M
+
+                                         Q
+
+                                               Q
+                           
+                                                  N
+                                          W
+                                                      E
+                                              S
+                                        60 miles
+
+
+    N                   
+W       E
+    S
+5 miles
+
+
+
+
+            Mayaguez
+            Quemado 1
+            Quemado 2           Urban (Edmonton)
+            Maricao             Peri-urban (Leduc)
+                 1,300
+
+
+                  1,200
+
+
+                  1,100
+
+
+                  1,000
+
+
+                   900
+
+
+                   800
+                                                                    NS
+                   700bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this prep
+ chao1
+
+
+
+
+                     (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is m
+                                                                    available under a CC-BY 4.0 International license.
+
+                   600
+
+
+                   500
+
+
+                   400
+
+
+                   300                                                                                                             NS
+
+                   200
+
+
+                   100
+
+
+                      0
+
+
+
+                      8
+
+                                                                  NS
+                      7
+
+
+
+
+                      6
+                                                                                                                                   NS
+
+
+                      5
+shannon_entropy
+
+
+
+
+                      4
+
+
+
+
+                      3
+
+
+
+
+                      2
+
+
+
+
+                      1
+
+
+
+
+                      0
+                                                                           1)
+                                                       )
+
+
+
+
+                                                                                                2)
+                                   )
+
+
+
+
+                                                      =9
+                                 10
+
+
+
+
+                                                                                                                    )
+                                                                         =1
+
+
+
+
+                                                                                              =1
+
+
+
+
+                                                                                                                                         4)
+                                                                                                                  10
+                                                    (n
+                              n=
+
+
+
+
+                                                                                                                                        =5
+                                                                       (n
+
+
+
+
+                                                                                             (n
+
+
+
+
+                                                                                                                n=
+                                                 o1
+                            z(
+
+
+
+
+                                                                                                                                        (n
+                                                                     o2
+
+
+
+
+                                                                                           o
+
+
+
+
+                                                                                                              s(
+                                               ad
+                          ue
+
+
+
+
+                                                                                        ica
+
+
+
+
+                                                                                                                                    es
+                                                                  ad
+
+
+
+
+                                                                                                               e
+                                           em
+                        ag
+
+
+
+
+                                                                                                            pl
+                                                                                      ar
+
+
+
+
+                                                                                                                                   pl
+                                                                em
+
+
+
+
+                                                                                                        am
+                                                                                     M
+
+
+
+
+                                                                                                                                 m
+                      ay
+
+
+
+
+                                         Qu
+
+
+
+
+                                                             Qu
+
+
+
+
+                                                                                                                              sa
+                     M
+
+
+
+
+                                                                                                       ls
+
+
+
+
+                                                                                                                              al
+                                                                                                    ca
+
+
+
+
+                                                                                                                            c
+                                                                                                  fe
+
+
+
+
+                                                                                                                         fe
+                                                                                                  te
+
+
+
+
+                                                                                                                         te
+                                                                                               yo
+
+
+
+
+                                                                                                                      yo
+                                                                                             co
+
+
+
+
+                                                                                                                    co
+                                                                                         an
+
+
+
+
+                                                                                                                   an
+                                                                                         b
+
+
+
+
+                                                                                                              rb
+                                                                                      Ur
+
+
+
+
+                                                                                                            i-u
+                                                                                                            r
+                                                                                                         Pe
+           100%
+
+
+
+
+                  90%
+
+
+
+
+                  80%
+
+
+
+
+                                                                                                                                                                               d__Bacteria;p__Firmicutes
+                  70%
+                                                                                                                                                                               d__Bacteria;p__Bacteroidota
+
+                                                                                                                                                                               d__Bacteria;p__Proteobacteria
+
+                                                                                                                                                                               d__Bacteria;p__Fusobacteriota
+                  60%
+                                                                                                                                                                               d__Bacteria;p__Actinobacteriota
+    Relative Frequency
+
+
+
+
+                                                                                                                                                                               d__Bacteria;p__Campilobacterota
+
+                                                                                                                                                                               d__Bacteria;p__Verrucomicrobiota
+                  50%
+                                                                                                                                                                               d__Bacteria;p__Desulfobacterota
+
+                                                                                                                                                                               d__Bacteria;p__Cyanobacteria
+
+                                                                                                                                                                               d__Eukaryota;p__Zoopagomycota
+                  40%
+                                                                                                                                                                               d__Bacteria;__
+
+                                                                                                                                                                               d__Eukaryota;p__Nematozoa
+
+                                                                                                                                                                               d__Archaea;p__Halobacterota
+                  30%
+                                                                                                                                                                               d__Archaea;p__Euryarchaeota
+
+                                                                                                                                                                               d__Eukaryota;__
+
+                                                                                                                                                                               d__Bacteria;p__Chloroflexi
+                  20%
+                                                                                                                                                                               d__Eukaryota;p__Vertebrata
+
+                                                                                                                                                                               d__Eukaryota;p__Parabasalia
+
+                                                                                                                                                                               d__Bacteria;p__Deferribacterota
+                  10%
+                                                                                                                                                                               d__Eukaryota;p__Opalinata
+
+                                                                                                                                                                               Unassigned;__
+                    bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint               d__Bacteria;p__Planctomycetota
+                    0% was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                  (which
+                                   Mayaguez                                           Quemado
+                                                                  available under a CC-BY           1
+                                                                                           4.0 International license.                      Quemado 2                 Maricao
+                                                                                                                                                                               d__Bacteria;p__Elusimicrobiota
+
+                                                                                                                                                                               d__Bacteria;p__Acidobacteriota
+
+                                                                                                                                                                               d__Bacteria;p__Spirochaetota
+
+
+
+
+            100%                                                                                                                                                               d__Bacteria;p__Synergistota
+
+                                                                                                                                                                               d__Bacteria;p__Bdellovibrionota
+
+                                                                                                                                                                               d__Bacteria;p__Abditibacteriota
+
+                  90%                                                                                                                                                          d__Bacteria;p__Armatimonadota
+
+                                                                                                                                                                               d__Bacteria;p__WPS-2
+
+                                                                                                                                                                               d__Bacteria;p__Myxococcota
+
+                  80%                                                                                                                                                          d__Archaea;p__Thermoplasmatota
+
+                                                                                                                                                                               d__Eukaryota;p__Phragmoplastophyta
+
+                                                                                                                                                                               d__Bacteria;p__Gemmatimonadota
+
+                  70%                                                                                                                                                          d__Bacteria;p__Deinococcota
+
+                                                                                                                                                                               d__Eukaryota;p__Apicomplexa
+
+                                                                                                                                                                               d__Eukaryota;p__Arthropoda
+
+                  60%                                                                                                                                                          d__Eukaryota;p__Ascomycota
+    Relative Frequency
+
+
+
+
+                                                                                                                                                                               d__Bacteria;p__Fibrobacterota
+
+                                                                                                                                                                               d__Eukaryota;p__Chlorophyta
+
+                  50%                                                                                                                                                          d__Eukaryota;p__Ciliophora
+
+                                                                                                                                                                               d__Bacteria;p__Patescibacteria
+
+                                                                                                                                                                               d__Eukaryota;p__Incertae_Sedis
+
+                  40%                                                                                                                                                          d__Bacteria;p__Dependentiae
+
+                                                                                                                                                                               d__Archaea;p__Crenarchaeota
+
+                                                                                                                                                                               d__Eukaryota;p__Amoebozoa
+
+                  30%                                                                                                                                                          d__Eukaryota;p__Chytridiomycota
+
+                                                                                                                                                                               d__Bacteria;p__SAR324_clade(Marine_group_B)
+
+                                                                                                                                                                               d__Eukaryota;p__Platyhelminthes
+
+                  20%
+
+
+
+
+                  10%
+
+
+
+
+                         0%
+                                  Edmonton                                                                                      Leduc
+M                              Microbiota dissimilarity from humans    
+ ay
+   ag                                      (Bray-Curits)
+        ue
+
+
+
+
+                              0.7
+                                             0.8
+                                                             0.9
+                                                                      1.0
+          z
+              U
+    Q             rb
+                     a
+        ue
+             m            n
+                 ad
+    Q                 o
+        ue                1
+             m
+                 ad
+                      o
+             M            2
+                 ar
+                      ic
+                        ao
+                                                                      NS ** ***
+
+
+
+
+                 U
+                                                                                
+
+
+
+
+    Pe rba
+      ri− n
+         ur
+            ba
+               n
+                                                                      ***
+                                                               NS                    ***                   ***                                       ***                  **       **        ***                ***
+                                              1.0                                                                                                           1.0
+
+
+
+
+                                                                                                                                                            0.9
+         Dissimilarity to human (Malawi)
+
+
+
+
+                                              0.9
+
+                                                                                                                                                            0.8
+
+
+
+                                              0.8
+                                                                                                                                                            0.7
+
+
+
+
+                                                                                                                                                            0.6
+                                              0.7
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+                                                                  *                    **                   ***                                      ***                  **       **        ***                ***
+                                              1.0                                                                                                           1.0
+         Dissimilarity to human (Venezuela)
+
+
+
+
+                                              0.9                                                                                                           0.9
+
+
+
+
+                                              0.8                                                                                                           0.8
+
+
+
+
+                                              0.7                                                                                                           0.7
+                                                    ez
+
+
+                                                              1
+
+
+                                                                                    2
+
+                                                                                                       ao
+
+
+                                                                                                                              n
+
+
+                                                                                                                                                     n
+
+
+
+
+                                                                                                                                                                  ez
+
+
+                                                                                                                                                                        1
+
+
+                                                                                                                                                                                 2
+
+                                                                                                                                                                                             o
+
+
+                                                                                                                                                                                                       n
+
+
+                                                                                                                                                                                                               n
+                                                                                                                                                                                          ica
+                                                                                                                            ba
+
+
+                                                                                                                                                     ba
+
+
+
+
+                                                                                                                                                                                                     ba
+
+
+                                                                                                                                                                                                             ba
+                                                          o
+
+
+                                                                                o
+
+
+
+
+                                                                                                                                                                       o
+
+
+                                                                                                                                                                                 o
+                                                    u
+
+
+
+
+                                                                                                                                                                 u
+                                                                                                  ic
+                                                          ad
+
+
+                                                                       ad
+
+
+
+
+                                                                                                                                                                       ad
+
+
+                                                                                                                                                                              ad
+                                                 ag
+
+
+
+
+                                                                                                                                                              ag
+                                                                                                                       Ur
+
+
+                                                                                                                                               ur
+
+
+
+
+                                                                                                                                                                                                 Ur
+
+
+                                                                                                                                                                                                             ur
+                                                                                               ar
+
+
+
+
+                                                                                                                                                                                          ar
+                                                        em
+
+
+                                                                     em
+
+
+
+
+                                                                                                                                                                     em
+
+
+                                                                                                                                                                            em
+                                                                                                                                          i−
+
+
+
+
+                                                                                                                                                                                                           i−
+                                               ay
+
+
+
+
+                                                                                                                                                            ay
+                                                                                           M
+
+
+
+
+                                                                                                                                                                                     M
+                                                                                                                                       r
+
+
+
+
+                                                                                                                                                                                                         r
+                                              M
+
+
+
+
+                                                                                                                                                            M
+                                                                                                                                    Pe
+
+
+
+
+                                                                                                                                                                                                      Pe
+                                                    Qu
+
+
+                                                               Qu
+
+
+
+
+                                                                                                                                                                  Qu
+
+
+                                                                                                                                                                        Qu
+  bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.475040; this version posted January 6, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+                                                available under a CC-BY 4.0 International license.
+
+
+
+
+                            *                                                               *                                                            *       *                           *   *
+
+
+
+
+                                                                                                                                              *               *       *   *   *   *
+
+
+
+
+                                   
+
+
+                                                            *                                                       *                                *       *           *           *
+
+
+
+
+                                   
+                                                            
+                                                                               W 0.7
+              600
+
+                                                                         600
+                    W 0.7
+
+
+
+
+              400
+W statistic
+
+
+
+
+                                                           W statistic
+                                                                         400
+
+
+
+
+              200
+                                                                         200
+
+
+
+
+               0                                                          0
+                            −1   0            1        2                          −1   0                  1      2
+                                 CLR mean difference                                       CLR mean difference
+             800
+                                                                       
+                                                                                   800
+
+
+
+
+                                                                                   700
+
+              600
+
+                     W 0.7
+
+                                                                                   600    W 0.7
+W statistic
+
+
+
+
+                                                                     W statistic
+              400    W 0.5                                                         500
+
+
+
+                                                                                          W 0.5
+
+                                                                                   400
+
+
+
+
+              200
+                                                                                   300
+                    Venezuela                                  USA                       Malawi                                  USA
+                                −4                  0      4                                      −4               0         4
+                                     CLR mean difference                                               CLR mean difference
+

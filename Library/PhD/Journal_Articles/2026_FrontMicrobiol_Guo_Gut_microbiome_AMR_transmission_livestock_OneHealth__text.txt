@@ -1,0 +1,976 @@
+                                                                                                                  TYPE Review
+                                                                                                                  PUBLISHED 29 June 2026
+                                                                                                                  DOI 10.3389/fmicb.2026.1872946
+
+
+
+
+                                             The role of gut microbiome in
+OPEN ACCESS
+                                             antimicrobial resistance
+EDITED BY
+Mohammad Tahir Siddiqui,
+                                             transmission between companion
+University of Greenwich,
+United Kingdom                               animals and livestock:
+REVIEWED BY
+Peter Ayodeji Idowu,
+University of Pretoria, South Africa
+                                             mechanisms, drivers, and One
+Tijo Cherian,
+Mar Athanasius College (Autonomous),         Health implications
+India
+
+*CORRESPONDENCE
+Fangfang Wang                                Jianping Guo 2, Huiting Song 3, Zhaoyan Xi 4, Wei Geng 3 and
+  wangfangfang@qdu.edu.cn                    Fangfang Wang 1*
+RECEIVED 05 May 2026
+REVISED 15 June 2026
+                                             1
+                                              Department of Respiratory and Critical Care Medicine, The Affiliated Hospital of Qingdao University,
+ACCEPTED 15 June 2026                        Qingdao, China, 2Qingdao Women and Children’s Hospital, Qingdao University, Qingdao, China,
+PUBLISHED 29 June 2026
+                                             3
+                                               Department of Ultrasound Diagnosis, Qingdao Special Servicemen Recuperation Center of PLA Navy,
+CORRECTED 30 June 2026                       Qingdao, China, 4Department of Neurology, The Affiliated Hospital of Qingdao University, Qingdao,
+                                             China
+CITATION
+Guo J, Song H, Xi Z, Geng W and
+Wang F (2026) The role of gut
+microbiome in antimicrobial resistance       Antimicrobial resistance (AMR) poses a critical global public health challenge,
+transmission between companion
+                                             with animal gut microbiomes serving as significant reservoirs and transmission
+animals and livestock: mechanisms,
+drivers, and One Health implications.        hubs for antimicrobial resistance genes (ARGs). This review synthesizes current
+Front. Microbiol. 17:1872946.                knowledge on the central role of gut microbiomes in companion animals and
+doi: 10.3389/fmicb.2026.1872946
+                                             livestock in facilitating AMR dissemination. It examines key mechanisms that
+COPYRIGHT                                    enable horizontal gene transfer within intestinal ecosystems: conjugation, trans-
+© 2026 Guo, Song, Xi, Geng and Wang.
+                                             duction, and transformation. It also highlights how co-selection by heavy metals,
+This is an open-access article distributed
+under the terms of the Creative              disinfectants, and other non-antibiotic agents sustains resistance even without
+Commons Attribution License (CC BY).         direct antibiotic use. The review analyzes major drivers of AMR, including anti-
+The use, distribution or reproduction in
+                                             microbial usage, husbandry practices, and environmental pressures. It critically
+other forums is permitted, provided the
+original author(s) and the copyright         evaluates microbiome-based interventions such as probiotics, postbiotics, and
+owner(s) are credited and that the           fecal microbiota transplantation. A distinctive contribution is the integration of
+original publication in this journal is
+                                             these elements into a network-centric One Health framework that explicitly maps
+cited, in accordance with accepted
+academic practice. No use, distribution      cross-species transmission pathways from livestock and companion animals to
+or reproduction is permitted which does      humans via direct contact, food chains, and environmental dissemination. By
+not comply with these terms.
+                                             moving beyond descriptive cataloging to provide a mechanistic and ecological
+                                             synthesis, this review aims to guide the development of targeted, microbiome-
+                                             informed intervention and surveillance strategies.
+
+                                             KEYWORDS
+
+                                             antimicrobial resistance, companion animals, gut microbiome, livestock, One Health
+
+
+
+
+                                             Introduction
+                                                  The escalating global crisis of antimicrobial resistance (AMR) represents a formidable
+                                             threat to the efficacy of infectious disease treatments in both human and veterinary medicine.
+                                             This challenge is intrinsically linked to the complex microbial ecosystems residing within the
+                                             gastrointestinal tracts of animals. In particular, companion animals and livestock serve as criti-
+                                             cal reservoirs and amplifiers of antibiotic resistance genes (ARGs). The gut microbiome func-
+                                             tions not only as a natural repository for diverse ARGs but also as a hotspot for horizontal gene
+
+
+Frontiers in Microbiology                                           01                                                              frontiersin.org
+Guo et al.                                                                                                                   10.3389/fmicb.2026.1872946
+
+
+
+
+transfer (HGT), facilitating the dissemination of resistance determi-             but also facilitates their transfer into the gut microbiomes of exposed
+nants among bacterial populations (McInnes et al., 2020). While pre-              animals, as demonstrated in mouse models (Zhai et al., 2025).
+vious reviews have catalogd ARGs in animal microbiomes or                         Furthermore, wild animals, including rats and passerine birds, can act
+described horizontal gene transfer (HGT) mechanisms, critical                     as sentinels and bridges for AMR spread, with those inhabiting agri-
+knowledge gaps remain. First, the relative contributions of different             cultural areas carrying a higher abundance and diversity of ARGs,
+HGT mechanisms (conjugation, transduction, transformation) to in                  including high-risk variants and zoonotic antimicrobial-resistant
+vivo ARG dissemination under real-world farming conditions are                    bacteria.
+poorly quantified (McInnes et al., 2020; Borodovich et al., 2022).                     The genetic engine of this system is HGT. Within the densely
+Second, direct antibiotic selection and indirect co-selection pressures           populated colonic niche (1011–1012 CFU/g), conjugation, transduc-
+both drive resistance enrichment in animal guts. However, their inter-            tion, and transformation occur at frequencies several orders of mag-
+play is not systematically understood (Nemathaga et al., 2023). Third,            nitude higher than in oligotrophic environments (Borodovich et al.,
+a conceptual framework that integrates the gut microbiome as an eco-              2022). Recent network analyses have moved beyond simple detection
+logical network, rather than a passive carrier, to explain cross-species          to map plasmid conjugation networks and phage transduction net-
+AMR transmission under the One Health paradigm is lacking                         works. These are graph-theoretic models in which nodes represent
+(Scicchitano et al., 2023; Tian et al., 2025). This review addresses these        bacterial species or strains, and edges represent documented HGT
+gaps by adopting a network-centric ecological perspective. We synthe-             events (Borodovich et al., 2022). These networks reveal that certain
+size current knowledge to argue that the animal gut microbiome func-              bacterial taxa act as keystone hubs, facilitating ARG flow across oth-
+tions as a crucible for AMR emergence and a hub for its inter-host                erwise unrelated phyla. The implication is profound, as the gut is not
+propagation. The intimate cohabitation between humans and com-                    a mere bag of microbes but an organized, dynamic genetic exchange
+panion animals, such as dogs, creates a unique interface for microbial            platform. Under the One Health framework, these dynamics create
+exchange. Metagenomic analyses have demonstrated a strong correla-                interconnected transmission pathways that we synthesize in
+tion in the gut resistome profiles between owned dogs and their                   this review.
+human owners, with compositions of ARGs and mobile genetic ele-                        The transmission dynamics of AMR are fundamentally gov-
+ments (MGEs) being significantly more similar within households                   erned by HGT mechanisms, including conjugation, transduction,
+than with unrelated individuals (Zhao et al., 2022). This shared                  and transformation, which allow ARGs to move between commen-
+resistome is further evidenced by the finding that dog owners exhibit             sal bacteria, opportunistic pathogens, and true pathogens within the
+a significantly higher abundance of specific aminoglycoside and tet-              gut milieu (Borodovich et al., 2022). The human and animal gut
+racycline resistance genes compared to non-dog owners. This high-                 microbiota is recognized as a significant reservoir for multidrug-
+lights the bidirectional flow of resistance determinants at the                   resistant bacteria, such as extended-spectrum beta-lactamasepro-
+human-animal interface (Cui et al., 2026). A critical examination of              ducing E. coli (ESBL-EC). In dogs, carriage of ESBL-EC is associated
+the literature reveals significant methodological and conceptual limi-            with a distinct gut microbiome and resistome composition, charac-
+tations. For instance, metagenomic analyses have demonstrated strong              terized by an increased abundance of specific bacterial genera and
+correlations in gut resistome profiles between dogs and their owners              ARGs like cmlA and sul3 (Stege et al., 2023). Studies have identified
+(Zhao et al., 2022). However, these studies are inherently associative.           robust associations between specific ARGs and specific transposons
+They cannot establish causality or directionality of transmission.                within the infant gut microbiota. Key players like Klebsiella pneu-
+Metagenomic assembly is also challenged by strain-level resolution                moniae and E. coli facilitate this synergistic horizontal transfer
+and the frequent inability to link ARGs to specific mobile genetic ele-           (Ding et al., 2024). This genetic mobility illustrates the gut as a cru-
+ments (MGEs) or viable bacterial hosts (McInnes et al., 2020). These              cible for the emergence of resistance. Even non-pathogenic environ-
+inconsistencies underscore the need for mechanistic, hypothesis-                  mental bacteria on plant foods can transfer resistance plasmids to
+driven research. Throughout this review, we explicitly distinguish                clinical E. coli isolates. This allows these isolates to subsequently
+between (i) correlative associations, (ii) inferred ecological linkages,          colonize the mammalian gut (Maeusli et al., 2020). The selection
+(iii) confirmed transmission events, and (iv) causal pathways demon-              pressure is not limited to antibiotics. Other factors can also select
+strated by longitudinal or experimental studies. Where the literature             for efflux pump mechanisms that confer crossresistance to antibiot-
+provides only correlative evidence, we note this limitation.                      ics. These include exposure to heavy metals or even certain antide-
+      In livestock production systems, the extensive and often subthera-          pressants. This further complicates the resistance landscape
+peutic usage of antimicrobials exerts immense selective pressure, driv-           (Figure 1).
+ing the evolution and enrichment of resistant bacteria within the                      Under the “One Health” framework, which integrates human,
+animal gut. The swine gut microbiome, for instance, has been charac-              animal, and environmental health, the role of the animal gut
+terized as a highly diverse and relatively conserved reservoir of ARGs.           microbiome in AMR transmission is paramount. Zoonotic patho-
+It is frequently associated with a wide range of MGEs, including inte-            gens circulating between animal hosts and humans are of particu-
+grative conjugate elements, plasmids, and phages. This indicates an               lar concern. For example, Salmonella Typhimurium transmission
+ecosystem highly conducive to the horizontal transfer of resistance               from poultry layer farms to nearby dairy herds has been docu-
+(Rahman et al., 2025). Similarly, surveillance in chicken farms has               mented, with strains accumulating additional resistance determi-
+identified a core set of potentially mobile ARGs shared between birds             nants, including to critically important extended-spectrum
+and their environments. The gut microbiome composition correlates                 cephalosporins, during or after transmission events (Perry et al.,
+with the AMR profiles of Escherichia coli (Baker et al., 2023). The con-          2024). Genomic surveillance of E. coli from swine and humans
+sequences of this agricultural AMR burden extend beyond farm                      reveals shared high-risk zoonotic clones. It also highlights the piv-
+boundaries. Environmental dissemination occurs through routes such                otal role of horizontal gene transfer and plasmids in shaping dis-
+as manure fertilization. This process not only enriches soil with ARGs            tinct AMR profiles and enabling cross-species dissemination.
+
+
+Frontiers in Microbiology                                                    02                                                             frontiersin.org
+Guo et al.                                                                                                                     10.3389/fmicb.2026.1872946
+
+
+
+
+    FIGURE 1
+    Conceptual model of the animal gut microbiome as a central hub for ARG transmission. The model shows three interconnected compartments
+    (companion animals, livestock, humans) with bidirectional arrows indicating direct contact, foodborne, and environmental pathways. Microbial taxa are
+    depicted as nodes; mobile genetic elements (plasmids, transposons, phages) shuttle ARGs across host species boundaries. Selection pressures
+    (antibiotics, heavy metals) act on gut communities to amplify resistomes that disseminate through farm, household, and environmental interfaces.
+
+
+
+
+Companion animals are increasingly recognized as reservoirs for                   Animal gut microbiome
+critically important antimicrobial-resistant E. coli. Their strains
+show close genetic relatedness to human isolates, confirming pet-                 Composition and functional differences of gut
+human transmission events (Sartori et al., 2026). The risks are                   microbiome in companion animals and livestock
+amplified in settings with high human-animal interaction and
+poor hygiene, such as open markets, which can facilitate the trans-                    The gut microbiome of companion animals, such as dogs and
+mission of resistant zoonotic pathogens (Hasan et al., 2025)                      cats, exhibits a composition that shares notable similarities with the
+(Figure 1). Therefore, we need a comprehensive understanding of                   human gut microbiome, a relationship increasingly recognized
+three key areas: the ecological dynamics of the gut resistome in                  under the “One Health” framework (Branck et al., 2024; Salamon et
+animal populations, the drivers of HGT, and the pathways of                       al., 2025; Lyu et al., 2025). This similarity is influenced by their close
+cross-boundary transmission. Such understanding is essential for                  cohabitation with humans, which facilitates microbial exchange. It
+designing effective, integrated interventions to mitigate the global              is further shaped by specific factors such as habitual diet, age, and
+AMR crisis (Vivarelli et al., 2026).                                              medical.
+                                                                                       interventions including antibiotic treatments (Shah et al., 2024;
+                                                                                  Lee D. et al., 2022; Banik et al., 2026). Diet exerts specific selective
+                                                                                  effects: high-protein/high-fat diets (typical of commercial pet foods)
+Methods of literature search                                                      favor bile-tolerant taxa such as Bacteroides and Clostridium, while
+                                                                                  high-fiber diets promote saccharolytic bacteria like Prevotella and
+    This narrative review was conducted following standard                        Ruminococcus that produce SCFAs. For instance, dietary interven-
+guidelines for scoping and narrative reviews. A systematic litera-                tions with various biotics are actively used to modulate the canine
+ture search was performed in PubMed, Web of Science, and                          and feline gut microbiome (Wilson and Swanson, 2024). The micro-
+Scopus databases for articles published between January 2015 and                  bial community in these animals is dominated by core phyla such as
+December 2025. The search strategy combined keywords related                      Firmicutes, Bacteroidetes, Proteobacteria, and Actinobacteria, but
+to (i) gut microbiome, (ii) antimicrobial resistance, and (iii)                   exhibits marked individual and interspecies variability (Banik et al.,
+animal hosts. Boolean operators (AND, OR) were used to combine                    2026). In contrast, livestock gut microbiomes are highly adapted to
+search terms. Only peer-reviewed original research articles,                      specific digestive physiologies. Ruminants (cattle, sheep) possess a
+reviews, and meta-analyses published in English were included.                    forestomach (rumen) that supports a dense community of cellulo-
+Conference abstracts, preprints, and non-English articles were                    lytic bacteria (Fibrobacter, Ruminococcus), methanogens, and pro-
+excluded. Reference lists of included articles were manually                      tozoa, enabling breakdown of plant polysaccharides (Monteiro et al.,
+screened for additional relevant studies. Priority was given to                   2022). Monogastric livestock (pigs) have a simpler stomach but a
+studies published in the last 5 years (2021–2025), with older land-               large hindgut fermentative compartment, with microbiomes shaped
+mark papers included for historical context.                                      by consistent grain-based or high-fiber diets. Poultry possess a short
+Frontiers in Microbiology                                                    03                                                               frontiersin.org
+Guo et al.                                                                                                                                         10.3389/fmicb.2026.1872946
+
+
+
+
+gastrointestinal tract with ceca serving as primary fermentation                                     The animal gastrointestinal tract provides a uniquely conducive
+sites, and their microbiomes are particularly sensitive to feed addi-                           microenvironment for the HGT of antimicrobial resistance genes,
+tives and environmental stressors. The statement that livestock                                 functioning as a critical hotspot for their dissemination. This propen-
+microbiomes are “less diverse” requires qualification. Intensive,                               sity is driven by several interconnected factors, including an excep-
+indoor, grain-fed systems typically exhibit reduced alpha diversity                             tionally high density and diversity of bacterial populations, a
+compared to extensive, pasture-based systems. This is due to uni-                               continuous supply of nutrients, and a rich pool of MGEs such as plas-
+form diet, limited environmental microbial input, and antibiotic                                mids, integrons, and transposons (Vivarelli et al., 2026). Within this
+exposure (Forcina et al., 2022). However, some intensive systems                                dense ecological niche (1011–1012 CFU/g), conjugation, transforma-
+maintain diversity through continuous microbial seeding from feed                               tion, and transduction occur at frequencies several orders of magni-
+and bedding (Forcina et al., 2022).                                                             tude higher than in oligotrophic environments (Borodovich et al.,
+     Critically for AMR, each host group exhibits distinct resistome                            2022). This enables the rapid movement of ARGs not only between
+characteristics. Ruminants frequently carry ARGs associated with tet-                           different bacterial species but even across different genera (Du et al.,
+racyclines and β-lactams, often linked to Bacteroidetes-associated                              2022). This transfer can bridge commensal or environmental bacteria
+mobile elements. Pigs are reservoirs for a wide range of ARGs includ-                           with opportunistic pathogens, effectively mobilizing resistance deter-
+ing colistin resistance (mcr-1), often carried on plasmids with high                            minants into clinically relevant genetic backgrounds. Advanced
+conjugative potential. Poultry guts show enrichment of ESBL genes                               metagenomic studies have begun to unravel the complex networks
+(blaCTX-M) and fluoroquinolone resistance determinants. Dogs and cats                           underpinning this exchange. For example, research reveals intricate
+share ARGs with their owners, particularly aminoglycoside and tetra-                            “plasmid conjugation networks” and “bacteriophage transduction net-
+cycline resistance genes, with household transmission being a domi-                             works” within the gut. These are graphtheoretic models in which
+nant pathway (Table 1).                                                                         nodes represent bacterial species/strains and edges represent docu-
+                                                                                                mented HGT events. They serve as molecular bridges facilitating
+                                                                                                cross-species AMR transmission (Scicchitano et al., 2023). These net-
+The gut as a hotspot for horizontal gene transfer                                               works identify keystone taxa that act as hubs for ARG dissemination
+of resistance genes                                                                             across otherwise unrelated phyla. For instance, a study on poultry
+                                                                                                farms has shown that clinically relevant ARGs and associated MGEs
+    The compositional and functional differences outlined above                                 are shared among the gut microbiomes of poultry, farm workers, and
+directly shape the capacity of the gut for horizontal gene transfer                             their household members. The study also found that worker microbi-
+(Borodovich et al., 2022). A microbiome rich in Proteobacteria and                              omes act as a primary route for ARG dispersion from the farm system
+harboring diverse mobile genetic elements creates a permissive                                  into human populations (Scicchitano et al., 2023). Similarly, compre-
+environment for ARG exchange (Rahman et al., 2025). These com-                                  hensive metagenomic analyses of mammalian gut microbiomes on the
+positional traits are more pronounced in livestock than in many                                 Tibetan Plateau identified numerous nonredundant ARGs and pro-
+companion animals (Rahman et al., 2025; Branck et al., 2024). The                               vided evidence for cross-species horizontal gene transfer events
+following section examines how the physical and ecological fea-                                 involving high-risk ARGs between human and non-human mamma-
+tures of the gut turn this compositional predisposition into an                                 lian gut microbiota (Tian et al., 2025). The process is dynamic and
+active hotspot for genetic dissemination (McInnes et al., 2020;                                 influenced by various factors. The gut microbiome of saprophagous
+Vivarelli et al., 2026).                                                                        fauna is used for manure bioconversion. It can significantly attenuate
+
+
+TABLE 1 Comparison of gut microbiome composition, dominant ARGs, and transmission risks across major animal groups.
+
+
+
+    Host group              Dominant                 Key                       Dominant ARG                Typical            Primary                    References
+                            phyla                    functional                classes                     MGEs               transmission
+                                                     features                                                                 route to
+                                                                                                                              humans
+    Ruminants (cattle)      Firmicutes,              Cellulose digestion,      Tetracyclines, βlactams     Integrative        Foodborne (meat,           Monteiro et al.
+                            Bacteroidetes            SCFA production                                       conjugative        dairy), environmental      (2022), Kim et al.
+                                                                                                           elements                                      (2023)
+
+    Pigs (monogastric)      Firmicutes,              Hindgut                   Tetracyclines,              Plasmids (IncX,    Foodborne, direct          Rahman et al. (2025),
+                            Bacteroidetes,           fermentation, high        macrolides, colistin        IncI),             contact (farm workers)     Kim et al. (2023),
+                            Proteobacteria           HGT capacity              (mcr-1)                     transposons                                   Hickman et al. (2021)
+
+    Poultry                 Firmicutes,              Cecal fermentation,       ESBL (blaCTX-M),            Plasmids (IncF,    Foodborne (meat, eggs),    Baker et al. (2023),
+                            Proteobacteria,          rapid transit             fluoroquinolones            IncI), phages      environmental              Scicchitano et al.
+                            Bacteroidetes                                                                                                                (2023), Ortega-
+                                                                                                                                                         Paredes et al. (2020)
+
+    Dogs/cats               Firmicutes,              Similar to human          Aminoglycosides,            Plasmids (IncF),   Direct contact (petting,   Zhao et al. (2022),
+                            Bacteroidetes,           gut, dietresponsive       tetracyclines, ESBL         transposons        licking), household        Cui et al. (2026),
+                            Proteobacteria,                                                                                   environment                Branck et al. (2024),
+                            Actinobacteria                                                                                                               Jin et al. (2023)
+
+
+
+
+Frontiers in Microbiology                                                                 04                                                                       frontiersin.org
+Guo et al.                                                                                                                    10.3389/fmicb.2026.1872946
+
+
+
+
+the abundance and diversity of ARGs and associated MGEs from live-                shown to elevate the abundance and diversity of ARGs. This may
+stock waste. Network analyses implicate shifts in crucial bacterial               occur through stress on the microbiome and facilitation of HGT via
+phyla like Bacteroidetes and Firmicutes in this risk mitigation (Du et            MGEs (Song et al., 2022; Qiu et al., 2023).
+al., 2022). Furthermore, external pressures such as diet and co-infec-                 Cross-resistance involves a single resistance mechanism provid-
+tions can modulate these HGT networks. Dietary components in live-                ing protection against multiple structurally unrelated agents. The clas-
+stock feed can alter the gut microbial community, thereby influencing             sic example is multidrug efflux pumps, which export tetracyclines,
+the resistome profile (Kogut, 2022). Concurrent infections, such as               fluoroquinolones, β-lactams, as well as biocides and detergents.
+with gastrointestinal helminths in chickens, can modify the intestinal            Fitness trade-offs govern their persistence. For instance, conditions
+environment and microbiome composition and thereby create condi-                  that deplete the proton-motive force selected against pumps like
+tions that either favor or hinder the transfer and establishment of spe-          AcrAB-TolC. Meanwhile, certain molecules could select for or against
+cific ARGs (Nemathaga et al., 2023). These insights collectively                  specific pumps. This illustrates the complex selection dynamics that
+underscore that the gut is not merely a passive container for bacteria            can influence cross-resistance (Liu et al., 2024). This means that
+but an active arena where genetic material is constantly exchanged.               dietary components can inadvertently select for efflux pump-medi-
+The structure and dynamics of the resident microbial community play               ated resistance.
+a decisive role in determining the scope and scale of AMR gene propa-                  These three mechanisms are conceptually integrated rather
+gation across microbial and host species boundaries.                              than operating in separate silos. For example, an animal fed zinc-
+                                                                                  supplemented feed and subsequently treated with chlortetracycline
+Mechanisms for spread and maintenance of                                          will select for bacteria carrying a plasmid with both heavy metal
+AMR in animal intestines                                                          and antibiotic resistance genes. Efflux pumps further broaden the
+                                                                                  resistant phenotype. The resistome is resilient, meaning it tends to
+A unified selection framework: direct selection,                                  persist even after selection is removed. This is explained by the
+co-selection, and cross-resistance                                                stable integration of co-selected genes and MGEs into the gut
+                                                                                  microbial community’s genetic architecture, where they are often
+     The persistence and spread of AMR in animal guts are governed                carried by core, abundant taxa that are not easily displaced (Peto et
+by an interacting trio of selective mechanisms, namely direct selection,          al., 2025; Jian et al., 2026). The overall stability and resilience of the
+co-selection, and cross-resistance. Rather than acting in isolation,              microbiome significantly influence the persistence of
+these forces operate simultaneously, creating a multi-dimensional                 AMR. Antibiotic perturbation can lead to failure of recovery and
+selective landscape that sustains ARGs even in the absence of direct              create new ecological niches that favor resistant bacteria (Mikolas
+antibiotic pressure.                                                              et al., 2025).
+     Direct selection is the most intuitive pathway, as antibiotic admin-
+istration kills susceptible bacteria, enriching those carrying corre-             The role of biofilm formation and persister cells
+sponding resistance genes. For instance, the ARMORD observational
+study demonstrated that recent exposure to specific antibiotics like                   Within the intestine, bacteria, particularly certain members of
+piperacillin-tazobactam, meropenem, and clindamycin was associated                the Enterobacteriaceae, can form biofilms on mucosal surfaces or
+with significant reductions in gut microbiome diversity and increased             particles (Figure 2). These biofilms provide physical protection, sig-
+abundance of major ARGs (Peto et al., 2025). Similarly, a randomized              nificantly enhancing bacterial tolerance to antibiotics, and offer a
+trial on early-life antibiotics in infants showed that different empirical        stable platform for genetic exchange, including the transfer of resis-
+antibiotic combinations caused major shifts in gut microbial commu-               tance genes. Biofilm formation is a recognized challenge in the dairy
+nity composition and antimicrobial resistance gene profiles (Reyman               industry. Bacteria such as Staphylococcus aureus, Bacillus spp., Listeria
+et al., 2022). The magnitude of direct selection depends on drug class,           monocytogenes, and Pseudomonas spp. can persist on equipment,
+dose, route, and duration, and is not uniform across individuals; base-           leading to product spoilage and food safety issues. These biofilm bac-
+line microbiome composition modulates the impact of the same anti-                teria also demonstrate increased resistance to biocides and antibiotics
+biotic regimen.                                                                   compared to their planktonic forms (Goetz et al., 2025). Persister
+     Co-selection occurs when a non-antibiotic selective agent                    cells represent a bacterial subpopulation that is non-genetically resis-
+enriches ARGs because the resistance determinants are genetically                 tant to antibiotics. They can survive antibiotic treatment and resume
+linked. This operates through two mechanisms: (i) co-resistance,                  proliferation once the treatment ceases, acting as seeds for antimicro-
+where different resistance genes reside on the same MGE; and (ii)                 bial resistance recurrence and transmission. The dynamics of bacte-
+crossresistance, where a single genetic mechanism confers resistance              rial invasion and fitness in complex communities, such as the gut
+to multiple agents. Copper and zinc are common feed additives. They               microbiota, are critical for understanding how resistant strains like
+can co-select for antibiotic resistance. A mathematical modeling                  E. coli can establish and persist. A mechanistic framework has been
+framework predicted minimum co-selective concentrations for                       developed to quantify fitness differences between co-invading strains
+metals, and its application to dairy farm slurry suggested the slurry             in a multispecies context. This framework underscores how the fre-
+was co-selective (Arya et al., 2021). However, experimental evidence              quencies of resident species can modulate selection coefficients,
+is mixed. Some studies found that even high therapeutic doses of                  which is relevant for predicting the invasion success of antibiotic-
+dietary copper did not cause significant co-selection of antibiotic               resistant pathobionts (Ferreira Amaro Freire et al., 2025). Biofilms
+resistance genes. This suggests that the impact depends on specific               and persister cells work together. They promote long-term coloniza-
+conditions and bacterial community context (Brinck et al., 2023;                  tion and periodic shedding of resistant strains. This increases the risk
+Forouzandeh et al., 2023). Beyond metals, environmental pollutants                of environmental transmission. This is particularly concerning for
+such as the fungicides carbendazim and chlorothalonil have been                   pathogens that can survive in the environment for extended periods.
+
+
+Frontiers in Microbiology                                                    05                                                              frontiersin.org
+Guo et al.                                                                                                                        10.3389/fmicb.2026.1872946
+
+
+
+
+    FIGURE 2
+    Mechanistic flow diagram of AMR selection and persistence in the animal gut. The figure is organized into three interconnected modules: (1) direct
+    selection by antibiotics, shown as a filter that enriches ARG-carrying bacteria; (2) co-selection and cross-resistance, depicted as overlapping selective
+    pressures from heavy metals, disinfectants, and biocides acting on shared efflux pumps and MGEs; and (3) the biofilm-persister cycle, illustrating how
+    biofilm formation on mucosal surfaces creates a protected niche where bacteria survive antibiotic exposure, with persister cells serving as a reservoir
+    for later regrowth and dissemination. Arrows connect these modules to the gut lumen and to environmental shedding, emphasizing the cyclical nature
+    of AMR maintenance.
+
+
+
+
+For example, Streptococcus suis, a pathogen associated with livestock,              contribute to their persistence (Li Z. et al., 2024). Advanced treat-
+can persist in the environment and carry antibiotic resistance genes.               ment processes like electrochemical oxidation and electro—
+Induction experiments showed that sub-inhibitory concentrations of                  Fenton have been explored for inactivating antibiotic-resistant
+the disinfectant peracetic acid could increase S. suis resistance to the            bacteria and degrading intracellular and extracellular ARGs.
+antibiotic tiamulin. This triggers emergency responses such as                      These approaches address the challenge posed by persistent cells
+increased reactive oxygen species and biofilm formation. These                      and genetic material (Chen et al., 2020).
+responses illustrate a co-selection mechanism that could enhance                         A critical synthesis of current evidence reveals that despite the
+persistence and transmission (Ma et al., 2025).                                     wealth of correlative data, several unresolved controversies and
+    The persistence of resistant bacteria is also influenced by                     causal gaps remain. First, the relative contribution of in vivo HGT
+cleaning and disinfection practices. A recent study on livestock                    versus clonal expansion of resistant strains to the overall gut
+transport trailers demonstrated that standard cleaning and disin-                   resistome load remains unknown. Most metagenomic studies
+fection protocols significantly reduced but did not eliminate dru-                  cannot distinguish between active transfer and passive enrich-
+gresistant E. coli, indicating that vehicles can act as fomites for                 ment (Borodovich et al., 2022; Zhao et al., 2022; Cui et al., 2026).
+AMR spread if cleaning is inadequate (Urbaniec et al., 2025).                       Second, while co-selection by heavy metals is mechanistically
+Furthermore, the in-hospital acquisition of resistant bacteria in                   plausible, the minimum selective concentrations under realworld
+veterinary settings highlights this risk. A study in an Italian                     animal husbandry conditions have not been experimentally vali-
+Veterinary Teaching Hospital found a high frequency of carbape-                     dated for most metal-ARG pairs (Arya et al., 2021; Brinck et al.,
+nem-resistant Enterobacterales (CRE) acquisition in dogs and cats                   2023). Third, biofilm-associated persistence is well documented
+during hospitalization, linked to factors like length of stay and                   in vitro, but direct in vivo evidence linking biofilm formation to
+treatment with piperacillin—tazobactam. This suggests potential                     AMR transmission outcomes in the animal gut is scarce (Goetz et
+cross-selection and highlights companion animals as a reservoir                     al., 2025; Urbaniec et al., 2025; Scarpellini et al., 2025). Fourth, the
+for resistant organisms with One Health implications (Scarpellini                   causal direction between microbiome perturbation and ARG
+et al., 2025). The interplay between biofilm, persisters, and envi-                 acquisition remains ambiguous. It is unclear whether antibioticin-
+ronmental contamination creates a cycle that sustains AMR. In                       duced dysbiosis precedes and enables ARG invasion, or whether
+wastewater treatment, which is a known hotspot for AMR, bio-                        ARG carriage itself drives community shifts (Zhao et al., 2022; Cui
+films can protect bacteria and facilitate gene exchange. Studies on                 et al., 2026; Peto et al., 2025; Reyman et al., 2022). Future research
+the removal of ARGs in wastewater treatment plants have shown                       should prioritize controlled longitudinal experiments and metage-
+that biological treatment reduces but does not completely elimi-                    nomic approaches that track plasmid and transposon dynamics at
+nate ARGs, and biofilms in systems like oxidation ditches may                       single-cell resolution.
+
+
+
+Frontiers in Microbiology                                                      06                                                                 frontiersin.org
+Guo et al.                                                                                                                  10.3389/fmicb.2026.1872946
+
+
+
+
+Main factors driving the spread of AMR                                           underscores that antimicrobial use practices in both livestock and
+                                                                                 companion animals are fundamental drivers of AMR selection within
+Antimicrobial use practices in animal production                                 animal gut microbiomes. These practices are driven by clinical need,
+and healthcare                                                                   production demands, and various socio-economic factors, and they
+                                                                                 have direct implications for resistance gene pools that can be shared
+      In livestock production, antimicrobials are extensively employed           across the One Health continuum (Figure 2).
+for therapeutic, prophylactic, and growth-promoting purposes. Such
+sub-therapeutic, long-term exposure constitutes the strongest selective
+pressure driving the generation and dissemination of antimicrobial               Husbandry management and environmental
+resistance within gut microbiomes (Enshaie et al., 2025). The global             factors
+estimate of veterinary antibiotic consumption ranges from 63,000 to
+106,000 tons annually, with tetracyclines, sulfonamides, β-lactams,                   Intensive, high-density farming systems significantly increase
+and macrolides being predominant classes (Abate and Birhanu, 2025).              close contact among animals and opportunities for fecal-oral trans-
+Projections indicate that under a business-as-usual scenario, global             mission, greatly accelerating the spread of resistant bacteria and genes
+livestock antibiotic use could reach approximately 143,481 tons by               within populations (Tanquilut et al., 2020). Quantitative assessments
+2040, a significant increase from 2019 levels (Acosta et al., 2025). The         of biosecurity highlight that low scores in areas such as live animal
+use of antimicrobials in livestock, particularly for growth promotion            transport and infrastructure can increase disease incursion risks. This
+and metaphylaxis, exacerbates selective pressures, fostering the prolif-         may consequently increase antimicrobial use and resistance spread
+eration of multidrugresistant bacterial strains such as E. coli,                 (Tanquilut et al., 2020). In such settings, the sharing of antimicrobial
+Salmonella spp., and Staphylococcus aureus (Matheou et al., 2025). This          resistance genes between animals and humans via horizontal gene
+practice is a major concern in developing countries, where antimicro-            transfer is extensive. Studies in livestock systems show higher AMR
+bial use in animal husbandry is common and often unregulated, lead-              prevalence in medium-scale farms and clear zoonotic transmission
+ing to environmental contamination with antibiotic residues and                  gradients, for example, colistin resistance from pigs to handlers and
+resistance genes (Abate and Birhanu, 2025). While many countries                 their contacts (Silvestro et al., 2025). Feed composition, stress events,
+have implemented bans or restrictions on antimicrobial growth pro-               and hygiene conditions are key factors that alter the gut environment.
+moters, the legacy of the antibiotic era persists, shaping preventive            They influence microbial community structure and the frequency of
+efforts and reinforcing data-driven control in livestock management              HGT, thereby indirectly driving AMR evolution. For example, dietary
+(Hinchliffe, 2025).                                                              components and stressors can disrupt the gut-microbiota-brain axis,
+      In companion animal clinical practice, antimicrobials are pre-             leading to dysbiosis and systemic inflammation, which may further
+scribed for various infections, but inappropriate prescribing similarly          influence resistance dynamics (Gu et al., 2020).
+perturbs the intestinal microbiome and selects for resistant strains.                 Farm environments, including soil, water, and equipment, become
+Examples include overuse of broad-spectrum antibiotics and inade-                contaminated with resistant bacteria and ARGs from animal manure,
+quate treatment duration (Taylor et al., 2022). Surveys from multiple            creating persistent reservoirs and cycles of resistance. Livestock waste
+countries, including the United States, Chile, Hong Kong, and Japan,             from family—operated farms is a significant and often overlooked
+consistently report common empirical prescribing of antimicrobials               source of ARGs and other contaminants, which pose risks to sur-
+for conditions such as pyoderma, diarrhea, and urinary tract infec-              rounding farmland soils upon application (Li et al., 2023; Zhang et al.,
+tions. This prescribing often occurs without prior culture and suscep-           2020). Manure composting can reduce the relative abundance of
+tibility testing.                                                                ARGs and mobile genetic elements. However, residues may still pose
+      Contributing factors include financial burden on owners, treat-            risks after application, and the dissipation of ARGs is linked to factors
+ment delays, and time constraints (Karalliu et al., 2025; Galarce et al.,        such as moisture, bacterial succession, and the profile of biocide and
+2021; Makita et al., 2021). Studies indicate that awareness of antimi-           metal resistance genes (Lee S. et al., 2022). These contaminated farm
+crobial use guidelines among veterinarians is associated with lower              environments can act as sources for the diffusion of resistance into the
+prescribing levels for certain conditions, highlighting the importance           wider environment and to wildlife. Research indicates that wildlife,
+of stewardship programs (Taylor et al., 2022). The route of administra-          such as feral swine and coyotes, can harbor more abundant ARGs
+tion significantly influences the impact on the gut microbiota. For              compared to grazing cattle, suggesting potential transmission at the
+instance, systemic antimicrobials are often prescribed empirically and           wildlife-livestock interface and that wildlife could be a source of AMR
+have a broad effect. In contrast, topical antimicrobials have a more             colonization in livestock (Sun et al., 2025). The environmental fate of
+localized impact, and their use can be quantified and potentially                ARGs from livestock farming involves dissemination through path-
+reduced through stewardship programs (Kardomatea et al., 2023).                  ways like manure application, wastewater discharge, and aerosol dif-
+Different antimicrobial classes and administration routes exert dis-             fusion, eventually reaching humans and accumulating in the intestinal
+tinct selective pressures on the gut microbial community, thereby                microbiota, impacting human health (Li T. et al., 2024). Factors influ-
+shaping unique profiles of antibiotic resistance genes. For example, the         encing this spread include the interplay of microbial communities,
+use of critically important antimicrobials (CIAs), such as third- and            antibiotics, heavy metals, and other environmental parameters (Li
+fourth-generation cephalosporins and fluoroquinolones, is of particu-            T. et al., 2024). Therefore, husbandry practices and environmental fac-
+lar concern due to their importance in human medicine (Bonzelett et              tors are critical amplifiers of AMR, facilitating the maintenance and
+al., 2022) (Figure 2). Monitoring efforts reveal challenges in accurately        spread of resistance determinants within animal populations and cre-
+quantifying companion animal antimicrobial use, especially for par-              ating bridges for transmission to wildlife, the environment, and ulti-
+enteral products. This suggests that actual consumption may be sig-              mately, human populations under the One Health framework
+nificantly higher than estimated (Glavind et al., 2022). This                    (Figure 3).
+
+
+Frontiers in Microbiology                                                   07                                                             frontiersin.org
+Guo et al.                                                                                                                      10.3389/fmicb.2026.1872946
+
+
+
+
+    FIGURE 3
+    Drivers and transmission pathways of AMR under the One Health framework. The diagram is structured as a series of nested circles. The innermost
+    circle represents the animal gut microbiome where ARGs are selected and amplified. The middle circle depicts on-farm drivers. The outermost circle
+    encompasses off-farm pathways. Colored arrows indicate the flow of resistant bacteria and ARGs from livestock and companion animals to
+    environmental compartments (soil, water, air) and ultimately to human exposure routes. Quantitative indicators link qualitative pathways to measurable
+    surveillance metrics.
+
+
+
+
+Cross-species transmission pathways and                                            increasing the abundance of tetracycline resistance genes like tet(Q)
+the “One Health” interface                                                         (Zhai et al., 2025). This environmental contamination can subse-
+                                                                                   quently pollute crops and drinking water sources, establishing an
+Direct and indirect transmission pathways from                                     environment-to-human transmission loop (Samtiya et al., 2022).
+animals to humans                                                                  Research confirms that ARGs can be transferred from environmental
+                                                                                   bacteria on plants to human gut bacteria. This is demonstrated by the
+     The environmental reservoirs and farm-level drivers discussed                 in planta transfer of resistance plasmids from Acinetobacter baylyi to
+above do not remain confined to animal production settings. Rather,                E. coli, which subsequently colonized the mouse gut (Maeusli et al.,
+they seed resistant bacteria and ARGs into surrounding soil, water,                2020). Collectively, these pathways illustrate a complex web where
+and wildlife, creating pathways that extend beyond the farm gate. The              resistant determinants circulate freely between human, animal, and
+next section synthesizes these direct contact, foodborne, and environ-             environmental compartments, driven by agricultural practices, close
+mental pathways into a coherent One Health transmission model. It                  human-animal bonds, and inadequate waste management.
+then analyzes the surveillance and intervention challenges that arise                   While the pathways described above are qualitatively well estab-
+when trying to disrupt such interconnected routes. The food chain                  lished, quantitative estimates of their relative contributions remain
+represents a critical indirect transmission route. Specifically, con-              limited. Meta-analyses of foodborne outbreaks attribute approxi-
+sumption of undercooked or contaminated meat from food-produc-                     mately 20–30% of human infections with extended-spectrum
+ing animals is a primary source of foodborne antimicrobial-resistant               β-lactamase (ESBL)-producing E. coli to livestock-associated strains,
+bacterial infections in humans (Fastl et al., 2023). Intensive farming             although source attribution varies widely by region and production
+practices often involve routine antibiotic use. These practices foster             system (Ludden et al., 2019). Companion animals account for an
+antimicrobial-resistant bacteria in animal gastrointestinal tracts                 estimated 5–15% of household ARG carriage in pet-owning house-
+(Vivarelli et al., 2026). The bacteria and their ARGs are excreted and             holds, based on metagenomic abundance comparisons (Cui et al.,
+can contaminate meat products during slaughter and processing, lead-               2026). Environmental transmission via manure-fertilized soil con-
+ing to cross-contamination (Ortega-Paredes et al., 2020). For instance,            tributes a lower relative proportion of human ARG acquisition, esti-
+studies on broiler farms and carcasses in Ecuador identified them as               mated at less than 5% in high-income countries. However, it may be
+important reservoirs of multi-drug resistant E. coli carrying ESBL                 more significant in low-income settings, which are characterized by
+(blaCTX-M) and colistin resistance (mcr-1) genes, directly linking poul-           direct human–livestock contact and untreated wastewater use (Zhai
+try production to human exposure (Ortega-Paredes et al., 2020).                    et al., 2025). Quantitatively, ARG abundance per 16S rRNA gene or
+Similarly, retail meat serves as a reservoir for multidrug-resistant bac-          gram of feces in livestock guts is typically 1–2 orders of magnitude
+teria like Acinetobacter baumannii, with genomic features mirroring                higher than in companion animals or humans, reflecting continuous
+clinical strains, highlighting the risk of zoonotic transmission via the           selection pressure (Enshaie et al., 2025). However, absolute risk esti-
+food chain (Vanishree et al., 2026). Animal manure used as fertilizer              mates, such as the probability of ARG transfer from an animal to a
+and wastewater from farms introduces vast quantities of antimicro-                 human given a single exposure event, remain unknown.
+bial-resistant bacteria and ARGs into soil and water systems (Zhai et              Furthermore, no studies have established dose–response relation-
+al., 2025). Early-life exposure of mice to manure-fertilized soil was              ships or minimum infectious doses for ARG-carrying commensals.
+shown to profoundly shape their gut antibiotic resistome, significantly            Future quantitative microbiological risk assessment (QMRA)
+
+
+Frontiers in Microbiology                                                     08                                                               frontiersin.org
+Guo et al.                                                                                                                   10.3389/fmicb.2026.1872946
+
+
+
+
+modeling, combined with longitudinal cohort studies and whole-                   supported by global cooperation and increased investment in public
+genome sequencing, is urgently needed to prioritize intervention                 and professional education.
+targets.                                                                               Current One Health AMR surveillance is hampered by significant
+                                                                                 limitations and knowledge gaps, remaining largely siloed with human,
+Challenges for “One Health” surveillance and                                     animal, and environmental data rarely integrated at the individual or
+intervention                                                                     farm level (Fitzpatrick et al., 2021; Bulteel et al., 2021). Most studies
+                                                                                 rely on cross-sectional sampling, which captures only a snapshot and
+     Implementing effective “One Health” strategies to combat antimi-            cannot establish transmission directionality or timing. Furthermore,
+crobial resistance faces substantial challenges in both surveillance and         the lack of standardized protocols for sample processing, sequencing,
+intervention, stemming from systemic fragmentation and complex                   and bioinformatic analysis across sectors precludes meaningful meta-
+socio-economic trade-offs. A core surveillance challenge is the need             analysis and global comparisons (Al-Khalaifah et al., 2025; Malik et
+to establish integrated, standardized AMR monitoring systems that                al., 2023). The attribution of ARG transmission to specific pathways is
+seamlessly combine data from human, animal, and environmental                    almost never quantified with source-tracking models that account for
+samples (Fitzpatrick et al., 2021). Current data remain largely frag-            population-level exposure. A critical unmet need is the development
+mented, hindering the ability to track the flow of resistant bacteria and        of causal inference frameworks, such as Bayesian network models
+ARGs across the One Health interfaces (Bulteel et al., 2021). Advanced           combined with longitudinal whole-genome sequencing. These frame-
+technologies like whole-genome sequencing (WGS) are crucial for                  works would help distinguish genuine cross-species transmission
+high-resolution tracing of transmission trajectories. For example,               from shared environmental acquisition or convergent evolution
+genomic surveillance of Salmonella enterica serovar Dublin in the                (Vivarelli et al., 2026; Hickman et al., 2021).
+U. S. revealed a highly related population across bovine, human, and                   Recent advances in molecular and computational tools offer trans-
+environmental sources, yet also identified source-dependent differ-              formative potential to address the limitations of current AMR surveil-
+ences in ARG profiles, emphasizing the need for integrated genomic               lance. Long-read sequencing platforms such as Oxford Nanopore and
+analysis to understand transmission dynamics (Kenney et al., 2025).              PacBio enable complete assembly of plasmids and the chromosomal
+Similarly, a study in India found limited evidence of spillover of anti-         contexts of ARGs, allowing unambiguous tracking of MGE-mediated
+microbial-resistant K. pneumoniae clones from animal/environmental               transmission without the fragmentation inherent to short-read
+reservoirs to humans in a specific setting, challenging assumptions              metagenomics (Li Z. et al., 2024; Sun et al., 2025). Metatranscriptomics
+and highlighting the importance of context-specific, integrated sur-             can differentiate actively expressed ARGs from passively carried DNA,
+veillance to accurately map resistance flows (Jacob et al., 2024). The           providing functional rather than merely compositional resistome data
+intervention landscape is equally fraught with difficulties. Restricting         (Li Z. et al., 2024). Singlecell techniques, including droplet-based
+antimicrobial use in animals is a cornerstone measure but requires               microfluidics coupled with fluorescenceactivated cell sorting, allow
+balancing animal welfare, productivity, and economic pressures                   direct observation of HGT events in complex microbial communities,
+(Loayza-Villa et al., 2021). A study on swine demonstrated that                  moving beyond correlation to causation (Borodovich et al., 2022;
+removing prophylactic antimicrobials over two generations did not                Scicchitano et al., 2023). For rapid point-of-care or on-farm diagnos-
+negatively affect weight gain but was also insufficient to reduce the            tics, CRISPR-based platforms and isothermal methods enable sensi-
+richness and abundance of ARGs in the gut resistome, indicating the              tive, specific, low-cost detection of high-risk ARGs such as blaNDM,
+persistence of resistance once established and the complexity of inter-          mcr-1, and tet(X) within hours (Vivarelli et al., 2026; Jin et al., 2023).
+vention (Loayza-Villa et al., 2021). Coordinating policies across agri-          Machine learning and network inference algorithms applied to large-
+culture, public health, and environmental sectors is notoriously                 scale metagenomic datasets can predict plasmid host ranges and iden-
+difficult (Al-Khalaifah et al., 2025). Global initiatives like the WHO           tify previously unrecognized ARG-MGE associations (Scicchitano et
+Global Action Plan underscore the need for international collabora-              al., 2023; Baker et al., 2023). These technologies are not yet widely
+tion, but implementation varies widely, especially in low- and middle-           deployed in routine One Health surveillance. Their integration into
+income countries (LMICs) where surveillance systems may be weaker                national monitoring programs represents a high-priority research and
+(Malik et al., 2023). Furthermore, a significant barrier is the limited          investment area, particularly in low- and middle-income countries
+awareness and understanding of AMR among the public, farmers, and                where laboratory infrastructure is limited (Hickman et al., 2021;
+even healthcare professionals, which directly impacts the adoption of            Al-Khalaifah et al., 2025).
+stewardship practices and intervention efficacy (Chambers et al.,
+2020). A rapid review highlighted the urgent need for psychological              Microbiome-based management strategies
+and behavioral research to identify determinants of antibiotic use and           for AMR mitigation
+to evaluate theory-based interventions aimed at reducing use in food
+production animals (Chambers et al., 2020). Economic and gover-                  Probiotics and competitive exclusion strategies
+nance factors also play a critical role. An ecological study across 30
+countries found that factors such as per capita health expenditure and               Probiotics, such as Lactobacillus and Bifidobacterium strains,
+governance quality were significantly associated with AMR rates. This            function as effective natural alternatives to antibiotics by employ-
+suggests that addressing AMR requires more than just reducing anti-              ing multiple mechanisms to inhibit the colonization and prolifera-
+biotic consumption; it must also include broader socio-economic                  tion of potential pathogens and antimicrobial-resistant bacteria in
+development and strengthening of healthcare systems (Silva et al.,               the gastrointestinal tracts of companion and food-producing ani-
+2021). Ultimately, overcoming these challenges demands a sustained,              mals. A primary mechanism is competitive exclusion. Beneficial
+multidisciplinary effort that integrates robust, cross-sectoral surveil-         bacteria physically occupy adhesion sites on the intestinal epithe-
+lance with context sensitive interventions. This effort must be                  lium, thereby preventing pathogens from establishing a foothold.
+
+
+Frontiers in Microbiology                                                   09                                                              frontiersin.org
+Guo et al.                                                                                                                      10.3389/fmicb.2026.1872946
+
+
+
+
+For instance, specific strains like Lactobacillus casei ATTC334 and                      Despite this promise, several critical limitations temper the
+Bifidobacterium breve JCM1192 exhibit strong adherence to Caco-2                    direct translation of probiotic research into practice. Strain-
+intestinal epithelial cells, which directly reduces the recovery of                 specificity is extreme, as a Lactobacillus strain effective in one
+Salmonella Typhimurium from cecal tonsils in broiler chickens                       chicken breed may fail in another due to differences in mucus
+through this competitive binding (El-Sharkawy et al., 2020).                        glycan composition or immune development. Host dependency is
+Similarly, lactic acid bacteria (LAB) isolated from poultry feces,                  profound, results from in vitro assays often fail to predict outcomes
+such as Lactobacillus salivarius and Lactobacillus johnsonii, dem-                  in pigs, cattle, or companion animals due to differences in gut tran-
+onstrate significant ability to hamper the adhesion of Salmonella                   sit time, pH, and resident microbiota (Kart et al., 2026).
+Typhimurium to Caco-2 cells in exclusion, competition, and dis-                     Reproducibility issues abound: meta-analyses of probiotic trials in
+placement assays (Salehizadeh et al., 2020). Beyond simple compe-                   livestock show significant heterogeneity, largely unexplained by
+tition for space, probiotics produce a range of antimicrobial                       study design. Regulatory and scalability challenges exist for defined
+substances. These include bacteriocins, organic acids, short-chain                  consortia and next-generation probiotics, as they require lengthy
+fatty acids (SCFAs), and hydrogen peroxide, which create a hostile                  and expensive safety approval. Moreover, in many jurisdictions, pro-
+microenvironment for pathogens (Kart et al., 2026). The produc-                     biotics for animals are regulated as feed additives, which allows
+tion of organic acids, particularly lactic acid, lowers the intestinal              poorly characterized products to reach market (Naeem and
+pH, further inhibiting acidsensitive pathogens. Certain strains also                Bourassa, 2025). Finally, ecological resistance must be considered.
+enhance the host’s mucosal barrier integrity and modulate immune                    The resident gut microbiota can exclude introduced probiotics via
+responses, contributing to a more resilient gut ecosystem. For                      priority effects. Future research should prioritize strain selection
+example, Bifidobacterium infantis BL2416 has poor epithelial cell                   using host-specific in vitro gut models and develop defined consor-
+binding but still reduced Salmonella Typhimurium recovery and                       tia rather than single strains.
+increased cytokine production in broilers, suggesting an immuno-
+modulatory role (El-Sharkawy et al., 2020). The yeast probiotic                     Prebiotics, postbiotics, and fecal microbiota
+Saccharomyces boulardii also operates through a conjunction of                      transplantation
+pathways including competitive exclusion, production of antimi-
+crobial peptides, and immune modulation (Pais et al., 2020). By                          Prebiotics, postbiotics, and fecal microbiota transplantation
+improving gut health and directly antagonizing pathogens, probi-                    (FMT) represent complementary and increasingly sophisticated strat-
+otics reduce the incidence of infectious diseases, thereby diminish-                egies for modulating the gut ecosystem to suppress antimicrobial-
+ing the need for therapeutic antimicrobials and lowering the                        resistant bacteria in animals. Prebiotics such as fructooligosaccharides
+selective pressure that drives AMR. This positions them as crucial                  (FOS), galactooligosaccharides (GOS), isomalto-oligosaccharides
+tools for antibiotic stewardship. Research highlights their role in                 (IMO), and inulin, are non-digestible food ingredients that selectively
+improving animal productivity, such as body weight gain and feed                    stimulate the growth and/or activity of beneficial indigenous bacteria
+conversion rate in Salmonellainfected broilers, while simultane-                    like Bifidobacterium and Lactobacillus (Yue et al., 2025). By promoting
+ously mitigating AMR risks (El-Sharkawy et al., 2020; Naeem and                     a healthier and more stable microbial community structure, prebiotics
+Bourassa, 2025).                                                                    enhance the gut’s ecological resistance to invasion by pathogens and
+     Future directions focus on developing next-generation probiotics               resistant bacteria. This indirect suppression occurs through mecha-
+or defined consortia with enhanced or specific functionalities. This                nisms such as the production of SCFAs by fermentative bacteria.
+includes strains engineered or selected for superior competitive exclu-             These SCFAs lower luminal pH and exhibit direct inhibitory effects on
+sion, targeted antimicrobial production, or the ability to inhibit HGT              pathogens. At the same time, they strengthen the intestinal barrier and
+of resistance determinants (McInnes et al., 2020; Borodovich et al.,                modulate host immunity. The resultant optimized microbiota
+2022). Advanced delivery systems, such as encapsulation in biopoly-                 improves nutrient utilization, overall gut health, and animal perfor-
+mers or synthetic carriers, are being optimized to improve probiotic                mance, thereby reducing the incidence of diseases that would other-
+viability under gastrointestinal stressors and ensure controlled release.           wise necessitate antibiotic use (Yue et al., 2025; Atuahene et al., 2025).
+This enhances their therapeutic consistency against multidrug-resis-                Postbiotics, defined as inanimate microorganisms and/or their com-
+tant bacteria (Kart et al., 2026). The concept applies not only to dietary          ponents/metabolites that confer a health benefit, offer a promising
+supplements but also to environmental sanitation. Formulations such                 alternative to live probiotics. These include heat-inactivated bacterial
+as probiotic-infused activated charcoal/hydroxyapatite microbeads                   cells, cell-free supernatants, and purified metabolites like bacteriocins,
+establish protective biofilms on high-risk surfaces, offering rapid dis-            SCFAs, and peptides. Their advantages include high safety profiles,
+infection and longterm competitive exclusion of antibiotic-resistant                greater stability during storage and processing, and consistent biologi-
+pathogens (Alqumber, 2026). Combining probiotics with other bio-                    cal activity. Postbiotics exert health-promoting effects through immu-
+control agents, such as bacteriophages, presents a novel synergistic                nomodulation, enhancement of epithelial barrier function, and direct
+strategy informed by the understanding of the gut resistome as a                    antimicrobial activity. A study in an in vitro canine gut model used a
+transmission hub (Vivarelli et al., 2026; Du et al., 2022). In vitro studies        postbiotic derived from heat-inactivated Lactobacillus helveticus
+demonstrate that co-administration of phages with antimicrobial-                    HA-122. When administered during and after antibiotic treatment,
+susceptible commensal E. coli can effectively decolonize extended-                  this postbiotic effectively mitigated dysbiosis. It accelerated the recov-
+spectrum cephalosporin-resistant E. coli by coupling phage-mediated                 ery of total bacterial load and diversity, preserved SCFA concentra-
+lysis with the prevention of phage-resistant mutant regrowth through                tions, and reduced the bloom of Enterobacteriaceae, showcasing its
+competition (Laird et al., 2022). This multi-pronged approach under-                potential to restore gut homeostasis after antibiotic disturbance
+scores the potential of refined probiotic applications for precise micro-           (Deschamps et al., 2025). Similarly, metabolites from beneficial
+biome modulation to combat AMR within a One Health framework.                       microbes can inhibit pathogen adhesion and biofilm formation. The
+
+
+Frontiers in Microbiology                                                      10                                                              frontiersin.org
+Guo et al.                                                                                                                   10.3389/fmicb.2026.1872946
+
+
+
+
+use of postbiotics is particularly attractive in settings where the               measurably reduces AMR prevalence. Fecal microbiota transplanta-
+administration of live microbes is challenging or regulated.                      tion and copper-based feed alternatives remain promising but uncer-
+     Fecal microbiota transplantation (FMT), the transfer of processed            tain, lacking rigorous controlled trials and showing context-dependent
+fecal material from a healthy donor to a recipient, aims to rapidly               or inconsistent effects. Immediate priorities include integrating non-
+reconstruct a healthy, diverse, and functional gut microbiota. In vet-            antibiotic selective agents into surveillance, developing host-specific
+erinary medicine, FMT has been explored to treat dysbiosis-associated             validated probiotic consortia, regulating mobile genetic elements as
+conditions and shows potential for decolonizing gut reservoirs of                 reportable targets, and establishing open-access HGT network
+AMR determinants. For instance, early-life interventions like FMT or              databases.
+rumen microbiota transplantation in calves can effectively alleviate                   Looking forward, translational implementation requires embed-
+diarrhea and promote a healthy gut microbiota development, offering               ding these findings into veterinary and public health practice.
+an antibiotic alternative (Du et al., 2023). The principle is to introduce        Examples include on-farm metagenomic monitoring of resistome
+a complete, resilient microbial community that can outcompete and                 dynamics and rapid CRISPR-based diagnostics for high-risk ARGs.
+displace established resistant bacteria. However, the application of              Policy implications are substantial, as current regulations focus on
+FMT in animals faces significant hurdles that require deeper research.            antibiotic consumption volumes, but our analysis indicates that heavy
+Key challenges include the standardization of preparation protocols               metal use in feed and disinfectant practices should be equally regu-
+and ensuring the safety and long-term stability of the transplanted               lated. Microbiome engineering, including defined consortia of next-
+microbiota. Another major risk is the inadvertent transfer of patho-              generation probiotics and phage cocktails targeting ARGcarrying
+gens or undesirable genetic elements, including antimicrobial resis-              strains, offers a pathway toward precision interventions. Surveillance
+tance genes themselves. Furthermore, the ecological dynamics                      harmonization across human, animal, and environmental sectors
+governing engraftment success and the specific mechanisms by which                remains a critical unmet need, as does international regulatory coor-
+a transplanted microbiota eliminates resistant bacteria are not fully             dination to prevent AMR spillover across borders. Collectively, this
+understood. Future research must address these gaps to develop safe,              review provides a network-integrated framework linking HGT mech-
+effective, and standardized FMT protocols for use in livestock and                anisms, co-selection pressures, and interventions across livestock and
+companion animals. This would position FMT as a viable tool within                companion animals. It also critically exposes over-reliance on descrip-
+integrated AMR mitigation strategies under the One Health paradigm.               tive metagenomic correlations and proposes specific testable priorities
+     However, beyond the hurdles already noted, FMT faces additional              for immediate action under the One Health paradigm.
+challenges. Standardization of donor screening, preparation methods
+(fresh, frozen, lyophilized), and administration routes varies widely,
+precluding meta-analysis. Safety risks include the transmission of
+antibiotic-resistant organisms themselves, as ARGs can be present in              Author contributions
+healthy donor feces. Rigorous screening for high-risk ARGs is essen-
+tial but resourceintensive. Engraftment dynamics are poorly under-                   JG: Writing – original draft, Investigation. HS: Formal analysis,
+stood, as the conditions required for a transplanted microbiota to                Writing – original draft. ZX: Writing – original draft, Formal analysis.
+permanently displace a resident resistant community remain unclear                WG: Writing – original draft, Formal analysis. FW: Conceptualization,
+(Du et al., 2023). Regulatory status of veterinary FMT is ambiguous,              Writing – review & editing, Supervision.
+classified as a drug, biologic, or feed additive depending on jurisdic-
+tion, creating uncertainty for clinical adoption. Priority research areas
+include double-blinded, placebo-controlled FMT trials in livestock
+with AMR colonization and the development of defined synthetic                    Funding
+microbial consortia that mimic the anti-AMR effects of FMT without
+the risks.                                                                             The author(s) declared that financial support was not received for
+                                                                                  this work and/or its publication.
+
+
+
+Conclusion
+                                                                                  Conflict of interest
+     In this review, we clarified three previously underappreciated
+realities about the role of the animal gut microbiome in AMR trans-                   The author(s) declared that this work was conducted in the
+mission. First, the gut functions as an active network hub where hori-            absence of any commercial or financial relationships that could be
+zontal gene transfer rates far exceed those in environmental                      construed as a potential conflict of interest.
+compartments. Second, co-selection from heavy metals, disinfectants,
+and nonantimicrobial agents can sustain resistance even without
+direct antibiotic use. Third, intervention success is highly context-
+dependent. Among currently identified strategies, phage-probiotic                 Correction note
+synergy showed the highest promise for decolonizing resistant strains,
+postbiotics offered a safer and more stable alternative to live probiot-              This article has been corrected with minor changes. These changes
+ics, and antibiotic stewardship combined with quantitative biosecurity            do not impact the scientific content of the article.
+
+
+
+
+Frontiers in Microbiology                                                    11                                                             frontiersin.org
+Guo et al.                                                                                                                                                         10.3389/fmicb.2026.1872946
+
+
+
+
+Generative AI statement                                                                                 including review by the authors wherever possible. If you identify any
+                                                                                                        issues, please contact us.
+     The author(s) declared that Generative AI was used in the creation
+of this manuscript. The author(s) verify and take full responsibility for the
+use of generative AI in the preparation of this manuscript. Generative AI
+was used for language refinement and editorial assistance. All                                          Publisher’s note
+AI-generated content was reviewed and approved by the author(s), who
+assume full responsibility for the final manuscript. No AI tools were used                                  All claims expressed in this article are solely those of the authors
+to generate core scientific findings or conclusions.                                                    and do not necessarily represent those of their affiliated organizations,
+     Any alternative text (alt text) provided alongside figures in this                                 or those of the publisher, the editors and the reviewers. Any product
+article has been generated by Frontiers with the support of artificial                                  that may be evaluated in this article, or claim that may be made by its
+intelligence and reasonable efforts have been made to ensure accuracy,                                  manufacturer, is not guaranteed or endorsed by the publisher.
+
+
+
+
+References
+Abate, T. A., and Birhanu, A. G. (2025). Antibiotic use in livestock and environmental                  microbiota after antibiotic disturbance in an in vitro canine gut model. Benef Microbes 17,
+antibiotic resistance: a narrative review. Environ Health Insights. 19:11786302251357775.               191–211. doi: 10.1163/18762891-bja00088
+doi: 10.1177/11786302251357775
+                                                                                                        Ding, Y., Jiang, X., Wu, J., Wang, Y., Zhao, L., Pan, Y., et al. (2024). Synergistic horizontal
+Acosta, A., Tirkaso, W., Nicolli, F., Van Boeckel, T. P., Cinardi, G., and Song, J. (2025). The         transfer of antibiotic resistance genes and transposons in the infant gut microbial genome.
+future of antibiotic use in livestock. Nat. Commun. 16:2469. doi: 10.1038/                              mSphere 9:e0060823. doi: 10.1128/msphere.00608-23
+s41467-025-56825-7
+                                                                                                        Du, W., Wang, X., Hu, M., Hou, J., Du, Y., Si, W., et al. (2023). Modulating gastrointestinal
+Al-Khalaifah, H., Rahman, M. H., Al-Surrayai, T., Al-Dhumair, A., and Al-Hasan, M.                      microbiota to alleviate diarrhea in calves. Front. Microbiol. 14:1181545. doi: 10.3389/
+(2025). A one-health perspective of antimicrobial resistance (AMR): human, animals and                  fmicb.2023.1181545
+environmental health. Life (Basel) 15:1598. doi: 10.3390/life15101598
+                                                                                                        Du, S., Zhang, Y., Shen, J. P., Hu, H., Zhang, J., Shu, C., et al. (2022). Alteration of manure
+Alqumber, M. A. (2026). Probiotic-infused activated charcoal/ hydroxyapatite                            antibiotic resistance genes via soil Fauna is associated with the intestinal microbiome.
+microbeads: a novel strategy to disinfection. PeerJ 14:e20803. doi: 10.7717/                            mSystems 7:e0052922. doi: 10.1128/msystems.00529-22
+peerj.20803
+                                                                                                        El-Sharkawy, H., Tahoun, A., Rizk, A. M., Suzuki, T., Elmonir, W., Nassef, E., et al. (2020).
+Arya, S., Williams, A., Reina, S. V., Knapp, C. W., Kreft, J.-U., Hobman, J. L., et al. (2021).         Evaluation of bifidobacteria and Lactobacillus probiotics as alternative therapy for
+Towards a general model for predicting minimal metal concentrations co-selecting for                    Salmonella Typhimurium infection in broiler chickens. Animals (Basel) 10:1023. doi:
+antibiotic resistance plasmids. Environ. Pollut. 275:116602. doi: 10.1016/j.                            10.3390/ani10061023
+envpol.2021.116602
+                                                                                                        Enshaie, E., Nigam, S., Patel, S., and Rai, V. (2025). Livestock antibiotics use and antimi-
+Atuahene, D., Sam, B. A., Idan, F., Sana, S. S., Knop, R., Suthar, T., et al. (2025).                   crobial resistance. Antibiotics (Basel) 14:621. doi: 10.3390/antibiotics14060621
+Probiotics, prebiotics, and synbiotics in pigs and poultry: a review of gut health, per-
+                                                                                                        Fastl, C., De Carvalho Ferreira, H. C., Babo Martins, S., Sucena Afonso, J., di Bari, C.,
+formance, and environmental outcomes. Vet. Sci. 12:1054. doi: 10.3390/
+                                                                                                        Venkateswaran, N., et al. (2023). Animal sources of antimicrobialresistant bacterial infec-
+vetsci12111054
+                                                                                                        tions in humans: a systematic review. Epidemiol. Infect. 151:e143. doi: 10.1017/
+Baker, M., Zhang, X., Maciel-Guerra, A., Dong, Y., Wang, W., Hu, Y., et al. (2023).                     S0950268823001309
+Machine learning and metagenomics reveal shared antimicrobial resistance profiles
+                                                                                                        Ferreira Amaro Freire, T., Madec, S., and Gjini, E. (2025). Unpacking fitness differences
+across multiple chicken farms and abattoirs in China. Nat. Food 4, 707–720. doi: 10.1038/
+                                                                                                        between two invaders in a multispecies context. Bull. Math. Biol. 87:120. doi: 10.1007/
+s43016-023-00814-w
+                                                                                                        s11538-025-01491-5
+Banik, M., Bashyal, S., Ahmed, K. A., Banik, K., Dua, K., Choi, J. P., et al. (2026). The gut
+                                                                                                        Fitzpatrick, K. J., Rohlf, H. J., Sutherland, T. D., Koo, K. M., Beckett, S., Okelo, W. O., et al.
+microbiome of Australian cats and dogs: dietary influences, health impacts, and emerging
+                                                                                                        (2021). Progressing antimicrobial resistance sensing technologies across human, animal,
+research. Vet. J. 315:106566. doi: 10.1016/j.tvjl.2026.106566
+                                                                                                        and environmental health domains. ACS Sens. 6, 4283–4296. doi: 10.1021/
+Bonzelett, C., Schnepf, A., Hartmann, M., Käsbohrer, A., and Kreienbrock, L. (2022). Use                acssensors.1c01973
+of antimicrobials by class in pigs in Germany-a longitudinal description considering dif-
+                                                                                                        Forcina, G., Pérez-Pardal, L., Carvalheira, J., and Beja-Pereira, A. (2022). Gut microbiome
+ferent international categorisation systems. Antibiotics (Basel) 11:1833. doi: 10.3390/
+                                                                                                        studies in livestock: achievements, challenges, and perspectives. Animals (Basel) 12:3375.
+antibiotics11121833
+                                                                                                        doi: 10.3390/ani12233375
+Borodovich, T., Shkoporov, A. N., Ross, R. P., and Hill, C. (2022). Phage-mediated hori-
+                                                                                                        Forouzandeh, A., Lassen, S. B., Brinck, J. E., Zhou, Y. Y., Zhu, J., Solà-Oriol, D., et al.
+zontal gene transfer and its implications for the human gut microbiome. Gastroenterol.
+                                                                                                        (2023). Limited impacts of high doses of dietary copper on the gut bacterial metal
+Rep. (Oxf). 10:goac012.
+                                                                                                        resistome explain negligible co-selection of antibiotic resistance. Sci. Total Environ.
+Branck, T., Hu, Z., Nickols, W. A., Walsh, A. M., Bhosle, A., Short, M. I., et al. (2024).              889:164183. doi: 10.1016/j.scitotenv.2023.164183
+Comprehensive profile of the companion animal gut microbiome integrating refer-
+                                                                                                        Galarce, N., Arriagada, G., Sánchez, F., Venegas, V., Cornejo, J., and Lapierre, L. (2021).
+ence-based and reference-free methods. ISME J. 18:wrae201. doi: 10.1093/
+                                                                                                        Antimicrobial use in companion animals: assessing veterinarians’ prescription patterns
+ismejo/wrae201
+                                                                                                        through the first National Survey in Chile. Animals (Basel) 11:348. doi: 10.3390/
+Brinck, J. E., Lassen, S. B., Forouzandeh, A., Pan, T., Wang, Y. Z., Monteiro, A., et al.               ani11020348
+(2023). Impacts of dietary copper on the swine gut microbiome and antibiotic resistome.
+                                                                                                        Glavind, A. S., Kruse, A. B., Nielsen, L. R., and Stege, H. (2022). Monitoring antimicrobial
+Sci. Total Environ. 857:159609. doi: 10.1016/j.scitotenv.2022.159609
+                                                                                                        usage in companion animals: exploring the use of the Danish VetStat database. Acta Vet.
+Bulteel, A. J. B., Larson, E. L., and Getahun, H. (2021). Identifying global research gaps to           Scand. 64:27. doi: 10.1186/s13028-022-00647-w
+mitigate antimicrobial resistance: a scoping review. Am. J. Infect. Control 49, 818–824. doi:
+                                                                                                        Goetz, C., Sanschagrin, L., Jubinville, E., Jacques, M., and Jean, J. (2025). Biofilm forma-
+10.1016/j.ajic.2020.11.024
+                                                                                                        tion in dairy: a food safety concern-recent progress in antibiofilm strategies in the dairy
+Chambers, J. A., Crumlish, M., Comerford, D. A., and O’Carroll, R. E. (2020).                           industry. J. Dairy Sci. 108, 8157–8175. doi: 10.3168/jds.2024-25554
+Antimicrobial resistance in humans and animals: rapid review of psychological and
+                                                                                                        Gu, Y., Shen, S., Han, B., Tian, X., Yang, F., and Zhang, K. (2020). Family livestock waste:
+behavioral determinants. Antibiotics 9:285. doi: 10.3390/antibiotics9060285
+                                                                                                        an ignored pollutant resource of antibiotic resistance genes. Ecotoxicol. Environ. Saf.
+Chen, L., Zhou, Z., Shen, C., and Xu, Y. (2020). Inactivation of antibiotic-resistant bacteria          197:110567. doi: 10.1016/j.ecoenv.2020.110567
+and antibiotic resistance genes by electrochemical oxidation/electro-Fenton process.
+                                                                                                        Hasan, M. A. E., Islam, M. S., Fahim, N. A. I., Antor, M. T. H., Salam, S., Jahan, R.,
+Water Sci. Technol. 81, 2221–2231. doi: 10.2166/wst.2020.282
+                                                                                                        et al. (2025). Impact of open markets on zoonotic threats and antimicrobial resis-
+Cui, W., Cui, Y., Hao, Y., Li, Y., Wang, Y., Liu, F., et al. (2026). The effect of pet dog expo-        tance: a one health concern. One Health 21:101228. doi: 10.1016/j.
+sure on gut antibiotic resistome and microbiome of their owners. J. Hazard. Mater.                      onehlt.2025.101228
+504:141429. doi: 10.1016/j.jhazmat.2026.141429
+                                                                                                        Hickman, R. A., Leangapichart, T., Lunha, K., Jiwakanon, J., Angkititrakul, S.,
+Deschamps, C., Humbert, D., Brun, M., Denis, S., Durif, C., Apper, E., et al. (2025).                   Magnusson, U., et al. (2021). Exploring the antibiotic resistance burden in livestock,
+Lactobacillus helveticus-derived postbiotic and live Saccharomyces boulardii restore gut
+
+
+
+Frontiers in Microbiology                                                                          12                                                                                  frontiersin.org
+Guo et al.                                                                                                                                                            10.3389/fmicb.2026.1872946
+
+
+
+livestock handlers and their non-livestock handling contacts: a one health perspective.                   Makita, K., Sugahara, N., Nakamura, K., Matsuoka, T., Sakai, M., and Tamura, Y. (2021).
+Front. Microbiol. 12:651461. doi: 10.3389/fmicb.2021.651461                                               Current status of antimicrobial drug use in Japanese companion animal clinics and the
+                                                                                                          factors associated with their use. Front. Vet. Sci. 8:705648. doi: 10.3389/fvets.2021.705648
+Hinchliffe, S. (2025). After antibiotics - events, episodes and the Veterinization of UK
+livestock. Med. Anthropol. 1-17, 1–17. doi: 10.1080/01459740.2025.2539760                                 Malik, H., Singh, R., Kaur, S., Dhaka, P., Bedi, J. S., Gill, J. P. S., et al. (2023). Review of
+                                                                                                          antibiotic use and resistance in food animal production in WHO South-East Asia region.
+Jacob, J. J., Aravind, V., Beresford-Jones, B. S., Lal, Y. B., Shankar, C., Yesudoss, M., et al.
+                                                                                                          J. Infect. Public Health 16, 172–182. doi: 10.1016/j.jiph.2023.11.002
+(2024). Limited evidence of spillover of antimicrobial-resistant Klebsiella pneumoniae
+from animal/environmental reservoirs to humans in Vellore, India. J. Epidemiol. Glob.                     Matheou, A., Abousetta, A., Pascoe, A. P., Papakostopoulos, D., Charalambous, L.,
+Health 14, 1668–1677. doi: 10.1007/s44197-024-00323-4                                                     Panagi, S., et al. (2025). Antibiotic use in livestock farming: a driver of multidrug resis-
+                                                                                                          tance? Microorganisms 13:779. doi: 10.3390/microorganisms13040779
+Jian, Z., Qian, Y., He, S., Zhao, R., Li, K., Cha, J., et al. (2026). The gut resistome in poultry
+production: microbial ecology, antibiotic use, and sustainable control approaches. Front.                 McInnes, R. S., McCallum, G. E., Lamberte, L. E., and van Schaik, W. (2020). Horizontal
+Microbiol. 17:1768747. doi: 10.3389/fmicb.2026.1768747                                                    transfer of antibiotic resistance genes in the human gut microbiome. Curr. Opin.
+                                                                                                          Microbiol. 53, 35–43. doi: 10.1016/j.mib.2020.02.002
+Jin, M., Osman, M., Green, B. A., Yang, Y., Ahuja, A., Lu, Z., et al. (2023). Evidence for
+the transmission of antimicrobial resistant bacteria between humans and companion                         Mikolas, M., Fauszt, P., Petrilla, A., Nemeth, P., David, P., Szilagyi-Tolnai, E., et al. (2025).
+animals: a scoping review. One Health 17:100593. doi: 10.1016/j.onehlt.2023.100593                        Analysis of ICU resistome dynamics in patients, staff and environment for the identifica-
+                                                                                                          tion of predictive biomarkers of sepsis and early mortality. Sci. Rep. 15:25080. doi:
+Karalliu, E., Ngan, S. Y. L., Bęczkowski, P. M., Barrs, V. R., Hobi, S., MacKinnon, B., et al.
+                                                                                                          10.1038/s41598-025-10848-8
+(2025). Antimicrobial use practices among companion animal veterinarians in Hong
+Kong. Vet. J. 314:106433. doi: 10.1016/j.tvjl.2025.106433                                                 Monteiro, H. F., Zhou, Z., Gomes, M. S., Peixoto, P. M. G., Bonsaglia, E. C. R., Canisso, I. F.,
+                                                                                                          et al. (2022). Rumen and lower gut microbiomes relationship with feed efficiency and
+Kardomatea, N., Hopman, N. E. M., van Geijlswijk, I. M., Portengen, L., Wagenaar, J. A.,
+                                                                                                          production traits throughout the lactation of Holstein dairy cows. Sci. Rep. 12:4904. doi:
+Heederik, D. J. J., et al. (2023). Quantifying topical antimicrobial use before and during
+                                                                                                          10.1038/s41598-022-08761-5
+participation in an antimicrobial stewardship programme in Dutch companion animal
+clinics. PLoS One 18:e0283956. doi: 10.1371/journal.pone.0283956                                          Naeem, M., and Bourassa, D. (2025). Probiotics in poultry: unlocking productivity
+                                                                                                          through microbiome modulation and gut health. Microorganisms 13:257. doi: 10.3390/
+Kart, U., Smagulova, D., Khairetdinova, D., Raimbekova, A., and Hortelano, G. H. (2026).
+                                                                                                          microorganisms13020257
+Encapsulated probiotics as antimicrobial agents: mechanisms and delivery strategies
+against multidrug-resistant bacteria. Front. Cell. Infect. Microbiol. 16:1738291. doi:                    Nemathaga, M., Smith, R. M., and Malatji, D. P. (2023). Interactions between the helminth
+10.3389/fcimb.2026.1738291                                                                                and intestinal microbiome in smallholder chicken farming systems. Front. Vet. Sci.
+                                                                                                          10:1309151. doi: 10.3389/fvets.2023.1309151
+Kenney, S. M., M’ikanatha, N. M., and Ganda, E. (2025). Genomic evolution of Salmonella
+Dublin in cattle and humans in the United States. Appl. Environ. Microbiol. 91:e0068925.                  Ortega-Paredes, D., de Janon, S., Villavicencio, F., Ruales, K. J., de la Torre, K., Villacís, J. E.,
+doi: 10.1128/aem.00689-25                                                                                 et al. (2020). Broiler farms and carcasses are an important reservoir of multi-drug resistant
+                                                                                                          Escherichia coli in Ecuador. Front. Vet. Sci. 7:547843. doi: 10.3389/fvets.2020.547843
+Kim, J., Cho, Y., Lim, S. K., Seo, M. R., Sohn, J. W., Kim, B., et al. (2023). Comparative
+analyses of the faecal resistome against β-lactam and quinolone antibiotics in humans and                 Pais, P., Almeida, V., Yılmaz, M., and Teixeira, M. C. (2020). Saccharomyces boulardii: what
+livestock using metagenomic sequencing. Sci. Rep. 13:20993. doi: 10.1038/                                 makes it tick as successful probiotic? J. Fungi (Basel) 6:78. doi: 10.3390/jof6020078
+s41598-023-48221-2
+                                                                                                          Perry, J., Arnold, K., Satuchne, C., Koren, O., Kenigswald, G., and Elnekave, E. (2024).
+Kogut, M. H. (2022). Role of diet-microbiota interactions in precision nutrition of the                   Accumulation of resistance genes in Salmonella Typhimurium transmitted between poul-
+chicken: facts, gaps, and new concepts. Poult. Sci. 101:101673. doi: 10.1016/j.                           try and dairy farms increases the risk to public health. Appl. Environ. Microbiol.
+psj.2021.101673                                                                                           90:e0229723. doi: 10.1128/aem.02297-23
+Laird, T., Abraham, R., Sahibzada, S., Abraham, S., and O’Dea, M. (2022). In vitro dem-                   Peto, L., Fawcett, N., Kamfose, M. M., Scarborough, C., Peniket, A., Danby, R., et al.
+onstration of targeted phage therapy and competitive exclusion as a novel strategy for                    (2025). The impact of different antimicrobial exposures on the gut microbiome in the
+decolonization of extended-spectrum-cephalosporin-resistant Escherichia coli. Appl.                       ARMORD observational study. eLife 13:RP97751. doi: 10.7554/elife.97751
+Environ. Microbiol. 88:e0227621. doi: 10.1128/aem.02276-21
+                                                                                                          Qiu, M., Wu, Z., Song, J., Zheng, C., Zhan, X., Shan, M., et al. (2023). Chlorothalonil
+Lee, S., Fan, P., Liu, T., Yang, A., Boughton, R. K., Pepin, K. M., et al. (2022). Transmission           drives the antibiotic resistome in earthworm guts. J. Hazard. Mater. 463:132831. doi:
+of antibiotic resistance at the wildlife-livestock interface. Commun. Biol. 5:585. doi:                   10.1016/j.jhazmat.2023.132831
+10.1038/s42003-022-03520-8
+                                                                                                          Rahman, N., McCullough, T., Orozco, D. F., Walkowiak, S., Farzan, A., Shekarriz, S., et al.
+Lee, D., Goh, T. W., Kang, M. G., Choi, H. J., Yeo, S. Y., Yang, J., et al. (2022). Perspectives          (2025). Genomic characterization of antimicrobial resistance and mobile genetic elements
+and advances in probiotics and the gut microbiome in companion animals. J. Anim. Sci.                     in swine gut bacteria isolated from a Canadian research farm. Anim. Microb. 7:66. doi:
+Technol. 64, 197–217. doi: 10.5187/jast.2022.e8                                                           10.1186/s42523-025-00432-w
+Li, Y., Li, X., Ma, X., Qiu, T., Fu, X., Ma, Z., et al. (2023). Livestock wastes from family-             Reyman, M., van Houten, M. A., Watson, R. L., Chu, M. L. J. N., Arp, K., de Waal, W. J.,
+operated farms are potential important sources of potentially toxic elements, antibiotics,                et al. (2022). Effects of early-life antibiotics on the developing infant gut microbiome and
+and estrogens in rural areas in North China. Environ. Sci. Pollut. Res. Int. 30,                          resistome: a randomized trial. Nat. Commun. 13:893. doi: 10.1038/s41467-022-28525-z
+118456–118467. doi: 10.1007/s11356-023-30663-w
+                                                                                                          Salamon, A., Szabó, A., Felföldi, T., Bel Rhali, S., Andics, A., Miklósi, Á., et al.
+Li, T., Xu, J., Zhao, X., Zhang, Q., Zhu, T., Fan, D., et al. (2024). Impacts of irrigation with          (2025). Human-like associations between gut microbiome composition and inatten-
+treated livestock wastewater on the accumulation characteristic of ARGs in the farmland                   tion, hyperactivity, and impulsivity in dogs. BMC Biol. 23:352. doi: 10.1186/
+soil: a case study in Hohhot, China. Environ. Geochem. Health 46:26. doi: 10.1007/                        s12915-025-02410-9
+s10653-023-01811-5
+                                                                                                          Salehizadeh, M., Modarressi, M. H., Mousavi, S. N., and Tajabadi Ebrahimi, M. (2020).
+Li, Z., Yuan, D., Kou, Y., Li, X., and Du, C. (2024). Metagenome sequencing to unveil the                 Evaluation of lactic acid bacteria isolated from poultry feces as potential probiotic and its
+occurrence and distribution of antibiotic resistome and in a wastewater treatment plant.                  in vitro competitive activity against Salmonella Typhimurium. Vet. Res. Forum 11, 67–75.
+Environ. Technol. 45, 1933–1942. doi: 10.1080/09593330.2022.2158758                                       doi: 10.30466/vrf.2018.84395.2110
+Liu, Y., Van Horn, A. M., Pham, M. T. N., Dinh, B. N. N., Chen, R., Raphael, S. D. R., et al.             Samtiya, M., Matthews, K. R., Dhewa, T., and Puniya, A. K. (2022). Antimicrobial resis-
+(2024). Fitness trade-offs of multidrug efflux pumps in Escherichia coli K-12 in acid or                  tance in the food chain: trends, mechanisms, pathways, and possible regulation strategies.
+base, and with aromatic phytochemicals. Appl. Environ. Microbiol. 90:e0209623. doi:                       Foods 11:2966. doi: 10.3390/foods11192966
+10.1128/aem.02096-23
+                                                                                                          Sartori, L., Sellera, F. P., Furlan, J. P. R., Moura, Q., Knöbl, T., and Lincopan, N. (2026).
+Loayza-Villa, F., Torres, A., Zhang, L., and Trueba, G. (2021). Removal of antimicrobial                  Pet-human transmission of CTX-M-8 extended-spectrum β-lactamase-producing
+prophylaxis and its effect on swine carriage of antimicrobial-resistant coliforms. Sci. Prog.             Escherichia coli ST961 and phylogenetic group B2. Diagn. Microbiol. Infect. Dis.
+104:368504211050279. doi: 10.1177/00368504211050279                                                       114:117120. doi: 10.1016/j.diagmicrobio.2025.117120
+Ludden, C., Raven, K. E., Jamrozy, D., Gouliouris, T., Blane, B., Coll, F., et al. (2019). One            Scarpellini, R., Pulido-Vadillo, M., Serna, C., Gonzalez-Zorn, B., Blanco, J. L.,
+health genomic surveillance of Escherichia coli demonstrates distinct lineages and Mobile                 Delgado-Blas, J. F., et al. (2025). High frequency of detection of NDM-producing
+genetic elements in isolates from humans versus livestock. MBio 10, e02693–e02618. doi:                   Enterobacterales among companion animals hospitalized in an Italian veterinary
+10.1128/mBio.02693-18                                                                                     teaching hospital. Transbound. Emerg. Dis. 2025:2622185. doi: 10.1155/
+                                                                                                          tbed/2622185
+Lyu, Y., Pu, J., Deng, B., and Wu, C. (2025). Gut metabolome in companion animal nutri-
+tion-linking diets to health. Animals (Basel) 15:651. doi: 10.3390/ani15050651                            Scicchitano, D., Babbi, G., Palladino, G., Turroni, S., Mekonnen, Y. T., Laczny, C., et al.
+                                                                                                          (2023). Routes of dispersion of antibiotic resistance genes from the poultry farm system.
+Ma, W., Kou, Z., Fang, M., Huo, M., Xu, X., Lin, X., et al. (2025). Environmental peracetic
+                                                                                                          Sci. Total Environ. 912:169086. doi: 10.1016/j.scitotenv.2023.169086
+acid increases antibiotic resistance in Streptococcus Suis. J. Hazard. Mater. 493:138353.
+doi: 10.1016/j.jhazmat.2025.138353                                                                        Shah, H., Trivedi, M., Gurjar, T., Sahoo, D. K., Jergens, A. E., Yadav, V. K., et al. (2024).
+                                                                                                          Decoding the gut microbiome in companion animals: impacts and innovations.
+Maeusli, M., Lee, B., Miller, S., Reyna, Z., Lu, P., Yan, J., et al. (2020). Horizontal gene
+                                                                                                          Microorganisms 12:1831. doi: 10.3390/microorganisms12091831
+transfer of antibiotic resistance from Acinetobacter baylyi to Escherichia coli on lettuce and
+subsequent antibiotic resistance transmission to the gut microbiome. mSphere                              Silva, A. C., Nogueira, P. J., and Paiva, J. A. (2021). Determinants of antimicrobial
+5:e00329-20. doi: 10.1128/msphere.00329-20                                                                resistance among the different European countries: more than human and animal
+
+
+
+
+Frontiers in Microbiology                                                                            13                                                                                    frontiersin.org
+Guo et al.                                                                                                                                                      10.3389/fmicb.2026.1872946
+
+
+
+antimicrobial consumption.           Antibiotics     (Basel)    10:834.    doi:   10.3390/           Urbaniec, J. W., Davies, P. L., and Neary, J. M. (2025). Disinfection reduces but does not
+antibiotics10070834                                                                                  eliminate drug resistant Escherichia coli from livestock trailers following transport of
+                                                                                                     calves. J. Dairy Res. 92, 468–473. doi: 10.1017/s0022029925101581
+Silvestro, S., Biondo, C., Midiri, A., Lucia, B., and Mancuso, G. (2025). The role of live-
+stock antibiotic use in microbiota dysbiosis and neuroinflammation. Antibiotics (Basel)              Vanishree, B., Savariraj, W. R., Mohan, H. V., Rao, J., Kannan, P., Subbaiyan, A., et al.
+14:608. doi: 10.3390/antibiotics14060608                                                             (2026). Isolation and whole-genome characterization of multidrug-resistant Acinetobacter
+                                                                                                     baumannii from Indian retail meat: unveiling high-risk clones and zoonotic transmission
+Song, J., Li, T., Zheng, Z., Fu, W., Long, Z., Shi, N., et al. (2022). Carbendazim shapes
+                                                                                                     threats via comparative genomics. Eur. J. Clin. Microbiol. Infect. Dis. 45, 157–172. doi:
+microbiome and enhances resistome in the earthworm gut. Microbiome 10:63. doi:
+                                                                                                     10.1007/s10096-025-05253-y
+10.1186/s40168-022-01261-8
+Stege, P. B., Hordijk, J., Sandholt, A. K. S., Zomer, A. L., Viveen, M. C., Rogers, M. R. C.,        Vivarelli, S., De Francesco, C., Paba, E., Giambò, F., and Fenga, C. (2026). The resistome bridge
+et al. (2023). Gut colonization by ESBL-producing Escherichia coli in dogs is associated             between livestock and workers: novel frameworks for early detection and monitoring of anti-
+with a distinct microbiome and Resistome composition. Microbiol. Spectrum 11:e0006323.               microbial resistance. Front. Public Health 14:1746385. doi: 10.3389/fpubh.2026.1746385
+doi: 10.1128/spectrum.00063-23
+                                                                                                     Wilson, S. M., and Swanson, K. S. (2024). The influence of ‘biotics’ on the gut microbiome
+Sun, J., Wang, X., He, Y., Han, M., Li, M., Wang, S., et al. (2025). Environmental fate of           of dogs and cats. Vet. Rec. 195, 2–12. doi: 10.1002/vetr.4914
+antibiotic resistance genes in livestock farming. Arch. Microbiol. 207:120. doi: 10.1007/
+s00203-025-04320-4                                                                                   Yue, T., Lu, Y., Ding, W., Xu, B., Zhang, C., Li, L., et al. (2025). The role of probiotics,
+                                                                                                     prebiotics, Synbiotics, and postbiotics in livestock and poultry gut health: a review. Meta
+Tanquilut, N. C., Espaldon, M. V. O., Eslava, D. F., Ancog, R. C., Medina, C. D. R.,                 15:478. doi: 10.3390/metabo15070478
+Paraso, M. G. V., et al. (2020). Quantitative assessment of biosecurity in broiler farms
+using Biocheck.UGent in Central Luzon, Philippines. Poult. Sci. 99, 3047–3059. doi:                  Zhai, Z. Q., Yang, L. K., Zhu, L. B., Zhao, F. J., Xie, W. Y., and Wang, P. (2025). Early life
+10.1016/j.psj.2020.02.004                                                                            exposure to manure-fertilized soil shapes the gut antibiotic resistome. Environ. Health 3,
+                                                                                                     931–941. doi: 10.1021/envhealth.5c00074
+Taylor, D. D., Martin, J. N., and Scallan Walter, E. J. (2022). Survey of companion animal
+veterinarians’ antimicrobial drug prescription practices and awareness of antimicrobial              Zhang, M., He, L. Y., Liu, Y. S., Zhao, J. L., Zhang, J. N., Chen, J., et al. (2020). Variation of
+drug use guidelines in the United States. Zoonoses Public Health 69, 277–285. doi:                   antibiotic resistome during commercial livestock manure composting. Environ. Int.
+10.1111/zph.12915                                                                                    136:105458. doi: 10.1016/j.envint.2020.105458
+Tian, C., Tang, Z., Zhang, X., Yao, X., Li, Y., Zhuang, D., et al. (2025). Uncovering the gut        Zhao, R., Hao, J., Yang, J., Tong, C., Xie, L., Xiao, D., et al. (2022). The co-occurrence of
+microbiome and antibiotic resistome of mammals on the Tibetan plateau. Sci. China Life               antibiotic resistance genes between dogs and their owners in families. iMeta 1:e21. doi:
+Sci. 68, 3646–3663. doi: 10.1007/s11427-025-3047-5                                                   10.1002/imt2.21
+
+
+
+
+Frontiers in Microbiology                                                                       14                                                                                  frontiersin.org
+

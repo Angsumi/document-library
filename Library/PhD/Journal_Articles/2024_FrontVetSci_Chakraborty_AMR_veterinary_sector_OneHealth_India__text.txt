@@ -1,0 +1,482 @@
+                                                                                                                     TYPE Systematic Review
+                                                                                                                     PUBLISHED 27 August 2024
+                                                                                                                     DOI 10.3389/fvets.2024.1411160
+
+
+
+
+                                                Contribution of veterinary sector
+OPEN ACCESS                                     to antimicrobial resistance in One
+                                                Health compendium: an insight
+EDITED BY
+Harish Tiwari,
+The University of Sydney, Australia
+
+REVIEWED BY
+Fanta Gutema,
+                                                from available Indian evidence
+The University of Iowa, United States
+Adnan Mannan,
+University of Chittagong, Bangladesh
+                                                Debjit Chakraborty 1, Falguni Debnath 1*, Sandip Giri 1,
+*CORRESPONDENCE
+                                                Shatabdi Saha 1, Soume Pyne 1, Raja Chakraverty 1,
+Falguni Debnath                                 Agniva Majumdar 1, Alok Kumar Deb 1, Rajesh Bhatia 2 and
+  falgunidebnath@yahoo.in
+                                                Shanta Dutta 1
+RECEIVED 02 April 2024
+ACCEPTED 17 July 2024                           1
+                                                 ICMR-National Institute of Cholera and Enteric Diseases, Kolkata, India, 2 AMR Expert, Food and
+PUBLISHED 27 August 2024                        Agriculture Organization, New Delhi, India
+CITATION
+Chakraborty D, Debnath F, Giri S, Saha S,
+Pyne S, Chakraverty R, Majumdar A, Deb AK,      The application of antibiotics in the poultry and veterinary sectors is very common
+Bhatia R and Dutta S (2024) Contribution of     practice in India. Owing to the seriousness of antimicrobial resistance (AMR),
+veterinary sector to antimicrobial resistance
+in One Health compendium: an insight from
+                                                the present study has illustrated the overall scenario of AMR in the poultry and
+available Indian evidence.                      veterinary sectors in India through an in-depth scoping review and key informant
+Front. Vet. Sci. 11:1411160.                    interview (KII). In the poultry sector, most of the studies reviewed have reported
+doi: 10.3389/fvets.2024.1411160
+                                                resistant bacteria isolated from chicken meat, eggs, cloacal swabs, and fecal
+COPYRIGHT
+                                                samples, and only a few have reported the presence of resistant bacteria in and
+© 2024 Chakraborty, Debnath, Giri, Saha,
+Pyne, Chakraverty, Majumdar, Deb, Bhatia and    around the environment of poultry farms. The major resistant bacteria that have
+Dutta. This is an open-access article           been reported are E. coli, Salmonella spp., S. aureus, Campylobacter jejuni, and K.
+distributed under the terms of the Creative     pneumoniae. These bacterial isolates exhibited resistance to various antibiotics,
+Commons Attribution License (CC BY). The
+use, distribution or reproduction in other      such as azithromycin (21.43%), tetracycline (11.30–100%), chloramphenicol
+forums is permitted, provided the original      (4.76–100%), erythromycin (75–83.33%), ciprofloxacin (5.7–100%), gentamicin
+author(s) and the copyright owner(s) are        (17–100%), amikacin (4.76%), cotrimoxazole (42.2–60%), trimethoprim (89.4%),
+credited and that the original publication in
+this journal is cited, in accordance with       ceftriaxone (80%), and cefotaxime (14.29–70%). Like the poultry sector, different
+accepted academic practice. No use,             antibiotics are also used for treating clinical and subclinical bovine mastitis,
+distribution or reproduction is permitted       which is one of the major problems plaguing the dairy sector. Several AMR
+which does not comply with these terms.
+                                                bacterial strains, such as E. coli, Staphylococcus aureus, S. epidermidis, and
+                                                Klebsiella pneumoniae, have been reported by many researchers and showed
+                                                resistance against tetracycline (74%), oxytetracycline (47.37%), ciprofloxacin
+                                                (51%), streptomycin (57.89%), cephalosporin (100%), and trimethoprim (70%).
+                                                The KIIs have revealed several reasons behind these AMR scenarios, of which
+                                                the growing need for the production of food animals and their products with
+                                                inadequate infrastructure and a lack of proper knowledge on farm management
+                                                among the farmers are the major ones. Though several government legislations
+                                                and policies have been laid down, proper implementation of these policies,
+                                                strict surveillance on antibiotic application in the poultry and veterinary sectors,
+                                                awareness generation among farmers, and infrastructure development can help
+                                                minimize the development and transmission of AMR bacteria within and from
+                                                these sectors.
+
+                                                KEYWORDS
+
+                                                antimicrobial resistance, veterinary sector, antibiotics, bovine mastitis, India
+
+
+
+
+Frontiers in Veterinary Science                                       01                                                               frontiersin.org
+Chakraborty et al.                                                                                                           10.3389/fvets.2024.1411160
+
+
+
+
+1 Introduction                                                                  2.2 Study duration
+
+     AMR is a global public health concern and is far more complex                  The research was carried out from April 2021 to March 2022.
+to address due to its multifactorial nature. Though the containment
+measures were focused on the human health sector, off late, the
+environmental factors contributing to the development of AMR,                   2.3 Study population
+particularly in developing countries have been appreciated and the
+need for interventions in the context of One Health approach has                     The articles on incidents and magnitude of AMR in the poultry/
+been felt. The One Health approach toward mitigating AMR is also                dairy/piggery sector in India, the use of antimicrobials, critically
+important to understand its complete phenomenology. Irrational                  important antimicrobials in animal husbandry, and the implications
+antimicrobial uses in the human health sector, along with those in the          of those antimicrobials on the environment published during 2010–
+veterinary and agriculture sectors, contribute heavily to the                   2020 were included. KIIs were carried out with stakeholders of
+development of resistant organisms. The veterinary sector emerged               different strata in the animal husbandry sector.
+as an important area of intervention in terms of AMR containment
+due to the increased incidence of identification of antibiotic-resistant
+bacteria from different specimens of sick farm animals. Usually, in             2.4 Search string
+developing countries, sick farm animals are treated without
+consulting veterinarians and as a result, they are often misdiagnosed                (((((((((((antimicrobials) OR antibiotics) AND resistance) OR
+and wrongly treated. Another pressing issue is the application/                 livestock rearing) OR poultry farming) OR cattle farming) OR dairy
+feeding of antibiotics to farm animals in sub-therapeutic doses.                farming) OR swine farming) OR food animals) AND environment)
+Moreover, not only in episodes of sickness, farm animals are been fed           AND India).
+antibiotics as growth promoters to meet the needs of food animals in
+these highly populous countries. It is projected that by 2030 the
+global consumption of antibiotics in animal husbandry could                     2.5 Literature review
+be approximately 200,235 tons (1), and BRICS countries (Brazil,
+Russia, India, China, and South Africa) would experience a 99% rise                  A scoping review of the literature was conducted to map the
+in their usage during the same period (2). This shift from extensive            available research on AMR based on the developed criteria (Table 1),
+to intensive farming in this sector involves high usage of antibiotics.         followed by the development of a KII Guide for addressing the identified
+Even the identification of resistant bacteria from farm environments            gaps. The following electronic databases of published literature were
+has become common in LMICs. Frequent exposure to low dosages of                 searched for relevant studies: PubMed/Medline, Google Scholar, Scopus,
+antimicrobials results in favorable conditions for the emergence of             Embase, and Index Medicus, following strict inclusion and exclusion
+antimicrobial-resistant bacteria (ARB) in animals (2). Inappropriate            criteria. The synthesized literature was organized by using a PRISMA
+application dosages of antibiotics in food animals, non-adherence to            flow diagram (Figure 1). We considered 57 research articles in this study.
+prescription (3), over-the-counter (OTC) sale of antibiotics, and
+failure to identify drug withdrawal period in animal food (4) enhance           2.6 Interview with stakeholders
+the emergence, spread, and contamination of ARB in food animals,
+which can be disseminated to human either through contact with                       For conducting KIIs in the animal husbandry sector, stakeholders
+animals/food of animal origin directly or indirectly through AMR                were chosen based on their proficiency in their field and readiness to
+polluted environment (5).                                                       share information. A total of three KIIs (two veterinarians and one
+     Very recently a group of researchers conducted a strengths,                extension officer) were conducted with an interview guide, which
+weaknesses, opportunities, and threats (SWOT) Analysis on existing              contained open questions with probes in the following segments:
+policies/guidelines/regulations/legislation in India (6) related to AMR         existing scenario of antibiotic application on farm animals; factors
+containment in India and identified several opportunities in all the            influencing AMR; ways to contain AMR in animal farming in India;
+contributing sectors In this communication, we attempted to examine             and best practices in India to substitute antimicrobial application on
+extensive empirical pieces of evidence from different parts of India to         animal farming. Each interview was audio-recorded and transcribed
+summarize knowledge on the magnitude and pattern of resistance of               into text data in the local language first, then back-translated to
+AMR bacteria in the livestock sector. In addition, we tried to find out         English by the separate investigator. Afterward, all transcriptions were
+better ways to cultivate animal food while minimizing the adverse               organized systematically and coded based on the predetermined gaps
+impact on human health due to antibiotic-resistant pathogens through            of the scoping review. The distinct codes were then assembled by
+KII. We also tried to reflect on the problem of antibiotic use in animal        removing redundancy to develop the key themes.
+farming as a contributor to the Global Problem of AMR from the
+perspective of One Health.
+                                                                                3 Results
+2 Methodology of the study                                                      3.1 Antimicrobial resistance in poultry in
+                                                                                India
+2.1 Study design
+                                                                                   Among the available original research, most of them are
+    We conducted a sequentially explanatory mixed-method study.                 concerned about bacteria collected from the samples of poultry
+
+Frontiers in Veterinary Science                                            02                                                              frontiersin.org
+Chakraborty et al.                                                                                                                 10.3389/fvets.2024.1411160
+
+
+
+
+TABLE 1 Modified PICO inclusion and exclusion criteria.
+                                                                                      sulfamethoxazole-trimethoprim (Figure 3). Several genes have also
+ Criteria              Inclusion                     Exclusion                        been reported which are responsible for developing resistance among
+                                                                                      the bacterial strains. In Salmonella sp. tetA and tetB, blaTEM and
+ Population            • Farm animals
+                                                                                      CTX-M genes were reported to develop resistance against tetracycline,
+                       • Incidence of AMR            Not applicable
+                                                                                      broad-spectrum β-lactamases, and β-lactamases with extended-
+                         in animals
+                                                                                      spectrum, respectively (9). Similarly, for E. coli isolates some β-lactam
+ Outcomes              • AMR in poultry                                               genes such as blaTEM, blaCTX-M, and blaOXA were reported which
+                       • AMR in dairy and            Not applicable                   showed resistance against a wide range of commonly used antibiotics
+                         pig farming                                                  such as nalidixic acid, trimethoprim, tetracycline, colistin, and
+ Literature types      • Indication of Antibiotic/                                    ciprofloxacin, including β-lactam antimicrobials such as amoxicillin
+                         antimicrobial or AMR                                         and ampicillin (10).
+                         should be in place
+
+                       • Articles reported the       Articles that reported
+                                                                                      3.2 Antimicrobial resistance (AMR) in dairy
+                         occurrence of antibiotic    AMR in humans, animals,
+                                                                                      and piggery in India
+                         resistance among            and the environment but
+                         clinical pathogenic         that did not report any
+                                                                                           Figure 4 shows the distribution of the total number of collected
+                         bacteria isolated from      prevalence data will not
+                                                                                      original studies on AMR published in the dairy and piggery sectors in
+                         food animals                be included.
+                                                                                      India. Mastitis has been the primary focus of most of the research on
+                       • Articles reported the                                        AMR in the dairy industry because of evidence of bacterial-resistant
+                         results of the in-vitro                                      strains of mastitis in cow milk.
+                         study on antimicrobial                                            Escherichia coli resistance was reported by Thaker et al. (11) to
+                         sensitivity patterns and                                     ampicillin, streptomycin, and oxytetracycline (100, 57.89, and 47.37%,
+                         the novel discovery of                                       respectively) in cow milk. The presence of antimicrobial-resistant
+                         antimicrobial-                                               genes (ARGs) in bovine mastitis pathogens was the prime cause of
+                         resistant genes.                                             such resistance. Bandyopadhyay et al. (12) in a West Bengal-based
+                       • Studies conducted           Studies conducted outside        study explained intra-mammary infection of methicillin-resistant
+                         in India                    of India                         Staphylococcus epidermidis, Staphylococcus aureus, and ESBL-
+                       • Research articles on the    Studies conducted outside        producing Escherichia coli in two Holstein Friesian (crossbred cows)
+                         development of              of India                         with subclinical mastitis. West Bengal and Mizoram generated
+                         substitutes for                                              Klebsiella pneumonia in the milk of healthy cows having clinical and
+                         antimicrobials in India                                      subclinical mastitis that are completely resistant to third-generation
+                                                                                      cephalosporin, 70% to sulpha/trimethoprim combination, 74% to
+                       • Original and review         Correspondence, letter to
+                                                                                      tetracycline, and 51% to ciprofloxacin and piperacillin. In a study from
+                         articles published in       the editors, unpublished
+                                                                                      West Bengal, S. aureus isolated from raw milk samples was found
+                         peer-reviewed journals,     documents
+                                                                                      resistant to vancomycin (VRSA) (13). Besides slaughterhouse samples
+                         brief reports, short
+                                                                                      from Kerala, Mizoram, and West Bengal also reported increased
+                         communications, mini-
+                                                                                      resistant S. aureus. Several genes cause bovine mastitis, including
+                         reports, published thesis
+                                                                                      β-lactamase genes (blaCTX-M, blaTEM, and blaSHV), plasmid-
+ Study period          Publications from the year    Studies published before
+                                                                                      mediated quinolone resistance gene s (qnrS and qnrB), and
+                       2010 to 2020                  2010
+                                                                                      sulfonamide resistance gene (sul1) (14).
+
+
+
+birds including meat, eggs, cloacal swabs, and fecal samples, and                     3.3 Use of critically important
+few of them reported the presence of resistant bacteria in the                        antimicrobials in animal husbandry in India
+drinking water of the farm. The spatial distribution of the study                     and their environmental implication
+shows the evidence generated from almost all regions of India
+(Figure 2).                                                                               Critically important antimicrobials are those that are very
+     Reported studies identified Salmonella sp. from various chicken                  frequently used for the treatment of both human and animal
+organs in Kerala which was completely resistant to the antibiotic                     diseases, resulting in the emergence of ARGs, which eventually lose
+erythromycin. Singh et al. (15) discovered the prevalence of a resistant              their effectiveness in treating people (16). The Critically Important
+strain of Salmonella typhimurium with 100% resistance to clindamycin,                 Antimicrobials used for animal and human health issued by World
+oxacillin, penicillin, and vancomycin in the cloacal swab, feed, water,               Organisation for Animal Health (WOAH) and WHO (World Health
+eggs, and feces of chickens in Bareilly, Uttar Pradesh. Studies carried               Organization), has overlap of 47 antimicrobials. Many of the
+out in states such as Tamil Nadu (7) and Kolkata (8) generated                        resistant bacteria predominant in animal reservoirs contaminate the
+increased evidence of bacteria from poultry samples demonstrating                     environment through different pathways, can spread to humans, and
+high resistance to broad-spectrum antibiotics such as tetracycline,                   pose a major threat to human health. The Centre for Science and
+nalidixic acid, ciprofloxacin, levofloxacin, ofloxacin, and                           Environment, Delhi, has made a list of critically important
+
+
+Frontiers in Veterinary Science                                                  03                                                             frontiersin.org
+Chakraborty et al.                                                                                                           10.3389/fvets.2024.1411160
+
+
+
+
+    FIGURE 1
+    PRISMA displaying the number of papers searched, excluded, and included in the current study.
+
+
+
+
+antimicrobials as well, administrated in animal husbandry in                     veterinarians for treating animal diseases, testing opportunities for
+India (17).                                                                      antibiotic residue in animal food, provision by government in the
+                                                                                 development of knowledge on environmental AMR, inaccessibility of
+                                                                                 farmers to animal healthcare setup, and absence of west management
+3.4 Research conducted in India for                                              in animal farms to mitigate problem such as AMR. According to the
+developing alternatives to antibiotics                                           interviewees, some scopes could be created to tackle the spreading of
+application on food-producing animals                                            AMR such as encouraging veterinaries to prescribe antibiotics
+                                                                                 rationally, developing a stringent disease surveillance protocol
+     Various research institutes have attempted to develop antibiotic            exclusively on AMR as well as the application of antibiotics in the
+alternatives for producing animal food. Some salient findings of such            veterinary sector, and awareness generation among farmers on the
+research are summarized in Table 2.                                              optimization of antibiotic administration in farm and making a
+                                                                                 desirable change in behavior among stakeholders toward antibiotics.
+                                                                                 To minimize the impact of AMR on the human body, some suitable
+3.5 Key informant interview (KII)                                                alternatives were also suggested by the stakes such as checking of OTC
+                                                                                 sale of antibiotics, management of farm waste following the Central
+    Lack of awareness of AMR among farmers, factors influencing the              Pollution Control Board (CPCB), proper vaccination of animals, and
+application of antibiotics in animal farms, and the absence of                   utilization of cost-effective natural immunity boosters (Figure 5).
+infrastructural support in current governance to deal with AMR
+emerged to be the major themes. These contributed immensely to the
+emergence and transmission of AMR bacteria in animals. Apart from                4 Discussion
+having very limited awareness of the withdrawal period of antibiotics
+and application of them in appropriate doses farmers hardly had                      The findings of the present study indicated the current scenario of
+knowledge of farm management such as disposal of dead animals and                AMR in the veterinary sector in India. A wide range of commonly
+farm waste and controlling of files. Inappropriately adopting                    used antibiotics such as tetracycline, erythromycin, gentamicin,
+preventive measures, restricting secondary bacterial diseases during             chloramphenicol,      ciprofloxacin,     cotrimoxazole,      amikacin,
+viral outbreaks, visiting uncertified doctors to treat aliments of farm          trimethoprim, ceftriaxone, and cefotaxime is rampantly used by the
+animals, preventing diseases caused by rodents, and excessive price of           farmers in the veterinary sector. The use of antibiotic-based growth
+probiotics and prebiotics were identified as contributory factors. The           promoters in animal feed in India is a very common practice but often
+stakeholders also pointed out the prerequisite of government                     the farmers remain unaware of the presence of antimicrobials in the
+infrastructural support including the need for guidelines to                     purchased feeds. Lack of proper knowledge of the farmers on
+
+
+Frontiers in Veterinary Science                                             04                                                            frontiersin.org
+Chakraborty et al.                                                                                                           10.3389/fvets.2024.1411160
+
+
+
+
+    FIGURE 2
+    Spatial distribution of the number of studies on AMR from the poultry sector in India, 2010–2020.
+
+
+
+
+antimicrobial usage is often misused by the agents and sales personnel            such as the Bureau of Indian Standards (BIS) and the Food Standards
+of the different antimicrobial manufacturing companies promoting                  and Safety Authority of India (FSSAI) for the reinforcement of the
+the use of antimicrobials both for prophylactic and therapeutic                   existing policies in controlling the unwise application of antibiotics
+purposes (21). The scenario is becoming even more alarming as the                 and their residues in food animals. The practice of animal farming
+critically important antimicrobials for human medicines are also                  with less dependency on antimicrobials and shifting toward the use of
+being used for treating animal infections. This is the arena where                India’s ethno-veterinary and traditional medicines can improve the
+AMR surveillance in the animal sector needs to be integrated with                 present scenario in the long run (25, 26) if it becomes successful and
+human health and antibiotic guidelines in both sectors may be made                economically viable, it can reduce the reliance on antimicrobials.
+in harmony so there should not be any overlap in the use of critically            Likewise, the ongoing research on developing herbal growth
+important antibiotics across sectors. Despite having several guidelines           promoters in poultry can also be a future breakthrough. Investment
+and regulations on the usage of antimicrobials in animal farming in               may be made toward innovation of cost-effective alternatives to
+India, compliance with the same is a serious problem (5, 22–24).                  growth promoters and incentivization through subsidies may
+However, a synergy needs to be developed between different agencies               be recommended for costly alternatives at present. These initiatives
+
+
+Frontiers in Veterinary Science                                              05                                                           frontiersin.org
+Chakraborty et al.                                                                                                               10.3389/fvets.2024.1411160
+
+
+
+
+    FIGURE 3
+    Profile of resistant bacteria from the poultry sector, India, 2010–2020. Amr instances reported from — (A) Haryana (B) West Bengal (C) West Bengal
+    (D) Punjab (E) Maharashtra (F) Maharashtra (G) Karnataka (H) Uttrakhand and Uttar Pradesh (I) Mizoram (J) Tamil Nadu.
+
+
+
+
+will not only help to rationalize antibiotic use in animal farming but            Moreover, disposing of dead animals, farm manures, and litter
+also reduce the selection pressure of antibiotics in the One Health               unwisely also results in the transmission of AMR bacteria into the
+Ecosystem Compendium.                                                             environment. Therefore, it is imperative to address this issue from the
+     Through KII several lacunae have been identified at the grass-root           base level by generating awareness among the farmers about
+level. Farmers are randomly using antimicrobials in animal farming                biosecurity practices such as restricted movements in the farms,
+without proper knowledge, training, or even consulting veterinarians.             quarantine and isolation of diseased or sick animals, fencing, cleaning
+
+Frontiers in Veterinary Science                                              06                                                                frontiersin.org
+Chakraborty et al.                                                                                                                               10.3389/fvets.2024.1411160
+
+
+
+
+    FIGURE 4
+    Distribution of the number of studies on AMR from the dairy sector in India, 2010–2020.
+
+
+
+
+TABLE 2 Studies reported some substitutes to the usage of antibiotics as growth promoters.
+
+Author                  Research Institute                                              Key findings
+Debnath et al. (18)     (i) College of Veterinary Science and Animal Husbandry, R.K.    Assessed the effectiveness of herbal growth promoter’s product manufactured by M/s
+                        Nagar, Tripura                                                  Ayurvet Ltd. in Baddi, India to antibiotic growth promoters in the. The product is
+                        (ii) R& D team, Ayurvet Ltd., Baddi, Himachal Pradesh           made up of several herbal oils, including Eruca sativa (arugula), Trigonella foenum
+                                                                                        graecum (methi), Zingiber officinale (zinger), and Allium sativum (garlic). The efficacy
+                                                                                        of the product was assessed on 120-day-old chicks. It was observed that the chicks fed
+                                                                                        at the rate of 500 g/ton basal feed of herbal growth promoter presented much more
+                                                                                        growth than the control group fed with antibiotic growth promoter (Vetclin 112).
+
+Patel et al. (19)       Sardarkrushinagar Dantiwada Agricultural University,            Studied the usefulness of the powder of Emblica officinalis (amla) fruit as a growth
+                        Banaskantha, Gujarat                                            agent in commercial broiler chickens. It was documented that the chickens fed with
+                                                                                        amla powder significantly increased average body weight in 6 weeks. The fruit powder
+                                                                                        can be used cost-effectively for this purpose.
+
+Jayaraman et al. (20)   (i) Kemin Industries South Asia Private Limited, India          Compared the growth-promoting efficacy of Bacillus subtilis PB6 in broiler chickens
+                        (ii) West Bengal University of Animal and Fishery Sciences      with that of antibiotic growth promoters.
+
+
+
+Frontiers in Veterinary Science                                                        07                                                                        frontiersin.org
+Chakraborty et al.                                                                                                               10.3389/fvets.2024.1411160
+
+
+
+
+    FIGURE 5
+    Major areas of intervention in the veterinary sector for the containment of AMR in India.
+
+
+
+
+and disinfection protocols, and diagnostic facilities (27). Animal                  RC: Writing – review & editing, Methodology, Investigation, Data
+health and AMR need to be perceived and recognized not in isolation                 curation. AM: Writing – review & editing, Project administration,
+but in the holistic and inclusive approach and as a part of global One              Methodology, Investigation, Conceptualization. AD: Writing – review &
+Health initiative. The One Health approach is fully integrated into                 editing, Supervision, Methodology, Formal analysis, Conceptualization.
+global efforts to address the problem of AMR. There are obstacles that              RB: Writing – review & editing, Supervision, Project administration,
+need to be overcome including competing interests of multiple players               Methodology, Funding acquisition, Conceptualization. SD: Writing –
+and economic sectors including leading organizations and institutes                 review & editing, Supervision, Methodology, Investigation, Funding
+working in animal, human, and environmental health. These actors                    acquisition, Conceptualization.
+should converge on key priorities and take calls for integrated action,
+find means to monitor AMR and control infections in multiple
+sectors, and develop cross-cutting and shared policies to govern the                Funding
+rational use of antimicrobials across all sectors.
+                                                                                        The author(s) declare that financial support was received for the
+                                                                                    research, authorship, and/or publication of this article. This study
+Data availability statement                                                         received funding from UNEP.
+
+    The raw data supporting the conclusions of this article will
+be made available by the authors, without undue reservation.                        Conflict of interest
+                                                                                        The authors declare that the research was conducted in the
+Author contributions                                                                absence of any commercial or financial relationships that could
+                                                                                    be construed as a potential conflict of interest.
+    DC: Writing – review & editing, Writing – original draft,
+Visualization, Validation, Supervision, Software, Resources, Project
+administration, Methodology, Investigation, Funding acquisition,                    Publisher’s note
+Formal analysis, Data curation, Conceptualization. FD: Writing – review
+& editing, Supervision, Methodology, Investigation, Formal analysis,                    All claims expressed in this article are solely those of the authors
+Data curation, Conceptualization. SG: Writing – review & editing,                   and do not necessarily represent those of their affiliated organizations,
+Methodology, Investigation, Formal analysis, Data curation. SS: Writing             or those of the publisher, the editors and the reviewers. Any product
+– review & editing, Methodology, Investigation, Data curation. SP:                  that may be evaluated in this article, or claim that may be made by its
+Writing – review & editing, Methodology, Investigation, Data curation.              manufacturer, is not guaranteed or endorsed by the publisher.
+
+Frontiers in Veterinary Science                                                08                                                             frontiersin.org
+Chakraborty et al.                                                                                                                                         10.3389/fvets.2024.1411160
+
+
+
+
+References
+  1. Van Boeckel TP, Glennon EE, Chen D, Gilbert M, Robinson TP, Grenfell BT, et al.                18. Debnath BC, Choudhary KBD, Ravikanth K, Thakur A, Maini S, Nagar RK.
+Reducing antimicrobial use in food animals. Science. (2017) 357:1350–2. doi: 10.1126/             Comparative efficacy of natural growth promoter (av/agp/10) with antibiotic growth
+science.aao1495                                                                                   promoter on overall growth performance and intestinal morphometry in broiler birds.
+                                                                                                  Int J Pharm Sci Heal Care. (2014) 2:155–68.
+  2. Van Boeckel TP, Brower C, Gilbert M, Grenfell BT, Levin SA, Robinson TP, et al.
+Global trends in antimicrobial use in food animals. Proc Natl Acad Sci USA. (2015)                  19. Patel AP, Bhagwat SR, Pawar MM, Prajapati KB, Chauhan HD, Makwana RB.
+112:5649–54. doi: 10.1073/pnas.1503141112                                                         Evaluation of Emblica officinalis fruit powder as a growth promoter in commercial
+                                                                                                  broiler chickens. Vet World. (2016) 9:207–10. doi: 10.14202/vetworld.2016.207-210
+  3. Chauhan AS, George MS, Chatterjee P, Lindahl J, Grace D, Kakkar M. The social
+biography of antibiotic use in smallholder dairy farms in India. Antimicrob Resist Infect           20. Jayaraman S, Das PP, Saini PC, Roy B, Chatterjee PN. Use of Bacillus Subtilis PB6
+Control. (2018) 7:1–13. doi: 10.1186/s13756-018-0354-9                                            as a potential antibiotic growth promoter replacement in improving performance of
+                                                                                                  broiler birds. Poult Sci. (2017) 96:2614–22. doi: 10.3382/ps/pex079
+  4. Sharma C, Rokana N, Chandra M, Singh B, Gulhane R, Gill J, et al. Antimicrobial
+resistance: its surveillance, impact, and alternative management strategies in dairy                 21. Parkunan T, Ashutosh M, Sukumar B, Chera JS, Ramadas S, Chandrasekhar B,
+animals. Front Vet Sci. (2018) 4:237. doi: 10.3389/fvets.2017.00237                               et al. Antibiotic resistance: a cross-sectional study on knowledge, attitude, and practices
+                                                                                                  among veterinarians of Haryana state in India. Vet World. (2019) 12:258–65. doi:
+  5. Muloi D, Ward MJ, Pedersen AB, Fevre EM, Woolhouse ME, van Bunnik BA. Are                    10.14202/vetworld.2019.258-265
+food animals responsible for transfer of antimicrobial-resistant Escherichia coli or their
+resistance determinants to human populations? A systematic review. Foodborne Pathog                 22. CDDEP (2016). A use and resistance in food animals. Current policy and
+Dis. (2018) 15:467–74. doi: 10.1089/fpd.2017.2411                                                 recommendations. Center for Disease Dynamics, economics and policy, Washington, DC,
+                                                                                                  USA. Available online at: https://www.cddep.org/wp-content/uploads/2017/06/india_abx_
+  6. Debnath F, Chakraborty D, Giri S, Saha S, Pyne S, Chakraverty R, et al. Existing             report-2.pdf (Accessed September 24, 2021).
+policies/guidelines on the environmental dimension of antimicrobial resistance in India:
+an insight into the key facets through review and SWOT analysis. Trop Med Infect Dis.               23. Garg A, Mohanta R. (2012). Antibiotic use in animal husbandry sector: What has to
+(2022) 7:336. doi: 10.3390/tropicalmed7110336                                                     be done? Agriculture today. Available online at: https://www.researchgate.net/
+                                                                                                  publication/275019219_ANTIBIOTICS_USE_IN_ANIMAL_HUSBANDRY_SECTOR_
+  7. Balasubramaniam A, Arthanari Eswaran M, Suresh P, Sukumar K. Detection of                    WHAT_HAS_TO_BE_DONE (Accessed September 18, 2021).
+tetracycline resistance determinant tetA gene and antimicrobial resistance pattern in
+Escherichia coli isolates recovered from healthy layer chickens. Vet World. (2014)                 24. Singh P. One health approach to tackle antimicrobial resistance in South East Asia.
+7:635–8. doi: 10.14202/vetworld.2014.635-638                                                      BMJ. (2017) 358:j3625. doi: 10.1136/bmj.j3625
+
+  8. Kabir SL, Asakura M, Shiramaru S, Pal A, Hinenoya A, Yamasaki S. Molecular                     25. Balaji S, Chakravarthi P. Ethnoveterinary practices in India – a review. Vet World.
+identification and antimicrobial resistance profiles of Campylobacter strains of poultry          (2010) 3:549–51. doi: 10.5455/vetworld.2010.549-551
+origin in India with special emphasis on fluoroquinolone resistance. Asian J Med Biol               26. Phondani P, Maikhuri R, Kala C. Ethnoveterinary uses of medicinal plants among
+Res. (2015) 1:1–8.                                                                                traditional herbal healers in Alaknanda catchment of Uttarakhand, India. Afr J Trad
+                                                                                                  CAM. (2010) 7:195–206. doi: 10.4314/ajtcam.v7i3.54775
+  9. Waghamare RN, Paturkar AM, Vaidya VM, Zende RJ, Dubal ZN, Dwivedi A, et al.
+Phenotypic and genotypic drug resistance profile of Salmonella serovars isolated from               27. Dhaka P, Chantziaras I, Vijay D, Bedi JS, Makovska I, Biebaut E, et al. Can
+poultry farm and processing units located in and around Mumbai city, India. Vet World.            improved farm biosecurity reduce the need for antimicrobials in food animals? A
+(2018) 11:1682–8. doi: 10.14202/vetworld.2018.1682-1688                                           scoping review. Antibiotics. (2023) 12:893. doi: 10.3390/antibiotics12050893
+  10. Bhave S, Kolhe R, Mahadevaswamy R, Bhong C, Jadhav S, Nalband S, et al.                       28. Arora D, Kumar S, Singh D, Jindal N, Mahajan NK. Isolation, characterization and
+Phylogrouping and antimicrobial resistance analysis of extraintestinal pathogenic                 antibiogram pattern of Salmonella from poultry in parts of Haryana, India. Adv Anim
+Escherichia coli isolated from poultry species. Turk J Vet Anim Sci. (2019) 43:117–26.            Vet Sci. (2013) 1:161–3.
+doi: 10.3906/vet-1808-47                                                                            29. Bangera SR, Umakanth S, Chowdhury G, Saha RN, Mukhopadhyay AK, Ballal M.
+  11. Thaker HC, Brahmbhatt MN, Nayak JB. Study on occurrence and antibiogram                     Poultry: a receptacle for non-typhoidal salmonellae and antimicrobial resistance. Iranian
+pattern of Escherichia coli from raw milk samples in Anand, Gujarat, India. Vet World.            J Microbiol. (2019) 11:31–8. doi: 10.18502/ijm.v11i1.702
+(2012) 5:556. doi: 10.5455/vetworld.2012.556-559                                                    30. Brower CH, Mandal S, Hayer S, Sran M, Zehra A, Patel SJ, et al. The prevalence of
+                                                                                                  extended-Spectrum Beta-lactamase-producing multidrug-resistant Escherichia Coli in
+  12. Bandyopadhyay S, Samanta I, Bhattacharyya D, Nanda PK, Kar D, Chowdhury J,                  poultry chickens and variation according to farming practices in Punjab, India. Environ
+et al. Co-infection of methicillin-resistant Staphylococcus epidermidis, methicillin-             Health Perspect. (2017) 125:077015. doi: 10.1289/EHP292
+resistant Staphylococcus aureus and extended-spectrum β-lactamase producing
+Escherichia coli in bovine mastitis–three cases reported from India. Vet Q. (2015)                  31. Chakraborty S, Roychoudhury P, Samanta I, Subudhi PK, Das M, De A, et al.
+35:56–61. doi: 10.1080/01652176.2014.984365                                                       Molecular detection of biofilm, virulence and antimicrobial resistance associated genes
+                                                                                                  of Salmonella serovars isolated from pig and chicken of Mizoram, India. Indian J Anim
+   13. Bhattacharyya D, Banerjee J, Bandyopadhyay S, Mondal B, Nanda PK, Samanta I,               Res. (2020) 54. doi: 10.18805/ijar.B-3817
+et al. First report on vancomycin-resistant Staphylococcus aureus in bovine and caprine
+milk. Microb Drug Resist. (2016) 22:675–81. doi: 10.1089/mdr.2015.0330                              32. Rajagopal R, Mini M. Outbreaks of salmonellosis in three different poultry farms of
+                                                                                                  Kerala, India. Asian Pac J Trop Biomed. (2013) 3:496–500. doi: 10.1016/S2221-1691(13)60103-3
+  14. Koovapra S, Bandyopadhyay S, Das G, Bhattacharyya D, Banerjee J, Mahanti A,
+                                                                                                    33. Samanta I, Joardar SN, Das PK, Sar TK, Bandyopadhyay S, Dutta TK, et al.
+et al. Molecular signature of extended spectrum β-lactamase producing Klebsiella
+                                                                                                  Prevalence and antibiotic resistance profiles of Salmonella serotypes isolated from
+pneumoniae isolated from bovine milk in eastern and North-Eastern India. Infect Genet
+                                                                                                  backyard poultry flocks in West Bengal, India. J Appl Poult Res. (2014) 23:536–45. doi:
+Evol. (2016) 44:395–402. doi: 10.1016/j.meegid.2016.07.032
+                                                                                                  10.3382/japr.2013-00929
+  15. Singh R, Yadav AS, Tripathi V, and Singh RP. Antimicrobial resistance profile of              34. Senthamilselvan B. Antimicrobial resistance profile of bacterial isolates from fecal
+Salmonella present in poultry and poultry environment in north India. Food Control.               and cloacalswab samples collected from broiler chickens in Chennai, southern India.
+(2013) 33:545–548.                                                                                Ann Romanian Soc Cell Biol. (2020):892–8.
+  16. Nobrega DB, Tang KL, Caffrey NP, De Buck J, Cork SC, Ronksley PE, et al.                      35. Sharma J, Kumar D, Hussain S, Pathak A, Shukla M, Kumar VP, et al. Prevalence,
+Prevalence of antimicrobial resistance genes and its association with restricted                  antimicrobial resistance and virulence genes characterization of nontyphoidal
+antimicrobial use in food-producing animals: a systematic review and meta-analysis.               Salmonella isolated from retail chicken meat shops in northern India. Food Control.
+J Antimicrob Chemother. (2021) 76:561–75. doi: 10.1093/jac/dkaa443                                (2019) 102:104–11. doi: 10.1016/j.foodcont.2019.01.021
+  17. Khurana A., Sinha R., Bhati D. (2021). Conserving the use of critically important             36. Sudhanthirakodi S. Non-typhoidal Salmonella isolates from livestock and food
+antimicrobials in food-producing animals: Gaps and possibilities in global guidance and           samples, in and around Kolkata, India. J Microbiol Infect Dis. (2016) 6:113–20. doi:
+Indian policy framework. Centre for Science and Environment, New Delhi.                           10.5799/jmid.vi.328974
+
+
+
+
+Frontiers in Veterinary Science                                                              09                                                                             frontiersin.org
+

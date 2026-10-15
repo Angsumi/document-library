@@ -1,0 +1,576 @@
+Auffret et al. Microbiome (2017) 5:159
+DOI 10.1186/s40168-017-0378-z
+
+
+
+
+ RESEARCH                                                                                                                                           Open Access
+
+The rumen microbiome as a reservoir of
+antimicrobial resistance and pathogenicity
+genes is directly affected by diet in beef
+cattle
+Marc D. Auffret1*, Richard J. Dewhurst1, Carol-Anne Duthie1, John A. Rooke1, R. John Wallace2, Tom C. Freeman3,
+Robert Stewart4, Mick Watson3,4 and Rainer Roehe1
+
+
+  Abstract
+  Background: The emergence and spread of antimicrobial resistance is the most urgent current threat to human and
+  animal health. An improved understanding of the abundance of antimicrobial resistance genes and genes associated
+  with microbial colonisation and pathogenicity in the animal gut will have a major role in reducing the contribution of
+  animal production to this problem. Here, the influence of diet on the ruminal resistome and abundance of pathogenicity
+  genes was assessed in ruminal digesta samples taken from 50 antibiotic-free beef cattle, comprising four cattle breeds
+  receiving two diets containing different proportions of concentrate.
+  Results: Two hundred and four genes associated with antimicrobial resistance (AMR), colonisation, communication or
+  pathogenicity functions were identified from 4966 metagenomic genes using KEGG identification. Both the diversity and
+  abundance of these genes were higher in concentrate-fed animals. Chloramphenicol and microcin resistance genes were
+  dominant in samples from forage-fed animals (P < 0.001), while aminoglycoside and streptomycin resistances were
+  enriched in concentrate-fed animals. The concentrate-based diet also increased the relative abundance of Proteobacteria,
+  which includes many animal and zoonotic pathogens. A high ratio of Proteobacteria to (Firmicutes + Bacteroidetes) was
+  confirmed as a good indicator for rumen dysbiosis, with eight cases all from concentrate-fed animals. Finally, network
+  analysis demonstrated that the resistance/pathogenicity genes are potentially useful as biomarkers for health risk
+  assessment of the ruminal microbiome.
+  Conclusions: Diet has important effects on the complement of AMR genes in the rumen microbial community, with
+  potential implications for human and animal health.
+  Keywords: Rumen microbiome, AMR, Diets, Metagenomics, Proteobacteria ratio
+
+
+Background                                                                               non-ruminants. Thus, ruminant products provide high-
+Two significant challenges face mankind in the near future.                              quality nutrients from materials that do not compete with
+The first is to feed a human population that may soon                                    human-edible food. However, the ruminant digestive tract
+exceed nine billion people [1]; the second is to deal with                               contains AMR genes that may be a reservoir from which
+increasing medical and veterinary problems arising from                                  AMR develops and spreads [2–4]. The use of antimicrobial
+the emergence of antimicrobial-resistant (AMR) patho-                                    feed additives increases the abundance of AMR genes in
+genic bacteria [2]. Ruminant livestock production is highly                              the gut and faeces [4, 5], particularly in beef cattle [3, 6].
+relevant to both issues. Ruminants consume feedstuffs,                                   Indeed, more antimicrobials are used in livestock produc-
+including forages and by-products that cannot be used by                                 tion than in human therapeutics [7]. AMR genes in the ru-
+                                                                                         minant gut are not entirely due to antimicrobial use, but
+* Correspondence: Marc.Auffret@sruc.ac.uk                                                appear also in non-medicated animals [8, 9]. Given the
+1
+ SRUC, Edinburgh EH25 9RG, UK                                                            overarching importance of diet in determining the
+Full list of author information is available at the end of the article
+
+                                           © The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+                                           International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+                                           reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+                                           the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+                                           (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Auffret et al. Microbiome (2017) 5:159                                                                              Page 2 of 11
+
+
+
+
+composition of the ruminal microbiome [10, 11], we con-           showing significant differences were identified. We
+sidered that the absence of knowledge about the influence         hypothesised that the microbiome of cattle offered a
+of diet on the ruminal “resistome” (the collection of all         concentrate-based diet will favour stress associated with
+identified antibiotic resistance genes) was a deficiency in       acidotic challenge and therefore enriched in microbial
+understanding how AMR develops and spreads in live-               genes related to the resistome or pathogenicity activities,
+stock. A diet change (e.g. forage to concentrate) could gen-      when compared to the cattle offered the forage-based diet.
+erate a stress for the rumen microbiome community [12]            Rumen samples with higher Proteobacteria content,
+as similarly found in humans by Brown et al. [13]. Thus,          reaching a dysbiosis state, were of particular interest for
+we analysed metagenomics data from beef cattle which              understanding its association with diet treatments and
+had previously been used to explore links between the host        how this can be explained by enrichment of the targeted
+animal, its microbiome/metagenome and methane emis-               genes. We also tried to identify a possible link between
+sions and feed efficiency.                                        these genes and the control that the host has on its micro-
+   Dietary changes could also potentially initiate a “bloom”      biome. This could be an important step towards identify-
+of specific microbial populations, mostly Proteobacteria          ing novel biomarkers of possible host-microbiome
+[14], or enhance the abundance of stress-response genes           interactions involving beneficial and detrimental effects
+within the microbial community [15]. This unbalanced              on the health of the host and related to diet change.
+microbial community, also known as “dysbiosis”, is gener-
+ally observed after diet changes and alterations in ruminal       Methods
+volatile fatty acid (VFA) composition also potentially            Animals, experimental design and diets
+associated with a lower ruminal pH, antibiotic treatment,         In our previous study [26, 28], data on feed efficiency and
+presence of heavy metals or toxic substances or infection         methane emissions (measured using respiration chambers)
+with pathogenic bacteria [13, 16]. For example, a low acet-       were obtained from a 2 × 2 factorial design experiment of
+ate to propionate (A:P < 2.2) ratio is associated with a lower    breed types and diets using 72 steers from a two-breed ro-
+ruminal pH in animals offered a high-concentrate diet [17].       tational cross between Aberdeen Angus (AA) and Limou-
+All of these factors can have negative effects on the overall     sin (LIM) and completed in 2011. Similar experiments
+health and production performance of cattle [18, 19].             were repeated using purebred Luing (LU) and crossbred
+Proteobacteria is one of the four main phyla in the rumen         Charolais (CH) steers in 2013 and Aberdeen Angus (AA)
+microbiome together with Firmicutes, Bacteroidetes and            and Limousin (LIM) rotational crossbred steers in 2014.
+Actinobacteria. This phylum is composed of many patho-            Prior to start of the experiment, all animals received the
+genic bacteria such as Escherichia coli, and the abundance        same diet type (forage-based diet) and thereafter were
+of some of these opportunistic pathogens is sensitive to          adapted to the experimental diets over 5 weeks. During
+dietary change [20]. Diet has been shown to have a domin-         the same period, they were also acclimatised to the group-
+ant effect on the shedding of the zoonotic pathogen, E. coli      housed environment and the electronic feeders (HOKO,
+O157, from beef cattle [21]. Thus, the combined effects of        Insentec, Marknesse, The Netherlands). Due to EU legisla-
+pathogen abundance and the abundance and diversity of             tion, the application of antibiotics is prohibited for enhan-
+AMR genes have fundamental implications for human                 cing growth. In exceptional cases, animals were treated
+health.                                                           with antibiotics and then excluded from the trial. Finally,
+   Finally, microbial mechanisms including quorum sens-           there was no change in diets of the animals and was no
+ing and fucose sensing [22, 23] are recognised as inter-          fasting period before the animals went to slaughter.
+kingdom signalling pathways [24] and help to regulate                The data in this study were samples from those experi-
+bacterial colonisation and virulence within the host [25].        ments whereby animals with extreme high and low me-
+   Our study design allowed us to test the impact of diet         thane emissions (2011) or feed conversion efficiency (2013
+(“concentrate” versus “forage”) and host influence (e.g. breed,   and 2014) were selected for whole genome sequencing.
+age or weight) on the ruminal microbiota and functional           The breed type of the sampled progenies were balanced
+genes associated with the microbiome [26]. Metagenomics           within experiment comprising of 4 AA and LIM in 2011, 9
+was already confirmed as a good strategy to identify links be-    LU and CH in 2013 and 12 AA and LIM in 2014. The ani-
+tween the rumen microbiome and host response [20, 27].            mals were offered two complete diets ad libitum contain-
+   Therefore, the overall aim of our work was to improve          ing (g/kg DM) approximately 500 forage to 500
+knowledge on the diversity and importance of resistance-          concentrate or 80 forage to 920 concentrate subsequently
+and pathogenicity-related genes as well as microbiome-            referred to as forage and concentrate diets, respectively
+host interaction genes in the rumen microbial community           (Additional file 1: Table S1). Full details of diets are given
+affected by diet treatments and over three independent tri-       in Rooke et al. [11] and Duthie et al. [29, 30]. Animals
+als. The factors influencing the composition of these genes       from the 2014 experiment were only offered the forage diet
+in the rumen microbiome were evaluated, and the genes             (see Additional file 1: Table S1), and this experiment was
+Auffret et al. Microbiome (2017) 5:159                                                                            Page 3 of 11
+
+
+
+
+included in our analysis to increase observations for the for-   normalising the relative abundance of each AMR genes
+age diet, which is more heterogeneous in composition than        per sample. The length and coverage values for AMR
+the concentrate diet and to reinforce the microbiome re-         genes were on average 1386 ± 26 bp and 99.31 ± 0.08%
+sults obtained with similar forage diets for the 2011 and        respectively.
+2013 experiments. A single sample of rumen fluid for VFA            For 16S rRNA gene analysis, the genomic reads were
+analysis (expressed as molar proportions) was taken by           aligned to the GREENGENES database [37] using Novoa-
+stomach tube within 1 h of cattle leaving the respiration        lign (www.novocraft.com). The Proteobacteria ratio was
+chambers in the 2011 experiment [11]. VFA were deter-            calculated as the abundance of Proteobacteria sequences
+mined for 2013 and 2014 in samples collected directly at         divided by the sum of the abundance of Firmicutes and
+the abattoir [11]. As recommended by Terré et al. [31], we       Bacteroidetes sequences and is used as indicator for micro-
+compared VFA profiles between samples rather than total          bial disorder in both the rumen of cattle and human intes-
+VFA concentrations because of the different methods for          tines [12, 14]. Values equivalent or above 0.19 were
+rumen sampling applied. The acetate-to-propionate ratio          considered as an indication of the microbial disorder also
+was calculated and considered as a proxy for rumen pH,           known as dysbiosis. This cut-off value was calculated based
+accepting that whilst the relationship between the two is        on the abundance of the bacterial phyla identified in the
+generally strong, it is not exactly linear. A total of 50 ani-   core rumen microbiome of cattle fed forage or concentrate
+mals including the 8 animals already studied in Roehe et al.     diets [12] and confirmed as a marker of microbial dysbiosis
+[26], selected and balanced for breed type and diet, were        in the human gut [14].
+used for further analyses (Additional file 1: Table S1). Post-      Parameters were adjusted such that all hits were re-
+mortem digesta samples were used here, following our pre-        ported that were equal in quality to the best hit for each
+vious discovery that the abundance of archaea relative to        read, and allowing up to a 10% mismatch across the frag-
+bacteria was similar between live and slaughter cattle [32].     ment. Further details are included in Roehe et al. [26].
+
+Genomic analysis
+As previously described in Roehe et al. [26], the animals        Statistical analysis
+were slaughtered in a commercial abattoir where two              Statistical analysis of the metagenomic data was based on
+rumen fluid samples (approximately 50 mL) were taken             the complete sample profiles as expressed by the pattern of
+immediately after the rumen was opened to be drained.            metagenomic operational functional units (OFUs) and the
+DNA was extracted from the rumen samples following               relative abundance (percentage) of individual OFU in each
+the protocol described in Rooke et al. [11].                     profile. Principal coordinate analysis (PCoA) and canonical
+  Illumina TruSeq libraries were prepared from genomic           variate analysis (CVA) were carried out using Gen-Stat
+DNA and sequenced on Illumina HiSeq systems 2500                 16th edition (VSN International Ltd., UK) to identify the
+(2011) and 4000 (2013, 2014) by Edinburgh Genomics.              factor(s) explaining the difference observed in microbial
+Further analyses using the two sets of data followed the         functional genes between samples. In CVA, each factor was
+same procedure as previously described in Roehe et al.           tested individually in order to get a more constrained
+[26]. Briefly, microbial functional genes encoding for           analysis.
+proteins and including the genes detailed in this study             Microbial functional gene abundances were compared
+were identified using the KEGG genes database. Genes             individually or within a functional group (e.g. all genes as-
+with a relative abundance of more than 0.001% were se-           sociated with antibiotic resistance) using a general linear
+lected for further analysis.                                     model with adjustment for multiple comparisons using the
+  A specific analysis was carried out on antimicrobial re-       Bonferroni correction (SPSS Statistics 22, IBM, USA).
+sistance genes and a comparison between the annotation           Spearman’s correlations were carried out using SPSS Statis-
+obtained using KEGG genes and the genotyping tool                tics 22 (IBM, USA) to identify the correlation between the
+SRST2 associated with the ARG-ANNOT database was                 AMR gene groups and Proteobacteria phylum or ratio, as
+performed; the latter was created specifically to study          well as between the Proteobacteria ratio and 20 Proteobac-
+AMR genes [33, 34]. ARG-ANNOT targets all AMR                    teria families or genera. P values ≤ 0.05 were considered
+genes including those on the chromosome and offers the           significant and tendencies were reported (P values < 0.1).
+possibility to identify putative new AMR genes in bacter-           In a network analysis using BioLayout Express3D [38],
+ial genomes as well as the genes involved in regulatory          we identified the distinct functional clusters of microbial
+function associated with the AMR genes [35] and still            genes for each experiment and the combination of the
+showing high sensitivity and specificity for these genes,        three experiments. These networks consist of nodes repre-
+similar to other databases (e.g. ResFinder database) [36].       senting microbial genes and the connecting edges deter-
+  As for the analysis of metagenomics data using KEGG,           mining the correlations in abundance and functional
+a matrix was generated using the depth values and                linkages between these genes.
+Auffret et al. Microbiome (2017) 5:159                                                                                                    Page 4 of 11
+
+
+
+
+   We used partial least squares (PLS) analysis (Version 9.1                 Differences in gene composition observed between rumen
+for Windows, SAS Institute Inc., Cary, NC, USA) to iden-                     samples and their clustering due to diets were confirmed
+tify the most important genes associated with the Proteo-                    by PCoA that explained 68.6% over the first two axes
+bacteria:(Firmicutes + Bacteroidetes) ratio. The PLS                         (Fig. 1a). After grouping the samples, CVA confirmed that
+analysis accounts for multiple testing and the correlation                   diet was the only factor that was significantly correlated
+between microbial genes. In addition to microbial genes,                     (no overlapping within the 95% circles of confidence) with
+the model included the effects of diet (potentially stressor)                the functional gene composition and explaining this differ-
+and breed type (host genetics effect). The model selections                  ence (Fig. 1b). Host breed effect and Proteobacteria ratio
+were based on the variable importance for projection                         were not significantly correlated with functional gene
+(VIP) criterion [39], whereby microbial genes with a VIP <                   composition (Additional file 1: Figure S3).
+0.8 contribute little to the prediction.                                       The abundance of 50 genes, each representing at least
+                                                                             0.001% of total genes per sample, was identified as dif-
+Results                                                                      ferent between diets (P < 0.05; Fig. 2). A greater number
+Major factors influencing functional genes in the                            of genes (n = 32) were more abundant in samples from
+microbiome                                                                   animals offered the concentrate diet (n = 18). Opposite
+Two hundred and four genes associated with resistance,                       results were observed between genes with similar func-
+colonisation, communication or pathogenicity functions                       tion like AMR genes (Fig. 3). For example, genes associ-
+were identified from 4966 metagenomic genes using                            ated with resistance to macrolide (K08217) and β-
+KEGG identification. These genes represent on average                        lactamase (K01467, K07576) were significantly more
+1.07% of the total microbial genes in the rumen samples                      abundant in samples from animals offered the concen-
+and could be classified into 20 functional groups                            trate diet (P < 0.001), whilst the sum of genes including
+(Additional file 1: Figure S1). The total number of se-                      some specific genes related to chloramphenicol
+lected genes was significantly higher (P = 0.046) in                         (K00638) and microcin resistance were dominant in
+rumen samples from concentrate-fed compared to                               forage-fed samples (P < 0.001; Fig. 3). Finally, genes en-
+forage-fed cattle (Additional file 1: Figure S2A), and di-                   coding for aminoglycoside (K00897) and streptomycin
+versity was also greater in concentrate-fed steers                           (K00984) resistance were more abundant in concentrate
+(Additional file 1: Figure S2B). Biofilm formation and                       treatment samples (P < 0.01; Figs. 2 and 3). In general,
+antibiotic resistance genes, representing 46.76% of the                      similar results were confirmed when using the more spe-
+204 genes, were the dominant groups detected. Other                          cific AMR genes database. The only difference was the
+genes such as those encoding for quorum sensing only                         identification of genes encoding for tetracycline resist-
+represented 0.1% of the 204 genes initially selected.                        ance instead of chloramphenicol resistance, which were
+
+
+
+
+ Fig. 1 a Principal Coordinates analysis (PCoA) of the structure of 204 selected genes (number of animals, n = 50 samples). Black cross:
+ concentrate samples from 2011 experiment, white cross: concentrate samples from 2013 experiment, black triangle: forage samples from 2011
+ experiment, dark grey triangle: forage samples from 2013 experiment, grey triangle: forage samples from 2014 experiment. b Canonical variate
+ analysis (CVA) of the structure of 204 selected genes (n = 50) based on diet. Black cross: samples from concentrate-fed animals (all years), grey
+ triangle: samples from forage-fed animals (all years). Circle: 95% confidence range
+Auffret et al. Microbiome (2017) 5:159                                                                                                 Page 5 of 11
+
+
+
+
+ Fig. 2 Relative abundance of genes significantly different between diet treatments (n = 50). Mean values with standard error are presented. Grey:
+ samples from forage-fed animals, dark grey: samples from concentrate-fed animals. Arrow indicates the genes that are also detected in the
+ network analysis
+
+
+
+in general significantly more abundant (P < 0.01) in                        genes associated with motility, attachment to host cells,
+forage-fed animals (Additional file 1: Table S2 and S3).                    sensing (two-component signal transduction systems) and
+  The relative abundance of genes associated with stress                    transporter for iron acquisition (K04758, K04759). The
+responses including oxidative stress and cold shock pro-                    forage diet enhanced several genes - encoding for a type
+tein (K03704) differed between diets. For example, K03704                   IV pilus assembly protein (K02652, K02662 to K02664 and
+was threefold more abundant with the concentrate diet.                      K02666). Finally, type I and II secretion systems (K01993,
+The concentrate diet enhanced the relative abundance of                     K02456) were significantly more abundant in samples
+
+
+
+
+ Fig. 3 Diversity of AMR genes between diets (n = 50). AMR genes with similar antibiotic resistance are grouped together into a final number of
+ 8 groups
+Auffret et al. Microbiome (2017) 5:159                                                                                               Page 6 of 11
+
+
+
+
+from forage-fed animals, whilst the gene associated with a                animals, humans or even in plants (Table S4) and
+type VI secretion system was enriched in concentrate-fed                  were strongly correlated with the Proteobacteria ratio
+samples (K11907).                                                         (P < 0.001). For example, Aeromonadaceae including
+                                                                          the Aeromonas genus and Enterobacteriaceae were
+Identification of markers of rumen microbial disorder and                 the most abundant Proteobacteria populations known
+their link with diet effects on the microbiome                            to contain pathogens. Other populations were identi-
+Of the 24 most abundant archaeal and bacterial                            fied as gut commensals, or with antimicrobial activ-
+phyla, 12 phyla including Proteobacteria were more                        ities, or linked with nutrients (N, S or Fe) or organic
+abundant in animals offered the concentrate diet (P <                     matter degradation capacities.
+0.1; Fig. 4 and Additional file 1: Figure S5). In con-                       Over the three experiments, 43 genes identified by
+trast, Euryarchaeota, Planctomycetes, Fibrobacteres                       PLS analysis were considered important in predicting
+and Verrucomicrobia were more abundant in rumen                           the impact of the Proteobacteria ratio on the micro-
+samples from animals offered a forage diet (P < 0.01).                    bial community (Additional file 1: Table S5). The
+Firmicutes, Bacteroidetes and 14 other phyla were not                     relative abundance of the selected genes explained
+significantly affected by diet. A Proteobacteria ratio                    48% of the factor fitted in the model and 81% of the
+above 0.19, suggesting dysbiosis, was only detected in                    Proteobacteria ratio. Of these genes, 22 genes were
+rumen samples from the concentrate diet treatment,                        also affected by the dietary treatment—including
+and thus, this ratio was on average higher for rumen                      genes encoding for beta-lactamase (K01467, K07576)
+samples from animals offered the concentrate than                         and cold shock protein (K03704). For each experi-
+the forage diet (P = 0.001; Fig. 5). In addition, this ra-                ment, a network was generated based on the total
+tio was strongly correlated with diet change (P =                         KEGG identified genes (n = 4966) including on aver-
+0.001), but not with other factors tested except me-                      age 56 genes from the 204 genes and representing
+thane emissions (Additional file 1: Figure S4). In                        about 4.36% of all genes constituting the network. Al-
+addition, a significant negative correlation was found                    though these genes were distributed over several clus-
+between the acetate to propionate ratio, a proxy for                      ters, about half of the genes (54%) grouped into one
+low ruminal pH (lower ratio) and the Proteobacteria                       or two dominant clusters when studied per experi-
+ratio when analysing all samples (Fig. 6). In general,                    ment (Additional file 1: Table S5and S6) and still
+A:P ratio from rumen samples associated with forage                       grouped in two dominant clusters when the network
+grouped together with an average value of 3.77 ± 0.66                     analysis combined all experiments (Fig. 7). The most
+(Fig. 6c).                                                                abundant genes (relative abundance above 0.01%)
+  A high proportion of populations explaining this                        within these two clusters encoded for flagellin
+higher Proteobacteria ratio were composed of families                     (K02406), beta-lactamase (K07576) and type VI secre-
+(7/20) and genera (7/20) known to be pathogens in                         tion system (K11907).
+
+
+
+
+ Fig. 4 Relative abundance of microbial phyla between diet treatments (n = 50). Grey: samples from forage-fed animals, dark grey: samples from
+ concentrate-fed animals. **P value < 0.01, *P value < 0.05, °P value < 0.1
+Auffret et al. Microbiome (2017) 5:159                                                                                                  Page 7 of 11
+
+
+
+
+ Fig. 5 Calculated Proteobacteria ratio over the three experiments (n = 50). Cutoff: values above 0.19 are considered as an indicator of rumen
+ dysbiosis. Grey: samples from forage-fed animals, dark grey: samples from concentrate-fed animals
+
+
+Discussion                                                                  on the composition of the initial rumen microbiome
+In the present study, the results of three independent ex-                  may provide further information, but was not available
+periments were combined. This meta-analysis was used                        for this study. However, all animals were offered the
+to highlight the importance of diet rather than the host                    same forage-based diet prior to the trial and animals
+on the structure of rumen microbial genes associated                        were randomly allocated to diets (balanced for breed) at
+with resistance, colonisation, communication and patho-                     the start of each experiment. Consequently, there is no
+genicity activities. It is known that diet has a dominant                   reason to believe that the prevalence of antibiotic resist-
+effect on the microbial community composition [40, 41],                     ance genes differed at the start of each experiment.
+and here, we first identified that diet influences func-                    Therefore, we are confident in our results that concen-
+tional genes associated with AMR and more interest-                         trate diet significantly increased the relative abundance
+ingly microbial genes (e.g. genes encoding for cold shock                   and diversity of AMR genes and other genes studied in
+protein, T6SS, motility, hooking and sensing) allowing                      this manuscript.
+the microbial populations to adapt to the new ruminal                         The greater abundance of genes encoding for sensing
+environment generated by concentrate diet. Information                      (two-component signal transduction systems) or secretion
+
+
+
+
+ Fig. 6 Linear regression for studying the impact of acetate to propionate ratio to Proteobacteria ratio. a All samples (n = 50). b Samples from
+ concentrate-fed animals (n = 16). c Samples from forage-fed animals (n = 34). Equation for the linear regression was included in figure when the
+ difference was significant (P value < 0.05)
+Auffret et al. Microbiome (2017) 5:159                                                                                               Page 8 of 11
+
+
+
+
+                                                                                          AMR
+
+
+
+
+ Fig. 7 Functional clusters of AMR genes identified using network analysis combining the three independent experiments. Correlation analysis of
+ microbial gene abundance was used to construct networks, where nodes represent microbial genes and edges the correlation in
+ their abundance
+
+
+system (T6SS) in concentrate diet samples confers advan-                   in an iron-depleted environment, potentially leading to
+tages for microorganisms to sense, respond and adapt to a                  disease [50].
+wide range of environments [42] using different mecha-                       Henderson et al. [10] found similar results, demonstrat-
+nisms [43–45]. T6SS which is more prevalent in Proteo-                     ing the predominant influence of diet over the host effect
+bacteria helps in colonising the gut [46] and controlling                  and explaining the differences in microbial community
+bacterial growth in a disturbed rumen [47]. Moreover, mi-                  composition. The host effect was identified in the present
+croorganisms carrying genes encoding flagellin, which are                  study as a breed effect, which has been shown in our pre-
+enhanced when a high-concentrate diet is fed, are known                    vious study to be of substantially less impact on the
+to develop strategies to evade innate immune system de-                    microbiome, than within-breed genetic effects.
+tection [48, 49] and therefore increase the risk of disease.                 In addition, feeding the concentrate diet signifi-
+Another host-microbiome interaction system involves fu-                    cantly enhanced the diversity of these rumen micro-
+cose sensing, and one gene encoding for alpha-L-                           bial genes (higher evenness) including a broader
+fucosidase was significantly enriched in concentrate-fed                   spectrum of mechanisms of resistance compared to
+animals. This gene may enhance the abundance of com-                       the forage diet. The increase in abundance and diver-
+mensals and also pathogenic bacteria carrying this gene                    sity of AMR and pathogenicity genes in rumen sam-
+and increase the risk of infection [22]. Finally, it is known              ples from concentrate-fed animals could also be the
+that competition between host and pathogens occurs for                     result of multi-resistant bacteria enrichment [51], or
+iron resources. Genes associated with iron storage (fer-                   an increase in horizontal gene transfer (HGT) as a re-
+ritin) or transport were differently affected depending of                 sult of gut dysbiosis [52, 53] or rumen colonisation
+the diet and tend to suggest a lower iron availability for                 [54]. Therefore, the risk of spreading antimicrobial re-
+microorganisms including pathogens in concentrate com-                     sistance genes between microbial populations belong-
+pared to forage-fed animals. It is known that iron serves                  ing to the same or a different phylum and including
+as a signal for bacterial pathogens to recognise host cells                human pathogens increases [55].
+Auffret et al. Microbiome (2017) 5:159                                                                                        Page 9 of 11
+
+
+
+
+   Microbial genes significantly abundant in rumen samples      Proteobacteria [12]. The formulation of concentrate di-
+from animal offered the forage diet were mainly associated      ets with respect to the proportion of starch to digestible
+with activities known to be involved in beneficial host-        fibre could be more important than the concentrate type
+microbiome interaction and its homeostasis involving non-       for explaining the effect on rumen pH [63], and this in-
+pathogenic bacteria. For example, antimicrobial peptides        formation could be used as a strategy to reduce the det-
+like microcin are produced and released by gut epithelial       rimental effect of concentrate diet increasing the
+cells and help to maintain the host-microbiome homeosta-        abundance and diversity of the genes targeted in this
+sis [56]. Homeostasis helps to reduce pathogen colonisation     study.
+[57] without causing collateral damage to host cells [49,          We confirmed the relevance of using a Proteobacteria
+53]. Therefore, it is coherent to find more microcin-           ratio instead of Proteobacteria abundance as a proxy of a
+resistance genes mostly identified in commensal bacteria        microbiome dysbiosis and more pathogenic bacteria may
+[58] and also carrying microcin synthesis genes providing a     increase the risk of host disease [12, 14]. This ratio was
+competitive advantage against enteric pathogens [57] when       significantly correlated with a gene encoding for a cold
+feeding a high-forage diet, which is known to promote           shock protein known to have a wider role in bacterial
+rumen homeostasis [59]. This system is less aggressive and      stress tolerance and reinforcing the detrimental effect of
+energy demanding than other systems like T6SS used by,          the concentrate diet on the rumen microbiome [2].
+e.g. pathogenic Proteobacteria [45]. Forage diets, which           Finally, the 43 rumen microbial genes identified by
+contain more fibre, are recognised to enhance gut health in     PLS analysis to be significantly associated with the Pro-
+different animal species by modulating the gut microbiome,      teobacteria ratio include several AMR genes such as
+its impact on the host mucosa and reducing the level of         genes encoding for beta-lactamase. Although these genes
+stress or disease compared to grain-fed animals [59, 60].       were distributed over several clusters, most of them were
+   The results obtained with the concentrate diet can be ex-    grouped in one major cluster as shown by the network
+plained by the necessity for the rumen microbiome to adapt      analysis. Therefore, it would be possible to apply the
+to a new environment [61] and the increase in populations       same strategy as Roehe et al. [26] to determine a base-
+with broader adaptability and colonisation capacities. Inter-   line of these genes for risk assessment.
+estingly, the relative abundance of Proteobacteria, one
+phylum containing bacterial populations associated with         Conclusions
+AMR and pathogenicity [27], was one of the bacterial phyla      In conclusion, diets with high fibrous forage components
+enriched when feeding the concentrate diet. We also identi-     would be recommended over those with high grain com-
+fied bacterial genera within Proteobacteria (e.g. Tolumonas     ponents to lower the abundance and diversity of AMR
+or Methylomonas) and including pathogens (e.g. Aeromo-          genes and to avoid rumen microbiome dysbiosis associ-
+nas or Moraxella) with a relative abundance above 0.001%        ated with pathogenic species among ruminal Proteobac-
+and strongly correlated with the Proteobacteria ratio which     teria. The results presented here will help to improve
+may explain the high Proteobacteria ratio detected in 8         policies about antimicrobial treatments in beef cattle
+rumen samples from animal offered the concentrate diet.         production and to help avoid AMR gene transmission to
+Interestingly, the plant pathogen Pantoea, belonging to Pro-    bovine-associated human pathogens. We describe AMR
+teobacteria, was also significantly more abundant when          gene abundance/diversity in antibiotic-free cattle that
+feeding the concentrate diet and highly correlated with the     complements published information on AMR genes in
+Proteobacteria ratio, suggesting that microorganisms colo-      animals receiving antimicrobials. It will now be import-
+nising plants and present in the diet might play a role in      ant to combine the investigation of AMR usage with
+the rumen. Functional similarities between microorganisms       dietary regime, to determine whether alterations in diet
+inhabiting the gut or plant roots and sharing similar eco-      can lessen the threats associated with AMR in livestock
+logical niches were found, supporting a potential role of       production.
+these plant-associated microbial populations during the
+acidotic challenge [62].
+   Proteobacteria populations partly explained the change       Additional file
+in functional gene composition and diversity observed in
+                                                                 Additional file 1: Figure S1. Relative abundance (%) of 20 groups of
+samples from animals offered the concentrate diet. A             functional genes representing 204 selected genes (number of animals,
+high Proteobacteria ratio was also significantly negatively      n = 50 samples). The sum of the relative abundance (%) of genes
+correlated with a low acetate to propionate ratio (a             grouping within the same function is shown in this figure. Figure S2A.
+                                                                 Total abundance of 204 selected genes based on diet treatments (n =
+proxy for low ruminal pH) [12]. It is known that concen-         50). *P value < 0.05. Figure S2B. Shannon index diversity of 204 selected
+trate diets with a high grain content tend to increase           genes based on diet treatments (n = 50). *P value < 0.05, °P value < 0.1.
+propionate concentration and are associated with lower           Figure S3. Canonical Variate analysis (CVA) on the structure of 204 genes
+                                                                 selected based on breed, age, weight, Proteobacteria ratio, FCR and
+rumen pH, as well as an increase in the abundance of
+Auffret et al. Microbiome (2017) 5:159                                                                                                                  Page 10 of 11
+
+
+
+
+ methane grouping (n = 50). Figure S4. Factors explaining the significant           4.    Penders J, Stobberingh EE, Savelkoul PH, Mand Wolffs PFG. The human
+ differences observed for Proteobacteria ratio (n = 50). Figure S5. Microbial             microbiome as a reservoir of antimicrobial resistance. Front Microbiol.
+ community composition at the phylum level (n = 50). Table S1.                            2013;4:87.
+ Characteristics of the cattle used in the experiment. Table S2. Groups of          5.    Reddy B, Singh KM, Patel AK, Antony A, Panchasara HJ, Joshi CG. Insights
+ AMR genes significantly correlated with abundance of the Proteobacteria                  into resistome and stress responses genes in Bubalus bubalis rumen
+ phylum and Proteobacteria ratio. Table S3. The relative abundance of                     through metagenomic analysis. Mol Biol Rep. 2014;41:6405–17.
+ AMR genes. Table S4, Proteobacteria populations strongly correlated with           6.    Cameron A, McAllister TA. 2016. Antimicrobial usage and resistance in beef
+ the Proteobacteria ratio. Table S5. Functional genes significantly                       production. J Anim Sci Biotechnol, 2016;7:68.
+ correlated with Proteobacteria ratio (PLS). Table S6. Cluster distribution of      7.    Spellberg B, Hansen GR, Kar A, Cordova CD, Price LB, Johnson JR. Antibiotic
+ functional genes significantly different between diets. (DOCX 60 kb)                     resistance in humans and animals. Discussion paper. Washington, DC:
+                                                                                          National Academy of Medicine; 2016. http://www.nam.edu/antibiotic-
+                                                                                          resistance-in-humans-and-animals
+Acknowledgements                                                                    8.    Poole K. Bacterial stress responses as determinants of antimicrobial
+We thank Dr. Irene Cabeza Luna, Andrew Southwell, Asier Zaragoza, Laura                   resistance. J Antimicrob Chemother. 2012;67:2069–89.
+Nicoll, Lesley Deans, and Claire Broadbent for the excellent technical support.     9.    Chambers L, Yang Y, Littier H, Ray P, Zhang T, Pruden A. Metagenomic
+                                                                                          analysis of antibiotic resistance genes in dairy cow feces following
+Funding                                                                                   therapeutic administration of third generation cephalosporin. PLoS One
+The project was supported by grants from the Biotechnology and Biological                 2015;10:e0133764.
+Sciences Research Council (BBSRC BB/N01720X/1 and BB/N016742/1). The                10.   Henderson G, Cox F, Ganesh S, Jonker A, Young W, Collaborators. GRC,
+research is based on data from experiments funded by the Scottish                         Janssen PH. Rumen microbial community composition varies with diet
+Government as part of the 2011–2016 commission, Agriculture and                           and host, but a core microbiome is found across a wide geographical
+Horticulture Development Board (AHDB) Beef & Lamb, Quality Meat Scotland                  range. Sci Rep. 2015;5:14567.
+(QMS) and Department for Environment Food & Rural Affairs (Defra).                  11.   Rooke JA, Wallace RJ, Duthie C-A, McKain N, Motta de Souza S, Hyslop JJ,
+                                                                                          Ross DW, Waterhouse T, Roehe R. Hydrogen and methane emissions from
+Availability of data and materials                                                        beef cattle and their rumen microbial community vary with diet, time after
+These data can be downloaded from the European Nucleotide Archive                         feeding and genotype. Br J Nutr. 2014;112:398–407.
+under accession PRJEB10338 and PRJEB21624.                                          12.   Petri RM, Schwaiger T, Penner GB, Beauchemin KA, Forster RJ.
+                                                                                          Characterization of the core rumen microbiome in cattle during transition
+Authors’ contributions                                                                    from forage to concentrate as well as during and after an acidotic
+MDA and RR contributed to the conceptualisation. MDA and MW                               challenge. PLoS One. 2013;8:e83424.
+contributed to the formal analysis. MDA and RR contributed to the original          13.   Brown K, DeCoffe D, Molcan E, Gibson DL. Diet-induced dysbiosis of
+writing. MDA, RJD, C-AD, JAR, RJW, TCF, RS, MW and RR contributed to the                  the intestinal microbiota and the effects on immunity and disease.
+review and editing. All authors read and approved the final manuscript.                   Nutrients. 2012;4:1095–119.
+                                                                                    14.   Shin NR, Whon TW, Bae JW. Proteobacteria: microbial signature of dysbiosis
+Ethics approval and consent to participate                                                in gut microbiota. Trends Biotechnol. 2015;33:496–503.
+This study was conducted at the Beef and Sheep Research Centre of                   15.   Keto-Timonen R, Hietala N, Palonen E, Hakakorpi A, Lindström M, Korkeala
+Scotland’s Rural College (6 miles south of Edinburgh, UK). The experiment                 H. Cold shock proteins: a minireview with special emphasis on Csp-family of
+was approved by the Animal Experiment Committee of SRUC and was                           enteropathogenic Yersinia. Front Microbiol. 2016;7:1151.
+conducted in accordance with the requirements of the UK Animals                     16.   Hawrelak J, Myers S. The causes of intestinal dysbiosis: a review. Altern
+(Scientific Procedures) Act 1986.                                                         Med Rev. 2004;9:180–97.
+                                                                                    17.   Russell JB. The importance of pH in the regulation of ruminal acetate to
+Consent for publication                                                                   propionate ratio and methane production in vitro. J Dairy Sci. 1998;81:3222–30.
+Not applicable                                                                      18.   Koboziev I, Reinoso Webb C, Furr KL, Grisham MB. Role of the enteric
+                                                                                          microbiota in intestinal homeostasis and inflammation. Free Radic Biol
+Competing interests                                                                       Med. 2014;68:122–33.
+The authors declare that they have no competing interests.                          19.   Pitta DW, Parmar N, Patel AK, Indugu N, Kumar S, Prajapathi KB. Bacterial
+                                                                                          diversity dynamics associated with different diets and different primer pairs
+                                                                                          in the rumen of Kankrej cattle. PLoS One. 2014;9:e111710.
+Publisher’s Note                                                                    20.   Bäumler AJ, Sperandio V. Interactions between the microbiota and
+Springer Nature remains neutral with regard to jurisdictional claims in                   pathogenic bacteria in the gut. Nature. 2016;535:85–93.
+published maps and institutional affiliations.                                      21.   Callaway TR, Carr MA, Edrington TS, Anderson RC, Nisbet DJ. Diet,
+                                                                                          Escherichia coli O157:H7, and cattle: a review after 10 years. Curr Issues Mol
+Author details                                                                            Biol. 2009;11:67–79.
+1
+ SRUC, Edinburgh EH25 9RG, UK. 2Rowett Institute, University of Aberdeen,           22.   Pickard JM, Maurice CF, Kinnebrew MA, Abt MC, Schenten D, Golovkina TV,
+Aberdeen AB25 2ZD, UK. 3Division of Genetics and Genomics, The Roslin                     Bogatyrev SR, Ismagilov RF, Pamer EG, Turnbaugh PJ, Chervonsky AV. Rapid
+Institute and R(D)SVS, University of Edinburgh, Edinburgh EH25 9RG, UK.                   fucosylation of intestinal epithelium sustains host-commensal symbiosis in
+4
+ Edinburgh Genomics, The Roslin Institute and R(D)SVS, University of                      sickness. Nature. 2014;514:638–41.
+Edinburgh, Edinburgh EH25 9RG, UK.                                                  23.   Hughes DT, Terekhova DA, Liou L, Hovde CJ, Sahl JW, Patankar AV,
+                                                                                          Gonzalez JE, Edrington TS, Rasko DA, Sperandio V. Chemical sensing in
+Received: 5 July 2017 Accepted: 28 November 2017                                          mammalian host-bacterial commensal associations. Proc Natl Acad Sci U
+                                                                                          S A. 2010;107:9831–6.
+                                                                                    24.   Curtis MM, Sperandio VA. Complex relationship: the interaction among
+References                                                                                symbiotic microbes, invading pathogens, and their mammalian host.
+1. Godfray HCJ, Beddington JR, Crute IR, Haddad L, Lawrence D, Muir JF. Food              Mucosal Immunol. 2011;4:133–8.
+    security: the challenge of feeding 9 billion people. Science. 2010;327:812–8.   25.   Romero D, Traxler MF, López D, Kolter R. Antibiotics as signal molecules.
+2. Cameron A, McAllister TA. Antimicrobial usage and resistance in beef                   Chem Rev. 2011;111:5492–505.
+    production. J Anim Sci Biotechnol. 2016;7:68.                                   26.   Roehe R, Dewhurst RJ, Duthie C-A, Rooke JA, McKain N, Ross DW, Hyslop JJ,
+3. Noyes NR, Yang X, Linke LM, Magnuson RJ, Cook SR, Zaheer R, Yang H,                    Waterhouse A, Freeman TC, Watson M, et al. Bovine host genetic variation
+    Woerner DL, Geornaras I, McArt JA, et al. Characterization of the resistome           influences rumen microbial methane production with best selection
+    in manure, soil and wastewater from dairy and beef production systems. Sci            criterion for low methane emitting and efficiently feed converting hosts
+    Rep. 2016;6:24645.                                                                    based on metagenomic gene abundance. PLoS Genet. 2016;12:e1005846.
+Auffret et al. Microbiome (2017) 5:159                                                                                                             Page 11 of 11
+
+
+
+
+27. Durso LM, Miller DN, Wienhold BJ. Distribution and quantification of            50. Skaar EP. The battle for iron between bacterial pathogens and their
+    antibiotic resistant genes and bacteria across agricultural and non-                vertebrate hosts. PLoS Pathog. 2010;6:e1000949.
+    agricultural metagenomes. PLoS One. 2012;7:e48325.                              51. Schjørring S, Krogfelt KA. Assessment of bacterial antibiotic resistance
+28. Wallace RJ, Rooke JA, McKain N, Duthie C-A, Hyslop JJ, Ross DW, Waterhouse          transfer in the gut. Int J Microbiol. 2011;2011:312956.
+    A, Watson M, Roehe R. The rumen microbial metagenome associated with            52. Aminov RI, Mackie RI. Evolution and ecology of antibiotic resistance genes.
+    high methane production in cattle. BMC Genomics. 2015;16:839.                       FEMS Microbiol Lett. 2007;271:147–61.
+29. Duthie C-A, Rooke JA, Troy S, Hyslop JJ, Ross DW, Waterhouse A, Roehe R.        53. Stecher B, Maier L, Hardt WD. ‘Blooming’ in the gut: how dysbiosis might
+    Impact of adding nitrate or increasing the lipid content of two contrasting         contribute to pathogen evolution. Nat Rev Microbiol. 2013;11:277–84.
+    diets on blood methaemoglobin and performance of two breeds of                  54. Toomey N, Monaghan A, Fanning S, Bolton D. Transfer of antibiotic
+    finishing beef steers. Animal. 2016;10:786–95.                                      resistance marker genes between lactic acid bacteria in model rumen and
+30. Duthie C-A, Troy SM, Hyslop JJ, Ross DW, Roehe R, Rooke JA. The effect of           plant environments. Appl Environ Microbiol. 2009;75:3146–52.
+    dietary addition of nitrate or increase in lipid concentrations, alone or in    55. Bliven KA, Maurelli AT. Evolution of bacterial pathogens within the human
+    combination, on performance and methane emissions of beef cattle.                   host. Microbiol Spectr. 2016 Feb; 4(1): 10.
+    Animal. 2017;13:1-8.                                                            56. Ostaff MJ, Stange EF, Wehkamp J. Antimicrobial peptides and gut
+31. Terré M, Castells L, Fàbregas F. Short communication: comparison of pH,             microbiota in homeostasis and pathology. EMBO Mol Med. 2013;5:1465–83.
+    volatile fatty acids, and microbiome of rumen samples from preweaned            57. Sassone-Corsi M, Nuccio SP, Liu H, Hernandez D, CT V, Takahashi AA,
+    calves obtained via cannula or stomach tube. J Dairy Sci. 2013;96:5290–4.           Edwards RA, Raffatellu M. Microcins mediate competition among
+32. Wallace RJ, Rooke JA, Duthie C-A, Hyslop JJ, Ross DW, McKain N, Motta de            Enterobacteriaceae in the inflamed gut. Nature. 2016;540:280–3.
+    Souza S, Snelling TJ, Waterhouse A, Roehe R. Archaeal abundance in              58. Hejnova J, Dobrindt U, Nemcova R, Rusniok C, Bomba A, Frangeul L, Hacker
+    postmortem ruminal digesta may help predict methane emissions from                  J, Glaser P, Sebo P, Buchrieser C. Characterization of the flexible genome
+    beef cattle. Sci Rep. 2014;4:5892.                                                  complement of the commensal Escherichia coli strain A0 34/86 (O83: K24:
+33. Inouye M, Dashnow H, Raven LA, Schultz MB, Pope BJ, Tomita T, Zobel J,              H31). Microbiology. 2005;151:385–98.
+    Holt KE. SRST2: rapid genomic surveillance for public health and hospital       59. Carrillo J, He Y, Li Y, Liu J, Erdman RA, Sonstegard TS, Song J. Integrated
+    microbiology labs. Genome Med. 2014;6:90.                                           metabolomic and transcriptome analyses reveal finishing forage affects
+34. Gupta SK, Padmanabhan BR, Diene SM, Lopez-Rojas R, Kempf M,                         metabolic pathways related to beef quality and animal welfare. Sci Rep.
+    Landraud L, Rolain J-M. ARG-ANNOT, a new bioinformatic tool to                      2016;6:25948.
+    discover antibiotic resistance genes in bacterial genomes. Antimicrob           60. Jha R, Berrocoso JD. Review: dietary fiber utilization and its effects on
+    Agents Chemother. 2014;58:212–20.                                                   physiological functions and gut health of swine. Animal. 2015;9:1441–52.
+35. Gupta SK, Rolain J-M. Reply to "Comparison of the web tools ARG-ANNOT           61. Francino MP. The ecology of bacterial genes and the survival of the new.
+    and ResFinder for detection of resistance genes in bacteria". Antimicrob            Int J Evol Biol. 2012;2012:394026.
+    Agents Chemother 2014;58:4987.                                                  62. Ramírez-Puebla ST, Servín-Garcidueñas LE, Jiménez-Marín B, Bolaños LM,
+36. Xavier BB, Das AJ, Cochrane G, De Ganck S, Kumar-Singh S, Aarestrup FM,             Rosenblueth M, Martínez J, Rogel MA, Ormeño-Orrillo E, Martínez-Romero E.
+    Goossens H, Malhotra-Kumar S. Consolidating and exploring antibiotic                Gut and root microbiota commonalities. Appl Environ Microbiol. 2013;79:2–9.
+    resistance gene data resources. J Clin Microbiol. 2016;54:851–9.                63. Friggens NC, Oldham JD, Dewhurst RJ, Horgan G. Proportions of volatile
+37. DeSantis TZ, Hugenholtz P, Larsen N, Rojas M, Brodie EL, Keller K.                  fatty acids in relation to the chemical composition of feeds based on grass
+    Greengenes, a chimera-checked 16S rRNA gene database and workbench                  silage. J Dairy Sci. 1998;81:1331–44.
+    compatible with ARB. Appl Environ Microbiol. 2006;72:5069–72.
+38. Freeman TC, Goldovsky L, Brosch M, van Dongen S, Mazière P, Grocock RJ.
+    Construction, visualisation, and clustering of transcription networks from
+    microarray expression data. PLoS Comput Biol. 2007;3:e206.
+39. Wold S. PLS for multivariate linear modelling. Van de Waterbeemd H,
+    editor Chemometric methods in molecular design VCH Publishers,
+    Weinheim, Germany. 1995:195–218.
+40. Chen Y, Penner GB, Li M, Oba M, Luo Guan L. Changes in bacterial diversity
+    associated with epithelial tissue in the beef cow rumen during the
+    transition to a high-grain diet. Appl Environ Microbiol. 2011;77:5770–81.
+41. Zhou M, Hernandez-Sanabria E, Guan LL. Characterization of variation in
+    rumen methanogenic communities under different dietary and host feed
+    efficiency conditions, as determined by PCR-denaturing gradient gel
+    electrophoresis analysis. Appl Environ Microbiol. 2010;76:3776–86.
+42. Capra EJ, Laub MT. The evolution of two-component signal transduction
+    systems. Annu Rev Microbiol. 2012;66:325–47.
+43. Green ER, Mecsas J. Bacterial secretion systems: an overview. Microbiol
+    Spectr. 2016;4:1.
+44. Ho BT, Dong TG, Mekalanos JJA. View to a kill: the bacterial type VI
+    secretion system. Cell Host Microbe. 2014;15:9–21.
+45. Ohland CL, Jobin C. Microbial activities and intestinal homeostasis: a
+    delicate balance between health and disease. Cell Mol Gastroenterol                 Submit your next manuscript to BioMed Central
+    Hepatol. 2015;1:28–40.                                                              and we will help you at every step:
+46. Barret M, Egan F, O'Gara F. Distribution and diversity of bacterial secretion
+    systems across metagenomic datasets. Environ Microbiol Rep. 2013;5:117–26.            • We accept pre-submission inquiries
+47. Asanuma N, Yoshii T, Kanada K, Yoshizawa K, Arai Y, Ichikawa T, Kawamura              • Our selector tool helps you to find the most relevant journal
+    A, Hino T. Involvement of two-component signal transduction system,
+                                                                                          • We provide round the clock customer support
+    ComDE, in the regulation of growth and genetic transformation, in the
+    ruminal bacterium Streptococcus bovis. Anaerobe. 2010;16:405–11.                      • Convenient online submission
+48. Hayashi F, Smith KD, Ozinsky A, Hawn TR, Yi EC, Goodlett DR, Eng JK, Akira            • Thorough peer review
+    S, Underhill DM, Aderem A. The innate immune response to bacterial
+                                                                                          • Inclusion in PubMed and all major indexing services
+    flagellin is mediated by Toll-like receptor 5. Nature. 2001;410:1099–103.
+49. Lai MA, Quarles EK, López-Yglesias AH, Zhao X, Hajjar AM. Innate immune               • Maximum visibility for your research
+    detection of flagellin positively and negatively regulates Salmonella
+    infection. PLoS One. 2013;8:e72047.                                                   Submit your manuscript at
+                                                                                          www.biomedcentral.com/submit
+
