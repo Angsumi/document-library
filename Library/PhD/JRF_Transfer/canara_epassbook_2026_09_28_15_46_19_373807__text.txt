@@ -1,0 +1,5074 @@
+   Statement for A/c XXXXXXXX2061 for the period 29-Sep-2025 to 28-Sep-2026
+
+                                            Branch Code        7417
+Customer Id    XXXXXX64
+                                            Branch Name        GOHPUR
+Name           ANGSUMAN DAS
+                                            Product Code       101
+Phone          +917896505109
+                                            Product Name CANARA SB GENERAL
+Address         SO BUBUL             DAS
+RANGACHAKUA JAMUGURIHAT              TEZPUR IFSC Code    CNRB0007417
+ASSAM IN 784182                             Address      I FLOOR, CR HAZARIKA
+                                            COMMERCIAL MEMORIAL COMPLEX, NEAR
+
+
+    Date               Particulars             Deposits         Withdrawals     Balance
+
+                                             Opening Balance                          99.00
+              SMS CHARGES ON ACTUAL
+              BASIS
+ 29-09-2025                                                              1.00        98.00
+              Chq: 0
+
+              NACH 15021978-0425FC09256
+              C092562667219
+ 29-09-2025                                       35,767.00                      35,865.00
+              Chq:
+
+              NACH 15021978-0425HC09256
+              C092562667211
+ 29-09-2025                                         2,538.00                     38,403.00
+              Chq:
+
+              NACH 15021978-0525FC09256
+              C092562667220
+ 29-09-2025                                       37,000.00                      75,403.00
+              Chq:
+
+              NACH 15021978-0525HC09256
+              C092562667212
+ 29-09-2025                                         2,625.00                     78,028.00
+              Chq:
+
+              NACH 15021978-0625CC09256
+              C092562667217
+ 29-09-2025                                         3,000.00                     81,028.00
+              Chq:
+
+              NACH 15021978-0625FC09256
+              C092562667221
+ 29-09-2025                                       37,000.00                     1,18,028.00
+              Chq:
+
+
+                                                                                  page 1
+  Date                Particulars           Deposits       Withdrawals     Balance
+
+             NACH 15021978-0625HC09256
+             C092562667213
+29-09-2025                                      2,625.00                   1,20,653.00
+             Chq:
+
+             NACH 15021978-0725FC09256
+             C092562667222
+29-09-2025                                     37,000.00                   1,57,653.00
+             Chq:
+
+             NACH 15021978-0725HC09256
+             C092562667214
+29-09-2025                                      2,625.00                   1,60,278.00
+             Chq:
+
+             NACH 15021978-0825FC09256
+             C092562667223
+29-09-2025                                     37,000.00                   1,97,278.00
+             Chq:
+
+             NACH 15021978-0825HC09256
+             C092562667215
+29-09-2025                                      2,625.00                   1,99,903.00
+             Chq:
+
+             NACH 15021978-0925CC09256
+             C092562667218
+29-09-2025                                      3,000.00                   2,02,903.00
+             Chq:
+
+             NACH 15021978-0925FC09256
+             C092562667224
+29-09-2025                                     37,000.00                   2,39,903.00
+             Chq:
+
+             NACH 15021978-0925HC09256
+             C092562667216
+29-09-2025                                      2,625.00                   2,42,528.00
+             Chq:
+
+             UPI/DR/112016090554/BISWAJI
+             T
+             /SBIN/**69985@PTSBI/UPI//HDF
+01-10-2025   9ED5B012EE974195AFA28839B                              1.00   2,42,527.00
+             CBEF60E/01/10/2025 13:03:02
+
+             Chq: 112016090554
+
+             UPI/DR/112066375317/BISWAJI
+             T
+             /SBIN/**69985@PTSBI/UPI//HDF
+02-10-2025   C8A185F1BED040B5B17961AC                           7,000.00   2,35,527.00
+             F48CE841/02/10/2025 13:06:59
+
+             Chq: 112066375317
+
+
+
+
+                                                                             page 2
+  Date                Particulars           Deposits   Withdrawals     Balance
+
+             UPI/DR/527546108509/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             AXI9AED3D38C5974B98B57542
+02-10-2025   9B5AD739CD/02/10/2025                           150.00    2,35,377.00
+             13:11:44
+
+             Chq: 527546108509
+
+             UPI/DR/527513228972/JWNGSH
+             REE/SBIN/**27733@UPI/UPI//A
+             XIC57F37E177CE49C483C06B7
+02-10-2025   C4BDD7354/02/10/2025                           8,000.00   2,27,377.00
+             13:20:46
+
+             Chq: 527513228972
+
+             UPI/DR/112077729256/DAS
+             BROTH/UTIB/**13504@OKBIZA
+             XIS/UPI//HDFF76A4D2054664B4
+02-10-2025   2BBD3C16DF69159E7/02/10/20                      110.00    2,27,267.00
+             25 17:12:28
+
+             Chq: 112077729256
+
+             UPI/DR/112077851696/BULU
+             STORE/UTIB/**13434@OKBIZA
+             XIS/UPI//HDFF704B592FE534F
+02-10-2025   C8B9DB572ED2BD0516/02/10/2                       60.00    2,27,207.00
+             025 17:14:55
+
+             Chq: 112077851696
+
+             UPI/DR/112079134567/ANJAN
+             PAN/UTIB/**06701@OKBIZAXIS
+             /UPI//HDFB0FB4FC797B64DA9
+02-10-2025   B9CF1D3D8CF1418D/02/10/202                      400.00    2,26,807.00
+             5 17:37:42
+
+             Chq: 112079134567
+
+             UPI/DR/112095836022/MAHAM
+             MAD
+             /SBIN/**UBUL2@OKSBI/UPI//HD
+02-10-2025   FAE2186D013B7407F92566C56                        30.00    2,26,777.00
+             017EAD14/02/10/2025 22:47:10
+
+             Chq: 112095836022
+
+             UPI/DR/564397684251/LEKHA
+             MON/SBIN/**70447@YBL/UPI//A
+             XIA8DBC4AD028C48E8B5542B
+04-10-2025   D31EDC5916/04/10/2025                       1,00,000.00   1,26,777.00
+             09:31:14
+
+             Chq: 564397684251
+
+
+
+
+                                                                         page 3
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/101632150897/AIRTEL
+             DI/HDFC/**.PAYU@HDFCBANK/
+             UPI
+             MAND//HDF405C21A1EA33B04
+05-10-2025                                                     19.00    1,26,758.00
+             FE0634FCEE10AFCB5/05/10/20
+             25 15:00:31
+
+             Chq: 101632150897
+
+             UPI/DR/112234511013/REDBUS
+             IN/UTIB/**.GPAY@OKPAYAXIS/
+             UPI//RB1443440513PATFKO9K
+06-10-2025   KYG43PATVV2EY7C/06/10/2025                      1,213.38   1,25,544.62
+             07:44:32
+
+             Chq: 112234511013
+
+             UPI/DR/112251223156/AMAZON
+             PA/RATN/**N-
+             POD@RAPL/UPI//AMZTOKAD64
+06-10-2025   AA9EB4EC58F1D1263BC75965                         908.00    1,24,636.62
+             F/06/10/2025 14:17:16
+
+             Chq: 112251223156
+
+             UPI/DR/527983959672/MEKANJI
+             T
+             /UCBA/**82706@AXL/UPI//AXIF
+06-10-2025   D8078606F2843EE882CECD267                           7.00   1,24,629.62
+             CB2D1D/06/10/2025 16:03:31
+
+             Chq: 527983959672
+
+             UPI/DR/112280796526/INDIAN
+             RA/SBIN/**IRUTS@SBI/UPI//HD
+             F6F24FDA7BECE4BC398B3E77
+07-10-2025                                                     25.00    1,24,604.62
+             0B95DB686/07/10/2025 05:30:38
+
+             Chq: 112280796526
+
+             UPI/DR/112282770441/AMIT
+             STORE/UTIB/**995-
+             1@OKBIZAXIS/UPI//HDFF6A22
+07-10-2025   DB88C2D4E989A9BD8FB1FBC5                          20.00    1,24,584.62
+             097/07/10/2025 08:11:38
+
+             Chq: 112282770441
+
+             UPI/DR/564655031015/KABITA
+             NA/PUNB/**NA728@OKICICI/UP
+             I//AXI801F5E6BCA4B4F3AA4E0
+07-10-2025   3CDD490DACFA/07/10/2025                           30.00    1,24,554.62
+             08:12:27
+
+             Chq: 564655031015
+
+
+
+
+                                                                          page 4
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/112284311224/SIMANT
+             A
+             /SBIN/**MANTA@OKSBI/UPI//H
+             DF0D8BF6D366254AE09C2EED
+07-10-2025                                                     70.00    1,24,484.62
+             0E76891B1C/07/10/2025
+             09:00:50
+
+             Chq: 112284311224
+
+             UPI/DR/112286979068/PHULSO
+             N
+             D/AIRP/**20314@YBL/UPI//HDF
+07-10-2025   4706D112A2D34B8D96E9A1CF                         200.00    1,24,284.62
+             B8FE91FC/07/10/2025 10:09:02
+
+             Chq: 112286979068
+
+             UPI/DR/528034215008/RAJDEE
+             PDE/BDBL/**123-
+             2@OKAXIS/UPI//AXI5A14FF3BF
+07-10-2025   F584919BB370B29C0E9F150/07                       140.00    1,24,144.62
+             /10/2025 19:22:41
+
+             Chq: 528034215008
+
+             UPI/DR/528141599784/KAMAL
+             DE/SBIN/**84776@PTSBI/UPI//A
+             XI500CF52D396A4E56BF2D09E
+08-10-2025                                                     40.00    1,24,104.62
+             4AD66B1E5/08/10/2025 15:14:30
+
+             Chq: 528141599784
+
+             UPI/DR/564728326439/MR
+             PRADIP/IDIB/**GU524@OKHDF
+             CBANK/UPI//AXIBE2A848C1112
+08-10-2025   40E19DD85C64BE3746FA/08/10                        40.00    1,24,064.62
+             /2025 17:39:51
+
+             Chq: 564728326439
+
+             UPI/DR/112352757034/ALI
+             CLOTH/UTIB/**24155@OKBIZA
+             XIS/UPI//HDF190735A34D654A
+08-10-2025   C5816218FC4720A22C/08/10/20                      500.00    1,23,564.62
+             25 17:54:50
+
+             Chq: 112352757034
+
+             UPI/DR/528153028943/RITUPA
+             RNA/PUNB/**91551@PNB/UPI//I
+             CI0F0D8FE6B46947558DE6C68
+08-10-2025   7FAD65C5B/08/10/2025                            1,250.00   1,22,314.62
+             18:19:56
+
+             Chq: 528153028943
+
+
+
+
+                                                                          page 5
+  Date                Particulars          Deposits       Withdrawals     Balance
+
+             UPI/CR/564715029313/GAJEN
+             ME/SBIN/**HI459@OKAXIS/UPI/
+             /AXIAF86EEFDD91A4BAC807E
+08-10-2025   D0A9CB4301A1/08/10/2025             700.00                   1,23,014.62
+             18:33:32
+
+             Chq: 564715029313
+
+             UPI/DR/112356261873/MQSR/S
+             BIN/**DUTTA@SBI/UPI//HDFC4
+             170AD09364441DA4841B3BA32
+08-10-2025                                                       90.00    1,22,924.62
+             033C8/08/10/2025 18:43:30
+
+             Chq: 112356261873
+
+             UPI/REV/112356261873/ANGSU
+             MAN /CNRB/**S62-
+             1@OKHDFCBANK/UPI//HDFC41
+08-10-2025   70AD09364441DA4841B3BA320                           -90.00   1,23,014.62
+             33C8/08/10/2025 18:43:36
+
+             Chq: 112356261873
+
+             UPI/DR/112356383512/MQSR/S
+             BIN/**DUTTA@SBI/UPI//HDF93
+             EC2FBC918E4EB5B03A6C059F
+08-10-2025                                                       90.00    1,22,924.62
+             9EE7BB/08/10/2025 18:45:00
+
+             Chq: 112356383512
+
+             UPI/REV/112356383512/ANGSU
+             MAN /CNRB/**S62-
+             1@OKHDFCBANK/UPI//HDF93E
+08-10-2025   C2FBC918E4EB5B03A6C059F9                            -90.00   1,23,014.62
+             EE7BB/08/10/2025 18:45:06
+
+             Chq: 112356383512
+
+             UPI/DR/564775347849/MANDIP
+             PHU/PUNB/**KAN78@OKAXIS/
+             UPI//AXID605E0D1CFD740FBB
+08-10-2025   E1210DEDCE9B080/08/10/2025                          90.00    1,22,924.62
+             18:45:26
+
+             Chq: 564775347849
+
+             UPI/DR/112356573352/HOMEN
+             KUM/SBIN/**ENDAS@OKSBI/U
+             PI//HDFBD1723BE08F94A8B9E
+08-10-2025   A33CFF41517ACB/08/10/2025                          700.00    1,22,224.62
+             18:47:20
+
+             Chq: 112356573352
+
+             UPI/REV/112356573352/ANGSU
+             MAN /CNRB/**S62-
+             1@OKHDFCBANK/UPI//HDFBD
+08-10-2025   1723BE08F94A8B9EA33CFF415                          -700.00   1,22,924.62
+             17ACB/08/10/2025 18:47:25
+
+             Chq: 112356573352
+                                                                            page 6
+  Date                Particulars          Deposits   Withdrawals    Balance
+
+             UPI/DR/564732832891/MADAN
+             GAM1/PUNB/**997-
+             1@OKAXIS/UPI//AXI97F013955
+08-10-2025   B234E00943C60200FE7F0FC/0                      700.00   1,22,224.62
+             8/10/2025 18:48:12
+
+             Chq: 564732832891
+
+             UPI/DR/112356932901/YOGEN
+             GAM/PUNB/**997-
+             1@OKAXIS/UPI//HDF9EEF7AAF
+08-10-2025   E0584AFA85A7470BCA5F32A9/                      400.00   1,21,824.62
+             08/10/2025 18:51:40
+
+             Chq: 112356932901
+
+             UPI/DR/112357519533/S M
+             FASHI/UTIB/**24595@OKBIZAXI
+             S/UPI//HDFFFFDE30731A04901
+08-10-2025   A9E7E723DE5E7B77/08/10/202                     180.00   1,21,644.62
+             5 18:58:45
+
+             Chq: 112357519533
+
+             UPI/DR/112358343147/LALIT
+             SAI/PUNB/**U85-
+             1@OKICICI/UPI//HDF3E2E97D3
+08-10-2025   7DC4407482E485F73D89394D/                      600.00   1,21,044.62
+             08/10/2025 19:08:50
+
+             Chq: 112358343147
+
+             UPI/DR/564782771554/MADAN
+             GAM1/PUNB/**997-
+             1@OKAXIS/UPI//AXI6C1DEA68
+08-10-2025   D0154BF9B7C2ABC9CB2BD633                       350.00   1,20,694.62
+             /08/10/2025 20:45:34
+
+             Chq: 564782771554
+
+             UPI/DR/564781763588/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//AXI0CA2B9F562934F9
+08-10-2025   E91005BF4471687AE/08/10/202                     40.00   1,20,654.62
+             5 20:48:52
+
+             Chq: 564781763588
+
+             UPI/DR/112367036668/HOMEN
+             KUM/SBIN/**ENDAS@OKSBI/U
+             PI//HDF183976799EDD4901A72
+09-10-2025   0D761A3D777B5/09/10/2025                        60.00   1,20,594.62
+             00:03:09
+
+             Chq: 112367036668
+
+
+
+
+                                                                       page 7
+  Date                Particulars            Deposits   Withdrawals    Balance
+
+             UPI/DR/112374147040/DIPSUN
+             DOR/AIRP/**GOI-
+             3@OKICICI/UPI//HDFFDF52226
+09-10-2025   672845EE96B2DBDE2E5EB4C1                          40.00   1,20,554.62
+             /09/10/2025 10:02:01
+
+             Chq: 112374147040
+
+             UPI/DR/112384275007/RINKU
+             MON/YESB/**MDY9J@PTY/UPI/
+             /HDF756E3DA40769493685FA0
+09-10-2025   9419721DA6C/09/10/2025                            40.00   1,20,514.62
+             13:34:09
+
+             Chq: 112384275007
+
+             UPI/DR/112432262816/MS
+             JITUMO/IDIB/**NIL26@OKAXIS/
+             UPI//HDFF1ECE72F76A24173B
+10-10-2025   EC1FA97202C1216/10/10/2025                        50.00   1,20,464.62
+             12:48:53
+
+             Chq: 112432262816
+
+             UPI/DR/112434209367/SARIF
+             UDD/AIRP/**50031@AXL/UPI//H
+             DF8E382C94FB994C66B219950
+10-10-2025                                                     30.00   1,20,434.62
+             83D60EF44/10/10/2025 13:26:06
+
+             Chq: 112434209367
+
+             UPI/DR/564953671706/SARIF
+             UDD/AIRP/**50031@AXL/UPI//A
+             XIC6AC10DC761248AA8D43913
+10-10-2025                                                    300.00   1,20,134.62
+             B2143C1FF/10/10/2025 14:05:48
+
+             Chq: 564953671706
+
+             UPI/DR/564913448394/HUSSAI
+             NBU/SBIN/**LBUL2@OKAXIS/U
+             PI//AXI80922F195C8D49E5BD2
+10-10-2025   F8069E918E592/10/10/2025                         100.00   1,20,034.62
+             14:10:18
+
+             Chq: 564913448394
+
+             UPI/DR/112450320367/P D
+             AYUSH/UTIB/**18798@OKBIZA
+             XIS/UPI//HDFF188BFC4C74145
+10-10-2025   EC89C5E3B5D441A046/10/10/2                       100.00   1,19,934.62
+             025 18:21:33
+
+             Chq: 112450320367
+
+             UPI/DR/112481349267/MS
+             SHARAN/YESB/**60170@YBL/U
+             PI//HDF6EA32B4730A7417194A
+11-10-2025   7665196A2F05C/11/10/2025                         120.00   1,19,814.62
+             12:13:03
+
+             Chq: 112481349267
+                                                                         page 8
+  Date                Particulars            Deposits       Withdrawals     Balance
+
+             UPI/DR/112481756802/MOHAN
+             BA/YESB/**48595@YBL/UPI//H
+             DF384FDA90050943C79E0564E
+11-10-2025                                                        150.00    1,19,664.62
+             ACE94B880/11/10/2025 12:21:00
+
+             Chq: 112481756802
+
+             UPI/DR/565083000680/LEKHA
+             MON/SBIN/**70447@YBL/UPI//A
+             XI9AD24C9117E1436B9CD1F58
+11-10-2025   1B1ABC9D3/11/10/2025                              10,000.00    1,09,664.62
+             14:05:59
+
+             Chq: 565083000680
+
+             UPI/CR/565014600473/PODUMI
+             T/SBIN/**BIPI1@OKAXIS/UPI//A
+             XID4E2FAA3693E4551B3DC75B
+11-10-2025                                       2,000.00                   1,11,664.62
+             1764765A8/11/10/2025 14:35:59
+
+             Chq: 565014600473
+
+             UPI/CR/528476898268/PODUMI
+             T/SBIN/**BIPI1@OKAXIS/UPI//A
+             XIA3E79E0A6FF64C31B1D337F
+11-10-2025                                       2,000.00                   1,13,664.62
+             CF961B37F/11/10/2025 14:36:23
+
+             Chq: 528476898268
+
+             UPI/CR/565075501654/PODUMI
+             T/SBIN/**BIPI1@OKAXIS/UPI//A
+             XIA3A8CBECDBD543608FE7D8
+11-10-2025   599948F0A2/11/10/2025               1,000.00                   1,14,664.62
+             14:36:58
+
+             Chq: 565075501654
+
+             UPI/DR/112489115924/RAJIB
+             NATH/UCBA/**259-
+             2@OKICICI/UPI//HDF32E6F7B6
+11-10-2025   10EF40FE84D6BA43DFD79AC7                            5,000.00   1,09,664.62
+             /11/10/2025 14:46:45
+
+             Chq: 112489115924
+
+             UPI/DR/565004314399/JAMADU
+             L
+             /SBIN/**DUL16@OKSBI/UPI//AXI
+11-10-2025   573CB6FB834145AE94FB042C2                             15.00    1,09,649.62
+             8554288/11/10/2025 17:09:09
+
+             Chq: 565004314399
+
+             UPI/DR/112497386888/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             HDF4964451C04704436AE65E3
+11-10-2025   82E98D298C/11/10/2025                                100.00    1,09,549.62
+             17:38:40
+
+             Chq: 112497386888
+
+                                                                              page 9
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/112497674801/SUBRAT
+             A
+             /SBIN/**AD284@OKSBI/UPI//HD
+11-10-2025   F8C36D27ACC4941259D07944                         800.00    1,08,749.62
+             C9B622488/11/10/2025 17:43:31
+
+             Chq: 112497674801
+
+             UPI/DR/565165897124/DUMMY
+             NAME/SBIN/**267071410/UPI//A
+             XIEBA99CD688954AF8B8B1C76
+12-10-2025   1EEA3B4E9/12/10/2025                            2,000.00   1,06,749.62
+             12:48:37
+
+             Chq: 565165897124
+
+             UPI/DR/101691767087/MDCOM
+             PUTE/HDFC/**.PAYU@HDFCBA
+             NK/UPI
+             TRAN//HDFC79D635A7638457E
+12-10-2025                                                 35,960.00     70,789.62
+             BC34FA4E1631B359/12/10/2025
+             19:11:40
+
+             Chq: 101691767087
+
+             UPI/DR/112554571116/ANSUMA
+             N
+             H/ICIC/**ARIKA@ICICI/UPI//HDF
+12-10-2025   10F38C0F6CA448D098C73FFF                        4,854.00    65,935.62
+             E8D573D6/12/10/2025 19:17:46
+
+             Chq: 112554571116
+
+             UPI/DR/528510497289/AMAZON
+             IN/UTIB/**ONUPI@APL/YOU
+             ARE
+             //APL0199D8C8553A585C80D32
+12-10-2025                                                 13,306.00     52,629.62
+             5751A100758/12/10/2025
+             19:47:25
+
+             Chq: 528510497289
+
+             UPI/DR/101692724348/ZOMATO
+             /HDFC/**OMATO@HDFCBANK/
+             COLLECT
+             //HDFFBEFFD894DE949FA93A4
+12-10-2025                                                    231.25     52,398.37
+             9E0A56594F5C/12/10/2025
+             21:15:27
+
+             Chq: 101692724348
+
+             UPI/DR/112570729919/MELINA
+             EN/UTIB/**38226@OKBIZAXIS/
+             UPI//HDFD8603827536C43CA82
+13-10-2025   CB54479FD375E6/13/10/2025                         30.00     52,368.37
+             08:23:52
+
+             Chq: 112570729919
+
+
+
+                                                                         page 10
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/112578715147/PANCHI
+             RAN/SBIN/**.NEOG@OKSBI/UP
+             I//HDF02BADB87F2EE4A679D5
+13-10-2025   E9B96FCAB35BB/13/10/2025                         300.00     52,068.37
+             11:38:34
+
+             Chq: 112578715147
+
+             UPI/DR/565280630411/PANCHI
+             RAN/SBIN/**.NEOG@OKSBI/UP
+             I//AXI7577EA4C5E0343C2B55C
+13-10-2025   8F2FA3BF89DF/13/10/2025                         2,700.00    49,368.37
+             11:39:57
+
+             Chq: 565280630411
+
+             UPI/DR/112620304989/RANI
+             DOLE/SBIN/**AIKIA@OKSBI/UPI
+             //HDF047831E67C604A2C98F36
+14-10-2025   C9319FCCB7C/14/10/2025                            50.00     49,318.37
+             08:57:42
+
+             Chq: 112620304989
+
+             UPI/DR/112640475181/PANKAJ
+             DUT/YESB/**19405@YBL/UPI//H
+             DFA827F055F4B841BFB4286FB
+14-10-2025                                                    250.00     49,068.37
+             F21519A98/14/10/2025 16:28:08
+
+             Chq: 112640475181
+
+             UPI/DR/112645867976/MR
+             SHREEK/YESB/**H58Q7@PTYS
+             /UPI//HDF805BA59B71FF4146A
+14-10-2025   BC556D43D7BA4EE/14/10/2025                       320.00     48,748.37
+             18:06:45
+
+             Chq: 112645867976
+
+             UPI/DR/112654090425/LAKHYA
+             JY/PUNB/**I2003@OKSBI/UPI//
+             HDF53BD1067145E4154866B0A
+14-10-2025   F21FBA3190/14/10/2025                           1,500.00    47,248.37
+             19:55:51
+
+             Chq: 112654090425
+
+             UPI/DR/112687963048/KAMAL
+             DE/SBIN/**84776@PTSBI/UPI//H
+             DF3B406EF64F7643FCBCD8B1
+15-10-2025   3966E718B4/15/10/2025                             10.00     47,238.37
+             15:46:05
+
+             Chq: 112687963048
+
+
+
+
+                                                                         page 11
+  Date                 Particulars           Deposits   Withdrawals     Balance
+
+             UPI/DR/112718897021/RASHMI
+             RE/AIRP/**5825U@MAIRTEL/PA
+             YMENT
+             //HDF1C1AD87349F64D9C80FE
+16-10-2025                                                    105.00     47,133.37
+             01245498ABA1/16/10/2025
+             08:50:09
+
+             Chq: 112718897021
+
+             UPI/DR/112727611809/BHAGYA
+             JY/PUNB/**AJULI@OKSBI/UPI//
+             HDF5503EC9E9E574DB09705F
+16-10-2025   2C93CF8D88F/16/10/2025                           100.00     47,033.37
+             12:08:05
+
+             Chq: 112727611809
+
+             UPI/DR/100300120213/MADHAB
+             DEV/SBIN/**02429@SBI/COLLE
+             CT
+             //SBI22580401856944369C94DE
+16-10-2025                                                   2,200.00    44,833.37
+             05227403D1/16/10/2025
+             13:43:50
+
+             Chq: 100300120213
+
+             UPI/DR/112736305763/RINKU
+             MON/YESB/**MDY9J@PTY/UPI/
+             /HDF68B784F792804608886884
+16-10-2025   A5DE8ACACC/16/10/2025                             10.00     44,823.37
+             15:04:05
+
+             Chq: 112736305763
+
+             UPI/DR/528953087356/ADITI
+             NA/SBIN/**ITI14@OKICICI/UPI//
+             AXI7949F65764E946A4839CC7
+16-10-2025   CCA4FD6790/16/10/2025                            700.00     44,123.37
+             17:14:39
+
+             Chq: 528953087356
+
+             UPI/DR/528953984944/ALFAZ
+             ALI/FDRL/**MAY-
+             3@OKICICI/UPI//AXI5C91A6FD9
+16-10-2025   1194FB7A1F65D7B453480A6/16                      1,000.00    43,123.37
+             /10/2025 17:28:43
+
+             Chq: 528953984944
+
+             UPI/DR/112745799707/P D
+             AYUSH/UTIB/**18798@OKBIZA
+             XIS/UPI//HDF7ECFCB58F16D4A
+16-10-2025   35BC8AE60447C27A6E/16/10/2                        90.00     43,033.37
+             025 18:10:13
+
+             Chq: 112745799707
+
+
+
+
+                                                                         page 12
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/112775881883/RINKU
+             MON/YESB/**MDY9J@PTY/UPI/
+             /HDF9A49F9EE72284A8BBB4E7
+17-10-2025   F434795B29E/17/10/2025                            60.00     42,973.37
+             11:31:12
+
+             Chq: 112775881883
+
+             UPI/DR/100301054391/MADHAB
+             DEV/SBIN/**02429@SBI/COLLE
+             CT
+             //SBICE139D753BDD4627A7E4
+17-10-2025                                                   1,000.00    41,973.37
+             C59ABFD78C69/17/10/2025
+             14:09:52
+
+             Chq: 100301054391
+
+             UPI/DR/112797229257/ASHULA
+             L
+             D/UTIB/**00569@OKBIZAXIS/U
+             PI//HDFB7AB22F416254DFEAE
+17-10-2025                                                    100.00     41,873.37
+             16C05CBE5C90F3/17/10/2025
+             18:15:39
+
+             Chq: 112797229257
+
+             UPI/DR/529164569011/LEKHA
+             MON/SBIN/**70447@YBL/UPI//A
+             XI0B5C16A9AB044BC4824B03C
+18-10-2025                                                 10,000.00     31,873.37
+             D2222BA20/18/10/2025 10:17:54
+
+             Chq: 529164569011
+
+             UPI/DR/112879184951/NEHA
+             FRUI/UTIB/**09784@OKBIZAXI
+             S/UPI//HDFA45D34CE2B534D9
+19-10-2025   D8E0DF664E6A2C9E1/19/10/20                       150.00     31,723.37
+             25 09:51:42
+
+             Chq: 112879184951
+
+             UPI/DR/112882273019/MR
+             PRABI/UTIB/**13995@OKBIZAX
+             IS/UPI//HDF633EA219310B4CE
+19-10-2025   6B5FDB133E6C97798/19/10/202                       82.00     31,641.37
+             5 10:56:42
+
+             Chq: 112882273019
+
+             UPI/DR/565854597400/INDESW
+             AR
+             /SBIN/**RB185@OKSBI/UPI//AXI
+19-10-2025   3CA94B52A1EC416CA5469EA8                         120.00     31,521.37
+             E67FC9D6/19/10/2025 11:38:51
+
+             Chq: 565854597400
+
+
+
+
+                                                                         page 13
+  Date                Particulars            Deposits   Withdrawals    Balance
+
+             UPI/DR/112890174939/MS
+             SHARAN/YESB/**15380@YBL/U
+             PI//HDF06A2872065444858B9D
+19-10-2025   B6CDB0269CB9C/19/10/2025                         100.00    31,421.37
+             13:19:25
+
+             Chq: 112890174939
+
+             UPI/DR/112904714610/ASSAM
+             MED/YESB/**83854@YBL/UPI//
+             HDF6F07128186144649A1392A
+19-10-2025   07F7F3987A/19/10/2025                            260.00    31,161.37
+             17:48:13
+
+             Chq: 112904714610
+
+             UPI/DR/112975417164/INDIAN
+             RA/SBIN/**IRUTS@SBI/UPI//HD
+             F41BB0DE8D2134A99A3CC9CF
+21-10-2025                                                     25.00    31,136.37
+             B76249987/21/10/2025 05:53:07
+
+             Chq: 112975417164
+
+             UPI/DR/529499602348/SOLEND
+             RA /PUNB/**163-
+             1@OKSBI/UPI//AXI85BA10BA4A
+21-10-2025   B049339C1D85C870EA3C7D/21                         10.00    31,126.37
+             /10/2025 07:16:58
+
+             Chq: 529499602348
+
+             UPI/DR/112979499319/RANI
+             DOLE/SBIN/**AIKIA@OKSBI/UPI
+             //HDF24C14908EEF94355A594
+21-10-2025   C1ECF3EDC573/21/10/2025                           50.00    31,076.37
+             09:44:12
+
+             Chq: 112979499319
+
+             UPI/DR/113003349010/MADHAB
+             DEV/UTIB/**68225@OKBIZAXIS
+             /UPI//HDFF1EBF43CDCCA43CB
+21-10-2025   8866FB783A5D65B7/21/10/2025                       50.00    31,026.37
+             18:09:44
+
+             Chq: 113003349010
+
+             UPI/DR/113005132675/PHUKAN
+             ST/UTIB/**76798@OKBIZAXIS/U
+             PI//HDFF65A0A1FAFF7419291D
+21-10-2025   9B16A25CC4420/21/10/2025                          80.00    30,946.37
+             18:36:24
+
+             Chq: 113005132675
+
+
+
+
+                                                                        page 14
+  Date                Particulars           Deposits   Withdrawals     Balance
+
+             UPI/DR/113021440488/AMAZON
+             IN/UTIB/**ONUPI@APL/YOU
+             ARE
+             //APL019A09F96AA6CE3CEDF2
+22-10-2025                                                  3,422.00    27,524.37
+             D82EAF200D80/22/10/2025
+             09:02:32
+
+             Chq: 113021440488
+
+             UPI/DR/566161238931/JONKYR
+             AJ
+             /SBIN/**Y2005@OKSBI/UPI//AXI
+22-10-2025   1AB284C0C72746DB8ADE55F0                       1,400.00    26,124.37
+             188A0E04/22/10/2025 16:14:43
+
+             Chq: 566161238931
+
+             UPI/DR/113042534463/ASHULA
+             L
+             D/UTIB/**96225@OKBIZAXIS/U
+             PI//HDFFEBB82EE4DB0494C98
+22-10-2025                                                   100.00     26,024.37
+             6C703BEB124D69/22/10/2025
+             17:08:53
+
+             Chq: 113042534463
+
+             UPI/DR/113042547757/ASHULA
+             L
+             D/UTIB/**69229@OKBIZAXIS/U
+             PI//HDFC41111579E4A4CA793E
+22-10-2025                                                   100.00     25,924.37
+             4E51B12323D27/22/10/2025
+             17:09:22
+
+             Chq: 113042547757
+
+             UPI/DR/113048346598/ANJUMO
+             NI
+             /HDFC/**49013@HDFCBANK/U
+             PI//HDF303ABC6411874F4EB72
+22-10-2025                                                   100.00     25,824.37
+             11ACFC1D74CBD/22/10/2025
+             18:49:03
+
+             Chq: 113048346598
+
+             UPI/DR/113049260310/NARAYA
+             NPU/UTIB/**28385@OKBIZAXIS
+             /UPI//HDF0571FEFCD8334B5DB
+22-10-2025   B8EF50ED2841CD5/22/10/2025                      290.00     25,534.37
+             19:03:31
+
+             Chq: 113049260310
+
+             UPI/DR/113058990385/P D
+             AYUSH/UTIB/**18798@OKBIZA
+             XIS/UPI//HDF3F1CFE40E2C244
+22-10-2025   F5B899E2C7E5915ADD/22/10/2                      100.00     25,434.37
+             025 22:28:45
+
+             Chq: 113058990385
+
+
+                                                                        page 15
+  Date                Particulars           Deposits   Withdrawals    Balance
+
+             UPI/DR/113084962844/PUNYA
+             DAS/SBIN/**12630@OKSBI/UPI/
+             /HDF36CEC132E04E4ADA982B
+23-10-2025   093D27C9C364/23/10/2025                          30.00    25,404.37
+             16:48:38
+
+             Chq: 113084962844
+
+             UPI/DR/113085876605/CHAI
+             ARTI/UTIB/**25741@OKBIZAXIS
+             /UPI//HDF9B0AF74F07844CB0A
+23-10-2025   0BC3C763CB8757B/23/10/2025                       30.00    25,374.37
+             17:07:02
+
+             Chq: 113085876605
+
+             UPI/DR/113087970051/TORTUG
+             A
+             R/UTIB/**70394@OKBIZAXIS/U
+             PI//HDF6F11765C62AD4A08AA
+23-10-2025                                                   190.00    25,184.37
+             E97CD23031643D/23/10/2025
+             17:44:24
+
+             Chq: 113087970051
+
+             UPI/DR/113094638845/BARNALI
+             R/UTIB/**95914@OKBIZAXIS/U
+             PI//HDFC01CA618F11746E390B
+23-10-2025   861CD12DCEEFF/23/10/2025                         30.00    25,154.37
+             19:25:18
+
+             Chq: 113094638845
+
+             UPI/DR/113138120401/KHIROD
+             B/SBIN/**45756@YBL/UPI//HDF
+             46C4D5F52209485B8CACD5D1
+24-10-2025                                                   150.00    25,004.37
+             0ECF1A88/24/10/2025 19:04:36
+
+             Chq: 113138120401
+
+             UPI/DR/113159917403/ASSAM
+             MED/YESB/**83854@YBL/UPI//
+             HDF22C544E6871841A3B266D2
+25-10-2025   F5ECC87180/25/10/2025                           560.00    24,444.37
+             11:10:26
+
+             Chq: 113159917403
+
+             UPI/DR/113238691055/INDIAN
+             RA/SBIN/**IRUTS@SBI/UPI//HD
+             F4033616317EB4D4F8E326D76
+27-10-2025                                                    25.00    24,419.37
+             0AE2A034/27/10/2025 05:38:31
+
+             Chq: 113238691055
+
+
+
+
+                                                                       page 16
+  Date                Particulars            Deposits   Withdrawals    Balance
+
+             UPI/DR/113242249757/MR MD
+             C/UTIB/**96717@OKBIZAXIS/U
+             PI//HDF20E1572C771D4EE2AB
+27-10-2025   7BA6AE9A5E4CB6/27/10/2025                         70.00    24,349.37
+             09:13:04
+
+             Chq: 113242249757
+
+             UPI/DR/113263911662/PHUKAN
+             ST/UTIB/**71392@OKBIZAXIS/U
+             PI//HDFDE8B13925FAF4C02A6
+27-10-2025   248AA533CA5BA3/27/10/2025                        175.00    24,174.37
+             17:32:27
+
+             Chq: 113263911662
+
+             UPI/DR/113270043302/UTPAL
+             GOG/PUNB/**69374@YBL/UPI//
+             HDF7AD180A4CA07410F95294
+27-10-2025   21AE69D79B1/27/10/2025                           120.00    24,054.37
+             19:14:09
+
+             Chq: 113270043302
+
+             UPI/DR/113304770238/MR
+             NURUL
+             /IDIB/**UL408@OKSBI/UPI//HDF
+28-10-2025   188BE7B0ACCC46DA9AD1F5C                          100.00    23,954.37
+             138187ED3/28/10/2025 17:07:31
+
+             Chq: 113304770238
+
+             UPI/DR/113341739956/PIKU
+             DAA
+             /UTIB/**34330@OKBIZAXIS/UPI/
+             /HDFF4CB6C6EB5154379AA178
+29-10-2025                                                    200.00    23,754.37
+             189BAEB7708/29/10/2025
+             14:29:08
+
+             Chq: 113341739956
+
+             UPI/DR/113354034510/CHITRA
+             RAN/PUNB/**AN1-
+             2@OKICICI/UPI//HDFB4BAABE
+29-10-2025   AADD840F19CFF94501D2A2FE                          14.00    23,740.37
+             B/29/10/2025 18:41:01
+
+             Chq: 113354034510
+
+             UPI/DR/113354107996/PHUKAN
+             ST/UTIB/**63106@OKBIZAXIS/U
+             PI//HDF647AA92B0C0F4DA691
+29-10-2025   B520D23F626F38/29/10/2025                         15.00    23,725.37
+             18:42:01
+
+             Chq: 113354107996
+
+
+
+
+                                                                        page 17
+  Date                Particulars          Deposits       Withdrawals    Balance
+
+             UPI/CR/566839075925/UTPAL
+             GOG/PUNB/**OI434@OKAXIS/U
+             PI//AXI00C1DFE63B6945ADAF7
+29-10-2025   8DFD7C1E6394B/29/10/2025             40.00                   23,765.37
+             19:04:26
+
+             Chq: 566839075925
+
+             UPI/DR/113358775785/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDFC5FD99BAC2224E
+29-10-2025   889E03745AF1D8585A/29/10/20                         40.00    23,725.37
+             25 19:52:38
+
+             Chq: 113358775785
+
+             UPI/DR/530386763235/NISHA
+             AG/SBIN/**L82-
+             1@OKICICI/UPI//AXI8F5493EED
+30-10-2025   05E45E1B3E4A36072F9D10D/3                          400.00    23,325.37
+             0/10/2025 15:17:57
+
+             Chq: 530386763235
+
+             UPI/DR/113403214508/PRANEE
+             L
+             D/SBIP/**22658@SBIPAY/STATI
+             CQR//HDF24584435F0B14FFCB
+30-10-2025                                                       15.00    23,310.37
+             3DECC018FBA93BD/30/10/2025
+             19:20:43
+
+             Chq: 113403214508
+
+             UPI/DR/113403995507/MADHAB
+             DEV/UTIB/**68225@OKBIZAXIS
+             /UPI//HDF73A630E9AED34C39A
+30-10-2025   A4360F00F93C537/30/10/2025                          60.00    23,250.37
+             19:31:42
+
+             Chq: 113403995507
+
+             UPI/DR/113404041431/PHUKAN
+             ST/UTIB/**63106@OKBIZAXIS/U
+             PI//HDF0346D3C17EA24025A56
+30-10-2025   ED232875B1893/30/10/2025                            55.00    23,195.37
+             19:32:21
+
+             Chq: 113404041431
+
+             UPI/DR/567094645379/PHULSO
+             N
+             D/AIRP/**LSOND@OKSBI/UPI//
+             AXIEEF6914E1EA54509A29D5F
+31-10-2025                                                      200.00    22,995.37
+             164DD11D45/31/10/2025
+             12:00:07
+
+             Chq: 567094645379
+
+
+
+
+                                                                          page 18
+  Date                Particulars          Deposits   Withdrawals     Balance
+
+             UPI/DR/113429160611/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDF7A1B654F92AE49
+31-10-2025   6FAB9C07B96BA8E93C/31/10/2                      50.00     22,945.37
+             025 12:46:57
+
+             Chq: 113429160611
+
+             UPI/DR/113437531704/MR
+             MUKUL
+             /YESB/**73026@YBL/UPI//HDF8
+31-10-2025   0EFC7B13CD242E9931E0AF4D                        10.00     22,935.37
+             83A55D7/31/10/2025 15:36:13
+
+             Chq: 113437531704
+
+             UPI/DR/113437598994/NISHAM
+             EN/BARB/**75342@BARODAMP
+             AY/UPI//HDFF83913F7F68141B
+31-10-2025   3B4CB3814E411DFB5/31/10/20                     400.00     22,535.37
+             25 15:38:01
+
+             Chq: 113437598994
+
+             UPI/DR/113437640499/MR
+             MUKUL
+             /YESB/**05835@YBL/UPI//HDFF
+31-10-2025   30F44BA4C274A28A59C4D1B4                        40.00     22,495.37
+             1F7CD1A/31/10/2025 15:38:46
+
+             Chq: 113437640499
+
+             UPI/DR/113441129115/SORANG
+             A/UTIB/**E92-
+             2@OKAXIS/UPI//HDFDE9AF88B
+31-10-2025   585645B3B3570A5D535A633F/3                    1,460.00    21,035.37
+             1/10/2025 16:54:20
+
+             Chq: 113441129115
+
+             UPI/DR/113444034226/LUNASH
+             REE/UTIB/**97007@OKBIZAXIS
+             /UPI//HDF96CA8E10D6264F7CB
+31-10-2025   25FF1B3861B0437/31/10/2025                      50.00     20,985.37
+             17:46:19
+
+             Chq: 113444034226
+
+             UPI/DR/567017588615/MRS
+             ANITA/IDIB/**51491@INDIANBA
+             NK/UPI//AXI42EB29D9E9514E1
+31-10-2025   BB09700A2F98BBA81/31/10/202                     10.00     20,975.37
+             5 19:07:59
+
+             Chq: 567017588615
+
+
+
+
+                                                                       page 19
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/DR/113482583261/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDFF736536C67A4485
+01-11-2025   D89103F841608FF64/01/11/202                          70.00    20,905.37
+             5 14:14:50
+
+             Chq: 113482583261
+
+             UPI/DR/113493489486/MAJAN
+             RES/IDIB/**00817@INDIANBK/U
+             PI//HDF5FE6039ED8F642AC919
+01-11-2025   25D0CD835A5A1/01/11/2025                             80.00    20,825.37
+             17:46:23
+
+             Chq: 113493489486
+
+             UPI/DR/113505400315/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDFAE991A62F0F2465
+01-11-2025   B84690A3334F46663/01/11/202                          10.00    20,815.37
+             5 20:18:17
+
+             Chq: 113505400315
+
+             UPI/DR/113505703530/PRATIM
+             A/YESB/**43530@YBL/UPI//HDF
+             808A2BCEF5C141D49D404A07
+01-11-2025                                                        40.00    20,775.37
+             D9388E6A/01/11/2025 20:22:30
+
+             Chq: 113505703530
+
+             UPI/DR/113505918872/MRS
+             RANJ/YESB/**01018@YBL/UPI//
+             HDFE548BFFE5A094573993477
+01-11-2025   7ACC393D87/01/11/2025                                20.00    20,755.37
+             20:25:31
+
+             Chq: 113505918872
+
+             UPI/DR/113546795658/NAYANT
+             ARA/YESB/**69878@YBL/UPI//
+             HDF6E3CAB015C324239AA49A
+02-11-2025   3C3F82F2C3F/02/11/2025                              180.00    20,575.37
+             18:05:09
+
+             Chq: 113546795658
+
+             UPI/CR/567247279637/LAKHYA
+             JY/PUNB/**I2003@OKICICI/UPI/
+             /ICI1A750760D61942AEA38ADD
+02-11-2025   CA4CD60A2C/02/11/2025              1,000.00                   21,575.37
+             19:02:35
+
+             Chq: 567247279637
+
+
+
+
+                                                                           page 20
+  Date                 Particulars            Deposits       Withdrawals    Balance
+
+             UPI/DR/113571030433/BHOWAL
+             ST/IDIB/**00425@INDIANBK/UP
+             I//HDF67B3F6DABFC04C988C2
+03-11-2025   750A6440CA170/03/11/2025                              420.00    21,155.37
+             09:52:23
+
+             Chq: 113571030433
+
+             UPI/DR/113575498231/HIMALA
+             YA
+             /UTIB/**15796@OKBIZAXIS/UPI/
+             /HDF4D806673D4BD4C02982A2
+03-11-2025                                                         200.00    20,955.37
+             F70CA86A31D/03/11/2025
+             11:28:32
+
+             Chq: 113575498231
+
+             UPI/DR/113577556390/BORAH
+             H
+             S/UTIB/**35272@OKBIZAXIS/U
+             PI//HDFF061CE27F82D488DBB
+03-11-2025                                                          45.00    20,910.37
+             C7296D9E87E912/03/11/2025
+             12:10:12
+
+             Chq: 113577556390
+
+             UPI/DR/113581300476/ANURAG
+             ST/UTIB/**42436@OKBIZAXIS/U
+             PI//HDFEFAA2E741A554567934
+03-11-2025   9E5911E33F941/03/11/2025                               15.00    20,895.37
+             13:16:30
+
+             Chq: 113581300476
+
+             UPI/DR/530726873666/MR
+             BOLIN
+             /IDIB/**LIN77@OKICICI/UPI//AXI
+03-11-2025   B5A6EB1B9F3941F2A718D2727                              32.00    20,863.37
+             172BDEE/03/11/2025 15:04:20
+
+             Chq: 530726873666
+
+             UPI/DR/113591655809/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDF5B1F4FBF81C540
+03-11-2025   E1B70A00B9650C0F5F/03/11/20                           120.00    20,743.37
+             25 16:45:38
+
+             Chq: 113591655809
+
+             NACH 15253243-1025FC11250
+             C112504255143
+03-11-2025                                       37,000.00                   57,743.37
+             Chq:
+
+             NACH 15253243-1025HC11250
+             C112504255142
+03-11-2025                                        2,625.00                   60,368.37
+             Chq:
+
+
+                                                                             page 21
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/113605136629/SARU
+             VAI
+             /UTIB/**36441@OKBIZAXIS/UPI/
+             /HDFB7AD046C068646D7A1AD
+03-11-2025                                                     40.00     60,328.37
+             5052A366F77D/03/11/2025
+             20:06:34
+
+             Chq: 113605136629
+
+             UPI/DR/567343727429/DIPESH
+             N/SBIN/**AL278@OKSBI/UPI//A
+             XI1A64BA5956F948B18F8D518
+03-11-2025                                                   2,500.00    57,828.37
+             AB375495D/03/11/2025 23:14:38
+
+             Chq: 567343727429
+
+             UPI/DR/113631793574/RANUJ
+             GO/SBIN/**UJ698@OKSBI/UPI//
+             HDFFE73D23D4EA1413A9D11D
+04-11-2025   761282E6011/04/11/2025                           100.00     57,728.37
+             13:27:45
+
+             Chq: 113631793574
+
+             UPI/DR/113635824759/RINKU
+             MON/YESB/**MDY9J@PTY/UPI/
+             /HDFA93A83257184401A9CF8E
+04-11-2025   5ED79DE7E76/04/11/2025                            40.00     57,688.37
+             14:46:41
+
+             Chq: 113635824759
+
+             UPI/DR/113647615004/ANJUMO
+             NI
+             /HDFC/**49013@HDFCBANK/U
+             PI//HDF96FCBE98DB4E49CD8F
+04-11-2025                                                    190.00     57,498.37
+             C5290226F0E9B8/04/11/2025
+             18:23:25
+
+             Chq: 113647615004
+
+             UPI/DR/113655090603/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDF14BF5D294442469
+04-11-2025   086D03AAB512780E0/04/11/202                      130.00     57,368.37
+             5 19:58:22
+
+             Chq: 113655090603
+
+             UPI/DR/113681377407/DULAL
+             MED/UTIB/**81219@OKBIZAXIS
+             /UPI//HDFFF6C7CDAF8F448F3
+05-11-2025   AE3312795F5C793A/05/11/2025                      700.00     56,668.37
+             13:01:39
+
+             Chq: 113681377407
+
+
+
+
+                                                                         page 22
+  Date                Particulars          Deposits       Withdrawals    Balance
+
+             UPI/DR/113681461623/DULAL
+             MED/UTIB/**81219@OKBIZAXIS
+             /UPI//HDF915E1279942D4B8A9
+05-11-2025   E7C81C7DC5022AE/05/11/2025                          10.00    56,658.37
+             13:03:06
+
+             Chq: 113681461623
+
+             UPI/DR/113690432519/HP
+             BIHPUR/ICIC/**83870@OKBIZIC
+             ICI/UPI//HDF07D8F782CB20406
+05-11-2025   ABDA68796E4FF843C/05/11/20                         100.00    56,558.37
+             25 16:10:00
+
+             Chq: 113690432519
+
+             UPI/CR/101894107699/MDCOM
+             PUTE/HDFC/**.PAYU@HDFCBA
+             NK/REFUND//HDF41B85FDBF7
+05-11-2025   864067AA312F7ABF583160/05/        1,300.00                   57,858.37
+             11/2025 19:22:53
+
+             Chq: 101894107699
+
+             UPI/DR/113734685520/NISHA
+             AG/SBIN/**L82-
+             1@OKICICI/UPI//HDF3688C039
+06-11-2025   A49842009CB9E8DC7164A47B/                          430.00    57,428.37
+             06/11/2025 13:58:42
+
+             Chq: 113734685520
+
+             UPI/DR/567619967627/KANGKA
+             NA
+             /SBIN/**ANA38@OKSBI/UPI//AX
+06-11-2025   IFD8FE117895B4923A1752FF71                          60.00    57,368.37
+             5B4C713/06/11/2025 14:28:31
+
+             Chq: 567619967627
+
+             UPI/DR/113738335058/MRS
+             TARU/YESB/**25396@YBL/UPI//
+             HDF5F59E75FFAE845E7A1268
+06-11-2025   8139D80DAD7/06/11/2025                              20.00    57,348.37
+             15:14:32
+
+             Chq: 113738335058
+
+             UPI/DR/113746282347/NAJIMUL
+             F/UTIB/**12903@OKBIZAXIS/UP
+             I//HDF596F6778F4E24BA6AEF9
+06-11-2025   050AA962F03A/06/11/2025                             40.00    57,308.37
+             17:49:01
+
+             Chq: 113746282347
+
+
+
+
+                                                                          page 23
+  Date                Particulars           Deposits   Withdrawals    Balance
+
+             UPI/DR/113778788800/HIMALA
+             YA
+             /UTIB/**15796@OKBIZAXIS/UPI/
+             /HDFA1591210365E4477B3680
+07-11-2025                                                   100.00    57,208.37
+             A5E68C53DFD/07/11/2025
+             11:28:25
+
+             Chq: 113778788800
+
+             UPI/DR/113780599947/RAHUL
+             TAM/PUNB/**Y18-
+             1@OKICICI/UPI//HDFA26C189C
+07-11-2025   572B41A4A34A975DCFC3905E/                       370.00    56,838.37
+             07/11/2025 12:03:20
+
+             Chq: 113780599947
+
+             UPI/DR/113788947230/LEKHA
+             MON/SBIN/**70447@YBL/UPI//H
+             DF12835E579DB541AB92BC9C
+07-11-2025   F475B01801/07/11/2025                        20,000.00    36,838.37
+             14:47:02
+
+             Chq: 113788947230
+
+             UPI/DR/113799372544/MR
+             NURUL
+             /IDIB/**UL408@OKSBI/UPI//HDF
+07-11-2025   4A40A7650EA04364888EEA23B                       900.00    35,938.37
+             16A67C0/07/11/2025 18:05:03
+
+             Chq: 113799372544
+
+             UPI/DR/567797211980/MAKHAN
+             AHM/NESF/**ED786@OKAXIS/
+             UPI//AXI11750F89277043C2B5A
+07-11-2025   DBB7F44F5D66E/07/11/2025                         20.00    35,918.37
+             18:53:19
+
+             Chq: 567797211980
+
+             UPI/DR/567886783236/MS
+             SHARAN/YESB/**25209@YBL/U
+             PI//ICI8A3FADD1B6DD408BBCC
+08-11-2025   4EB9334FD7A00/08/11/2025                        200.00    35,718.37
+             07:49:06
+
+             Chq: 567886783236
+
+             UPI/DR/113839523619/PKD
+             SKIN
+             /CNRB/**00347@CNRB/PAY TO
+             M//HDFA9CE29A63AAE4442A7
+08-11-2025                                                   600.00    35,118.37
+             E14D8598A4914F/08/11/2025
+             14:28:46
+
+             Chq: 113839523619
+
+
+
+
+                                                                       page 24
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/DR/113840777169/PKD
+             SKIN
+             /CNRB/**00347@CNRB/PAY TO
+             M//HDFE10C8D82A5FB4281B2A
+08-11-2025                                                       233.00    34,885.37
+             2072334E3C57C/08/11/2025
+             14:54:25
+
+             Chq: 113840777169
+
+             UPI/DR/113886217142/IPPB
+             MERC/IPOS/**XTFIF@POSTBA
+             NK/UPI//HDF94F64ACE79DF448
+09-11-2025   0889343CF7FBB2F07/09/11/202                          10.00    34,875.37
+             5 12:37:16
+
+             Chq: 113886217142
+
+             UPI/DR/113886581518/SANJAY
+             P/YESB/**42613@YESBANKLT
+             D/PAY TO
+             B//HDF62FFF8B8EAB7463B9CE
+09-11-2025                                                        60.00    34,815.37
+             CED01C7547B8F/09/11/2025
+             12:44:03
+
+             Chq: 113886581518
+
+             UPI/DR/113887140901/MAHEND
+             RA
+             /SBIN/**40474@IBL/UPI//HDF21
+09-11-2025   42F059D32F46098F8F8663BC3                           700.00    34,115.37
+             9B5EA/09/11/2025 12:54:12
+
+             Chq: 113887140901
+
+             UPI/DR/531306397026/YUBARA
+             J /SBIN/**L22-
+             2@OKSBI/UPI//AXIEDF24A1B56
+09-11-2025   27472C9A1B820364644AA9/09/                           90.00    34,025.37
+             11/2025 16:36:06
+
+             Chq: 531306397026
+
+             UPI/DR/113901141321/ASSAM
+             MED/YESB/**83854@YBL/UPI//
+             HDFEFC0B7F389DB4EBE830E4
+09-11-2025   FACE8C89CDB/09/11/2025                              270.00    33,755.37
+             17:34:04
+
+             Chq: 113901141321
+
+             UPI/CR/531455627010/PANCHI
+             RAN/SBIN/**.NEOG@OKSBI/UP
+             I//SBI05222FF8281E467F9D4BD
+10-11-2025   463B8829373/10/11/2025             3,000.00                   36,755.37
+             11:00:33
+
+             Chq: 531455627010
+
+
+
+
+                                                                           page 25
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/568077560022/GITIREK
+             HA/SBIN/**C1996@OKSBI/UPI//I
+             CI53A446E4DB16464ABDBAEB
+10-11-2025   6927B56439/10/11/2025                           1,000.00    35,755.37
+             14:22:27
+
+             Chq: 568077560022
+
+             UPI/DR/113948481287/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDFF41965841A9F427
+10-11-2025   C8D9898161B66FD30/10/11/202                      310.00     35,445.37
+             5 16:50:54
+
+             Chq: 113948481287
+
+             UPI/DR/531445215564/SUMPIM
+             ONI/SBIN/**68519@YBL/UPI//A
+             XIB8CED9B4357B45868E63EF2
+10-11-2025                                                 20,000.00     15,445.37
+             23ACF6E40/10/11/2025 18:21:10
+
+             Chq: 531445215564
+
+             UPI/DR/113954435899/SUBRAT
+             A
+             /SBIN/**AD284@OKSBI/UPI//HD
+10-11-2025   FD7962A4029A44DAC816C5825                       6,000.00     9,445.37
+             8D5213A0/10/11/2025 18:22:28
+
+             Chq: 113954435899
+
+             UPI/DR/531577761982/KALYANI
+             KO/IPOS/**CH324@OKAXIS/UPI
+             //AXI924AF439AA68462AAA86B
+11-11-2025   E629DAC2580/11/11/2025                           100.00      9,345.37
+             11:36:20
+
+             Chq: 531577761982
+
+             UPI/DR/113986108782/ANJAN
+             KUM/SBIN/**ORAH6@OKSBI/U
+             PI//HDF43912A552F144370BC0
+11-11-2025   49398C6B36544/11/11/2025                        7,000.00     2,345.37
+             12:37:33
+
+             Chq: 113986108782
+
+             UPI/DR/531500393321/AKASH
+             DAH/UCBA/**720-
+             1@OKHDFCBANK/UPI//AXI8863
+11-11-2025   4DCCA56D4B55A6FC132FC617                         500.00      1,845.37
+             D46E/11/11/2025 16:14:40
+
+             Chq: 531500393321
+
+
+
+
+                                                                         page 26
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/DR/568170106859/AKASH
+             KUM/SBIN/**H1998@OKSBI/UPI
+             //AXI07F67DD3AA8145F19C489
+11-11-2025   64073A5B730/11/11/2025                              500.00     1,345.37
+             16:29:55
+
+             Chq: 568170106859
+
+             UPI/CR/568104413824/AKASH
+             DAH/UCBA/**720-
+             1@OKAXIS/UPI//AXI0502819BE
+11-11-2025   DE54E5185CCCB6B75B1C0FC/             500.00                    1,845.37
+             11/11/2025 20:12:11
+
+             Chq: 568104413824
+
+             UPI/DR/568287573547/MR
+             KISHUR/IDIB/**A98-
+             3@OKICICI/UPI//AXI859167FEC
+12-11-2025   5D348D29CFC4CD0204FE416/1                            50.00     1,795.37
+             2/11/2025 12:03:09
+
+             Chq: 568287573547
+
+             UPI/DR/568257487791/RANJIT
+             K/SBIN/**21363@YBL/UPI//AXI4
+             A2713FD32C74096B079CD61A2
+12-11-2025                                                       500.00     1,295.37
+             718C42/12/11/2025 14:56:22
+
+             Chq: 568257487791
+
+             UPI/DR/114043993630/MR
+             NABAJ/YESB/**17773@YBL/UPI
+             //HDF7A307EFF43BF468D84BA
+12-11-2025   18BAD62B7957/12/11/2025                             100.00     1,195.37
+             15:06:33
+
+             Chq: 114043993630
+
+             UPI/CR/531671893390/MODAN
+             GAM/SBIN/**M1997@OKSBI/UP
+             I//SBIA5B11B7646DA49E8ABBC
+12-11-2025   CA33C23BD304/12/11/2025              100.00                    1,295.37
+             19:05:13
+
+             Chq: 531671893390
+
+             UPI/DR/568358902108/RANI
+             DOLE/SBIN/**AIKIA@OKSBI/UPI
+             //AXI2262268FE7CE4B6A8C888
+13-11-2025   CF7F710E7BB/13/11/2025                              150.00     1,145.37
+             17:24:49
+
+             Chq: 568358902108
+
+
+
+
+                                                                           page 27
+  Date                Particulars           Deposits   Withdrawals    Balance
+
+             UPI/DR/114101052305/PHUKAN
+             ST/UTIB/**63106@OKBIZAXIS/U
+             PI//HDF752E07293163442F90F2
+13-11-2025   77F972F7350C/13/11/2025                         385.00       760.37
+             17:29:45
+
+             Chq: 114101052305
+
+             UPI/DR/114101337376/P D
+             AYUSH/UTIB/**78927@OKBIZA
+             XIS/UPI//HDF38FEEC34CA1B48
+13-11-2025   A0BB60939E13BF3CC9/13/11/2                      215.00       545.37
+             025 17:34:24
+
+             Chq: 114101337376
+
+             UPI/DR/568317904775/7399406
+             27/PPIW/**06273@MBK/UPI//AX
+             I3DB0BDDF1EE541D3918380B1
+13-11-2025                                                   150.00       395.37
+             592DD31C/13/11/2025 18:52:11
+
+             Chq: 568317904775
+
+             UPI/DR/114147665984/AIRTEL/
+             YESB/**PAYTM@PTYBL/UPI//P
+             YTM51114804646762588169XX
+14-11-2025   XXXXXXXXX/14/11/2025                             49.00       346.37
+             16:58:15
+
+             Chq: 114147665984
+
+             UPI/DR/114177187768/MS
+             SHARAN/YESB/**15380@YBL/U
+             PI//HDF526FA6555CA341128CA
+15-11-2025   8C4788959BB91/15/11/2025                        200.00       146.37
+             10:14:32
+
+             Chq: 114177187768
+
+             UPI/DR/114180752548/RANJAN
+             B/SBIN/**00771@OKSBI/UPI//H
+             DFA708D786CD7C4F9B9E3DF3
+15-11-2025   2FC4FEA431/15/11/2025                            10.00       136.37
+             11:28:55
+
+             Chq: 114180752548
+
+             UPI/DR/114405839676/MS
+             SHARAN/YESB/**25209@YBL/U
+             PI//HDFCAFF8CFA80A7445C9D
+20-11-2025   A1004712A92D91/20/11/2025                        10.00       126.37
+             09:30:41
+
+             Chq: 114405839676
+
+
+
+
+                                                                       page 28
+  Date                Particulars            Deposits       Withdrawals     Balance
+
+             UPI/DR/114444777994/BROKEN
+             TUS/KKBK/**ERIFY@KAYPAY/A
+             CCOUNT
+             //HDF34252E421BF243179E844
+20-11-2025                                                           1.00       125.37
+             FD682B77918/20/11/2025
+             21:27:19
+
+             Chq: 114444777994
+
+             UPI/CR/532723605638/BIJOYSR
+             I /SBIN/**I11-
+             1@OKSBI/UPI//SBI3B185D14DA
+23-11-2025   F64464AD7650A1F20E86A8/23/         10,000.00                    10,125.37
+             11/2025 15:50:38
+
+             Chq: 532723605638
+
+             UPI/DR/114573705196/GOHAIN
+             ST/ICIC/**93950@OKBIZICICI/U
+             PI//HDF2F036B6EAD874998B01
+23-11-2025   EC53FC14C8E86/23/11/2025                              85.00     10,040.37
+             16:10:45
+
+             Chq: 114573705196
+
+             UPI/DR/114602705589/WINT
+             WEAL/AIRP/**6.RZP@RXAIRTE
+             L/WINTWEALTH//HDFBCEB05A
+24-11-2025   80C054E31879EDE10D2402D8F                         10,008.32         32.05
+             /24/11/2025 09:55:13
+
+             Chq: 114602705589
+
+             UPI/CR/569665339890/ANGSU
+             MAN
+             /SBIN/**DAS62@OKAXIS/UPI//A
+26-11-2025   XIF50312924EC94723AFBD0FF          10,000.00                    10,032.05
+             9E534D8E4/26/11/2025 14:57:53
+
+             Chq: 569665339890
+
+             UPI/DR/114714060980/FOURDE
+             GRE/UTIB/**7.RZP@RXAXIS/UP
+             I//HDFFF488B69ADD44115A1A6
+26-11-2025   E405E5DA6845/26/11/2025                             9,972.72        59.33
+             15:13:07
+
+             Chq: 114714060980
+
+             UPI/DR/114844742253/INDIAN
+             RA/SBIN/**IRUTS@SBI/UPI//HD
+             F943AE68CC8BF4E708776D3C
+29-11-2025   23A6D5CD0/29/11/2025                                  20.00         39.33
+             10:28:32
+
+             Chq: 114844742253
+
+
+
+
+                                                                             page 29
+  Date                Particulars          Deposits       Withdrawals    Balance
+
+             UPI/CR/533524976277/UTPAL
+             GOG/PUNB/**OI434@OKSBI/UP
+             I//SBIC34339C0BC2F4D7C8309
+01-12-2025   3B4845764E8C/01/12/2025             100.00                      139.33
+             19:17:44
+
+             Chq: 533524976277
+
+             UPI/CR/533525321573/UTPAL
+             GOG/PUNB/**OI434@OKSBI/UP
+             I//SBI845BED174B044BC39B03
+01-12-2025   3BAED9977D7A/01/12/2025             100.00                      239.33
+             19:22:00
+
+             Chq: 533525321573
+
+             UPI/DR/114977617831/MR
+             BIKASH/YESB/**74448@YBL/U
+             PI//HDFD7E6791B8905468BB1B
+01-12-2025   C02AA4D3CDF07/01/12/2025                            30.00       209.33
+             19:46:32
+
+             Chq: 114977617831
+
+             UPI/CR/533643158931/AKASH
+             LA/SBIN/**ANE87@OKSBI/UPI//
+             SBI06478858EBB641039C82C1
+02-12-2025   B840FA004A/02/12/2025             3,000.00                    3,209.33
+             10:05:56
+
+             Chq: 533643158931
+
+             UPI/DR/115006767519/NEW
+             RAJKA/UTIB/**10521@OKBIZAX
+             IS/UPI//HDF7E00BA0CD51140C
+02-12-2025   B9DAE47909799E2FE/02/12/202                        100.00     3,109.33
+             5 13:45:22
+
+             Chq: 115006767519
+
+             UPI/DR/115006781558/NEW
+             RAJKA/UTIB/**10521@OKBIZAX
+             IS/UPI//HDF836F6E0FE4344C23
+02-12-2025   AD2A9E8FA6E79D0F/02/12/202                          10.00     3,099.33
+             5 13:45:47
+
+             Chq: 115006781558
+
+             UPI/DR/115006873474/SABITA
+             DE/YESB/**48804@YBL/UPI//H
+             DFECDD224893694651ACA27C
+02-12-2025   CC388DBFB8/02/12/2025                               10.00     3,089.33
+             13:47:17
+
+             Chq: 115006873474
+
+
+
+
+                                                                          page 30
+  Date                Particulars           Deposits          Withdrawals     Balance
+
+             UPI/DR/115017128558/MYSCO
+             OT
+             T/INDB/**.PAYU@INDUS/UPIIN
+             TENT//PPPL2625433107602122
+02-12-2025                                                           47.00      3,042.33
+             5170510692ECEEE/02/12/2025
+             17:05:35
+
+             Chq: 115017128558
+
+             UPI/DR/570260334048/SANGEE
+             TA
+             /SBIN/**GOI66@OKSBI/UPI//AXI
+02-12-2025   16548A4710C24A0988FE5C1A7                              100.00      2,942.33
+             5142C58/02/12/2025 18:29:07
+
+             Chq: 570260334048
+
+             304472864-JNS-PMSBY-
+             25-26-00330351939-390
+05-12-2025   GOHPUR                                                  20.00      2,922.33
+
+             Chq: 0
+
+             UPI/DR/512255123395/GOOGLE
+             PL/UTIB/**STORE@AXISBANK/
+             MANDATEE//AXI83CFA43AC85
+05-12-2025   A4303BECA83C6194670B6/05/1                                2.00     2,920.33
+             2/2025 16:38:37
+
+             Chq: 512255123395
+
+             UPI/CR/512356453395/GOOGLE
+             PAY/UTIB/**LEPAY@AXISBANK
+             /UPI//AXI942AF1E081DC48578C
+05-12-2025   241D8F6989C687/05/12/2025                 2.00                     2,922.33
+             16:39:05
+
+             Chq: 512356453395
+
+             UPI/DR/115207438057/ASSAM
+             MED/YESB/**83854@YBL/UPI//
+             HDFF144CAB1F4F1496093490A
+06-12-2025   63237376E2/06/12/2025                                  390.00      2,532.33
+             12:38:32
+
+             Chq: 115207438057
+
+             UPI/DR/115249407911/AMAZON
+             PA/UTIB/**OCERY@APL/YOU
+             ARE
+             //APL019AF70F77F87275DC34F
+07-12-2025                                                         2,125.60       406.73
+             FAD97FDF24C/07/12/2025
+             09:57:11
+
+             Chq: 115249407911
+
+
+
+
+                                                                               page 31
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/DR/115349444305/DGA
+             FILLI/YESB/**86101@YBL/UPI//
+             HDF46640F5FBBA54FF59D6AB
+09-12-2025   91C92008D96/09/12/2025                              100.00       306.73
+             09:07:03
+
+             Chq: 115349444305
+
+             UPI/DR/115351126539/NOOR
+             TRAN/UTIB/**19016@OKBIZAXI
+             S/UPI//HDFD244A351018240A7
+09-12-2025   A32232826541747E/09/12/2025                         200.00       106.73
+             09:47:38
+
+             Chq: 115351126539
+
+             UPI/DR/115357053510/M S
+             BISHA/UTIB/**40880@OKBIZAX
+             IS/UPI//HDF271896C7A6AB4C6
+09-12-2025   BA159055005FF5D9D/09/12/202                         100.00         6.73
+             5 11:53:55
+
+             Chq: 115357053510
+
+             UPI/CR/534419777414/DEBASIS
+             H /SBIN/**997-
+             3@OKICICI/UPI//ICI7961BF97D5
+10-12-2025   F64E3AB49F9424A119F35D/10/         1,500.00                    1,506.73
+             12/2025 18:05:27
+
+             Chq: 534419777414
+
+             UPI/DR/534627362030/ROHAN
+             RE/SBIN/**497-
+             3@YBL/UPI//AXI829673C2D73E
+12-12-2025   44139F5EE1098DE69AB2/12/12/                          20.00     1,486.73
+             2025 01:29:38
+
+             Chq: 534627362030
+
+             UPI/DR/115516550618/NAYANT
+             ARA/YESB/**69878@YBL/UPI//
+             HDF3A9D30C2E54147FB84F1A
+12-12-2025   5F0860B03F9/12/12/2025                              210.00     1,276.73
+             14:32:34
+
+             Chq: 115516550618
+
+             UPI/DR/115524155588/AJOY
+             SUNDI/YESB/**24805@YBL/UPI
+             //HDFA56C1200C8CC4876AC7A
+12-12-2025   5AE0E8B72DB1/12/12/2025                              30.00     1,246.73
+             17:04:40
+
+             Chq: 115524155588
+
+
+
+
+                                                                           page 32
+  Date                Particulars            Deposits       Withdrawals     Balance
+
+             UPI/DR/571233712639/RAKESH
+             H/SBIN/**SH516@OKSBI/UPI//A
+             XIE3C3B76134834DF086CD7D5
+12-12-2025   1B875C1CA/12/12/2025                                 200.00      1,046.73
+             17:59:12
+
+             Chq: 571233712639
+
+             NEFT CR-IN42535000041229-
+             ICIC0000105-NAVI FINSERV
+             LIMITED--FUND
+16-12-2025   TRANSFER/SGBO-0002542743-              78.00                     1,124.73
+             TXN
+
+             Chq: 0
+
+             UPI/DR/115814780806/MMTC
+             PAM/UTIB/**CPAMP@AXISBAN
+             K/UPI//HDF8B5AF199D91C477E
+18-12-2025   9396CC5AA10EDB91/18/12/202                          1,001.00       123.73
+             5 13:34:52
+
+             Chq: 115814780806
+
+             UPI/DR/115823553916/PADMA
+             HAZ/YESB/**73131@YBL/UPI//H
+             DF2DE02AF8B1FD4AE4B2C13
+18-12-2025   DEEEE100D50/18/12/2025                                60.00         63.73
+             16:35:41
+
+             Chq: 115823553916
+
+             UPI/DR/115980340416/SURJYA
+             S/YESB/**25900@YBL/UPI//HDF
+             8726BDA844BF489FA2C4DF50
+21-12-2025                                                         30.00         33.73
+             CA8329C9/21/12/2025 18:53:14
+
+             Chq: 115980340416
+
+             UPI/DR/115980380020/SURJYA
+             S/YESB/**25900@YBL/UPI//HDF
+             0F0ABEAE94D24D6B9CC0EBC
+21-12-2025                                                         10.00         23.73
+             F52458A9F/21/12/2025 18:53:43
+
+             Chq: 115980380020
+
+             UPI/CR/535836026479/DIPESH
+             N/SBIN/**AL278@OKSBI/UPI//S
+             BI696A8C488CEA4B8B86CD518
+24-12-2025                                         200.00                       223.73
+             8B8A7E95B/24/12/2025 08:36:23
+
+             Chq: 535836026479
+
+             UPI/DR/116095969128/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             HDFB7AD980CC7924153A9EE5
+24-12-2025   795AF25F74A/24/12/2025                               200.00         23.73
+             09:16:46
+
+             Chq: 116095969128
+
+                                                                             page 33
+  Date                Particulars            Deposits          Withdrawals    Balance
+
+             UPI/DR/116115363406/MR
+             DIPAK
+             /UTIB/**26671@OKBIZAXIS/UPI/
+             /HDFFA799215AD594BF5AC89
+24-12-2025                                                            10.00        13.73
+             CE08C1B810CE/24/12/2025
+             15:51:18
+
+             Chq: 116115363406
+
+             SMS CHARGES ON ACTUAL
+             BASIS
+25-12-2025                                                            13.73         0.00
+             Chq: 0
+
+             SBINT FOR THE PERIOD
+             FROM28-SEP-25 TO 27-DEC-25
+28-12-2025                                         227.00                         227.00
+             Chq:
+
+             SMS CHARGES ON ACTUAL
+             BASISDUE DT:24-DEC-25
+28-12-2025                                                            41.27       185.73
+             Chq: 0
+
+             NACH 15919329-1125FC12254
+             C122544155144
+29-12-2025                                      37,000.00                      37,185.73
+             Chq:
+
+             NACH 15919329-1125HC12254
+             C122544155143
+29-12-2025                                       2,625.00                      39,810.73
+             Chq:
+
+             UPI/DR/573072362327/ASSAM
+             EGR/ICIC/**24300@ICICI/UPI//A
+             XI2272EBABF38E4586AD7AEA3
+30-12-2025   84A69CCCF/30/12/2025                                     10.00    39,800.73
+             17:00:01
+
+             Chq: 573072362327
+
+             UPI/CR/682403423645/GOOGLE
+             IN/UTIB/**MENTS@AXISBANK/
+             UPI//AXIF38ABEECAF294A9CB
+30-12-2025   FE26B1CF6651783/30/12/2025                 1.00                   39,801.73
+             17:01:18
+
+             Chq: 682403423645
+
+             UPI/DR/116408553664/MR
+             HEMAD/YESB/**13213@YBL/UP
+             I//HDFB026F9B7660E44E8893E
+30-12-2025   424A7F5B9E2D/30/12/2025                                  20.00    39,781.73
+             17:45:38
+
+             Chq: 116408553664
+
+
+
+
+                                                                               page 34
+  Date                Particulars            Deposits          Withdrawals     Balance
+
+             UPI/114444777994/F01/20/11/20
+             25
+30-12-2025                                              1.00                    39,782.73
+             Chq:
+
+             UPI/DR/536509788872/ROHIT
+             KUM/BARB/**636-
+             2@IBL/UPI//AXIC67D491F21434
+31-12-2025   481AB8BA8CEC7F62A1C/31/12/                              299.00     39,483.73
+             2025 20:13:41
+
+             Chq: 536509788872
+
+             UPI/CR/779634907571/ROHIT
+             KUM/BARB/**636-
+             2@AXL/PAYMENT
+             //AXL0C1796026C944D37B6235
+31-12-2025                                         299.00                       39,782.73
+             E0AB874AA0E/31/12/2025
+             20:51:30
+
+             Chq: 779634907571
+
+             UPI/DR/116501959865/KRISHN
+             AKH/SBIN/**RUAH7@OKSBI/UP
+             I//HDFEFBCCBE19EE14C50AC6
+01-01-2026   F2F37743DF9C8/01/01/2026                                900.00     38,882.73
+             13:24:41
+
+             Chq: 116501959865
+
+             UPI/DR/108888271799/WELOCI
+             TY
+             /ICIC/**D.NTT@ICICI/COLLECT-
+             //ICI2FC8224488774E4692316A
+01-01-2026                                                          5,000.00    33,882.73
+             15AE41B49A/01/01/2026
+             18:09:46
+
+             Chq: 108888271799
+
+             UPI/DR/636725465059/GOOGLE
+             IN/ICIC/**HARGE@ICICI/UPI//A
+             XI5CEA2C75E43C4C8997AB27
+01-01-2026   D233084CB4/01/01/2026                                   200.90     33,681.83
+             18:23:46
+
+             Chq: 636725465059
+
+             UPI/DR/116522110021/LENDEN
+             CLUB/UTIB/**.PAYU@AXISBAN
+             K/UPI//PPPL2666607095701012
+01-01-2026   61911316956798B/01/01/2026                             3,000.00    30,681.83
+             19:11:58
+
+             Chq: 116522110021
+
+
+
+
+                                                                                page 35
+  Date                Particulars           Deposits       Withdrawals     Balance
+
+             UPI/DR/116570883505/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             HDFD682E0E8229A4619896825
+02-01-2026   68969D271A/02/01/2026                              1,100.00    29,581.83
+             18:32:13
+
+             Chq: 116570883505
+
+             UPI/DR/116625622675/DOMINA
+             TOR/UTIB/**8.RZP@AXISBANK/
+             PAYVIARA//HDF9BDC8596E38
+03-01-2026   C4E009F789D98A9479C0D/03/0                             9.00    29,572.83
+             1/2026 18:34:28
+
+             Chq: 116625622675
+
+             SMS CHARGE SHORT
+             COLLECTION SEP-
+04-01-2026   DEC2025DUE DT:03-JAN-26                                1.00    29,571.83
+
+             Chq: 0
+
+             UPI/CR/600411757042/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             SBI8BD3705132B34B418475C9
+04-01-2026   F711D7BE6A/04/01/2026              1,100.00                    30,671.83
+             10:19:34
+
+             Chq: 600411757042
+
+             UPI/DR/116657767644/MISS
+             BUL/YESB/**51211@YBL/UPI//H
+             DF33FDBA7F9B664F2DA01E51
+04-01-2026   4C9EFFCA05/04/01/2026                                30.00     30,641.83
+             12:33:57
+
+             Chq: 116657767644
+
+             UPI/DR/116737440504/AMAZON
+             IN/UTIB/**ONUPI@APL/YOU
+             ARE
+             //APL019B8EA293AC17C4BA2C
+05-01-2026                                                      1,183.00    29,458.83
+             2ADAD97AD240/05/01/2026
+             20:20:03
+
+             Chq: 116737440504
+
+             UPI/DR/116820619700/ANKITA
+             N/SBIN/**66544@IBL/UPI//HDFC
+             E30B9F846FA49CD9CDB891CC
+07-01-2026                                                       400.00     29,058.83
+             6339D18/07/01/2026 16:14:56
+
+             Chq: 116820619700
+
+             UPI/DR/637464895079/RANU
+             DAS/SBIN/**DAS62@OKSBI/UPI
+             //AXIB734ECB0EDAF449A9FAB
+08-01-2026   127985CAA3A9/08/01/2026                            1,000.00    28,058.83
+             09:04:29
+
+             Chq: 637464895079
+                                                                            page 36
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/600855113010/STANY
+             SER/ICIC/**OCITY@ICICI/UPI//A
+             XIF691D6727D63486EB783855
+08-01-2026   B06C36FCD/08/01/2026                          10,000.00     18,058.83
+             12:02:41
+
+             Chq: 600855113010
+
+             UPI/DR/600888861376/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             AXI6CD84224BB954AED824942
+08-01-2026   18BB43BCB3/08/01/2026                            150.00     17,908.83
+             19:43:27
+
+             Chq: 600888861376
+
+             UPI/REV/600888861376/ANGSU
+             MAN /CNRB/**S62-
+             1@OKAXIS/UPI//AXI6CD84224B
+08-01-2026   B954AED82494218BB43BCB3/0                        -150.00    18,058.83
+             8/01/2026 19:43:45
+
+             Chq: 600888861376
+
+             UPI/DR/116887185350/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             HDFF4F87DC213F34F57ABC38
+08-01-2026   550BBBF442B/08/01/2026                           150.00     17,908.83
+             20:00:22
+
+             Chq: 116887185350
+
+             UPI/DR/116915411447/KAZIRAN
+             GA/UTIB/**23530@OKBIZAXIS/
+             UPI//HDF9CF7A3C8C63B4983B
+09-01-2026   98D37F84B981D9F/09/01/2026                        10.00     17,898.83
+             14:03:29
+
+             Chq: 116915411447
+
+             UPI/DR/116954216054/RAHMAN
+             ST/HDFC/**43549@HDFCBANK/
+             UPI//HDFB17F90AEB06A4D52B
+10-01-2026   6262D0ABD36AF27/10/01/2026                        15.00     17,883.83
+             09:50:16
+
+             Chq: 116954216054
+
+             UPI/DR/116968342210/DEVEND
+             RAS/YESB/**15694@YBL/UPI//
+             HDF3B263EBBEF9C4F6FA440A
+10-01-2026   9E542733C8C/10/01/2026                            80.00     17,803.83
+             14:11:40
+
+             Chq: 116968342210
+
+
+
+
+                                                                         page 37
+  Date                Particulars            Deposits   Withdrawals    Balance
+
+             UPI/DR/601015518883/RUPAM
+             JYO/SBIN/**H2000@OKSBI/UPI/
+             /AXIC87F5F861D8A48269E12C
+10-01-2026   DBCE56EFA19/10/01/2026                           150.00    17,653.83
+             14:23:10
+
+             Chq: 601015518883
+
+             UPI/DR/116982030953/SURESH
+             KU/YESB/**62206@YBL/UPI//H
+             DF0DF3A03D89244044BF6F442
+10-01-2026                                                     60.00    17,593.83
+             1DC895F32/10/01/2026 18:07:17
+
+             Chq: 116982030953
+
+             UPI/DR/116982103479/BINAY
+             STO/UTIB/**11851@OKBIZAXIS
+             /UPI//HDFD2DD913B974943549
+10-01-2026   E21558F793AAB88/10/01/2026                       200.00    17,393.83
+             18:08:09
+
+             Chq: 116982103479
+
+             UPI/DR/116988870538/DADUL
+             SAI/UCBA/**JMG-
+             1@OKICICI/UPI//HDF779BEED3
+10-01-2026   1AEB40858C05F78E765C5F6A/                         50.00    17,343.83
+             10/01/2026 19:30:22
+
+             Chq: 116988870538
+
+             UPI/DR/116991101395/BAIDEW
+             KL/UTIB/**43887@OKBIZAXIS/U
+             PI//HDF473FBF6D5A244B0FBD
+10-01-2026   6210D28ED2DD97/10/01/2026                         40.00    17,303.83
+             19:59:41
+
+             Chq: 116991101395
+
+             UPI/DR/116991442806/BAIDEW
+             KL/UTIB/**589-
+             1@OKBIZAXIS/UPI//HDF513337
+10-01-2026   34B9424C6B9367782D8688B1C                        370.00    16,933.83
+             7/10/01/2026 20:04:28
+
+             Chq: 116991442806
+
+             UPI/DR/601469927559/RUPAM
+             JYO/SBIN/**H2000@OKSBI/UPI/
+             /AXI25AF8B7088CD4698B7A920
+14-01-2026   62D057C458/14/01/2026                            220.00    16,713.83
+             17:41:46
+
+             Chq: 601469927559
+
+
+
+
+                                                                        page 38
+  Date                Particulars            Deposits       Withdrawals    Balance
+
+             NEFT CR-IN42601400116888-
+             ICIC0000105-NAVI FINSERV
+             LIMITED--FUND
+14-01-2026   TRANSFER/SGBO-0002634446-              81.00                   16,794.83
+             TXN
+
+             Chq: 0
+
+             UPI/CR/601472737033/GAJEN
+             ME/SBIN/**HI459@OKAXIS/UPI/
+             /AXI8027EBD57ED44A428EE2C
+14-01-2026   2C48DE260C4/14/01/2026                600.00                   17,394.83
+             19:08:59
+
+             Chq: 601472737033
+
+             UPI/DR/117193409768/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             HDF2C4B1DC380C54A8DA9FC
+14-01-2026   BE7C88D341C1/14/01/2026                              600.00    16,794.83
+             19:22:59
+
+             Chq: 117193409768
+
+             UPI/DR/117216871275/AIRTEL/
+             UTIB/**.PAYU@AXISBANK/UPI//
+             PPPL2686007033915012611552
+15-01-2026                                                        859.00    15,935.83
+             569688855/15/01/2026 11:55:47
+
+             Chq: 117216871275
+
+             UPI/CR/601638303151/BUBUL
+             DAS/SBIN/**S62-
+             1@OKSBI/UPI//SBIE18E8D2AA
+16-01-2026   E3541A6B8B5A89DD95E977C/1        1,00,000.00                  1,15,935.83
+             6/01/2026 09:52:53
+
+             Chq: 601638303151
+
+             UPI/DR/117261591992/MS
+             SHARAN/YESB/**25209@YBL/U
+             PI//HDF98DE25DC1B544BE386
+16-01-2026   2B839E7F83C006/16/01/2026                            100.00   1,15,835.83
+             11:47:07
+
+             Chq: 117261591992
+
+             UPI/DR/117263896697/ADITYA
+             S/SBIN/**973-
+             1@OKSBI/UPI//HDF079D4710E
+16-01-2026   6284369AD9532BADCB86217/1                             10.00   1,15,825.83
+             6/01/2026 12:35:25
+
+             Chq: 117263896697
+
+
+
+
+                                                                            page 39
+  Date                Particulars          Deposits   Withdrawals    Balance
+
+             UPI/DR/117267587259/PRABHA
+             SHA/CNRB/**33425@UPI/UPI//H
+             DFF6EA932792AC457EA6879B
+16-01-2026   777ED856B7/16/01/2026                          400.00   1,15,425.83
+             13:49:59
+
+             Chq: 117267587259
+
+             UPI/DR/117269950559/GHOSH
+             ST/CNRB/**01059@CNRB/PAY
+             TO
+             M//HDF705827547A664B50B198
+16-01-2026                                                  200.00   1,15,225.83
+             B27DA1BD61E1/16/01/2026
+             14:38:50
+
+             Chq: 117269950559
+
+             UPI/DR/117271184632/FLORA/Y
+             ESB/**91377@YBL/UPI//HDF7C
+             F6FC6EFD5841CF985F3519EA
+16-01-2026                                                  408.00   1,14,817.83
+             EB075B/16/01/2026 15:06:18
+
+             Chq: 117271184632
+
+             UPI/DR/117272922059/JAMUGU
+             RI
+             /YESB/**54780@YBL/UPI//HDF6
+16-01-2026   0F3DFD45B074F90B6528A6C57                      100.00   1,14,717.83
+             F54869/16/01/2026 15:46:09
+
+             Chq: 117272922059
+
+             UPI/DR/117513699018/RATUL
+             KA/YESB/**32477@YBL/UPI//H
+             DFBA7BA1699C184AB386786B
+21-01-2026   E9801B97BD/21/01/2026                           80.00   1,14,637.83
+             15:48:12
+
+             Chq: 117513699018
+
+             UPI/DR/602139154861/MR
+             SUBIR
+             /IDIB/**SHARI@OKHDFCBANK/
+             UPI//AXI4157B0BAF54C4AA395
+21-01-2026                                                  100.00   1,14,537.83
+             F8C08E945BC1B5/21/01/2026
+             19:19:08
+
+             Chq: 602139154861
+
+             UPI/DR/602192453327/MR
+             SUBIR
+             /IDIB/**SHARI@OKHDFCBANK/
+             UPI//AXIC7726421EBAE43EAB2
+21-01-2026                                                   10.00   1,14,527.83
+             BBFD51E5337FD2/21/01/2026
+             19:19:38
+
+             Chq: 602192453327
+
+
+
+
+                                                                      page 40
+  Date                Particulars           Deposits   Withdrawals    Balance
+
+             UPI/DR/117541150436/NEOG
+             FILL/UTIB/**751-
+             1@OKBIZAXIS/UPI//HDF5ED4E
+22-01-2026   DE5D37942D398D52B085A1AC                        100.00   1,14,427.83
+             075/22/01/2026 06:57:23
+
+             Chq: 117541150436
+
+             UPI/DR/602284181771/KRISHN
+             APE/SBIN/**GU184@OKAXIS/U
+             PI//AXI1A19457327BB461A9784
+22-01-2026   F1382A82FA9A/22/01/2026                         500.00   1,13,927.83
+             10:01:43
+
+             Chq: 602284181771
+
+             UPI/DR/117554586228/MR BIJIT
+             /YESB/**01343@YBL/UPI//HDF2
+             7E2C648ED1B47529999C9C398
+22-01-2026                                                    85.00   1,13,842.83
+             38F7A4/22/01/2026 13:02:40
+
+             Chq: 117554586228
+
+             UPI/DR/117580135423/JOY
+             KHOUND/UNBA/**87412@UNIT
+             YPE/PAY TO
+             B//HDF2932109EE0874824ABF7
+22-01-2026                                                    90.00   1,13,752.83
+             6E743B397162/22/01/2026
+             20:27:38
+
+             Chq: 117580135423
+
+             UPI/DR/638897753139/DANDIG
+             OGO/CNRB/**GOI58@OKAXIS/
+             UPI//AXI630AE5DB1E8B4BB789
+22-01-2026   C7D42CD080F685/22/01/2026                       350.00   1,13,402.83
+             20:29:12
+
+             Chq: 638897753139
+
+             UPI/DR/638995998597/SLICE
+             SAV/NESF/**VINGS@SLC/PAY
+             MENTF//AXIB322310F881B4563
+23-01-2026   810DAAE4B97080D2/23/01/2026                  90,000.00    23,402.83
+             12:30:44
+
+             Chq: 638995998597
+
+             UPI/DR/602307711283/JAMUGU
+             RI
+             /YESB/**54780@YBL/UPI//AXIE
+23-01-2026   7A6F7A79118441F95D22572E7                       500.00    22,902.83
+             4436DA/23/01/2026 13:36:03
+
+             Chq: 602307711283
+
+
+
+
+                                                                       page 41
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/602397634886/MESME
+             RIZI/UTIB/**59101@OKBIZAXIS/
+             UPI//AXID246FFA6728D4DC480
+23-01-2026   303BA7D5FE7FF2/23/01/2026                         20.00     22,882.83
+             15:57:35
+
+             Chq: 602397634886
+
+             UPI/DR/602372540140/MS
+             AHIMSA/YESB/**K7MF0@PAYT
+             M/UPI//AXI0200DF2DDB3B40A5
+23-01-2026   B1439CDCA2918DDC/23/01/202                       100.00     22,782.83
+             6 16:08:48
+
+             Chq: 602372540140
+
+             UPI/DR/602312027652/KALYANI
+             E/YESB/**57541@YBL/UPI//AXI
+             E30209CF63564B859BB09939F
+23-01-2026                                                    400.00     22,382.83
+             024272F/23/01/2026 18:16:07
+
+             Chq: 602312027652
+
+             UPI/DR/117618286601/R N
+             ENTER/YESB/**PXOL2@PTY/U
+             PI//HDF328C3891BAAF4B5CB9
+24-01-2026   5EC8E48F52ED3B/24/01/2026                        100.00     22,282.83
+             14:02:39
+
+             Chq: 117618286601
+
+             UPI/DR/117630931676/SLICE
+             SAV/NESF/**VINGS@SLC/PAY
+             MENTF//HDF41336927BD73496
+24-01-2026   8AD205E649CECE753/24/01/20                    10,000.00     12,282.83
+             26 17:40:50
+
+             Chq: 117630931676
+
+             UPI/DR/117668910650/R N
+             ENTER/YESB/**PXOL2@PTY/U
+             PI//HDFE16435147A47465B8B1
+25-01-2026   1F40B93620FC3/25/01/2026                         100.00     12,182.83
+             13:43:31
+
+             Chq: 117668910650
+
+             UPI/DR/117711137792/RULI
+             BORA/YESB/**00576@YBL/UPI/
+             /HDF31CB9E2CA0F042A28C71
+26-01-2026   16A3CEF4BF54/26/01/2026                         1,550.00    10,632.83
+             12:36:00
+
+             Chq: 117711137792
+
+             UPI/DR/117712009827/AJIBUR
+             RA/YESB/**95279@YBL/UPI//H
+             DF44039B373F1149FCB02E0BF
+26-01-2026                                                     60.00     10,572.83
+             3F9D16F67/26/01/2026 12:53:36
+
+             Chq: 117712009827
+                                                                         page 42
+  Date                Particulars           Deposits   Withdrawals     Balance
+
+             UPI/DR/639349767581/DIP
+             BORAH/UCBA/**AH367@OKHD
+             FCBANK/UPI//AXI798230046D4
+27-01-2026   347D3978C10835C91FB07/27/0                      400.00     10,172.83
+             1/2026 15:11:30
+
+             Chq: 639349767581
+
+             UPI/DR/117797809137/PANKAJ
+             T/YESB/**86236@YBL/UPI//HDF
+             1205F718D138434F9A60EB8AF
+28-01-2026                                                    60.00     10,112.83
+             2BF4274/28/01/2026 12:43:30
+
+             Chq: 117797809137
+
+             UPI/DR/117814136658/RAJ
+             KUMAR/FDRL/**20806@FBPE/P
+             AY TO
+             B//HDF162C6B99822E4924A536
+28-01-2026                                                    50.00     10,062.83
+             523FA751C5DD/28/01/2026
+             18:17:03
+
+             Chq: 117814136658
+
+             UPI/DR/117848130174/MR BIJIT
+             /YESB/**36398@YBL/UPI//HDF6
+             1E3A6A427F143398FF43CA662
+29-01-2026                                                    80.00      9,982.83
+             BE0DEF/29/01/2026 13:39:19
+
+             Chq: 117848130174
+
+             UPI/DR/117857135210/YIELD
+             TEC/YESB/**SP003@YESBANK
+             LTD/VERIFICA//HDF21F05E8C1
+29-01-2026   02648998092587A78E7388C/29/                        1.00     9,981.83
+             01/2026 16:44:25
+
+             Chq: 117857135210
+
+             UPI/DR/117877176886/BLINKIT/
+             YESB/**INKIT@PTYBL/BLINKIT
+             //PYTM60129806179059629073
+29-01-2026   XXXXXXXXXXX/29/01/2026                          163.00      9,818.83
+             22:31:24
+
+             Chq: 117877176886
+
+             UPI/DR/117895075383/PANKAJ
+             T/YESB/**86236@YBL/UPI//HDF
+             C842F59068C045FE8A0EA619A
+30-01-2026                                                    60.00      9,758.83
+             15C0A5A/30/01/2026 13:33:12
+
+             Chq: 117895075383
+
+             UPI/DR/603063418065/ABU
+             BAKKA/SBIN/**667-
+             2@IBL/UPI//AXI17BD33D26ACD
+30-01-2026   4E0A8A1EC7346094C6E4/30/01                       40.00      9,718.83
+             /2026 14:34:16
+
+             Chq: 603063418065
+                                                                        page 43
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/603040534295/7002539
+             67/CNRB/**39678@PTYES/UPI//
+             AXIB7DBC0AC822745049E595D
+30-01-2026   34942E3CC8/30/01/2026                           1,000.00     8,718.83
+             18:11:46
+
+             Chq: 603040534295
+
+             UPI/DR/117912903393/HOMEN
+             SAI/PUNB/**MEN.S@PTYES/UP
+             I//HDF4F6F33B0289144B1A51F
+30-01-2026   99A177AD25EB/30/01/2026                           50.00      8,668.83
+             19:05:25
+
+             Chq: 117912903393
+
+             304472864-JNS-PMJJBY-
+             25-26-00350120733-135
+31-01-2026   GOHPUR                                           228.00      8,440.83
+
+             Chq: 0
+
+             UPI/DR/117955837089/MS
+             SHARAN/YESB/**25209@YBL/U
+             PI//HDFD5B95430A4A148C49A5
+31-01-2026   B07CC26192F1D/31/01/2026                         295.00      8,145.83
+             17:20:40
+
+             Chq: 117955837089
+
+             UPI/DR/117956604913/HOTEL
+             ATI/UTIB/**54183@OKBIZAXIS/
+             UPI//HDFD16C9DBEDCFF4BBC
+31-01-2026   8B25BBA86F96A838/31/01/2026                       50.00      8,095.83
+             17:33:31
+
+             Chq: 117956604913
+
+             UPI/DR/118012762353/DAS
+             BROTH/UTIB/**13504@OKBIZA
+             XIS/UPI//HDF3331E9107E98435
+01-02-2026   7A01797EE67CC30F2/01/02/202                      100.00      7,995.83
+             6 18:35:13
+
+             Chq: 118012762353
+
+             UPI/DR/118021476447/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             HDF34FB9952367146F2AA931C
+01-02-2026   6E87A61882/01/02/2026                            250.00      7,745.83
+             20:24:07
+
+             Chq: 118021476447
+
+             UPI/DR/603386853382/NAYAK
+             ENT/ICIC/**17603@ICICI/UPI//A
+             XICE24BD18CDA84B9D990A9F
+02-02-2026   4403ED1DD3/02/02/2026                           2,000.00     5,745.83
+             09:54:32
+
+             Chq: 603386853382
+                                                                         page 44
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/603391667958/PAUL
+             JEWE/ICIC/**41005@ICICI/UPI//
+             AXI29C2455B058D48AAA42F91
+02-02-2026   81234B28A7/02/02/2026                            950.00      4,795.83
+             10:02:00
+
+             Chq: 603391667958
+
+             UPI/DR/118076893968/MRS
+             KAMIN/CBIN/**59855@NYES/U
+             PI//HDF5EE2979C8C0A4626984
+02-02-2026   BD0F3DA4A2F8F/02/02/2026                         250.00      4,545.83
+             21:39:00
+
+             Chq: 118076893968
+
+             UPI/DR/118109098527/PINKUJI
+             T
+             /UBIN/**AS720@OKSBI/UPI//HD
+03-02-2026   FDE1014D36ACF482893454030                        495.00      4,050.83
+             DB53DF06/03/02/2026 17:13:02
+
+             Chq: 118109098527
+
+             UPI/DR/603551226024/DIPANK
+             ARD/IPOS/**108-
+             6@OKAXIS/UPI//AXI797B1E3AA
+04-02-2026   8E24DF08C520C6BC01987E4/0                       1,500.00     2,550.83
+             4/02/2026 12:30:54
+
+             Chq: 603551226024
+
+             UPI/DR/603536339046/DIPANK
+             ARD/IPOS/**108-
+             6@OKAXIS/UPI//AXIE83AEA6F
+04-02-2026   D6994252AD64965978E99A39/0                       200.00      2,350.83
+             4/02/2026 13:59:40
+
+             Chq: 603536339046
+
+             UPI/DR/603570862066/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             AXIC012DA4D4963421ABC4DD
+04-02-2026   C7E04F77A8B/04/02/2026                           120.00      2,230.83
+             17:14:24
+
+             Chq: 603570862066
+
+             UPI/DR/118160152058/MUNMI
+             KAK/UTIB/**90246@OKBIZAXIS
+             /UPI//HDFB994E978120B4E648
+04-02-2026   EEE22AABF5E55F3/04/02/2026                        12.00      2,218.83
+             17:38:36
+
+             Chq: 118160152058
+
+
+
+
+                                                                         page 45
+  Date                Particulars           Deposits       Withdrawals     Balance
+
+             UPI/CR/603795243520/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF73DAED4A7A83432294D8
+06-02-2026                                      4,000.00                     6,218.83
+             5D1CC0EF76A4/06/02/2026
+             10:46:59
+
+             Chq: 603795243520
+
+             UPI/DR/640395771543/BAJAJ
+             FIN/ICIC/**PG.MF@VALIDICICI/
+             PAY//YJP40A12842DE3A4CCCB
+06-02-2026   5E66580B2B401D1/06/02/2026                         5,000.00     1,218.83
+             10:48:27
+
+             Chq: 640395771543
+
+             UPI/DR/603724466123/SHAHAN
+             UR /UBIN/**067-
+             2@IBL/UPI//AXI2FB25C8678504
+06-02-2026   171A8707BE863CFF11D/06/02/2                         200.00      1,018.83
+             026 21:23:10
+
+             Chq: 603724466123
+
+             UPI/DR/118290971254/FLIPKAR
+             T
+             /YESB/**05013@PTYBL/UPI//PY
+07-02-2026   TM60207803033470510097XXX                           159.00        859.83
+             XXXXXXXX/07/02/2026 11:02:43
+
+             Chq: 118290971254
+
+             UPI/DR/118296800208/MONOJ
+             KUM/SBIN/**OY477@OKSBI/UP
+             I//HDFF11335BBBE7341B7B629
+07-02-2026   D92F93DE0983/07/02/2026                             250.00        609.83
+             12:53:43
+
+             Chq: 118296800208
+
+             UPI/DR/118299732533/TALUKD
+             AR
+             /UTIB/**38353@OKBIZAXIS/UPI/
+             /HDFFF040B7C77CA4EBAA722
+07-02-2026                                                        60.00        549.83
+             868D4962BBAA/07/02/2026
+             13:45:14
+
+             Chq: 118299732533
+
+             UPI/DR/118308365284/REJAK
+             ALI/UNBA/**87977@UNITYPE/P
+             AY TO
+             B//HDFF906414C81CE419F9D7
+07-02-2026                                                        20.00        529.83
+             A0E95136E8785/07/02/2026
+             16:36:51
+
+             Chq: 118308365284
+
+
+
+                                                                            page 46
+  Date                Particulars           Deposits       Withdrawals     Balance
+
+             INET-IMPS-
+             CR/ANGSUMANDA/AXIS BANK
+             /923020020252023/IMPSREDEM
+09-02-2026   P/9154450888/09/02/2026            4,501.00                     5,030.83
+             10:50:28/604068301570
+
+             Chq: 604068301570
+
+             UPI/DR/640617583763/KULAPR
+             OTI/PUNB/**RAH-
+             1@OKAXIS/UPI//AXI830766612
+09-02-2026   68B47F19978BEC05F4F7897/09                          160.00      4,870.83
+             /02/2026 19:54:53
+
+             Chq: 640617583763
+
+             NEFT CR-HDFCH00795016740-
+             HDFC0000240-BAJAJ LIQUID
+             FUND REDEMPTION
+             ACCOUNT--0001-NEFT
+10-02-2026                                        498.17                     5,369.00
+             79913074153A8431488
+             5750000-NEFT
+
+             Chq: 0
+
+             UPI/DR/118444106458/SLICE
+             SAV/NESF/**VINGS@SLC/PAY
+             MENTF//HDFE140A130E6CC4C
+10-02-2026   65854D502787D5C542/10/02/20                        4,000.00     1,369.00
+             26 08:06:05
+
+             Chq: 118444106458
+
+             UPI/DR/118458721999/MR BIJIT
+             /YESB/**01343@YBL/UPI//HDF4
+             45F25104C5345E09ED75B10BE
+10-02-2026                                                        80.00      1,289.00
+             0F0ACB/10/02/2026 13:24:36
+
+             Chq: 118458721999
+
+             UPI/DR/604191781415/PRANITA
+             K/YESB/**JWFDE@PTY/UPI//AX
+             IFB835F7CE19C4E5E8D75D70
+10-02-2026   CCF128D2B/10/02/2026                                 50.00      1,239.00
+             19:38:06
+
+             Chq: 604191781415
+
+             UPI/DR/640815950644/SURYA
+             TI/SBIN/**06814@SUPERYES/U
+             PI//AXI2A91E9F15BFA41808F1
+11-02-2026   D184E88CE0576/11/02/2026                            240.00        999.00
+             14:06:55
+
+             Chq: 640815950644
+
+
+
+
+                                                                            page 47
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/118542092138/PANKAJ
+             T/YESB/**54155@YBL/UPI//HDF
+             68B5313E0AE840519463CD97D
+12-02-2026                                                     60.00        939.00
+             BFF5ED4/12/02/2026 12:31:15
+
+             Chq: 118542092138
+
+             UPI/DR/118558519216/SARMEE
+             N
+             B/YESB/**07499@YBL/UPI//HDF
+12-02-2026   A9EC1AF98F0D4698B2977B7B                         120.00        819.00
+             60885A63/12/02/2026 17:59:16
+
+             Chq: 118558519216
+
+             UPI/DR/118586751728/PANKAJ
+             T/YESB/**86236@YBL/UPI//HDF
+             F7D74C12E275439C932CD57F
+13-02-2026                                                     60.00        759.00
+             ADC1194A/13/02/2026 13:22:46
+
+             Chq: 118586751728
+
+             UPI/DR/118616798270/PK WINE
+             S/HDFC/**03355@HDFCBANK/
+             UPI//HDFC0844AABB040427289
+13-02-2026   3A1897139EB9BF/13/02/2026                        300.00        459.00
+             21:38:48
+
+             Chq: 118616798270
+
+             UPI/DR/118617427489/PRANITA
+             K/YESB/**JWFDE@PTY/UPI//H
+             DFB7526518B5384854899AF53
+13-02-2026                                                     50.00        409.00
+             FC83E91D6/13/02/2026 21:52:01
+
+             Chq: 118617427489
+
+             UPI/DR/118617465069/PRANITA
+             K/YESB/**JWFDE@PTY/UPI//H
+             DFFDC0958F1CD6481386C9CB
+13-02-2026   938705A666/13/02/2026                               5.00       404.00
+             21:52:53
+
+             Chq: 118617465069
+
+             UPI/DR/118637924039/PRANJA
+             L
+             M/YESB/**99261@YBL/UPI//HD
+14-02-2026   F3341A032A959458AACF34832                         70.00        334.00
+             9868AA85/14/02/2026 13:07:07
+
+             Chq: 118637924039
+
+             UPI/DR/118638500174/CHANDR
+             A
+             D/YESB/**EKUW8@PTY/UPI//H
+             DFF0A0A28195B74ADAA9A643
+14-02-2026                                                    100.00        234.00
+             042E4B75F9/14/02/2026
+             13:17:05
+
+             Chq: 118638500174
+                                                                         page 48
+  Date                Particulars            Deposits       Withdrawals    Balance
+
+             UPI/DR/118638530583/RAKESH
+             D/SBIN/**42420@OKSBI/UPI//H
+             DF4DF4DF829D1B451AB046A9
+14-02-2026   2A862704C5/14/02/2026                                100.00       134.00
+             13:17:39
+
+             Chq: 118638530583
+
+             UPI/DR/118639293747/MR AJAY
+             /YESB/**00841@YBL/UPI//HDFF
+             1B16FA86A5D47C3A050879E5F
+14-02-2026                                                        100.00        34.00
+             E2CC95/14/02/2026 13:30:37
+
+             Chq: 118639293747
+
+             UPI/DR/118639707382/RAJIB
+             BA/YESB/**52917@YBL/UPI//H
+             DF010081C7BCA24CC78E7EAB
+14-02-2026   D799CE2889/14/02/2026                                 10.00        24.00
+             13:37:50
+
+             Chq: 118639707382
+
+             NEFT CR-IN42604700087512-
+             ICIC0000105-NAVI FINSERV
+             LIMITED--FUND
+16-02-2026   TRANSFER/SGBO-0002731015-              81.00                      105.00
+             TXN
+
+             Chq: 0
+
+             UPI/DR/642161004080/MD
+             MAHIDU/SBIN/**I3161@OKSBI/
+             UPI//AXI740901847E7A489F8F0
+24-02-2026   A859BDE4345FC/24/02/2026                              10.00        95.00
+             09:32:03
+
+             Chq: 642161004080
+
+             UPI/DR/642115842834/MULTITE
+             CH/YESB/**90669@YBL/UPI//A
+             XIC9C1134E712642EF98C99B2
+24-02-2026                                                         15.00        80.00
+             11241F8F4/24/02/2026 17:53:32
+
+             Chq: 642115842834
+
+             UPI/DR/119101373461/RBEEEN
+             TER/YESB/**02656@YBL/UPI//H
+             DF1983F287D5FD408F8762F02
+24-02-2026                                                         10.00        70.00
+             A4577C140/24/02/2026 18:44:00
+
+             Chq: 119101373461
+
+             UPI/DR/119121114691/MULTITE
+             CH/YESB/**85055@YBL/UPI//H
+             DFEA2EB166A2FA49F08746E5
+25-02-2026   98B9E25150/25/02/2026                                 15.00        55.00
+             09:33:57
+
+             Chq: 119121114691
+
+                                                                            page 49
+  Date                Particulars           Deposits          Withdrawals    Balance
+
+             UPI/DR/605675626653/AJIBAR
+             KH/UBIN/**28878@YBL/UPI//AXI
+             2B0128C5FF234444BEDBC4333
+25-02-2026                                                           10.00        45.00
+             D36D72D/25/02/2026 17:30:10
+
+             Chq: 605675626653
+
+             UPI/CR/429775480566/GOOGLE
+             IN/UTIB/**MENTS@AXISBANK/
+             UPI//AXI4F199905657C4B25972
+25-02-2026   0D057DAA90B9E/25/02/2026                  1.00                       46.00
+             19:40:12
+
+             Chq: 429775480566
+
+             UPI/DR/119169113283/MS
+             KALIN
+             /IDIB/**61051@YBL/UPI//HDF5C
+26-02-2026   281A910BCE4341BE14F43A64E                               10.00        36.00
+             5F49F/26/02/2026 10:07:49
+
+             Chq: 119169113283
+
+             UPI/DR/119190783660/AS01UC
+             0721/HDFC/**70533@HDFCBAN
+             K/UPI//HDF079A849D16F4497D
+26-02-2026   B85CCFDE634ABCF6/26/02/202                              10.00        26.00
+             6 17:44:47
+
+             Chq: 119190783660
+
+             UPI/DR/642423375236/GEETAN
+             JAL/SBIN/**08544@YBL/UPI//AX
+             IE949F9C8250747D0B73C180E
+27-02-2026                                                           15.00        11.00
+             9DBB939F/27/02/2026 09:44:36
+
+             Chq: 642423375236
+
+             UPI/DR/119244848272/BINOD
+             KUM/SBIN/**10098@YBL/UPI//H
+             DF9AEF308BA3EA40CFA1236A
+27-02-2026   8912A781F2/27/02/2026                                   10.00         1.00
+             18:59:13
+
+             Chq: 119244848272
+
+             UPI/CR/605968772097/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF48D9EB27CFA14761849F
+28-02-2026                                        200.00                         201.00
+             E24E32439B2D/28/02/2026
+             21:21:48
+
+             Chq: 605968772097
+
+
+
+
+                                                                              page 50
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/CR/605932505107/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF7482136CAB814F69B9331
+28-02-2026                                         20.00                      221.00
+             7413F272BF0/28/02/2026
+             21:23:07
+
+             Chq: 605932505107
+
+             UPI/DR/119308241897/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//H
+             DF0C57E3BCC0CD4734B5C425
+28-02-2026                                                       220.00         1.00
+             4DD39F98A2/28/02/2026
+             21:25:18
+
+             Chq: 119308241897
+
+             UPI/CR/606048290706/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEFC1DDA4B7BB7247AAB8B
+01-03-2026                                      2,000.00                    2,001.00
+             692B5D5ADF827/01/03/2026
+             11:52:32
+
+             Chq: 606048290706
+
+             UPI/DR/119326579798/MR
+             ANKU
+             /YESB/**79573@YBL/UPI//HDF0
+01-03-2026   678D5262C554E4D8D4B8A091                            250.00     1,751.00
+             BCE4981/01/03/2026 11:53:41
+
+             Chq: 119326579798
+
+             UPI/DR/119326659231/MR
+             ANKU
+             /YESB/**79573@YBL/UPI//HDF1
+01-03-2026   CE38973617C443F93A7A31701                           100.00     1,651.00
+             194314/01/03/2026 11:54:59
+
+             Chq: 119326659231
+
+             UPI/DR/119335044532/MS
+             SHARAN/YESB/**25209@YBL/U
+             PI//HDF50ED080F997348CDAB
+01-03-2026   BE8E0AD1D7A61C/01/03/2026                           197.00     1,454.00
+             14:29:12
+
+             Chq: 119335044532
+
+             UPI/DR/606058416371/GAURAB
+             B/SBIN/**70668@YBL/UPI//AXIF
+             35C4CA35A1D4C969B8C4F660
+01-03-2026                                                        70.00     1,384.00
+             321E61F/01/03/2026 17:06:28
+
+             Chq: 606058416371
+
+
+
+
+                                                                           page 51
+  Date                Particulars            Deposits   Withdrawals    Balance
+
+             UPI/DR/119366745413/MRS
+             GITIM/IDIB/**16066@YBL/UPI//H
+             DFF966447BBE00434D9817B06
+02-03-2026                                                    400.00       984.00
+             4C462886E/02/03/2026 06:16:02
+
+             Chq: 119366745413
+
+             UPI/DR/606180290757/MRIDUL
+             K/CNRB/**98450@YBL/UPI//AXI
+             2FD456F1E1B543F389A563FEF
+02-03-2026                                                     40.00       944.00
+             6FD4D83/02/03/2026 10:03:38
+
+             Chq: 606180290757
+
+             UPI/DR/119380989219/PRANJA
+             L
+             M/YESB/**99261@YBL/UPI//HD
+02-03-2026   F1C281B8C09D948BBBD5B211                          70.00       874.00
+             F106B21BA/02/03/2026 12:24:08
+
+             Chq: 119380989219
+
+             UPI/DR/642724838781/DUMMY
+             NAME/SBIN/**069565042/UPI//A
+             XI6E77BA5A397B4844BBF309A
+02-03-2026                                                    100.00       774.00
+             0001634F2/02/03/2026 18:25:20
+
+             Chq: 642724838781
+
+             UPI/DR/119407183301/MULTITE
+             CH/YESB/**51339@YBL/UPI//H
+             DF5DE08E2A39E6460194195B
+02-03-2026   DA635D6DDE/02/03/2026                             45.00       729.00
+             19:39:42
+
+             Chq: 119407183301
+
+             UPI/DR/119414570109/CHAYAN
+             IKA/SBIP/**42540@SBIPAY/STA
+             TICQR//HDF82E205A7BAE0405
+02-03-2026   FA821314487D2109D/02/03/202                       70.00       659.00
+             6 21:21:10
+
+             Chq: 119414570109
+
+             UPI/DR/119417955717/RAJIDA
+             KH/BARB/**75686@YBL/UPI//H
+             DF33E9BC9583EA47DEA0FF36
+02-03-2026   5CBC0834DA/02/03/2026                             40.00       619.00
+             22:31:03
+
+             Chq: 119417955717
+
+             UPI/DR/606223300079/DEEPSIK
+             HA/SBIN/**MAR00@OKICICI/UP
+             I//AXI196AE9ECF2D24E9A883E
+03-03-2026   780BA75AB9AF/03/03/2026                           20.00       599.00
+             11:49:00
+
+             Chq: 606223300079
+
+                                                                        page 52
+  Date                Particulars            Deposits       Withdrawals    Balance
+
+             UPI/DR/119432910450/KARNA
+             RAM/YESB/**42430@YBL/UPI//
+             HDF8BB4CA95B01E4388B61F3
+03-03-2026   36F9162C127/03/03/2026                                50.00       549.00
+             12:00:42
+
+             Chq: 119432910450
+
+             UPI/DR/606237800057/KULEN
+             SA/IOBA/**MA412@OKICICI/UPI
+             //AXI88D406208F134F42BC9A6
+03-03-2026   063B8881137/03/03/2026                                30.00       519.00
+             12:23:01
+
+             Chq: 606237800057
+
+             UPI/DR/606293419695/KULEN
+             SA/IOBA/**MA412@OKICICI/UPI
+             //AXI634A63FFFE7B44A2AB3BD
+03-03-2026   1943D39DF3D/03/03/2026                                50.00       469.00
+             12:23:39
+
+             Chq: 606293419695
+
+             UPI/DR/119437380067/PARTHA
+             PR/CNRB/**03485@OKSBI/UPI//
+             HDFCB6259FCA30048F8952062
+03-03-2026   1921F0473B/03/03/2026                                100.00       369.00
+             13:26:44
+
+             Chq: 119437380067
+
+             UPI/DR/606315688141/JITU
+             DAS/SBIN/**ALPUR@IBL/UPI//A
+             XI0E9B6D9F8F044643B0132E2
+04-03-2026                                                        300.00        69.00
+             AE73C3609/04/03/2026 09:27:37
+
+             Chq: 606315688141
+
+             UPI/DR/119479832428/HIYAMO
+             NI
+             /SBIN/**02039@IBL/UPI//HDF51
+04-03-2026   35B6676661455881139F2090D7                            50.00        19.00
+             C9C1/04/03/2026 10:35:28
+
+             Chq: 119479832428
+
+             UPI/CR/606334421018/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF5469CE4F5E2C45D5A456
+04-03-2026                                       1,000.00                    1,019.00
+             BCF32C0D0E72/04/03/2026
+             19:41:14
+
+             Chq: 606334421018
+
+
+
+
+                                                                            page 53
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/DR/119507064859/BUN
+             MASKA/HDFC/**37341@HDFCB
+             ANK/UPI//HDF253BECAFEA274
+04-03-2026   5F19E943BE79DE9D94A/04/03/                          158.00       861.00
+             2026 19:42:04
+
+             Chq: 119507064859
+
+             UPI/DR/119514295582/JYOTISH
+             K/PUNB/**RAH-
+             1@OKSBI/UPI//HDF951A53CF6
+04-03-2026   D6049F696D9773218225892/04/                         131.00       730.00
+             03/2026 21:44:34
+
+             Chq: 119514295582
+
+             UPI/DR/119514708023/NAYAN
+             MON/HDFC/**AGHAT@OKICICI/
+             UPI//HDF46C75142EBFB4BC98
+04-03-2026   D3BA75ED04E2671/04/03/2026                           50.00       680.00
+             21:54:45
+
+             Chq: 119514708023
+
+             UPI/DR/119533954747/MR BIJIT
+             /YESB/**01343@YBL/UPI//HDF7
+             79229340A3E428998283024393
+05-03-2026                                                       160.00       520.00
+             A7235/05/03/2026 13:00:30
+
+             Chq: 119533954747
+
+             NEFT CR-CMS0642682837532-
+             KKBK0000958-AMBIUM
+             FINSERVE PRIVATE LIMITED--
+05-03-2026   NCD13 INTEREST                       283.56                      803.56
+             PAYOUT//CMS064268283
+
+             Chq: 0
+
+             UPI/DR/606494500688/JANARD
+             AN /SBIN/**MI1-
+             1@OKICICI/UPI//AXI670DC9579
+05-03-2026   0EB4564A3EC549368E0E152/0                           700.00       103.56
+             5/03/2026 15:13:03
+
+             Chq: 606494500688
+
+             UPI/DR/119554445181/MULTITE
+             CH/YESB/**66054@YBL/UPI//H
+             DFCA76367FAE5D4CA28D819D
+05-03-2026   EA2419B736/05/03/2026                                25.00        78.56
+             19:08:00
+
+             Chq: 119554445181
+
+
+
+
+                                                                           page 54
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/DR/119559794562/MR
+             JIVACH/YESB/**64568@YBL/UP
+             I//HDFCCD8572E967C44B1B49
+05-03-2026   B0B7E9773E1BD/05/03/2026                             50.00        28.56
+             20:14:53
+
+             Chq: 119559794562
+
+             UPI/DR/119577026440/RBEEEN
+             TER/YESB/**52866@YBL/UPI//H
+             DF0FA94A2961544742A5AD871
+06-03-2026   AD97DBEF0/06/03/2026                                 15.00        13.56
+             10:24:24
+
+             Chq: 119577026440
+
+             UPI/CR/606525796234/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF9510A55B35FA4C0EBC42
+06-03-2026                                        500.00                      513.56
+             BA1B28A3FCBA/06/03/2026
+             13:13:10
+
+             Chq: 606525796234
+
+             UPI/DR/119585381420/EURONE
+             T
+             S/UTIB/**ARGE2@OKPAYAXIS/
+             UPI//HDF4A4F01C34B6648DAB
+06-03-2026                                                        99.00       414.56
+             8536499C9EC5EA3/06/03/2026
+             13:13:21
+
+             Chq: 119585381420
+
+             UPI/DR/119592483660/DIPU
+             BARM/PUNB/**369-
+             2@AXL/UPI//HDF36C79C3FDFA
+06-03-2026   143CBB129AB442485AF3E/06/0                           65.00       349.56
+             3/2026 15:39:01
+
+             Chq: 119592483660
+
+             UPI/DR/119601633850/NAZIBUL
+             /SBIN/**E16-
+             1@OKSBI/UPI//HDF6D23AAE35
+06-03-2026   D544E4DA88E4867901A71C7/0                            45.00       304.56
+             6/03/2026 18:23:53
+
+             Chq: 119601633850
+
+             UPI/DR/119606451272/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//H
+             DFA7BEA0CFD3E4461FA7A24A
+06-03-2026                                                        50.00       254.56
+             365B05F645/06/03/2026
+             19:27:30
+
+             Chq: 119606451272
+
+
+
+                                                                           page 55
+  Date                Particulars           Deposits          Withdrawals    Balance
+
+             UPI/CR/374341110666/GOOGLE
+             IN/UTIB/**MENTS@AXISBANK/
+             UPI//AXI8EE8D8C2FE3544008B
+07-03-2026   6A24A01E7F6DE9/07/03/2026                 1.00                      255.56
+             07:32:54
+
+             Chq: 374341110666
+
+             UPI/CR/374344200666/GOOGLE
+             IN/UTIB/**MENTS@AXISBANK/
+             UPI//AXIFAF0DDCA1CFA4FD09
+07-03-2026   E26331210A2E6FD/07/03/2026                1.00                      256.56
+             07:32:57
+
+             Chq: 374344200666
+
+             UPI/DR/643414372509/SAIFUL
+             I/SBIN/**40680@YBL/UPI//AXIC
+             E997C725BAC4FC6AF033730E
+09-03-2026                                                           60.00       196.56
+             13AE298/09/03/2026 10:38:51
+
+             Chq: 643414372509
+
+             UPI/DR/606841833066/MD
+             AKAN
+             /SBIN/**87295@AXL/UPI//AXI85
+09-03-2026   543180EF694B358ACFA751F1F                               10.00       186.56
+             AD10B/09/03/2026 18:59:58
+
+             Chq: 606841833066
+
+             UPI/DR/119761582218/CHOTEL
+             ALM/YESB/**65890@YBL/UPI//
+             HDFF54351F04BDA473687D6A
+09-03-2026   1DEB4EA0476/09/03/2026                                  10.00       176.56
+             19:02:47
+
+             Chq: 119761582218
+
+             UPI/DR/606867635320/UTPAL
+             GOG/PUNB/**OI434@OKHDFC
+             BANK/UPI//AXI4260E9E3F69546
+09-03-2026   58AF9F64F32D4704FD/09/03/20                            170.00         6.56
+             26 19:47:40
+
+             Chq: 606867635320
+
+             UPI/CR/606943367980/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF355E7A0B94DF4516A0B1
+10-03-2026                                      1,000.00                       1,006.56
+             D25F0EA14FCE/10/03/2026
+             14:12:35
+
+             Chq: 606943367980
+
+
+
+
+                                                                              page 56
+  Date                Particulars           Deposits   Withdrawals    Balance
+
+             UPI/DR/119796606513/PRANJA
+             L
+             M/YESB/**99261@YBL/UPI//HD
+10-03-2026   F566976455E0A4552AC8ED0BB                        90.00       916.56
+             E279995F/10/03/2026 14:13:11
+
+             Chq: 119796606513
+
+             UPI/DR/119798472804/BHADRA
+             KA/YESB/**0XPWB@PTY/UPI//
+             HDF179F8171308F4AE7B27CB
+10-03-2026   56C9D8DFEDE/10/03/2026                           40.00       876.56
+             14:52:39
+
+             Chq: 119798472804
+
+             UPI/DR/119798833544/MR BIJU
+             /YESB/**85364@YBL/UPI//HDF9
+             97214B088B14280955DBA3485
+10-03-2026                                                    10.00       866.56
+             F4DDEF/10/03/2026 15:00:48
+
+             Chq: 119798833544
+
+             UPI/DR/119799369530/SAIFUL
+             IS/YESB/**WQ0JY@PTY/VERIFI
+             ED//HDF2C92B718E71E4AE391
+10-03-2026   6D608C1E59F9AF/10/03/2026                        10.00       856.56
+             15:12:53
+
+             Chq: 119799369530
+
+             UPI/DR/119799491148/REKHA
+             SHOP/UTIB/**49346@OKBIZAXI
+             S/UPI//HDF6398673BEDDB4731
+10-03-2026   B87C8E41A63FF47B/10/03/2026                     100.00       756.56
+             15:15:40
+
+             Chq: 119799491148
+
+             UPI/DR/119803890635/RAFIKUL
+             I/BARB/**58841@YBL/UPI//HDF
+             A4C2099462984ED5B9B097D62
+10-03-2026                                                   300.00       456.56
+             6E2A9B5/10/03/2026 16:50:37
+
+             Chq: 119803890635
+
+             UPI/DR/606971965797/DEBASIS
+             H
+             /SBIN/**DA279@OKAXIS/UPI//IC
+10-03-2026   I4316151BFD834B1EA558AE98                       100.00       356.56
+             22CFF130/10/03/2026 16:51:01
+
+             Chq: 606971965797
+
+             UPI/DR/119807897177/MR
+             MITHUN/YESB/**73214@YBL/U
+             PI//HDF0577E82EF8154886A2D
+10-03-2026   5429F105C9AD7/10/03/2026                         55.00       301.56
+             17:58:29
+
+             Chq: 119807897177
+                                                                       page 57
+  Date                Particulars            Deposits          Withdrawals    Balance
+
+             UPI/117857135210/F01/29/01/20
+             26
+10-03-2026                                              1.00                      302.56
+             Chq:
+
+             UPI/DR/119808349216/DEBNAT
+             H
+             C/YESB/**98598@YBL/UPI//HDF
+10-03-2026   3E649844D7D4426C8480D2230                                60.00       242.56
+             CDBB7E7/10/03/2026 18:05:10
+
+             Chq: 119808349216
+
+             UPI/DR/102891808148/SPOTIFY
+             I/HDFC/**.BDSI@HDFCBANK/E
+             XECUTIO//HDF4C8CB8D7A187
+11-03-2026   C01AE063EBEEE20A0140/11/03                               49.00       193.56
+             /2026 07:57:04
+
+             Chq: 102891808148
+
+             UPI/CR/607067246237/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEFC55829C2EF9444948F80D
+11-03-2026                                         500.00                         693.56
+             2FC4E73B32D/11/03/2026
+             16:44:18
+
+             Chq: 607067246237
+
+             UPI/DR/119856450940/MAHEND
+             RA
+             /SBIN/**82809@YBL/UPI//HDF6
+11-03-2026   6F33EBC06CE462589392E1BC                                200.00       493.56
+             76A272A/11/03/2026 16:44:37
+
+             Chq: 119856450940
+
+             UPI/DR/119856947484/MS
+             SHARAN/YESB/**60170@YBL/U
+             PI//HDF840CEED243224B4C90
+11-03-2026   CCBF424C1B97B6/11/03/2026                                98.00       395.56
+             16:54:28
+
+             Chq: 119856947484
+
+             UPI/CR/607202707670/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEFDE22F12373A94759A8F3
+13-03-2026                                         700.00                       1,095.56
+             D279C08ECCA8/13/03/2026
+             15:03:06
+
+             Chq: 607202707670
+
+
+
+
+                                                                               page 58
+  Date                Particulars            Deposits       Withdrawals    Balance
+
+             UPI/DR/643850682853/MOUCH
+             AM
+             D/AIRP/**49989@PTHDFC/UPI//
+             AXI1919A3641A534BDE82ABAF
+13-03-2026                                                        713.00       382.56
+             409FB55EDC/13/03/2026
+             15:05:46
+
+             Chq: 643850682853
+
+             SMS CHARGES ON ACTUAL
+             BASIS
+15-03-2026                                                         41.00       341.56
+             Chq: 0
+
+             NEFT CR-IN42607500095428-
+             ICIC0000105-NAVI FINSERV
+             LIMITED--FUND
+16-03-2026   TRANSFER/SGBO-0002818196-              73.00                      414.56
+             TXN
+
+             Chq: 0
+
+             UPI/DR/607775288338/GAURAV
+             DEU/CNRB/**RI666@OKAXIS/U
+             PI//AXI805574232DD249E9BF01
+18-03-2026   A54C777ED91E/18/03/2026                               70.00       344.56
+             11:39:54
+
+             Chq: 607775288338
+
+             UPI/DR/644390838069/MR
+             GOPINA/CBIN/**480-
+             1@OKHDFCBANK/UPI//AXI30A
+18-03-2026   ADA7D676B4B01869791F5C722                             20.00       324.56
+             43CF/18/03/2026 18:28:07
+
+             Chq: 644390838069
+
+             UPI/DR/120224213104/MR
+             NABA
+             K/YESB/**61528@YBL/UPI//HDF
+18-03-2026   DC91441176D14F8F8637048CB                             20.00       304.56
+             A0B1424/18/03/2026 18:47:06
+
+             Chq: 120224213104
+
+             UPI/DR/120233655700/PUTUL
+             BO/YESB/**97552@YBL/UPI//H
+             DFBC64102BAEB840D28328E7
+18-03-2026   65B3199AFA/18/03/2026                                 10.00       294.56
+             20:52:36
+
+             Chq: 120233655700
+
+             UPI/DR/120238596907//SBIN/**0
+             69565042/UPI//HDF061FF0D75A
+             AD488BBE09475D9849338E/18/
+18-03-2026                                                        290.00         4.56
+             03/2026 22:24:40
+
+             Chq: 120238596907
+
+                                                                            page 59
+  Date                Particulars           Deposits          Withdrawals    Balance
+
+             SBINT FOR THE PERIOD
+             FROM28-DEC-25 TO 27-MAR-
+28-03-2026   26                                    99.00                         103.56
+
+             Chq:
+
+             UPI/DR/609063664802/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//A
+             XI49DD0543C6D64C9D9EDC54
+31-03-2026                                                          100.00         3.56
+             46FDF496CC/31/03/2026
+             15:02:44
+
+             Chq: 609063664802
+
+             UPI/CR/696705500926/GOOGLE
+             IN/UTIB/**MENTS@AXISBANK/
+             UPI//AXIFEE835606BFB49AE85
+02-04-2026   AFD3823C1885F3/02/04/2026             13.00                          16.56
+             15:25:59
+
+             Chq: 696705500926
+
+             NEFT CR-HDFCH00906180723-
+             HDFC0000240-NATIONAL
+             SECURITIES DEPOSITORY
+02-04-2026                                        200.00                         216.56
+             LTD--0001-IN30463323028201
+
+             Chq: 0
+
+             NEFT CR-IN42610600070874-
+             ICIC0000105-NAVI FINSERV
+             LIMITED--FUND
+16-04-2026   TRANSFER/SGBO-0002921530-             81.00                         297.56
+             TXN
+
+             Chq: 0
+
+             UPI/CR/637132581066/GOOGLE
+             IN/UTIB/**MENTS@AXISBANK/
+             UPI//AXI6EA993BA940B47D8A9
+16-04-2026   5C873986ED65D8/16/04/2026                 1.00                      298.56
+             19:55:15
+
+             Chq: 637132581066
+
+             UPI/CR/613976592770/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             SBI291D45E0CE9741CAB6EBD
+19-05-2026   F88A0C87E0F/19/05/2026               300.00                         598.56
+             18:58:15
+
+             Chq: 613976592770
+
+             PMJJBY RENEWAL(26-27) -
+             304472864 - 06407152
+25-05-2026                                                          436.00       162.56
+             Chq: 0
+
+
+
+                                                                              page 60
+  Date                Particulars           Deposits       Withdrawals     Balance
+
+             PMSBY RENEWAL(26-27) -
+             304472864 - 20256611
+25-05-2026                                                        20.00        142.56
+             Chq: 0
+
+             NEFT CR-IN22615211483658-
+             ICIC0099999-NAVI FINSERV
+             LIMITED--NAVI FINSERV
+01-06-2026                                     10,117.00                    10,259.56
+             LIMITED
+
+             Chq: 0
+
+             NEFT CR-CMS1562606482822-
+             KKBK0000958-AMBIUM
+             FINSERVE PRIVATE LIMITED--
+05-06-2026   NCD13 INTEREST                       289.86                    10,549.42
+             PAYOUT//CMS156260648
+
+             Chq: 0
+
+             UPI/DR/652298887242/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//A
+05-06-2026   XI3B956532E6FF4A7598E28900                       10,000.00        549.42
+             3A5342C4/05/06/2026 13:13:08
+
+             Chq: 652298887242
+
+             UPI/DR/616062208185/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             AXIDC7A9737E25941F18EC7B
+09-06-2026   D4752773DED/09/06/2026                               50.00        499.42
+             21:05:58
+
+             Chq: 616062208185
+
+             SMS CHARGES ON ACTUAL
+             BASIS
+13-06-2026                                                          2.00       497.42
+             Chq: 0
+
+             UPI/CR/653147761359/SUBARN
+             A S/BDBL/**317-
+             3@OKICICI/UPI//ICI2F82FF37E2
+14-06-2026   6242DF8675F38F33EE7870/14/           255.00                       752.42
+             06/2026 16:18:54
+
+             Chq: 653147761359
+
+             UPI/DR/124725681682/EKUHIP
+             ATH/AIRP/**3.RZP@RXAIRTEL/
+             EKUHIPAT//HDF5C43D69F6680
+14-06-2026   489CA0F756410C9D2C19/14/06                          510.78        241.64
+             /2026 16:18:57
+
+             Chq: 124725681682
+
+
+
+
+                                                                            page 61
+  Date                Particulars            Deposits          Withdrawals     Balance
+
+             UPI/CR/653437442395/ANGSU
+             MAN
+             /SBIN/**DAS62@OKAXIS/UPI//A
+             XI9E00DD894C0D41C19F6AED
+17-06-2026                                          50.00                          291.64
+             81B3B19C91/17/06/2026
+             12:01:14
+
+             Chq: 653437442395
+
+             UPI/DR/653483436697/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//A
+17-06-2026   XI40C05F74EFE54F6292A77861                              250.00         41.64
+             250BE59B/17/06/2026 12:22:27
+
+             Chq: 653483436697
+
+             SBINT FOR THE PERIOD
+             FROM28-MAR-26 TO 27-JUN-26
+28-06-2026                                              5.00                        46.64
+             Chq:
+
+             UPI/DR/654502367884/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//A
+28-06-2026   XIB843A65DFD4A4E28BCE0145                                40.00          6.64
+             35914E402/28/06/2026 19:11:40
+
+             Chq: 654502367884
+
+             UPI/CR/618572441201/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF6A2A5228C0FA4A5CAB34
+04-07-2026                                         200.00                          206.64
+             7859C4CD797C/04/07/2026
+             18:55:19
+
+             Chq: 618572441201
+
+             UPI/DR/125759580148/MS
+             SHARAN/YESB/**25209@YBL/U
+             PI//HDF2C33CB4D0C0546C7BA
+04-07-2026   7BD178E6759B28/04/07/2026                               200.00          6.64
+             19:37:20
+
+             Chq: 125759580148
+
+             UPI/DR/655912987747/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//A
+             XI71677DA9551F4D7AAD4663A
+12-07-2026                                                              5.00         1.64
+             D7ACEDDA8/12/07/2026
+             12:36:12
+
+             Chq: 655912987747
+
+
+
+
+                                                                                page 62
+  Date                Particulars           Deposits       Withdrawals   Balance
+
+             UPI/CR/620529964167/PUJA
+             BOR/SBIN/**A2006@OKSBI/UPI
+             //SBI610F03D997BC49F0BC7FB
+24-07-2026   8ED48809E8D/24/07/2026               150.00                     151.64
+             17:11:01
+
+             Chq: 620529964167
+
+             UPI/CR/110285903624/SANTAN
+             U
+             G/SBIN/**26634@WAICICI/NA//I
+             CIWCF5F1A19B9C0C51764001
+24-07-2026                                        500.00                     651.64
+             C54BCB1F12/24/07/2026
+             17:11:36
+
+             Chq: 110285903624
+
+             UPI/CR/620530358916/BAHNIM
+             AN
+             /SBIN/**TOOZ9@OKSBI/UPI//SB
+24-07-2026   I4799F24D7F274196B1B971560           100.00                     751.64
+             B9DF6DE/24/07/2026 17:17:32
+
+             Chq: 620530358916
+
+             UPI/CR/620530698278/DWIJEN
+             D/SBIN/**WIJEN@OKSBI/FLOO
+             D
+             RE//SBI84AFEC9B8B784FAF8D
+24-07-2026                                      5,000.00                   5,751.64
+             7F5AFE83FDF36D/24/07/2026
+             17:22:38
+
+             Chq: 620530698278
+
+             UPI/CR/620545193611/NIPAM
+             HA/SBIN/**57287@PTSBI/SENT
+             USI//PTM2BD6274F5260491DA
+24-07-2026   F40AEEF5F8F6B4F/24/07/2026           300.00                   6,051.64
+             17:24:27
+
+             Chq: 620545193611
+
+             UPI/CR/620531141722/SUNITA
+             S/SBIN/**87505@OKSBI/UPI//S
+             BI7A724797C5EC48E6A720370
+24-07-2026   0C6FFAA9A/24/07/2026                  50.00                   6,101.64
+             17:28:51
+
+             Chq: 620531141722
+
+             UPI/CR/110286005642/POLI
+             BORK/SBIN/**.0540@WAICICI/N
+             A//ICIWC9165F57894CBB0ACF2
+24-07-2026   A5864D2CB345/24/07/2026              500.00                   6,601.64
+             17:29:45
+
+             Chq: 110286005642
+
+
+
+
+                                                                          page 63
+  Date                Particulars           Deposits       Withdrawals   Balance
+
+             UPI/CR/657120474067/JAHNABI
+             S/PPIW/**54626@FAM/PAID
+             VIA//TOTUD2607241210400C99
+24-07-2026   92BB39834A25B7/24/07/2026             50.00                   6,651.64
+             17:40:40
+
+             Chq: 657120474067
+
+             UPI/CR/100648065106/PRANAB
+             JY/SBIN/**ISTHA@SBI/PAY TO
+             A//SBIFA958211875811F19D6F3
+24-07-2026   9A7E8484A44/24/07/2026               500.00                   7,151.64
+             17:42:53
+
+             Chq: 100648065106
+
+             UPI/CR/211549047757/BUDHI
+             NAT/SBIN/**42858@PTYES/SE
+             NT
+             USI//PTM7ECFBDBD945440C4B
+24-07-2026                                      1,000.00                   8,151.64
+             4C8D4397D3EB533/24/07/2026
+             17:45:22
+
+             Chq: 211549047757
+
+             UPI/CR/620532353823/GOPAL
+             UP/SBIN/**AL147@OKSBI/UPI//
+             SBI7CF0744F02C945CDA512C2
+24-07-2026   EEB74D9DB5/24/07/2026                200.00                   8,351.64
+             17:46:14
+
+             Chq: 620532353823
+
+             UPI/CR/620532983505/KANGKA
+             NA
+             /SBIN/**RMA83@OKSBI/UPI//SB
+24-07-2026   IE1600F566B8748358FA7B3631           200.00                   8,551.64
+             E33B57A/24/07/2026 17:55:00
+
+             Chq: 620532983505
+
+             UPI/CR/620533957953/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             SBI6445352560544AD39A379A
+24-07-2026   AC0B9472EB/24/07/2026                100.00                   8,651.64
+             18:08:05
+
+             Chq: 620533957953
+
+             UPI/CR/620559451143/SANJIB
+             B/SBIN/**.0603@WAAXIS/UPI//A
+             XISWC933759FBB5B8D691B3F
+24-07-2026   388D0C7FDF/24/07/2026                100.00                   8,751.64
+             18:23:21
+
+             Chq: 620559451143
+
+
+
+
+                                                                          page 64
+  Date                Particulars            Deposits       Withdrawals   Balance
+
+             UPI/CR/620535628111/MINARA
+             B/SBIN/**I6976@OKSBI/UPI//SB
+             ID1D3C52723BC4E3C9141528C
+24-07-2026                                         100.00                   8,851.64
+             A053DEE1/24/07/2026 18:29:19
+
+             Chq: 620535628111
+
+             UPI/CR/300916359646/RAJ KR
+             NE/SBIN/**EWAR1@AXL/PAYM
+             ENT
+             //AXL4CC1F29E8EB94C27AECE
+24-07-2026                                         500.00                   9,351.64
+             DBA829D67D19/24/07/2026
+             18:33:45
+
+             Chq: 300916359646
+
+             UPI/CR/620507334539/ANJUMO
+             NI
+             /HDFC/**ARALI@OKAXIS/UPI//A
+24-07-2026   XI568BF331B7D44CC8B9093F5           2,000.00                  11,351.64
+             1452B76C9/24/07/2026 18:38:12
+
+             Chq: 620507334539
+
+             UPI/CR/620504038066/ANJUMO
+             NI
+             /HDFC/**ARALI@OKAXIS/UPI//A
+             XIE3C4E93D11E74B4AA6D6B2
+24-07-2026                                       2,000.00                  13,351.64
+             A7D2D0CB19/24/07/2026
+             18:38:35
+
+             Chq: 620504038066
+
+             UPI/CR/620536997734/ABANI
+             BA/SBIN/**SHYA8@OKSBI/UPI//
+             SBIE7F262840133426EB3421FF
+24-07-2026                                       1,000.00                  14,351.64
+             241383877/24/07/2026 18:46:00
+
+             Chq: 620536997734
+
+             UPI/CR/620539715741/SINTU
+             ME/SBIN/**TU7-
+             1@OKSBI/UPI//SBIFE47C51366
+24-07-2026   2A43778B415D544E1CE715/24/             50.00                  14,401.64
+             07/2026 19:17:35
+
+             Chq: 620539715741
+
+             UPI/CR/620540692357/DAMBAR
+             U
+             /SBIN/**H1976@OKSBI/UPI//SBI
+24-07-2026   22056D9FCF2344E2A50321713             500.00                  14,901.64
+             BB75DB9/24/07/2026 19:28:32
+
+             Chq: 620540692357
+
+
+
+
+                                                                           page 65
+  Date                Particulars           Deposits       Withdrawals   Balance
+
+             UPI/CR/620540881956/SIMUM
+             SH/SBIN/**UM111@OKSBI/UPI//
+             SBIE796C9ECC232432C9EC1A
+24-07-2026   50B69603CE2/24/07/2026               100.00                  15,001.64
+             19:30:38
+
+             Chq: 620540881956
+
+             UPI/CR/620543729539/JENI
+             BOR/SBIN/**LOI14@OKSBI/UPI/
+             /SBI635052BC81BA4B89BF1400
+24-07-2026   9E8F80CFDC/24/07/2026                200.00                  15,201.64
+             20:04:09
+
+             Chq: 620543729539
+
+             UPI/CR/620546608986/DIPANK
+             AR
+             /SBIN/**60797@OKSBI/UPI//SBI
+24-07-2026   85930BF092AC4A97B9A488EC             300.00                  15,501.64
+             BD6103A0/24/07/2026 20:39:04
+
+             Chq: 620546608986
+
+             UPI/CR/049525206693/SANJIB
+             R/SBIN/**39862@YBL/PAYMEN
+             T
+             //YBL385CD1462712490487D32
+24-07-2026                                        200.00                  15,701.64
+             92BE48A0C56/24/07/2026
+             20:56:42
+
+             Chq: 049525206693
+
+             UPI/CR/620502359264/HIRAK
+             JYO/UCBA/**08571@SUPERYE
+             S/PAID
+             VIA//SMY26072421158KEA9517
+24-07-2026                                        200.00                  15,901.64
+             7UGWCNZGSJW78N/24/07/202
+             6 21:15:15
+
+             Chq: 620502359264
+
+             UPI/CR/394273106831/HIRANY
+             A
+             B/UCBA/**57044@YBL/PAYMEN
+             T
+24-07-2026   //YBL6E0E3DD411E34C38A34B            500.00                  16,401.64
+             7660BAC9DE27/24/07/2026
+             21:52:11
+
+             Chq: 394273106831
+
+             UPI/CR/620548147027/RAM
+             SAHU/BDBL/**07939@PTSBI/S
+             ENT
+             USI//PTM2AB710CD2F5446EDA
+24-07-2026                                        501.00                  16,902.64
+             00A86A816F0153F/24/07/2026
+             22:04:35
+
+             Chq: 620548147027
+
+                                                                          page 66
+  Date                Particulars           Deposits       Withdrawals   Balance
+
+             UPI/CR/620579453794/BULBULI
+             /SBIN/**EVI4U@OKAXIS/UPI//A
+             XIF3FCE5EDE6BF47F8A4D584
+24-07-2026   C4E0573931/24/07/2026                500.00                  17,402.64
+             22:06:37
+
+             Chq: 620579453794
+
+             UPI/CR/620552339538/MRITYU
+             NJO/SBIN/**OY258@OKSBI/UPI
+             //SBI2713208FB478424498F253
+24-07-2026   46CA97EEA0/24/07/2026                500.00                  17,902.64
+             22:17:08
+
+             Chq: 620552339538
+
+             UPI/CR/620552720067/KOUSHI
+             K
+             K/SBIN/**IA500@OKSBI/UPI//SB
+24-07-2026   I15F71401CEA84900A96BCF83            200.00                  18,102.64
+             412754ED/24/07/2026 22:25:13
+
+             Chq: 620552720067
+
+             UPI/CR/620553291710/PUNAM
+             BI/SBIN/**MA494@OKSBI/UPI//
+             SBIE9C9744D51BF42D4B4905B
+24-07-2026   2D10018491/24/07/2026                151.00                  18,253.64
+             22:40:14
+
+             Chq: 620553291710
+
+             UPI/CR/620553576197/MALOTI
+             S/SBIN/**URIN6@OKSBI/UPI//S
+             BI294F19BD0A1D4B2EAACC6B
+24-07-2026   A3F19394A4/24/07/2026                300.00                  18,553.64
+             22:49:28
+
+             Chq: 620553576197
+
+             UPI/CR/620553742404/DURGA
+             BAH/SBIN/**56789@OKSBI/DAL
+             I
+             DILU//SBI75F0DBC1313449AB9
+24-07-2026                                        100.00                  18,653.64
+             41FA8D477081FAA/24/07/2026
+             22:54:13
+
+             Chq: 620553742404
+
+             UPI/CR/620613171408/AMAR
+             BISH/PUNB/**AR227@OKAXIS/
+             UPI//AXI88B5859326E04157AD4
+25-07-2026   8B159C4C929F0/25/07/2026             100.00                  18,753.64
+             06:54:16
+
+             Chq: 620613171408
+
+
+
+
+                                                                          page 67
+  Date                Particulars          Deposits       Withdrawals   Balance
+
+             UPI/CR/620657237461/MAHEND
+             RA /SBIN/**RA8-
+             2@OKSBI/UPI//SBI93668867766
+25-07-2026   84D599F61C91E7BA4AA95/25/0          100.00                  18,853.64
+             7/2026 07:25:08
+
+             Chq: 620657237461
+
+             UPI/CR/620649309340/PRANITA
+             D/INDB/**86267@PTSBI/SENT
+             USI//PTM2399D5224C5147DC8
+25-07-2026   AF12C24F4E2F32B/25/07/2026          551.00                  19,404.64
+             08:24:03
+
+             Chq: 620649309340
+
+             UPI/CR/620642851651/BIKASH
+             DAS/IPOS/**61169@POSTBAN
+             K/PAY
+             REQU//IPB21257A0D915C4C66
+25-07-2026                                        50.00                  19,454.64
+             A959B41DE20C9705/25/07/2026
+             08:40:42
+
+             Chq: 620642851651
+
+             UPI/CR/737451578168/TUN
+             DAS/SBIN/**41403@AXL/PAYM
+             ENT
+             //AXL5051A3231ACF46BB9438B
+25-07-2026                                       100.00                  19,554.64
+             3F66A01F923/25/07/2026
+             09:25:31
+
+             Chq: 737451578168
+
+             UPI/CR/620600976421/RUPAK
+             PAUL/UCBA/**AK952@OKAXIS/
+             UPI//AXI37E5866310CF42E9AF
+25-07-2026   15D24810C5C391/25/07/2026           100.00                  19,654.64
+             09:27:31
+
+             Chq: 620600976421
+
+             UPI/CR/620625270977/DHARMA
+             RAJ/SBIN/**RAJ40@OKICICI/UP
+             I//ICI65F188CA6CD844559B3D3
+25-07-2026   7D73A9CEEB1/25/07/2026               40.00                  19,694.64
+             09:39:49
+
+             Chq: 620625270977
+
+             UPI/CR/110289809803/PUJA
+             HAZA/SBIN/**308-
+             1@WAICICI/NA//ICIWC7C85549
+25-07-2026   F45CE6E0F0D716596B4F1A9/2           200.00                  19,894.64
+             5/07/2026 09:57:26
+
+             Chq: 110289809803
+
+
+
+
+                                                                         page 68
+  Date                Particulars           Deposits       Withdrawals   Balance
+
+             UPI/CR/620649956687/HIMAGRI
+             /SBIN/**67446@PTSBI/SENT
+             USI//PTM2EFE201D78AE45B79
+25-07-2026   48089D750767AA3/25/07/2026           200.00                  20,094.64
+             10:11:44
+
+             Chq: 620649956687
+
+             UPI/CR/620672255725/SUDIPTA
+             D/BDBL/**87689@PTHDFC/SEN
+             T
+             USI//PTM5280B209801249969C
+25-07-2026                                        200.00                  20,294.64
+             5ACF7786DAE3C4/25/07/2026
+             10:12:17
+
+             Chq: 620672255725
+
+             UPI/CR/620664347822/NABANIT
+             A
+             /SBIN/**EDHI2@OKSBI/UPI//SBI
+25-07-2026   DD30E82336EF4C67B32B5ECA             100.00                  20,394.64
+             E6873B27/25/07/2026 10:20:19
+
+             Chq: 620664347822
+
+             UPI/CR/620607783099/NABAJY
+             OTI/HDFC/**EL488@OKAXIS/U
+             PI//AXIB78F51BDCFF64EF4947
+25-07-2026   BC098FFBE3056/25/07/2026             101.00                  20,495.64
+             10:30:02
+
+             Chq: 620607783099
+
+             UPI/CR/657224825981/DHARIT
+             RY /PPIW/**39953@FAM/PAID
+             VIA//TOTUD26072505595359A3
+25-07-2026   C14BD429496C8E/25/07/2026            100.00                  20,595.64
+             11:29:53
+
+             Chq: 657224825981
+
+             UPI/CR/620668608064/PALLABI
+             /SBIN/**IA122@OKSBI/UPI//SBI
+             DB1B2176A51E4224B56E229FB
+25-07-2026                                        100.00                  20,695.64
+             5CA589F/25/07/2026 11:35:07
+
+             Chq: 620668608064
+
+             UPI/CR/620670404115/KUMAR
+             GH/SBIN/**E9351@OKSBI/UPI//
+             SBI97EA42DE76DF42408BD9E
+25-07-2026   D423021817E/25/07/2026               200.00                  20,895.64
+             12:04:53
+
+             Chq: 620670404115
+
+
+
+
+                                                                          page 69
+  Date                Particulars           Deposits       Withdrawals    Balance
+
+             UPI/CR/716247651608/BINAMA
+             YA
+             /SBIN/**00659@AXL/PAYMENT
+             //AXLD9D70E917D2643D59BB4
+25-07-2026                                        200.00                   21,095.64
+             0F9D9AD63D50/25/07/2026
+             12:36:35
+
+             Chq: 716247651608
+
+             UPI/DR/126827925497/GAJEN
+             ME/SBIN/**HI459@OKSBI/UPI//
+             HDF7B367EB671864C018EE75
+25-07-2026   9AA91BC9E68/25/07/2026                              150.00    20,945.64
+             12:50:29
+
+             Chq: 126827925497
+
+             UPI/CR/115456643721/MONI
+             KUMA/IPOS/**91361@AXL/PAY
+             MENT
+             //AXLE7493F6B3373473495359
+25-07-2026                                         20.00                   20,965.64
+             F2293841750/25/07/2026
+             19:29:03
+
+             Chq: 115456643721
+
+             UPI/CR/657285344574/DIBYA
+             DE/SBIN/**VI694@OKAXIS/UPI//
+             AXIBC0EBB0058344FB7A43A9
+25-07-2026   D44E106DE86/25/07/2026                70.00                   21,035.64
+             20:24:30
+
+             Chq: 657285344574
+
+             UPI/CR/620696913832/ANKUR
+             BO/SBIN/**UR251@OKSBI/UPI//
+             SBI21C5838BF37645368B9A6D
+25-07-2026   40723182A8/25/07/2026                500.00                   21,535.64
+             20:52:44
+
+             Chq: 620696913832
+
+             UPI/CR/620698234284/DIPTEE
+             S/SBIN/**NGHA6@OKSBI/UPI//
+             SBI1311A3CA253F42D2AFDFB2
+25-07-2026   8883698151/25/07/2026                 50.00                   21,585.64
+             21:11:52
+
+             Chq: 620698234284
+
+             UPI/CR/620720488150/PUJA
+             BOR/SBIN/**A2006@OKSBI/UPI
+             //SBI2B6698673D0B4791B524F
+26-07-2026   D35588F4B91/26/07/2026               100.00                   21,685.64
+             13:46:20
+
+             Chq: 620720488150
+
+
+
+
+                                                                           page 70
+  Date                Particulars            Deposits       Withdrawals     Balance
+
+             UPI/CR/620720509540/NIDHI
+             MA/SBIN/**AURYA@OKSBI/UPI/
+             /SBI499060268B81470E989B73
+26-07-2026   9AD9F33F79/26/07/2026               2,000.00                    23,685.64
+             13:47:03
+
+             Chq: 620720509540
+
+             UPI/CR/620730008455/SURAJ
+             SA/SBIN/**HS978@OKSBI/UPI//
+             SBI61B5739C534044CC80C57C
+26-07-2026   8BCC69EA36/26/07/2026                 250.00                    23,935.64
+             16:59:13
+
+             Chq: 620730008455
+
+             UPI/CR/620761565265/SANJIB
+             K/SBIN/**276-
+             2@WAAXIS/UPI//AXISWC4D545
+26-07-2026   94B961BB5E3B4CD5D9333609/             200.00                    24,135.64
+             26/07/2026 18:26:03
+
+             Chq: 620761565265
+
+             UPI/DR/126899998207/DISHAN
+             TA
+             /SBIN/**TAM46@OKSBI/UPI//HD
+26-07-2026   FD6D0FA5A8505484DBE9A330                          18,000.00      6,135.64
+             7A9E0A0F0/26/07/2026 19:07:54
+
+             Chq: 126899998207
+
+             UPI/DR/620728161829/DIPANK
+             AR /PUNB/**108-
+             1@OKICICI/UPI//AXI74CDA8DE
+26-07-2026   A8254845A641E48B708C0D42/2                          5,000.00     1,135.64
+             6/07/2026 19:38:42
+
+             Chq: 620728161829
+
+             UPI/DR/126904377505/RANJIT
+             M/SBIN/**32322@AXL/UPI//HDF
+             A73C060C7B8949E3B22BC773
+26-07-2026                                                        150.00        985.64
+             D813983E/26/07/2026 20:02:55
+
+             Chq: 126904377505
+
+             UPI/CR/620860550689/DISHAN
+             TA
+             /SBIN/**TAM46@OKSBI/UPI//SB
+27-07-2026   IA915A6D7220B404FAE261D50           1,770.00                     2,755.64
+             CE56916F/27/07/2026 11:07:53
+
+             Chq: 620860550689
+
+
+
+
+                                                                             page 71
+  Date                Particulars            Deposits       Withdrawals     Balance
+
+             UPI/DR/620952248712/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//A
+             XIC342B89D444B40C68AFC881
+28-07-2026                                                       2,755.00         0.64
+             6DEEA712C/28/07/2026
+             14:13:24
+
+             Chq: 620952248712
+
+             UPI/CR/620970268901/GAYETR
+             I
+             /SBIN/**TRI50@OKAXIS/UPI//AX
+28-07-2026   I8D5C7DC73A9D4520ADF2B28              650.00                       650.64
+             804895093/28/07/2026 17:28:18
+
+             Chq: 620970268901
+
+             UPI/DR/127116626519/GLOBAL
+             EX/UTIB/**7.RZP@RXAXIS/UPI//
+             HDFC2758418E8B04DDE8FE0C
+30-07-2026   9EE501E9842/30/07/2026                               352.82        297.82
+             23:41:00
+
+             Chq: 127116626519
+
+             UPI/CR/003764982325/SUMPIM
+             ONI/SBIN/**68519@NYES/PAID
+             VIA//YBN2026080121444917934
+01-08-2026   1471226224640/01/08/2026              300.00                       597.82
+             21:44:53
+
+             Chq: 003764982325
+
+             UPI/DR/127221662644/PUC-
+             ADMIS/HDFC/**100687611128/U
+             PI//HDF0D8574B972BA4D6E97
+01-08-2026   B28C8EA16B2790/01/08/2026                            300.00        297.82
+             21:45:09
+
+             Chq: 127221662644
+
+             UPI/DR/621570274080/DIPANK
+             AR /PUNB/**108-
+             1@OKICICI/UPI//AXI01299FBE0
+03-08-2026   97E4FBCB917844267883B83/03                           297.00          0.82
+             /08/2026 17:33:45
+
+             Chq: 621570274080
+
+             UPI/CR/622055249888/MR
+             ANGSUM/NESF/**05109@SLC/
+             PAYMENT
+             //NEF1F9C02FB3375409B834D0
+08-08-2026                                       4,459.00                     4,459.82
+             7A531F52314/08/08/2026
+             11:50:58
+
+             Chq: 622055249888
+
+
+
+
+                                                                             page 72
+  Date                Particulars            Deposits   Withdrawals     Balance
+
+             UPI/DR/127565075109/AMAZON
+             PA/RATN/**N-
+             POD@RAPL/UPI//AMZTOK8680
+08-08-2026   7D32646DFB25C3908D0BF822                         789.00      3,670.82
+             D/08/08/2026 11:53:17
+
+             Chq: 127565075109
+
+             UPI/DR/127574658012/MR
+             JITEN/UTIB/**42566@OKBIZAXI
+             S/UPI//HDFFE61F6AACCAC43A
+08-08-2026   CBE387BCCF50F52DA/08/08/20                          5.00     3,665.82
+             26 14:36:45
+
+             Chq: 127574658012
+
+             UPI/DR/127574706970/MR
+             RABIN/UTIB/**01959@OKBIZAX
+             IS/UPI//HDF1EB549A761FA434
+08-08-2026   B97A01FDED650B418/08/08/20                        55.00      3,610.82
+             26 14:37:36
+
+             Chq: 127574706970
+
+             UPI/DR/127731267460/AIRTEL/
+             YESB/**PAYTM@PTYBL/AIRTE
+             LBR//PYTM60811803138160750
+11-08-2026   601XXXXXXXXXXX/11/08/2026                        437.71      3,173.11
+             11:26:54
+
+             Chq: 127731267460
+
+             UPI/DR/127799688708/APDCL
+             PRE/KKBK/**.BDPG@KOTAKPA
+             Y/PAY//HDF67EAD22F5B244B9
+12-08-2026   DB98349AC4C8AAC2D/12/08/20                       500.00      2,673.11
+             26 16:10:11
+
+             Chq: 127799688708
+
+             UPI/DR/659786677142/GOOGLE
+             CL/YESB/**.HYPG@YESPAY/R
+             ECURRIN//AXB07EC6DD508054
+19-08-2026   5C79BA9D8EBF1803789/19/08/                          2.00     2,671.11
+             2026 21:38:38
+
+             Chq: 659786677142
+
+             UPI/DR/128200305855/ASHOK
+             SAL/YESB/**26382@YBL/UPI//H
+             DF2B89686E88514F0B8F50DE0
+20-08-2026                                                     80.00      2,591.11
+             DFE0111F6/20/08/2026 09:49:09
+
+             Chq: 128200305855
+
+
+
+
+                                                                         page 73
+  Date                Particulars          Deposits          Withdrawals    Balance
+
+             UPI/DR/128227333537/LEKHA
+             MON/SBIN/**70447@YBL/UPI//H
+             DFF0E737EB6D9340B6BF04E0
+20-08-2026   E8604211CD/20/08/2026                                 200.00     2,391.11
+             18:19:59
+
+             Chq: 128227333537
+
+             UPI/CR/229526866200/DEBASIS
+             H
+             /HDFC/**09805@PZ/PAYMENT
+             //PAZ0F7FEA256C864A928EBB
+25-08-2026                                     2,000.00                       4,391.11
+             06AD2A5F6553/25/08/2026
+             23:16:23
+
+             Chq: 229526866200
+
+             UPI/CR/175499717555/DEBASIS
+             H
+             /HDFC/**09805@PZ/PAYMENT
+             //PAZD9D9D4BD716248FF93C8
+25-08-2026                                     1,000.00                       5,391.11
+             264E99056926/25/08/2026
+             23:16:41
+
+             Chq: 175499717555
+
+             UPI/DR/623809744244/HOSTIN
+             GER/AIRP/**ZPREC@RXAIRTE
+             L/MANDATE//AIRT599FADDFA0
+26-08-2026   FF11F1996486EEC007872/26/0                            821.80     4,569.31
+             8/2026 09:06:40
+
+             Chq: 623809744244
+
+             UPI/CR/660423297973/GOOGLE
+             CL/YESB/**.HYPG@YESPAY/R
+             EFUND
+             F//YJP2C587CBE995343A7BF5
+26-08-2026                                            2.00                    4,571.31
+             BD675A6E448E6/26/08/2026
+             21:38:47
+
+             Chq: 660423297973
+
+             UPI/DR/128602046244/MR
+             PUSPA/UTIB/**56649@OKBIZA
+             XIS/UPI//HDFC53B4F05AE0A4B
+27-08-2026   7EA3D2236DDBBA9EAB/27/08/                              80.00     4,491.31
+             2026 19:50:45
+
+             Chq: 128602046244
+
+             UPI/DR/128654268080/MR
+             SANTO/UTIB/**27240@OKBIZA
+             XIS/UPI//HDF97EB27FE334043
+28-08-2026   A591A91F7546AFBDB9/28/08/2                            150.00     4,341.31
+             026 19:11:36
+
+             Chq: 128654268080
+
+
+
+                                                                             page 74
+  Date                Particulars            Deposits   Withdrawals    Balance
+
+             UPI/DR/660773412293/KANGKA
+             N.R/UTIB/**RAJ-
+             8@OKAXIS/UPI//AXI336AE213C
+29-08-2026   0F843BA9D4FD30A84E3BDE5/2                        100.00     4,241.31
+             9/08/2026 14:35:32
+
+             Chq: 660773412293
+
+             UPI/DR/128784873134/EURONE
+             T
+             S/UTIB/**ARGE2@OKPAYAXIS/
+             UPI//HDF3D030059847143169E
+31-08-2026                                                    200.90     4,040.41
+             6B9FFB306A7FE9/31/08/2026
+             12:33:43
+
+             Chq: 128784873134
+
+             UPI/DR/128887281560/SOMBO
+             RI
+             /SBIN/**OWALA@NYES/UPI//HD
+02-09-2026   FE29CDF3F2EF44D76B9EF9D9                          60.00     3,980.41
+             4E4E75B1C/02/09/2026 09:53:11
+
+             Chq: 128887281560
+
+             UPI/DR/128893445542/MRS
+             MOUC/UTIB/**88884@OKBIZAX
+             IS/UPI//HDF9170CF1D3EE84DE
+02-09-2026   B855770DDB94BA1F3/02/09/20                        60.00     3,920.41
+             26 11:48:37
+
+             Chq: 128893445542
+
+             UPI/DR/128905923234/BHAI
+             STORE/YESB/**25396@YBL/UP
+             I//HDF0B74B4D1105B483D85EC
+02-09-2026   65B3DAE33D78/02/09/2026                           40.00     3,880.41
+             15:45:16
+
+             Chq: 128905923234
+
+             UPI/DR/661170308168/PHULKU
+             MAR/IPOS/**IT9-
+             3@OKSBI/UPI//AXI6E7437884C
+02-09-2026   954C9F88FDF6FFC08B7524/02/                        20.00     3,860.41
+             09/2026 16:19:20
+
+             Chq: 661170308168
+
+             UPI/DR/128917409911/PRIYAN
+             KA
+             /UTIB/**42993@OKBIZAXIS/UPI/
+             /HDFB46B0D96CDC748A69672
+02-09-2026                                                     50.00     3,810.41
+             65D8E5A00840/02/09/2026
+             18:48:08
+
+             Chq: 128917409911
+
+
+
+
+                                                                        page 75
+  Date                Particulars            Deposits       Withdrawals     Balance
+
+             NEFT CR-IN22624808052674-
+             ICIC0099999-AMBIUM
+             FINSERVE LIMITED--
+05-09-2026                                         289.86                     4,100.27
+             NCD13INT2SEP2026
+
+             Chq: 0
+
+             UPI/CR/624851210962/SANTAN
+             U
+             /SBIN/**AM946@OKSBI/UPI//SB
+05-09-2026   I8F1DBE44334E47658710DAB5             350.00                     4,450.27
+             B2BA08BA/05/09/2026 18:50:30
+
+             Chq: 624851210962
+
+             UPI/DR/129089621495/BHANUP
+             RAT/UNBA/**58958@UNITYPE/
+             PAY TO
+             B//HDF70522B3A78EE47D0A56
+05-09-2026                                                        250.00      4,200.27
+             0347DF73E1E21/05/09/2026
+             19:03:06
+
+             Chq: 129089621495
+
+             UPI/DR/129166678001/ZERODH
+             A
+             B/HDFC/**G.BRK@VALIDHDFC/
+             64971696//HDFCCB736FCC611
+07-09-2026                                                       1,000.00     3,200.27
+             47039DC7DC48E020F115/07/09
+             /2026 08:34:49
+
+             Chq: 129166678001
+
+             UPI/REV/129166678001/ANGSU
+             MAN /CNRB/**S62-
+             1@OKHDFCBANK/64971696//H
+             DFCCB736FCC61147039DC7D
+07-09-2026                                                      -1,000.00     4,200.27
+             C48E020F115/07/09/2026
+             08:34:50
+
+             Chq: 129166678001
+
+             UPI/DR/661642087945/ANGSU
+             MAN
+             /SBIN/**DAS62@OKICICI/UPI//A
+07-09-2026   XIC9B18736FFB8451B8D4C45F                            900.00      3,300.27
+             C86317925/07/09/2026 08:37:23
+
+             Chq: 661642087945
+
+             UPI/CR/625469019424/MIMANG
+             SHA/SBIN/**SHANC@OKSBI/UP
+             I//SBIAF9F9777626642408E948
+11-09-2026   0F580A593D1/11/09/2026              2,000.00                     5,300.27
+             13:04:02
+
+             Chq: 625469019424
+
+
+
+
+                                                                             page 76
+  Date                Particulars           Deposits   Withdrawals     Balance
+
+             UPI/DR/274699892546/GOOGLE
+             PL/UTIB/**E1.BD@AXISBANK/M
+             ANDATEE//AXI283CE1D336E34
+11-09-2026   9E8AA822EF9BC5A5A60/11/09/                     1,950.00     3,350.27
+             2026 13:37:37
+
+             Chq: 274699892546
+
+             UPI/DR/129432843880/DGA
+             FILLI/YESB/**86101@YBL/UPI//
+             HDF0C1F66E13F504D0BB8D6B
+11-09-2026   AA1CA120DEE/11/09/2026                          120.00      3,230.27
+             18:59:48
+
+             Chq: 129432843880
+
+             UPI/DR/129469403307/MANAGE
+             SE/NSPB/**VER12@CASHFRE
+             ENSDLPB/6468470490//HDFA97
+12-09-2026   BE6D72DA5400886E7474377A7                       211.22      3,019.05
+             6C7C/12/09/2026 12:
+
+             Chq: 129469403307
+
+             UPI/DR/129685783239/BHARTI
+             AI/HDFC/**PAYTM@HDFCBAN
+             K/AIRTELBR//HDFE7B30BF1490
+16-09-2026   B44B4B00B309DD0F0D55F/16/0                      842.82      2,176.23
+             9/2026 09:38:38
+
+             Chq: 129685783239
+
+             UPI/DR/129718987473/DIPANK
+             AR /PUNB/**108-
+             1@OKICICI/UPI//HDFC6BD4FB2
+16-09-2026   5C9B4AB78B2307ED4CA954CC                        611.00      1,565.23
+             /16/09/2026 19:12:50
+
+             Chq: 129718987473
+
+             UPI/DR/129719195269/DIPANK
+             AR /PUNB/**108-
+             1@OKICICI/UPI//HDFC98E5B99
+16-09-2026   6D1741078CC14EF9246F96E9/                       135.00      1,430.23
+             16/09/2026 19:15:23
+
+             Chq: 129719195269
+
+             UPI/DR/129800938423/ASSAM
+             MED/YESB/**83854@YBL/UPI//
+             HDFD507309D0C264DEE98574
+18-09-2026   167857B2BEA/18/09/2026                          330.00      1,100.23
+             11:25:50
+
+             Chq: 129800938423
+
+
+
+
+                                                                        page 77
+  Date                Particulars            Deposits          Withdrawals    Balance
+
+             UPI/DR/129871044618/NEOG
+             FILL/YESB/**61802@YBL/UPI//H
+             DF63D3F83E821647719EACAC
+19-09-2026   B6AE1CCD7D/19/09/2026                                   200.00       900.23
+             13:52:51
+
+             Chq: 129871044618
+
+             UPI/DR/129926121332/APDCL
+             PRE/KKBK/**.BDPG@KOTAKPA
+             Y/PAY//HDFCB64EFD337C0439
+20-09-2026   59D101AFD85492FF3/20/09/202                             500.00       400.23
+             6 12:14:31
+
+             Chq: 129926121332
+
+             SMS CHARGES ON ACTUAL
+             BASIS
+20-09-2026                                                            33.00       367.23
+             Chq: 0
+
+             UPI/DR/129952077521/MONOW
+             AR H/UTIB/**534-
+             3@AXL/UPI//HDF08627BE90ED
+20-09-2026   041438131DB614C13CB57/20/0                              230.00       137.23
+             9/2026 19:04:56
+
+             Chq: 129952077521
+
+             REV:EXCESS SMS SC ENTRY
+             DATED - 20-SEP-26
+22-09-2026                                           17.22                        154.45
+             Chq: 0
+
+             REV:EXCESS SMS SC ENTRY
+             DATED - 20-SEP-26
+22-09-2026                                              3.78                      158.23
+             Chq: 0
+
+             UPI/DR/130107861213/THANGT
+             LUA/YESB/**N79TP@PAYTM/U
+             PI//HDFC723B3F045904657A82
+23-09-2026   F0FB1A4DB988D/23/09/2026                                 65.00        93.23
+             15:55:22
+
+             Chq: 130107861213
+
+             SBINT FOR THE PERIOD
+             FROM28-JUN-26 TO 27-SEP-26
+28-09-2026                                           14.00                        107.23
+             Chq:
+
+                                            Closing Balance                       107.23
+
+
+ DISCLAIMER
+
+
+ UNLESS THE CONSTITUENT BRINGS TO THE NOTICE OF THE BANK ANY
+                                                                               page 78
+DISCREPANCY/ERRORS /OMMISSION /UNAUTHORISED DEBITS IMMEDIATELY, THE
+ENTRIES IN SUCHPASS SHEET SHALL BE DEEMED AS CORRECT AND SHALL BIND THE
+CONSTITUENT FORALL PURPOSES AND INTENTS
+
+
+BEWARE OF PHISHING ATTACKS THROUGH EMAILS OR FAKE WEBSITE
+
+
+IMB USERS ARE REQUESTED TO NOTE THAT CANARA BANK DOES NOT SEEK
+ANYINFORMATION THROUGH EMAIL.DO NOT CLICK ON ANY LINK WHICH HAS
+COMETHROUGH EMAIL FROM UNEXPECTED SOURCES.IT MAY CONTAIN MALICIOUS
+CODE OR COULD BE AN ATTEMPT TO "PHISH".ALWAYSLOGIN THROUGH
+www.canarabank.com PLEASEBEWARE OF PHISHING
+
+
+CHANGE IN THE ADDRESS OF ACCOUNT HOLDER/PA HOLDER, IF ANY,MAY PLEASE BE
+INFORMED TO THE BRANCH ALONG WITH ADDRESS
+
+
+DO NOT SHARE ATM PIN NUMBER, ACCOUNT DETAILS, OTP TO OUTSIDERS,
+EMAILS ETC
+
+
+Details of Ombudsman:
+
+The Banking Ombudsman C/o. RBI,
+10/3/8 Nrupatunga Road
+Bangalore-560001
+E-mail: bobangalore@rbi.org.in
+
+ARE YOU A MERCHANT / TRADER / RETAILER / SMALL VENDOR. USE DIGITAL PAYMENT
+CHANNEL TO RECEIVE PAYMENT FROM YOUR CUSTOMERS.CONTACT BRANCH
+
+
+COMPUTER OUTPUT- DOES NOT REQUIRE SIGNATURE
+
+
+------------------------------ END OF STATEMENT ---------------------------------
+
+
+
+
+                                                                                    page 79
+

@@ -1,0 +1,93 @@
+ ANGSUMAN DAS
+ PhD Scholar in Zoology | Bioinformatics & Biological Data Analysis
+
+ Rangachakua, Sonitpur, Assam, 784182
+ angsudas62@gmail.com | +91 7896505109
+ Portfolio: angsumi.online/cv | Agency: www.angsumi.online
+
+ PROFILE
+ Zoologist and CSIR-NET JRF awardee (AIR 180), currently pursuing a PhD at Mizoram University with a
+ research focus on bioinformatics. Proficient in Python programming and biological data analysis, with earlier
+ experience in river ecology, macroinvertebrate diversity and Tocklai research. Grew up close to Nameri National
+ Park and is interested in bringing computational skills into wildlife and ecological research in Assam.
+
+ EDUCATION & ACADEMIC MILESTONES
+   PhD in Zoology - ongoing
+   Mizoram University | Research focus: Bioinformatics
+   MSc in Zoology
+   Rajiv Gandhi University, Itanagar, Arunachal Pradesh | 68.9%; CGPA: 7.29
+   BSc (Honours in Zoology)
+   Darrang College, Gauhati University, Tezpur, Assam | 79%; CGPA: 7.9
+   Higher Secondary - Tyagbir Hem Baruah College, AHSEC | 82.5%
+   Secondary - Rangachakua HS School, SEBA | 74.87%
+   Additional academic milestone: Selected for PhD admission at Padova University under the supervision of Giorgio
+   Valle.
+
+ RELEVANT RESEARCH & FIELD EXPERIENCE
+   River ecology and macroinvertebrate diversity - BSc research
+   Collected water samples along the source, course and mouth of the Bohimora River in Sonitpur, Assam. Conducted
+   zoological surveys and habitat assessments, including the river mouth at its confluence with the Bhoroli. Studied
+   physicochemical water characteristics and macroinvertebrate diversity.
+   Tea Research Association, Tocklai - research exposure
+   Associated with the project on isolation, identification and synthesis of pheromones of the major tea looper pest,
+   Hyposidra talaca Walker, for a pheromone-based management strategy (August 2021).
+   Silkworm research - MSc project, Rajiv Gandhi University
+   Worked in a three-member team reviewing wild and domesticated silkworms, with emphasis on Northeast India and
+   wild species related to Muga. The project included two months of field visits and surveys.
+
+ TECHNICAL SKILLS
+   Programming and analysis: Python, Pandas, Matplotlib; R and tidyverse.
+   Bioinformatics: Metagenomics, shotgun sequencing analysis, transcriptomics, QIIME2, HISAT2 and cutadapt.
+   Research data: Dataset organization, analysis and visualization, including bar plots and rarefaction curves.
+
+
+
+
+Angsuman Das | Resume                                                                                                   1
+ PROFESSIONAL EXPERIENCE
+   Assistant Professor (Tutor) - Tyagbir Hem Baruah College / Gauhati University, Jamugurihat, Assam
+   Conducted lectures, guided students and contributed to academic initiatives.
+   Research Trainee - RASA Life Sciences, Pune, Maharashtra | March-October 2021
+   Participated in research activities and data analysis in collaboration with a multidisciplinary team.
+   ANGSUMI - agency and academic data consultancy
+   Runs ANGSUMI and assists PhD scholars with metagenomics data analysis and visualization. Website:
+   www.angsumi.online.
+
+ QUALIFICATIONS & CERTIFICATIONS
+   CSIR-NET JRF - AIR 180 | NE SLET | IELTS - overall band 7/9
+   Genetic Counseling Certification
+   Genomic Data Science Specialization - Johns Hopkins University, Coursera (six months)
+   Cloud Computing Basics - Coursera
+   Epidemiology: The Basic Science of Public Health - University of North Carolina at Chapel Hill
+   Bacterial Genome: Accessing and Analysing Microbial Genome Data - FutureLearn
+
+ PUBLICATIONS & RESEARCH ARTICLES
+   1. Das, A. (2021). Analysis of the physico-chemical parameters of river Bohimora in the Sonitpur district of Assam
+   and evaluation of its macro-invertebrate diversity. International Advanced Research Journal in Science, Engineering
+   and Technology (IARJSET).
+   2. Sudan, P., Modi, G., Albuquerque, M., Jena, A., & Das, A. (2024). Clinical Applications of Mass Spectrometry in
+   Toxicological Investigations: Advancing Therapeutic Drug Monitoring and Analysis. In Assessment of Anticancer
+   Properties of Plumbago zeylanica. IGI Global.
+   3. Das, A. (2021). Green Heritage Of Assam: A Comprehensive Metaanalysis Of Traditional Medicinal Practices.
+   Journal of Advanced Zoology, 42(01).
+   4. Das, A. (2021). Cultural Zoology: Unveiling The Ethnozoological Tradition Of Assamese Tribes. Journal of
+   Advanced Zoology, 42(02).
+   5. Das, A. Conversational Interfaces in Bioinformatics: Bridging Computational Power and User Accessibility.
+   International Journal of Computational Bioinformatics and In Silico Modeling (IJCBS).
+   6. Das, A., & Das, B. (2024). GPT Vision Meets Taxonomy: A Comprehensive Evaluation for Biological Image
+   Classification. In Woungang, I. et al. (eds.), Proceedings of the NIELIT's International Conference on
+   Communication, Electronics and Digital Technology. Lecture Notes in Networks and Systems, 1022. Springer Nature
+   Singapore. doi:10.1007/978-981-97-3601-0_31.
+
+ LANGUAGES
+ Assamese - mother tongue; English - IELTS overall band 7; Nepali, Hindi and Bangla - able to communicate.
+
+ AVAILABILITY FOR THE ASSAM RESEARCH ASSISTANT POSITION
+ Available November 2026-April 2027. Currently working from home, with permission from the PhD research
+ guide to apply for this position.
+
+
+
+
+Angsuman Das | Resume                                                                                                    2
+
