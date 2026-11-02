@@ -2,7 +2,7 @@
 
 [Open the library site](https://angsumi.online/document-library/) · [Sequencing downloads](https://github.com/Angsumi/document-library/releases/tag/sequencing-data-v1)
 
-578 organized records, with downloadable originals, searchable PDFs and plain-text transcripts. The page searches names, categories, source names and extracted text, and works on mobile.
+579 organized records, with downloadable originals, searchable PDFs and plain-text transcripts. The page searches names, categories, source names and extracted text, and works on mobile.
 
 Document files and OCR derivatives are in `Library/`. The 304 sequencing `.fastq.gz` originals are attached individually to the `sequencing-data-v1` release to keep the Pages deployment below GitHub’s 1 GB limit. Their download URLs are included in `catalog.json`. The CSV includes both original local paths and direct download URLs. SQLite uses release URLs for sequencing downloads.
 

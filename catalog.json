@@ -13663,5 +13663,27 @@
     "patient": "Unverified",
     "source_number": 13,
     "date_end": ""
+  },
+  {
+    "sha256": "95798a5e71b05e247d7bf94ed293637830a4259386277a985279f8bdbe393d54",
+    "input": null,
+    "sources": [
+      "Library/Angsuman_Das/Academic/SLET/SLET_Certificate_2023.jpg"
+    ],
+    "suffix": ".jpg",
+    "size": 225743,
+    "id": "95798a5e71",
+    "title": "SLET Certificate 2023",
+    "category": "Angsuman_Das/Academic/SLET",
+    "original": "Library/Angsuman_Das/Academic/SLET/SLET_Certificate_2023.jpg",
+    "searchable": "Library/Angsuman_Das/Academic/SLET/SLET_Certificate_2023__jpg__searchable.pdf",
+    "text_file": "Library/Angsuman_Das/Academic/SLET/SLET_Certificate_2023__jpg__text.txt",
+    "status": "OCR searchable image PDF",
+    "pages": 1,
+    "ocr_pages": 1,
+    "confidence": 98.5,
+    "review": [],
+    "text": "Certificate No. 0128\n\nSTATE LEVEL ELIGIBILITY TEST COMMISSION, ASSAM\n(N E Region)\nNorth Jalukbari\nGuwahati - 781014\n\nSTATE ELIGIBILITY TEST FOR ASSISTANT PROFESSOR\nValid in the States of Assam, Arunachal Pradesh, Manipur, Mizoram,\nMeghalaya, Sikkim and Tripura only\n\nSLET Ref No. SET/Cert/19th/March /2023        Roll No. 2303322639\n\nCertified that ANGSUMAN DAS\nSon/Daughter of RANU DAS (Mother)\nand BUBUL DAS (Father)\nhas qualified for N. E. SET for Eligibility for Assistant professor held on 19th March, 2023 in the\nsubject LIFE SCIENCE(32)\n\nAs per the information provided by the candidate, he/she had COMPLETED his/her\nMaster's degree or equivalent examination at the time of applying for SET.\n\nThe date of Eligibility for Assistant Professor is the date of declaration of SET result, i.e.\n22/07/2023 OR the date of completion of Master's degree or equivalent examination with required\npercentage of marks within two years from the date of declaration of SET result, i.e. by\n21/07/2025, whichever is later.\n\nThe authenticity of this certificate should be verified from the SLET Commission, Assam (N. E.\nRegion) by the employer. It can also be verified by scanning QR Bar Code printed on the\ncertificate.\n\nValidity of this certificate is forever.\n\n(Dr. Mukulesh Barua)                         (Prof. P. J. Handique)\nMember Secretary                             Chairman\nSLET Commission, Assam (N.E. Region)         SLET Commission, Assam (N.E. Region)\n\nState Level Eligibility Test Commission Guwahati-781014 North Jalukbari\n\nDate of Issue: 6th September, 2023\n\nNote: State Level Eligibility Test Commission, Assam (N. E. Region) has issued the certificate on the basis of information provided by the candidate in his/her Application Form. The appointing authority should verify the original records/certificates of the candidate while considering him/her for appointment, as the State Level Eligibility Test Commission, Assam (N. E. Region) is not responsible for the same. The candidate must fulfill the minimum eligibility conditions for SET as laid down in the notification for the said SET.\n",
+    "signed_source": false
   }
 ]
